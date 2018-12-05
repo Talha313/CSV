@@ -77,41 +77,4 @@ if __name__ == "__main__":
 
 
 
-            #     item_dic = {}
-            #     item_dic['name'] = name_list[counter].strip(" ")
-            #     item_dic['zip'] = zip_list.strip(" ")
-            #
-            #     if (counter < len(dosage_list)):
-            #         item_dic['dosage'] = dosage_list[counter].strip(" ")
-            #     else:
-            #         item_dic['dosage'] = dosage_list[0].strip(" ")
-            #     if (counter < len(unit_list)):
-            #         item_dic['unit'] = unit_list[counter].strip(" ")
-            #     else:
-            #         item_dic['unit'] = unit_list[0].strip(" ")
-            #
-            #     if (counter < len(freq_list)):
-            #         item_dic['frequency'] = freq_list[counter].strip(" ")
-            #     else:
-            #         item_dic['frequency'] = freq_list[0].strip(" ")
-            #     if (counter < len(supply_list)):
-            #         item_dic['supply'] = supply_list[counter].strip(" ")
-            #     else:
-            #         item_dic['supply'] = supply_list[0].strip(" ")
-            #     if (counter < len(cost_list)):
-            #         item_dic['cost'] = cost_list[counter].strip(" ")
-            #     else:
-            #         item_dic['cost'] = cost_list[0].strip(" ")
-            #     print(item_dic)
-            #     row_str = item_dic['name'] + "," + item_dic['zip']+","+item_dic['dosage']+","+item_dic['unit']+","+item_dic['frequency']+item_dic['supply']+","+ item_dic['cost']+","+"\n"
-            #     csvfile.write(row_str)
-                #writer.writerow(item_dic)
 
-
-
-#            items_list.append(item_dic)
-       #print(i)
-#         with open('med_new.csv.csv', 'w') as writeFile:
-#             writer = csv.writer(writeFile)
-#             writer.writerows(lines)
-#

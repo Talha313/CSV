@@ -1,0 +1,5150 @@
+Name,ZipCode,Unit,Quantity,Cost
+Xanax,19468,0.25mg,90.0,9
+Tramadol,77429,50mg,360.0,0
+avorvastatin,43616,20mg,90.0,0
+oxybutynin,43616,5mg,180.0,0
+Amlodipine,21113,5mg,90.0,1.50
+Losartan,21113,12.5mg,90.0,1.50
+Sildenafil,21113,20mg,20.0,5.00
+tresibia,78842,85I.U.,270.0,0
+tizanidine,55303,2unit,90.0,4
+Valsartan-hctz,34135,80mg,90.0,5.00
+Atovastatin,34135,10mg,45.0,5.00
+atorvastatin,75010,80mg,90.0,6
+Metformin,06082,500mg,180.0,10
+synjardy,84029,12.51mg,180.0,650
+losartan,18017,100mg,90.0,7.19
+amlodipine,18017,5mg,90.0,2.14
+allopurinol,18017,300mg,90.0,20
+pioglitazone,52233,45mg,90.0,3
+LIVILO,33071,10mg,90.0,99
+Carvedilol,44120,6.25mg,180.0,0
+Lamictal,44120,100mg,180.0,0
+Welbutrin,44120,300mg,90.0,0.00
+Flonase,44120,50mcg,180.0,0.00
+ketoconazole sna,44120,1ounce,90.0,0.00
+Methotrexate,54311,2.5mg,12.87,0
+Tamsulosin,54311,.4mg,90.0,0
+Omeprazole,54311,20mg,90.0,0
+Allopurinol,54311,300mg,90.0,0
+irbesartan,93561,150mg,90.0,20.00
+simvastatin,93561,20mg,90.0,20.00
+prilosec,93561,40mg,90.0,20.00
+cholestyramine,93561,4gram,90.0,20.00
+Tenofovir,85326,300mg,45.0,735.83
+Lamotrigine,85326,200mg,180.0,36.54
+Atorvastatin,85326,20mg,90.0,28.70
+Novolog,07071,150ml,90.0,31
+Levothyroxine,82937,0.112mg,90.0,0
+Allopurinol,82937,300unit,90.0,0
+Atorvastatin,82937,80mg,90.0,0
+Lisinopril,82937,30mg,90.0,0
+MetFormin ER,82937,500mg,90.0,0
+Bupropion,32547,300mg,90.0,10.
+Escitalopram,32547,10mg,90.0,8.
+levothroxin,76049,75mcg,90.0,10
+NIFEdipine,07302,90mg,90.0,0.00
+OLMESARTAN/HCTZ,07302,90mg,90.0,0.00
+Lisinopril HCZT,75771,2012.5mg,90.0,1
+Alondronate,22477,70mg,12.87,12.00
+Rizatriptan,22477,10mg,90.0,33.00
+Metformin,22477,500mg,180.0,0
+Atorvastatin,22477,20mg,90.0,0
+Gabapentin,22477,300mg,90.0,0
+simvastatin,97759,20mg,90.0,6.04
+metoprolol tart,08820,25mg,180.0,100
+Symbicort,60120,10.2inhalation,90.0,47
+rosuvastatin,34476,10mg,90.0,0
+Cartia xt cap,34476,120mg,90.0,0
+levothyroxine,34476,50mcg,90.0,0
+omega 3 acid,34476,5mg,180.0,3.35
+pantoprozole,34476,40mg,180.0,0
+venlafaxine xr,34476,150mg,90.0,0
+venalafaxine 75,34476,75mg,90.0,0
+allopurinal,60076,200mg,90.0,0
+ezetimibe,60076,10mg,90.0,0
+pravastatin,60076,40mg,90.0,0
+amlidipine,60076,10mg,90.0,0
+lipitor,91344,20mg,90.0,192
+prilosec,93561,40mg,90.0,1
+simvastatin,93561,20mg,90.0,1
+irbesartan,93561,150mg,90.0,1
+cholestyramine,93561,4gram,90.0,1
+Symbicort,60120,10.2inhalation,90.0,47.00
+Proair hfa,60120,90mcg,90.0,47.00
+Amlod/valsar tab,60120,320mg,90.0,290.00
+Fluticasone spr,60120,50mcg,90.0,0.00
+Simvastatin tab,60120,20mg,90.0,0.0
+Dicyclomine cap,60120,10mg,270.0,0.00
+Montelukast tab,60120,10mg,90.0,0.00
+Spironolactone,60120,25mg,90.0,0.00
+ROSUVASTIN,08345,5mg,90.0,5.00
+PRAMIPEXOLE DIHYDROCHLORIDE,08345,0.375mg,90.0,5.00
+FUROSEMIDE,08345,40mg,90.0,5.00
+BUPROPION XL,08345,150mg,90.0,5.00
+VALSARTAN/HCTZ,08345,16025mg,90.0,5.00
+LYRICA,08345,75mg,180.0,5.00
+SERTRALINE HCL,08345,200mg,90.0,5.00
+MONTELUKAST,08345,10mg,90.0,5.00
+GLYBURIDE(M),08345,10mg,180.0,5.00
+FOLIC ACID,08345,1mg,90.0,5.00
+METHOTREXATE,08345,20mg,12.87,5.00
+TRAMADOL HCL,08345,50mg,180.0,5.00
+METFORMIN,08345,1000mg,180.0,5.00
+ADVAIR DISKUS,08345,50050inhalation,180.0,5.00
+FLUTICASONE PROPIONATE,08345,50mcg,180.0,5.00
+PROAIR HFA,08345,2inhalation,180.0,5.00
+AEROCHAMBER,08345,1inhalation,12.87,5.00
+TOUJEO,08345,45unit,90.0,5.00
+VICTOZA,08345,1.8mg,90.0,5.00
+NANO NEEDLE,08345,2I.U.,90.0,5.00
+meloxicam,34613,15mg,90.0,0
+synthroid,90292,.075mg,90.0,90
+irbesartan,90292,300mg,90.0,0
+AmLODIPine,90292,10mg,90.0,0
+tamsulosin,90292,.4mg,90.0,0
+Lisinopril,95003,40mg,90.0,0
+Atorvastatin,95003,40mg,90.0,0
+Bicalutamide,95003,50mg,90.0,0
+coumadin,10605,7.5mg,90.0,0
+losartan,10605,50mg,90.0,0
+levothyroxine,10605,0.2mg,90.0,0
+levothyroxine,10605,175mcg,90.0,0
+hydrochlorothiazide,10605,25mg,90.0,0
+simvastatin,10605,10mg,90.0,0
+metformin,10605,500mg,90.0,0
+Omeprazole,46750,20mg,90.0,0
+Valsartan hctz,68108,12.5mg,90.0,0
+Sertraline hcl,68108,100mg,90.0,0
+Carvedilol,68108,6.25mg,180.0,0
+Rosuvastain calcium,68108,10mg,90.0,0
+Diazepam,68108,10mg,90.0,0
+Valsartan,68108,12.5mg,90.0,0
+Sertraline,68108,100mg,90.0,0
+pravastatin,78662,40mg,90.0,0
+metoprololsucc er,78662,100mg,90.0,0
+cetrizine,78662,10mg,90.0,0
+valsartan/hctz,78662,320mg,90.0,0
+montelukast,78662,10mg,90.0,0
+azelastine,78662,1mcg,90.0,0
+metformin,97456,1000mg,180.0,10.13
+Metformin,77471,500mg,90.0,0.00
+cyanocobal,77471,1ml,2.9970000000000003,0.00
+clopidogrel,77471,75mg,90.0,0.00
+hydrochlorothiaz,77471,25mg,90.0,0.00
+atorvastatin,77471,40mg,90.0,0.00
+zolpidem,77471,5mg,90.0,0.00
+latanoprost,77471,0.005ounce,90.0,0.00
+Wellbutrin,41175,300mg,90.0,10.00
+Protonix,41175,40mg,90.0,10.00
+Losartan Potassium,76180,500mg,90.0,0
+Venlafaxine HCL ER,76180,150mg,90.0,0
+Crestor,76180,40mg,90.0,0
+Nortriptyline HCL,76180,50mg,90.0,0
+Actonel,76180,35mg,12.87,0
+Levothyroxine tab,76110,0.5mg,90.0,0
+chlordiaz/clid cap,76110,2.5mg,45.0,0
+losartan tab,76110,100mg,90.0,0
+pravastatin sod tab,76110,80mg,90.0,0
+metformin tab,76110,1000mg,180.0,0
+fluocinonide cream,76110,30gram,90.0,0
+proair hfa,76110,90mcg,540.0,0
+omega 3 acid cap,76110,1gram,180.0,0
+Victoza,76110,1.8unit,90.0,0
+Levemir,76110,20unit,180.0,0
+Alphagan P,76110,0.1mg,90.0,0
+Lumigan SOL,76110,0.1mg,90.0,0
+Furosemide Tab,76110,40mg,90.0,0
+Atenolol,88007,50mg,90.0,0
+Allopurinol,88007,100mg,180.0,0
+Hydrochlorizide,88007,12.5mg,90.0,0
+xralto,27526,20mg,90.0,93
+xrelto,27526,20mg,90.0,93
+pravastatin sod,27526,80mg,90.0,3
+Farxiga,77429,10mg,180.0,25
+Triceba,77429,20I.U.,90.0,25
+Amlodepine,77429,5mg,90.0,5
+Quinapril,77429,40mg,90.0,2.50
+Humalog,77429,1000I.U.,90.0,50.00
+Buproprion XL,76116,300mg,90.0,0.01
+quinapril,34243,40mg,90.0,0
+amlodipine,34243,10mg,90.0,0
+DOXYCYCLINE,34243,100mg,90.0,0
+PAROXETINE ER,34243,25mg,90.0,0
+TORSEMIDE,34243,10mg,90.0,0
+METOPROLOL SUCC ER,34243,50mg,90.0,0
+METOPROLOL,34243,50mg,90.0,0
+PAROXETINE,34243,25mg,90.0,0
+AMLODIPINE,34243,10mg,90.0,0
+QUINAPRIL,34243,40mg,90.0,0
+Amlodipine,21113,5mg,90.0,1.5
+Losartan,21113,12.5mg,90.0,1.5
+Aimovig,93105,1mg,2.9970000000000003,100
+Relpax,93105,1mg,90.0,35
+ATORVASTATIN,78570,40mg,90.0,0
+CLOPIDOGREL,78570,75mg,90.0,0
+METOPROLOL SUCCER,78570,25mg,45.0,0
+LISINOPRIL,78570,2.5mcg,90.0,0
+ASPIRIN EC,78570,81mg,90.0,0
+lantus,34741,80unit,180.0,0
+Levothyroxine,76063,0.125mg,90.0,20
+Lisinopril,29718,20mg,90.0,0
+levothyroxine,84057,50mcg,90.0,0
+duloxatine,84057,60mg,180.0,200
+cyclobenzaprine,84057,5mg,90.0,150
+amphetamine salts,84057,10mg,90.0,26
+takind a lot,92821,0mg,90.0,0
+Sertaline,12563,100mg,90.0,0.16
+nexium,46996,40mg,90.0,15
+arthrotec,46996,10mg,90.0,15
+citalopram,98503,20mg,90.0,3.00
+levothyroxine,98503,75mcg,90.0,0
+ventolin hfs,98503,0inhalation,90.0,20.00
+ditropan xl,98503,10mg,90.0,0.00
+spirit respimat,98503,0inhalation,90.0,0.00
+Lamictal XR 100mg,11731,200mg,90.0,35
+Lamictal XR 300mg,11731,600mg,90.0,35
+Keppra XR 500mg,11731,3000mg,90.0,150
+irbesartan,07626,300mg,90.0,0
+Metformin,77041,500mg,180.0,30
+Tresiba,77041,6unit,90.0,0
+Actos,77041,22.5mg,90.0,30
+Zetia,77041,10mg,90.0,30
+Crestor,77041,5mg,22.5,30
+Levothyroxine,77041,112mcg,90.0,30
+Amlodipine Besylate,77041,5mg,90.0,30
+LOSARTAN/HCTZ TAB 100-25,34481,10025mg,90.0,0
+LEVOTHYROXINE,34481,0.05mg,90.0,0
+SERTRALINE HCL,34481,25mg,90.0,0
+AMLODIPINE TAB,34481,5mg,90.0,0
+PRAVASTATIN SO10D,34481,10mg,90.0,0
+Linzess,34481,290mcg,90.0,110
+omega-3-Acid Ethyl capsules,70510,1gram,180.0,0
+Losartan,08020,50mg,90.0,5
+levithyroxine,08020,88mg,90.0,5
+omeprazole,08020,40mg,90.0,5
+atorvastatin,08020,40mg,90.0,5
+MELOXICAM,48135,7mg,90.0,0
+montolukast,78641,10mg,90.0,50
+Hydralazine,14867,25mg,180.0,0
+Esomeprazol,14867,40mg,90.0,0
+Buspirone,14867,10mg,180.0,0
+Diltazem,14867,120mg,90.0,0
+Aspirin,14867,81mg,90.0,0
+Zyrtac,14867,10mg,90.0,0
+Cyanocobalamin,14867,1mg,2.9970000000000003,0
+BUPROPION,33873,300mg,90.0,58.44
+CITALOPRAM,33873,20mg,90.0,3.52
+GLIMEPIRIDE,33873,4mg,90.0,23.43
+hUMALOG kWIKPEN,33873,100ml,270.0,78.31
+HYDROCHLOROTHIAZIDE,33873,25mg,90.0,2.40
+LEVOTHYROXINE,33873,100mcg,90.0,12.55
+PANTOPAZOLE,33873,40mg,90.0,8.16
+ROSUVASTATIN,33873,20mg,90.0,15.08
+TOUJEO SOLOSTAR,33873,300ml,90.0,316.92
+Atorvasatin,32828,20mg,90.0,2
+Citalopram,32828,40mg,90.0,2
+amlodipine,08810,5mg,90.0,1.88
+BuPropion,02135,200mg,90.0,8
+Fluoxitine,02135,20mg,135.0,8
+rastovin,20175,10mg,90.0,20
+levoxythoxine,84057,88mcg,90.0,0
+premarin,89015,0.3mg,90.0,50
+vytorin,89015,40mg,90.0,50
+levothyroxine,94526,75mcg,90.0,34.98
+ciclopirox,94526,1unit,90.0,111.65
+Lexapro,30189,40mg,90.0,0
+Synthroid,30189,200mcg,90.0,0
+HCTZ,30189,25mg,90.0,0
+Warfarin,30189,10mg,90.0,0
+Crestor,30189,40mg,90.0,0
+Imipramine,80909,100mg,90.0,153.00
+Losartan,80909,50mg,90.0,0
+AmLODIPine,80909,10mg,90.0,0
+Simvistatin,02116,20mg,90.0,0
+Trazodone,93401,50mg,180.0,0
+Simvistatin,02116,20mg,90.0,1
+Lisinopril,93283,10mg,180.0,0
+Baclofen,80130,20mg,180.0,0
+Amitriptyline,80130,150mg,180.0,0
+Ultram,80130,8mg,270.0,0
+Provigil,80130,200mg,90.0,0
+Oxybutynin,80130,7.5ml,180.0,0
+Acycolvir,80130,20ml,180.0,0
+Enoxaparin,80130,100ml,90.0,0
+Zomig,80130,5inhalation,90.0,0
+Lidocaine Patch,80130,700mg,90.0,0
+Omeprazole,80130,20gram,90.0,0
+Venlafaxine xr,21784,75mg,90.0,25
+Gemfibrozil,11758,600mg,180.0,10
+Combigan sol,49004,1unit,180.0,100
+Simvastatin,80923,40mg,90.0,0
+Losartan,80923,100mg,90.0,0
+Lexapro,30189,20mg,90.0,0
+benazepril,32780,10mg,90.0,000
+HCL,32780,25mg,90.0,000
+AMLOOIPINE,32780,5mg,90.0,000
+Losartan,10993,100mg,90.0,0
+Simvastatin,10993,20mg,90.0,0
+Metformin,10993,500mg,180.0,0
+Wellbution,08690,300mg,90.0,1.00
+Netium,08690,40mg,90.0,1.00
+Wellburtin,08690,300mg,90.0,1.00
+Nextium,08690,40mg,90.0,1.00
+ProAir HFR Inhaler,07514,60I.U.,90.0,45
+Pramepexole,07514,1mg,180.0,0
+Amitriptylin,07514,50mg,360.0,0
+Gabapentin,07514,600mg,180.0,0
+Carbodopa/Levidopa,07514,25mg,180.0,0
+Omeprazole,07514,20mg,180.0,0
+Levothyroxin (Synthroid),07514,0.15gram,90.0,0
+Simvastatin (Zocor),07514,40mg,90.0,0
+Hydrochlorothiazide (Microzide),07514,25mg,90.0,0
+Albuterol (Proventil),07514,0.083inhalation,90.0,0
+Furosemide (Lasix),07514,40mg,180.0,0
+Symbicort Inhaler,07514,1604.5inhalation,90.0,45
+isosorbide mn er tab,45103,60mg,90.0,0
+clopidogrel,45103,75mg,90.0,0
+carvedilol,45103,12.5mg,180.0,0
+losartan,45103,25mg,90.0,0
+citalopram,45103,40mg,90.0,0
+omeprazole,45103,20mg,90.0,0
+pravastatain sod,45103,40mg,90.0,0
+met formin,45103,1000mg,180.0,0
+pramipexole,03291,0.5mg,90.0,0.00
+gabapentin,03291,300mg,270.0,0.00
+zolpidem,03291,5mg,90.0,10.00
+sertraline,03291,150mg,90.0,0.00
+losartan,03291,100mg,90.0,0.00
+bupropion,03291,150mg,90.0,0.00
+amlodipine,03291,5mg,90.0,0.00
+omeprazole,03291,40mg,90.0,10.00
+altorvastin,03291,40mg,90.0,10.00
+Sertraline,04352,50mg,90.0,0
+atenolol,63013,50mg,90.0,0
+Metroprolol,19512,50mg,180.0,5.
+Glimepiridie,19512,1mg,180.0,5.00
+Ibresartan,19512,150mg,90.0,5.00
+Isosorbide,19512,60mg,90.0,5.00
+citalopram,15108,40mg,90.0,0.00
+amlodipine,15108,5mg,90.0,0.00
+simvastatin,15108,40mg,90.0,0.00
+Omeprazole,58529,20mg,180.0,3.35
+Losartan,58529,100mg,90.0,3.35
+Lorazepam,58529,.5mg,180.0,3.00
+Tamulosin,58529,.4mg,90.0,3.35
+Paroxetine,58529,40mg,90.0,3.35
+Atorvastatin,58529,80mg,90.0,3.35
+Carvedilol,58529,12.5mg,180.0,3.35
+BYSTOLIC,31542,5mg,90.0,141.00
+EZETIMIBE,31542,10mg,90.0,0.00
+METFORMIN,31542,1000mg,90.0,0.00
+OLMESARTAN/HCTZ,31542,40mg,90.0,0.00
+Olmesartam HCTZ,31542,40mg,90.0,0.00
+Metformin,31542,1000mg,90.0,0.00
+Bystolic,31542,5mg,90.0,0
+Ezetimibe,31542,10mg,90.0,0.00
+Atrovastatin,37174,20mg,90.0,0
+Vesicare,37174,5mg,90.0,0
+Pantoprazole,37174,40mg,90.0,0
+creon,30187,3unit,270.0,585.00
+NEXIUM,30187,1mg,90.0,28.00
+Rizatriptian,43019,1unit,90.0,25
+Myrbetriq,06902,25mg,90.0,25.00
+Eszopiclone,06902,2mg,90.0,5
+Acyclovir,06902,400mg,180.0,5
+Prozac,46705,40mg,90.0,10.00
+Protonix,46705,40mg,12.87,5
+Metoprolol Tart Tab,36301,0100mg,90.0,12.00
+Lisinopril-HCTZ Tab,36301,20mg,90.0,11.00
+Amlodipine Tab,36301,10mg,90.0,8.00
+Levoxyl,82009,200mcg,90.0,20
+Birth controle,82009,1ounce,90.0,0
+Dexilant,75219,60mg,90.0,90
+escitalopram,10986,10mg,90.0,0
+amlodipine,10986,5mg,90.0,0
+rosuvatin,10986,10mg,90.0,0
+Propanelol,17111,1mg,90.0,0
+atorvastatin,08690,10mg,90.0,9
+Propanelol,17111,80mg,90.0,25
+Warfarin,06484,2gram,90.0,9
+Entresto,06484,1gram,180.0,9
+oxcarbazepine,06484,1gram,180.0,4
+mesalamine,07753,1.2gram,180.0,33.00
+amitiza,07753,24unit,90.0,0
+Triamterene - HCTZ 37.5,07728,25mg,90.0,10
+omerprazole,89436,200mg,90.0,1
+Lisinopril,53916,40mg,90.0,0
+Atorvastatin,53916,80mg,90.0,0
+Citalopram,53916,20mg,90.0,0
+Metoprolol Succ Er,53916,50mg,90.0,0
+Omeprazole,53916,40mg,90.0,0
+Levothyroxine,53916,0.125mg,90.0,0
+losartin,60185,100mg,90.0,10
+losartan/hctz,60185,100mg,90.0,22.35
+simvastatin,60185,10mg,90.0,14.72
+losartan/hctz,60185,100mg,90.0,22
+simvastatin,60185,10mg,90.0,12
+Finasteride,07052,5mg,90.0,0
+Atorvastatin,07052,20mg,90.0,0
+Metformin ER,46319,500mg,180.0,0
+Metoprolol Tart,46319,25mg,180.0,0
+Atorvastatin,46319,40mg,90.0,0
+Metformin,46319,500mg,180.0,0
+Metoprolol,46319,25mg,180.0,0
+ibuprofen,01541,800mg,270.0,0
+Lisinopril,53010,10mg,90.0,0
+symbicort,11793,80inhalation,180.0,20
+ventolin,11793,90inhalation,90.0,20
+Metformin,08512,1000mg,180.0,12
+escitaloprom,54101,20mg,90.0,0
+Ranexa,76051,500mg,180.0,0
+Indocin,33076,75mg,180.0,10
+Mirtazapine O/DI TAB,54952,45mg,90.0,0.00
+Bromocriptine CAP,54952,5mg,90.0,0.00
+Metoprolol SUCC ER,54952,25mg,180.0,0.00
+Clonazepam,54952,0.5mg,90.0,0.00
+Lisinopril TAB,54952,40mg,90.0,0.00
+Atrovastatin TAB,54952,40mg,180.0,0.00
+AmLOPIPine TAB,54952,5mg,90.0,0.00
+Burproprion SR TAB,54952,150mg,90.0,0.00
+Diovan,07104,80mg,90.0,5
+simisatin,60185,60gram,90.0,10
+lisinipril,75089,5mg,360.0,0.00
+atorvastin,75089,20mg,90.0,0.00
+raloxfene,75089,60mg,90.0,87.00
+Metformin,76706,1000mg,180.0,0
+Lisonopril,05478,10mg,90.0,0
+Escitalopram,05478,20mg,90.0,0
+Omeprazole,05478,40mg,90.0,0
+tradjenta,23310,5mg,90.0,600
+rosuvasttain,23310,40mg,90.0,20
+lisinopril,23310,20mg,90.0,30
+esomeprazol,23310,40mg,90.0,30
+metopproolol succ,23310,100mg,90.0,30
+MerFORMIN,23310,1000mg,180.0,30
+metformin,23310,1000mg,180.0,30
+metoprolol,23310,100mg,90.0,30
+rosuvasttatin,23310,40mg,90.0,30
+lisinopril,75089,587.0mg,360.0,0.00
+rosuvastatin,23310,40mg,90.0,30
+metooprolol,23310,100mg,90.0,30
+Rizatriptan Benzoate,92708,10mg,90.0,20.00
+Ondansetron,92708,8mg,90.0,20.00
+atenol/chlorthal,19709,50mg,90.0,1
+simvastatin,19709,40mg,90.0,0
+lisinopril,19709,20mg,90.0,0
+metformin,19709,1000mg,180.0,0
+glimepride,19709,2mg,90.0,0
+tamsulosin,19709,0.4mg,90.0,0
+hydroxychloroquine,19709,200mg,180.0,0
+metoprolol,54313,50mg,180.0,0.00
+omeprazole,54313,40mg,90.0,0.00
+Xarelto,07647,10mg,90.0,40
+atorvastatin,11959,10mg,90.0,9
+potassium,92083,20mcg,90.0,9
+Lisinopril,80209,20mg,90.0,0
+Amlodipine,80209,10mg,90.0,0
+Eloquis5,80209,5mg,180.0,0
+Levothyroxine,80209,75mg,90.0,0
+Omeprozole,80209,10mg,90.0,0
+TraMADol,80209,50mg,180.0,0
+Furosemide,80209,40mg,90.0,0
+Pot.Cloride,80209,10mg,90.0,0
+levothyroxine,99507,.137mg,90.0,000
+atorvastatin,99507,20mg,90.0,000
+metoprolol suc er,99507,75mg,90.0,000
+Spironolactone,75034,100mg,90.0,19.9
+orphenadrine,64473,100mg,90.0,10
+Sharobel,96307,0.35mg,90.0,5
+Ibersartan,11375,300mg,90.0,10
+allopurinol,11375,300mg,90.0,10
+atorvastatin,11375,40mg,90.0,10
+tamsulosin,23235,0.04mg,90.0,0
+attenolol,23235,12.5mg,90.0,0
+atorvastatin,23235,40mg,90.0,0
+finasteride,23235,5mg,90.0,0
+omeprazole,23235,20mg,90.0,0
+hydrochlorothiaz,23235,12.5mg,90.0,0
+lisinopril,23235,10mg,90.0,0
+lisinopril,32408,20mg,180.0,0
+Prednisone,30039,10mg,180.0,5
+ATORVASTATIN,49009,20mg,90.0,0
+LEVOTHYROXINE,49009,0.088mg,90.0,0
+ESTRACE VAG CRE,49009,0.1mg,90.0,69.63
+AMLODIPINE,49009,5mg,90.0,0
+amlodipine,66207,10mg,90.0,0
+montelukast,08065,10mg,90.0,5
+alendronate,32506,70mg,12.87,0
+amitripttyline,32506,300mg,90.0,0
+Simvastatin,28115,10mg,90.0,10
+Meloxicam,28115,15mg,90.0,10
+VESIcare,28115,10mg,90.0,7
+simvaststin,34607,40mg,90.0,0
+lisinopril,65809,40mg,90.0,0
+Warfarin,75044,5mg,90.0,10
+AMIDARONE,03038,200mg,90.0,0
+APIXABAN,03038,5mg,180.0,0
+FUROSEMIDE,03038,40mg,90.0,0
+ALLOPURINOL,03038,300mg,90.0,0
+ATORVASTATIN,03038,80mg,90.0,0
+NITROGLYCERIN,03038,.4mg,90.0,0
+ROPINIROLE,03038,4gram,90.0,0
+METOPROLOL ER,03038,25mg,90.0,0
+Amiodarone,08889,200mg,90.0,1
+Astorvastatin,08889,20mg,90.0,1
+Cholestyramine,08889,4gram,180.0,1
+Esomeprazole,08889,40mg,180.0,1
+Ferrous Sulfate,08889,325mg,90.0,1
+Levothyroxine,08889,0.05mg,90.0,1
+Olmesartan,08889,20mg,90.0,1
+oxy,24517,20mg,270.0,0
+Levothyroxine,60173,0.112mg,90.0,0
+Losartan,60173,25mg,90.0,0
+Triamt/HCTZ,34609,37.525mg,90.0,5.00
+Pot Chlor Sr,34609,10mg,90.0,5.00
+Metoprolol Succ ER,34609,50mg,90.0,5.00
+Ezetimibe,34609,10mg,90.0,5.00
+Pravastatin Sod,34609,80mg,90.0,5.00
+AmLODIPine,34609,7.5mg,90.0,5.00
+Levocetirizine Dihydrochloride,34609,5mg,90.0,5.00
+Metoprolol Tartrate,34609,25mg,90.0,5.00
+Levothyroxine,34609,175mg,90.0,5.00
+panttoprazole,46835,40mg,90.0,0
+simvastatin,46835,20mg,90.0,0
+Warfarin,46835,5mg,90.0,0
+clopidogrel,32129,75mg,90.0,0
+amlodipine besalyte,32129,5mg,90.0,0
+losartan potassium,32129,50mg,90.0,0
+carvedilol,32129,6.25mg,180.0,0
+metformin,32129,1000mg,180.0,0
+atorvastatine,32129,5mg,90.0,0
+rosuvastatin,44133,20mg,90.0,0
+Pantoprazole,46835,40mg,90.0,0
+Simvistatin,46835,20mg,90.0,0
+Atorvastatin,10990,20mg,90.0,10
+Vascepa,10990,20mg,180.0,10
+Levocetirizine,34609,5mg,90.0,5.00
+AmLODIPine,34609,5mg,90.0,5.00
+Pot Chlor Sr Caps,34609,10mg,180.0,5.00
+Simvistatin,75218,40mg,90.0,3.00
+omeprazole,75218,20mg,90.0,3.00
+armour thyroid,75218,60mg,90.0,86.00
+Fluticasone Propionate,32250,50mcg,180.0,47
+Myrbetriq,32250,50mg,90.0,400.68
+Rosuvastatin,32250,20mg,90.0,30
+Amlodipine Besylate,32250,10mg,90.0,9
+Finasteride,32250,5mg,90.0,9
+Metorprolol Tartrate,32250,25mg,45.0,4.56
+Tadalafil Tablets IP,32250,20mg,20.0,75.00
+Ttemazepam,95678,15gram,90.0,30.00
+Atorvastatin,95678,20mg,90.0,30.00
+Fenofibrate,95678,160mg,90.0,30.00
+venlafaxine xr cap 75mg,33908,75mg,90.0,0
+venlafaxine xr cap,33908,150mg,90.0,0
+levetiracetam tab,33908,500mg,180.0,0
+clopidogrel,33908,75mg,90.0,0
+Valacyclovir,11735,500mg,90.0,1
+Balsalazide Disodium,33469,6mg,180.0,0
+Atorvastatin calcium,33469,1mg,90.0,0
+Oxybutynin ER,33469,1mg,90.0,1
+Amlodipine,33469,1mg,90.0,1
+Memantine,33469,1mg,90.0,0
+Tamsulosin,33469,1mg,180.0,1
+METROPROLOL TARTRATE,19078,50mg,180.0,42
+ELIQUIS,19078,5mg,180.0,42
+metformin,18428,1000mg,180.0,0
+simvastatin,18428,20mg,90.0,0
+pantoprazole,18428,40mg,90.0,0
+tramadol,18428,50mg,360.0,0
+omeprazole,44266,20mg,180.0,0
+Olmesartan Medox/Hctz,60119,1mg,90.0,14.00
+Lyrica,60119,1mg,180.0,38.00
+Celecoxib,60119,11mg,180.0,26.04
+Rosuvastatin,75146,10mg,90.0,2
+Montelukast,75146,10mg,90.0,2
+advair,75146,250mcg,180.0,2
+Proair HFA,75146,90mcg,90.0,2
+Allopurinol,21030,100mg,90.0,500
+Simvistatin,22102,40mg,90.0,0
+Lisinopril,80124,10mg,90.0,30.00
+Lyrica,80124,300mg,90.0,347.00
+Diazepam,80124,5mg,90.0,244.00
+carvedilol,60447,12.5mg,180.0,1
+Lossrtan,08724,50mg,90.0,130
+prednisone,31709,10mg,90.0,0
+metformin,31709,500mg,90.0,0
+ammonium lotion,31709,2ounce,180.0,0
+alfuzosin,31709,10mg,90.0,0
+furosemide,31709,40mg,90.0,0
+pro-air,31709,2inhalation,90.0,0
+atorvastatin,31709,20mg,90.0,0
+Warfarin tab,34609,5mg,90.0,5.00
+Rosuvastatin tab,34609,5mg,90.0,5.00
+Metoprolol Succ Er tab,34609,25mg,90.0,5.00
+Folic Acid Tab,34609,1mg,90.0,5.00
+Ezetimibe tab,34609,10mg,90.0,5.00
+ELIQUIS,85282,1unit,180.0,140
+Test/preg/dhea,07670,5mg,90.0,45
+finasteride,91942,5mg,90.0,1
+lovastatin,91942,40mg,90.0,1
+tamsulosin,91942,04mg,180.0,1
+atorvastatin,08003,10mg,90.0,0
+Setraline,63129,50mg,90.0,0
+Meloxicam,63129,50mg,90.0,0
+Omeprozole,63129,40mg,90.0,0
+Gabapentin,63129,300mg,180.0,0
+metformin,12758,500mg,180.0,0
+indapimaide,12758,1.25mg,90.0,0
+benazepril,12758,40mg,90.0,0
+novolin 70/30,12758,34unit,180.0,24.88
+Metformin,19154,1000mg,180.0,0
+Glimepride,19154,1mg,270.0,0
+Fenofibrate,19154,160mg,90.0,0
+Losartan/HCTZ,19154,100mg,90.0,0
+simvastatin,08750,20mg,90.0,0
+METFORMIN,19154,1000mg,180.0,0
+Gabapentin,86361,100mg,90.0,0
+Simvastatin,86361,10mg,90.0,0
+Pravastatin,08063,40mg,90.0,15
+Invokana,08063,300mg,90.0,50
+T/S One Touch Ultr Blue,08063,100unit,270.0,15
+lasix,23513,40mg,90.0,4
+Metformin,77345,1000mg,180.0,0
+Glimepiride,77345,4mg,180.0,0
+Lisinopril,77345,20mg,180.0,0
+Clopdogrel,77345,75mg,90.0,0
+Pravastatin,77345,40mg,90.0,0
+Carvedilol,77345,25mg,180.0,0
+Bayer Aspirin,77345,81mg,90.0,0
+Levothyroxine,17517,.15mg,90.0,10.00
+Irbesartan,17517,150mg,90.0,10.00
+Hydrochlorothiazide,17517,25mg,90.0,10.00
+Metoprolol,17517,25mg,180.0,10.00
+Rosuvastin,17517,10mg,90.0,10.00
+Methotrexate Sodium,17517,2.5mg,77.22,36.00
+victoza,11040,1.8mg,90.0,0
+lantus,11040,30mg,90.0,0
+Metformin,11040,4mg,180.0,0
+Gabapentin,05478,600mg,90.0,0
+clonazapam,05478,1mg,90.0,0
+lisonopril,05478,10mg,90.0,0
+omeprozole,05478,20mg,90.0,0
+Venlafaxine HLC ER,99654,150mg,90.0,10.00
+Trazodone,99654,100mg,90.0,10.00
+SYNTHROID,94521,0.1mg,90.0,92.82
+Levothyroxine,34114,0.1mg,90.0,0
+Amlodipine,11516,5mg,90.0,13.13
+LosartanPotassium,11516,50mg,90.0,7.00
+losartanpotassium,11516,50mg,90.0,7.00
+amlodipine,11516,5mg,90.0,13.13
+Ventolin,30141,90mcg,90.0,13
+Symbicort,30141,160mcg,180.0,60
+Montelukast,30141,10mg,90.0,7
+Levothroxine,30022,0.75mg,90.0,18.34
+metformin,27043,1000mg,90.0,20
+losartan,27043,100mg,90.0,20
+simvastatin,27043,20mg,90.0,20
+Furosemide,95354,4mg,90.0,2.50
+levothyroxine,95354,.088mg,90.0,10.00
+Celecoxib,95354,100mg,90.0,10.00
+doxycycline Mono,95354,100mg,180.0,10.00
+betameth val lot,95354,60ml,180.0,10.00
+tramedol HCL,95354,50mg,90.0,5.00
+Levoxyl,82009,200mcg,90.0,40
+Birth control,82009,1mg,90.0,0
+Losarton,33762,100mg,90.0,95.00
+linzess,33762,145mg,90.0,400.00
+laculose,33762,30mcg,180.0,75.00
+amamlodifine besylate,33762,5mg,180.0,0.00
+losartan,02066,50mg,90.0,0
+Rampril,08027,10mg,90.0,1
+Glimpride,08027,4mg,180.0,1
+Actos,08027,45mg,90.0,1
+metformin,08027,100mg,180.0,1
+Simvastin,08027,20mg,90.0,1
+Victoza,08027,0.6mg,90.0,1
+levothyroxine,91505,1mg,90.0,0
+Lexapro,71051,10mg,90.0,25
+Crestor,71051,40mg,90.0,25
+Losartan Pot,71051,50mcg,90.0,25
+Amlodipine,27260,30mg,90.0,1
+blisovi FE 1.5/30,95382,30mg,90.0,1
+Alprazolam,95382,.25mg,90.0,1
+deblitane,44131,.35mg,90.0,0
+venlafaxine,44131,37.5mg,90.0,3.68
+nortriptyline,44131,50mg,90.0,7.00
+HTZ,32780,25mg,90.0,000
+BENAZEPRIL,32780,10mg,90.0,000
+AMLODIPINE,32780,5mg,90.0,000
+Citalopram,10003,20mg,90.0,0.00
+Spironolactone,10003,12.5mg,90.0,6.00
+Furosemide,10003,20mg,45.0,0.00
+Fluvoxamin,10502,50mg,90.0,15.00
+Atorvastin,10502,40mg,90.0,0
+januvia,07083,100mg,90.0,0
+quinapril-hct 2-20,07083,125mg,90.0,0
+glimediride,07083,1mg,90.0,0
+metformin,07083,1000mg,180.0,0
+atorvastatin,07083,10mg,90.0,0
+amlodipipine besylate,07083,5mg,90.0,0
+ibandronate sodium,07083,150mg,2.9970000000000003,0
+Atorvastatin,98040,10mg,90.0,7.00
+Trazodone,98040,150mg,90.0,7.00
+Diclofenac Sod EC,98040,75mg,180.0,7.00
+methotrexate,13073,2.5mg,12.87,1.25
+metformin,13073,750mg,180.0,1.25
+lisinopril/hctz,13073,2512.5mg,90.0,1.25
+rosuvastatin,13073,20mg,90.0,1.25
+folic acid,13073,1mg,90.0,4.00
+RA lortadine,13073,10mg,90.0,11.00
+meloxicam,13073,15mg,90.0,1.25
+low dose aspirin,13073,81mg,90.0,5.00
+Crestor,01464,5mg,90.0,100.00
+Protonix,01464,40mg,90.0,50.00
+Vitamin D2,01464,50000I.U.,12.87,23.00
+Metoprolol ER Succinate,66002,100mg,90.0,50
+Lisinopril,66002,5mg,90.0,15
+Atorvastation,66002,20mg,90.0,35
+Fluticasone Propionate,66002,50mcg,90.0,15
+Adderall,76114,30mg,90.0,30
+ropinirole,08723,.25mg,90.0,0
+ampolodine,08723,5mg,90.0,0
+donepezil,78253,5mg,90.0,3
+escitalopram,03224,20gram,90.0,8
+sertraline,61275,100mg,90.0,9.00
+trazodone,61275,50mg,90.0,9.00
+symbicort,61275,1604.5mcg,180.0,45.00
+triamcinolone,61275,1mg,90.0,2.00
+Nexium,08816,1mg,90.0,0
+Humaria,08816,40mg,12.87,0
+Sexenda,08816,3unit,90.0,0
+Gabapentin,49419,300mg,540.0,0
+Metformin,49419,1000mg,180.0,0
+Omeprazole,49419,40mg,90.0,0
+Effexor,92131,225mg,90.0,0
+WelbutrenXL,92131,300mg,90.0,0
+Lamotragine,92131,200mg,90.0,0
+Benazipril,92131,10mg,180.0,0
+Synthroid,92131,0.2mg,90.0,0
+pantoprazole,36854,40mg,90.0,00
+micardis,36854,80mg,90.0,90.00
+allopurinol,36854,300mg,180.0,00
+amlodipine,36854,10mg,90.0,00
+carvedilol,36854,6.25mg,180.0,00
+clopidogrel,36854,75mg,90.0,00
+sertraline,36854,50mg,90.0,00
+simvastatin,36854,10mg,90.0,00
+flomax,36854,0.4mg,90.0,00
+warafin,12302,7.5mg,90.0,0
+depakote,22803,750mg,180.0,0
+metformin,22803,500mg,180.0,0
+levothyroxine,22803,0.15mg,90.0,0
+januvia,22803,100mg,90.0,0
+atorvastatin,22803,40mg,90.0,0
+losartan,22803,50mg,90.0,0
+hydrochlorothiaz,22803,12.5mg,90.0,0
+lantus solostar,22803,51ml,90.0,0
+humalog mix 75/25,22803,18ml,180.0,0
+celexa,92124,5mg,90.0,0
+crestor,95973,10mg,90.0,1
+lisinopril,95973,5mg,90.0,1
+Amlodipine,30135,5mg,90.0,5
+flovent HFA,85375,110mcg,90.0,155.00
+amlodipine besylate,85375,5mg,90.0,10.00
+montelukast,85375,10mg,90.0,35.00
+montelukast,78240,10mg,90.0,0
+benazepril,78240,12.5mg,90.0,0
+simvastatin,78240,20mg,90.0,0
+Meloxicam,77356,1mg,90.0,00.00
+Duloxetine,77356,1mg,90.0,00.00
+lisinopril,95818,40mg,90.0,10
+Ortho Tri Cyclen Lo,01760,1unit,90.0,400
+LOSARTAN/HCTZ,76114,10025mg,90.0,0.00
+SIMVASTATIN,76114,40mg,90.0,0.00
+ATENOLOL,76114,100mg,90.0,0.00
+METFORNIN HYDROCHLORIDE,76114,500mg,180.0,0.00
+RENITIDINE,76114,300mg,90.0,14.00
+CLOPIDOGREL,76114,75mg,90.0,14.00
+MINOXIDIL,76114,2.5mg,180.0,14.00
+PRAMIPIEXOLE,76114,.5mg,90.0,14.00
+pravastatipravastatin,80104,40mg,90.0,0
+tamsulosin,80104,0.4mg,90.0,0
+clopidogrel,80104,75mg,90.0,0
+lorazepam,80104,1mg,90.0,0
+Dicyclomine,29566,20mg,360.0,0
+Amlodipine,29566,5mg,90.0,0
+Atenolol,29566,12.5mg,180.0,0
+Lisinopril,29566,40mg,90.0,0
+Klor-con,29566,10mg,90.0,0
+Mirtazapine,29566,30mg,90.0,2
+Meloxicam,29566,7.5mg,90.0,0
+Sertraline,29566,150mg,90.0,0
+Furosemide,29566,20mg,90.0,0
+Finasteride,34685,5mg,90.0,0
+Tamsulosin,34685,.4mg,90.0,0
+Paroxitene,34685,20mg,90.0,0
+Diatiazem,33014,300mg,90.0,105.78
+Alendronate,33014,70mg,12.87,18.04
+Simvastatin,33014,40mg,90.0,18.22
+Olmesa Medox,33014,40mg,90.0,75.90
+Hydroclorort,33014,25mg,90.0,5.46
+Metformin,33014,500mg,180.0,15.97
+Lopressor xl,08554,200mg,90.0,18
+Lisinopril,34691,40mg,90.0,0
+Hydrochlorothiazideo,34691,25mg,90.0,0
+Triamcinolone,34691,1unit,90.0,0
+Atorvastatin,34691,20mg,90.0,0
+Roprinale,45891,10mg,90.0,9
+Lisinopril,34691,20mg,90.0,0
+Hydrochlorothiazide,34691,12.5mg,90.0,0
+Triamcinolone 0.1%,34691,1mg,180.0,0
+Lexapro,06013,0.2mg,90.0,3
+Breo,08610,25inhalation,90.0,28.00
+Hydrochlorothiaz,08610,12.5mg,90.0,3.00
+Amlodipine,60657,5mg,90.0,0
+Atorvastatin,60657,10mg,90.0,0
+Tamsulosin,60657,0.4mg,180.0,0
+Omeprazole,60657,20mg,90.0,0
+Levothyroxine,92056,0.088mg,90.0,0
+Metformin,73120,1mg,180.0,0
+losartan,06418,50mg,90.0,20
+Simvistatin,11372,10mg,180.0,2
+Levothyroxine,12721,0.1mcg,90.0,14
+simvastatin,95476,40mg,90.0,1
+Klor-con,29566,10unit,90.0,0
+Mirtazapine,29566,30mg,90.0,0
+Losartan,31411,50mg,90.0,1
+Levothyroxine,78737,1mg,90.0,10
+Ambien,33950,5mg,90.0,20
+Atorvastatin,33950,11mg,90.0,20
+Carvedilol,33950,25mg,180.0,20
+Doxazosin,33950,2mg,90.0,20
+Dymista,33950,50mcg,90.0,75
+Eliquis,33950,5mg,180.0,25
+Finasteride,33950,5mg,90.0,20
+Klor-con,33950,10mcg,90.0,20
+Olmesartan,33950,40mg,90.0,20
+Omeprazole,33950,20mg,90.0,20
+Paroxetine,33950,20mg,90.0,20
+Tamsulosin,33950,1mg,90.0,20
+Singulair,07470,10mg,90.0,10
+Paxil,07470,20mg,90.0,20
+Cymbalta,92344,60mg,90.0,10
+Lisinopril,21050,10mg,90.0,0
+Simvistatin,21050,10mg,90.0,0
+Sertaline,21050,100mg,90.0,0
+Metformin,21050,500mg,360.0,0
+losartan,19962,100mg,90.0,0
+escitlopram,19962,20mg,90.0,0
+simvastatin,19962,10mg,90.0,0
+zolpidem,19962,10mg,90.0,0
+levothroxin,19962,75mg,90.0,0
+ibruprofen,19962,800mg,90.0,0
+Bupropion,90064,150mg,90.0,54
+Bupropion,90064,300mg,90.0,84
+Tamsulosin,90064,.4mg,180.0,15
+Finasteride,90064,5mg,90.0,21
+Rosuvastatin,90064,10mg,90.0,42
+Sumatriptan,93023,100mg,90.0,10
+Amlodipine,74538,10mg,90.0,0
+citalopram,60060,40mg,90.0,0
+Eliquis,75214,5mg,180.0,131
+atenolol,86301,50mg,90.0,0
+primidone,86301,50mg,90.0,0
+atorvastatin0,86301,10mg,90.0,0
+Sronyx,11213,1mg,90.0,0
+Janumet,38654,1mg,180.0,88.00
+vesicare,38654,10mg,90.0,84
+Amlodipine,38654,10mg,90.0,1.00
+Glimepiride,38654,2mg,180.0,1.00
+hydrochlorothiaz,38654,25mg,90.0,1.00
+losartan,38654,100mg,90.0,1.00
+Rosuvastatin,38654,10mg,90.0,1.00
+Plavix,38654,75mg,90.0,1.00
+Pantoprazole,38654,40mg,90.0,1.00
+wellbutrin,45005,200mg,180.0,0
+celexa,45005,40mg,90.0,0
+Mevacor,45005,40mg,90.0,0
+amlodipine,38118,10mg,90.0,5
+metoprolol,38118,50mg,180.0,5
+atorvastatin,38118,40mg,90.0,5
+Ttrazadone,49908,50mg,90.0,275
+Sertraline,49908,50mg,90.0,295
+Metoprolol Tartrate,71640,25mg,90.0,0
+Nitroglycerin,71640,0.4mg,90.0,11.69
+Clopidogrel,71640,75mg,90.0,0
+Lovastatin,71640,40mg,90.0,0
+Cilostazol,71640,1000mg,180.0,0
+Isosorbide Mononitrate,71640,60mg,90.0,0
+Omeprazole,71640,40mg,90.0,0
+Baclofen,71640,20mg,180.0,0
+HCTZ,71640,25mg,180.0,0
+Renexa,71640,1000mg,180.0,195.00
+Gemfibrozil,71640,600mg,180.0,0
+Sertraline,71640,50mg,90.0,0
+Norco,71640,10mg,90.0,28.95
+lisinopril,20005,5mg,90.0,17
+pioglitazone,92868,30mg,90.0,34.70
+allopurinol,92868,100mg,90.0,30.89
+metformin,92868,1000mg,180.0,10.13
+lisinopril,92868,2.5mg,90.0,8.19
+amlodipine,92868,10mg,90.0,8.47
+simvastatin,92868,20mg,90.0,8.51
+folic acid,03055,1mg,90.0,0
+fluoxetine,03055,40mg,90.0,0
+metoprolol succ er tab,03055,25mg,90.0,0
+omeprazole,03055,20mg,90.0,0
+valacyclovir,03055,500mg,90.0,0
+levothyroxine,03055,025mg,90.0,0
+Atorvastatin,92101,20mg,90.0,20
+Tamoxifen,88081,20mg,90.0,20
+Venlafaxine hcl er 24 hr,88081,150mg,180.0,20
+Floxetine,08518,40mg,90.0,0
+Levothyroxine,08518,.1mg,90.0,0
+Metoprolol,14810,50mg,180.0,0
+Venlafaxine XR50,14810,150mg,90.0,0
+Atorvastatin,14810,80mg,90.0,0
+Amlodipine,14810,10mg,90.0,0
+atorvastatin,14810,80mg,90.0,0
+amlodipine,14810,10mg,90.0,0
+metoprolol,14810,50mg,180.0,0
+venlafaxine,14810,150mg,90.0,0
+Omeprazole,11793,40mg,90.0,0
+Metforman,89049,1000mg,180.0,6
+Lisinopril,53037,20mg,90.0,0
+atorvastatin,53037,10mg,90.0,0
+Tamsulosin,53037,.4mg,90.0,0
+JUNEL,10025,1unit,90.0,0
+ramipil,14729,10mg,90.0,1
+digox,85132,125mcg,180.0,10.00
+carvedilol,85132,25mg,180.0,4.01
+levothyroxine,85132,200mcg,90.0,10.00
+levothyroxine,85132,25mcg,90.0,9.30
+cymbolta,24124,69mg,90.0,300
+protonix,29579,40mg,90.0,5
+lipitor,29579,40mg,90.0,5
+mirtazapine,29579,15mg,90.0,5
+clonzepam,29579,0.25mg,90.0,5
+Atorvastatin,07748,20mg,90.0,3
+Levothyroxine,10026,0.137mg,90.0,10.00
+Armour Thyroid,10026,30mg,90.0,10.00
+Farxiga,10026,5mg,90.0,50.00
+Carvedilol,77459,25mg,180.0,0
+Furosemide,77459,40mg,90.0,0
+Minoxidil,77459,10.5mg,180.0,0
+Ibesartan,77459,150mg,180.0,0
+Phenytoin,32707,100mg,270.0,0
+Simvastatin,32707,40mg,90.0,0
+Clopidogrel,60459,75mg,90.0,0
+Pantoprazole,60459,40mg,90.0,0
+Furosemide,60459,20mg,90.0,0
+Metoprolol,60459,25mg,90.0,0
+Atorvastatin,60459,20mg,90.0,0
+Otezla,92071,30mg,180.0,0
+LISINO[RIL,92071,20mg,180.0,0
+ATENOLOL,92071,50mg,180.0,0
+VIBERZI,92071,100mg,180.0,505.00
+lisinopril,06478,5mg,90.0,0
+lexapro,07108,20mg,90.0,168
+lunesta,07108,3mg,90.0,360
+adivant,07108,2mg,90.0,100
+Gabapentin,24426,400mg,540.0,00
+levemir,24426,7unit,90.0,100
+homolog,24426,3unit,180.0,100
+enalapril,24426,10mg,180.0,00
+pantoprazole sod,24426,40mg,90.0,00
+raloxifene,24426,40mg,90.0,00
+simvastatin,24426,40mg,90.0,00
+Bystolic,92120,5mg,90.0,40.00
+Benicar,92120,20mg,90.0,10.00
+Niacin ER,92120,1000mg,90.0,10.00
+Xanax,92120,0.25mg,90.0,5.00
+Amlodipine Besylate,78577,10mg,90.0,1.94
+Sertraline HC1,78577,100mg,90.0,3.35
+Atenolol,78577,25mg,90.0,1.59
+esomeprazole magnesium,78577,40mg,90.0,3.35
+Lorsartan Potassium hctz,78577,10025mg,90.0,3.35
+Cartia XT,48371,240mg,90.0,11.77
+Finasteride,48371,5mg,90.0,9.80
+Omeprazole,48371,20mg,90.0,5.65
+Allopurinol,48371,300mg,90.0,9.23
+Tamsulosin,48371,0.4mg,90.0,7.93
+Levothyroxine,48371,150mcg,102.87,11.62
+pradaxa,85132,150mg,180.0,20.00
+ProAir HFA,48371,2inhalation,360.0,23.92
+Finasteride,48371,5mg,90.0,30
+Humalog,78363,38ml,180.0,84
+San Tan Plus,78363,1gram,90.0,29
+Metfomin,08512,1000mg,180.0,1.00
+Bupropion,08512,300mg,90.0,1.00
+Benicar,08512,40mg,90.0,1.00
+Prednisone,08512,5mg,90.0,1.00
+Januvia,08512,100mg,90.0,1.00
+Folic acid,08512,1mg,90.0,1.00
+Simvastatin,08512,40mg,90.0,1.00
+Nexium,08512,40mg,90.0,1.00
+Warfarin,08512,5mg,90.0,1.00
+Rapaflo,08512,8mg,90.0,1.00
+Methotrexate,08512,12.5mg,12.87,1.00
+BISO FUM/HCT 10-6.25,49707,1mg,90.0,0
+SIMVASTATIN,49707,20mg,90.0,0
+Levetiracetam,28461,1000mg,180.0,11.00
+Losartan Potassium,28461,25mg,90.0,11.00
+Escitalopram,28461,10mg,90.0,7.00
+Escitalophram,30092,20mg,90.0,1.00
+Levathoroxin,30092,175mcg,90.0,1.00
+Alopurnal,80907,100mg,90.0,0
+levothyroxine,08092,1mg,90.0,0
+onfi,08844,20mg,180.0,250
+adderall XR,60559,30mg,90.0,65.00
+adderall ir,60559,15mg,90.0,30.00
+lexapro,07108,20mg,90.0,200
+lorazapan,07108,2mg,90.0,100
+Losartan,31602,100mg,90.0,25
+Zolipidem,31602,10mg,90.0,30
+Atorvastatin,97321,20mg,90.0,0
+Advair,92688,50mg,180.0,30
+Amlodipine,92688,10mg,90.0,0
+Amlodipine,89429,10mg,90.0,0
+Benazepril,89429,40mg,90.0,0
+Bystolic,89429,10mg,90.0,00
+Gemfibrozil,89429,600mg,180.0,0
+Metforman,89429,500mg,180.0,0
+Glipozide,89429,5mg,180.0,0
+Montelukast,89429,10mg,90.0,0
+Lamnoprost,89429,0.005CC,90.0,0
+Timolol Mal OP Sol,89429,0.2CC,180.0,0
+Symbicort,89429,160inhalation,90.0,0
+Hydroshlorothazide,89429,25mg,90.0,0
+Pro Air,89429,90mcg,90.0,0
+Brovana,89429,15.0inhalation,90.0,0
+Budesonide,89429,0.5inhalation,90.0,0
+Incruse,89429,62.5mcg,90.0,120.00
+Allegra-D,89429,240mg,90.0,45.00
+sertraline,45342,50mg,90.0,0
+cymbalta,77095,1mg,90.0,2
+lisenpril,92083,20mg,90.0,0
+clopidogrel,68041,75mg,90.0,0
+sertraline,68041,100mg,90.0,0
+metformin,68041,500mg,90.0,0
+amlodipine,68041,5mg,90.0,0
+fenofibrate,68041,54mg,90.0,0
+atorvistatin,68041,80mg,90.0,0
+vesicare,68041,5mg,90.0,141.00
+MetFORMAN Tab,08360,1000mg,180.0,5.00
+Tradjenta Tab,08360,5mg,90.0,19.00
+Atorvastatin,08360,40mg,90.0,5.00
+Losartan Tab,08360,25mg,90.0,2.33
+Simvastatin,95372,40mg,90.0,0
+Losartan,95372,100mg,90.0,0
+Metoprolol,95372,25mg,90.0,0
+Potassium,95372,10mg,360.0,0
+Ibandronate,95372,150mg,2.9970000000000003,38.12
+D-3,95372,50000I.U.,12.87,9.63
+lisinopril,54913,10mg,90.0,0
+omeprazole,54913,20mg,180.0,0
+xarelto,54913,20mg,90.0,0
+Metformin,93906,500mg,180.0,10.00
+Estradio TD,93906,1mg,12.87,10.00
+Metoprolol Succ,93906,10mg,90.0,10.00
+Levothyroxine,93906,.075mcg,90.0,10.00
+Fluoxetine,93906,20mg,90.0,10.00
+Ramipril,93906,5mg,90.0,10.00
+Atorvastatin,93906,10mg,90.0,10.00
+fenofibrate,75134,160mg,90.0,0
+atrovastatin,08859,20mg,90.0,5
+Levothyroxine Tab,36305,.075mg,90.0,0
+Simvastatin tab,36305,10mg,90.0,0
+Metformin tab,36305,500ounce,180.0,00
+Citalopram tab,36305,40mg,90.0,0
+Losartanhct,07070,50mg,90.0,15
+Elequis,94803,5mg,180.0,131.
+Allopurinal,94803,150mg,90.0,12.36
+Rosuvastatin,94803,20mg,90.0,9.75
+Metformin,94803,1000mg,180.0,6.06
+Sotalol,94803,120mg,180.0,16.20
+Allopurinal,94803,150mg,90.0,6.
+Rosuvastatin,94803,20mg,90.0,9.
+Eliquis,94803,5mg,180.0,131.
+Metformin,94803,1000mg,180.0,12.75
+Sotalol,94803,120mg,180.0,16.50
+lisinipril,93420,40mg,90.0,1.2
+Estradiol,95966,0.5mg,90.0,24.18
+Medroxypr,95966,5mg,90.0,26.60
+Atorvastatin,95966,20mg,90.0,25.43
+Losartan,95966,50mg,360.0,12.74
+Lovothyroxine,95966,0.1mg,90.0,16.32
+Trulicity Pen,85205,1mg,12.87,0
+lipitor,35244,100mg,90.0,5.00
+lisinafil,35244,0.4mg,90.0,7.50
+simvastatin,94591,10mg,90.0,15
+BUPROPION HCL,14867,150mg,90.0,5.00
+VENLAFAXINE,14867,150mg,180.0,5.00
+Synthroid,94558,1mg,90.0,3
+Metformin,94558,2mg,180.0,1
+Losartan,94558,1mg,90.0,1
+AmLODIPine,94558,1mg,90.0,1
+Tradjenta,94558,1mg,90.0,1
+Amiodaroneadrone,54935,100mg,90.0,0
+acyclovir,54935,400mg,180.0,0
+furosemide,54935,20mg,180.0,0
+levothyroxine,54935,0.088mg,90.0,0
+Losartan Potassium,78412,50mg,90.0,0
+furosemide,78412,40mg,90.0,0
+levothyroxine,78412,50mg,90.0,0
+potassium cl er,78412,20mg,90.0,0
+Amlodipine,89429,10mg,90.0,7.94
+Benazepril,89429,40mg,90.0,8.05
+Bystolic,89429,10mg,90.0,135.00
+Gemfibrozil,89429,600mg,180.0,8.00
+Metforman,89429,500mg,180.0,4.18
+Glipozide,89429,5mg,180.0,8.280
+Montelukast,89429,10mg,90.0,7.50
+lamnoprost,89429,0.005CC,90.0,24.70
+Timolol Mal OP Sol,89429,0.5CC,180.0,15.22
+Brimonidine Sol,89429,0.2CC,180.0,18.61
+Brovana,89429,15.0ml,90.0,0
+Budesonide,89429,0.5ml,90.0,0
+Symbicort,89429,160inhalation,180.0,338.22
+Incurse,89429,2.5mcg,90.0,119.43
+Hydrochlorothiazide,89429,25mg,90.0,2.40
+Allera-D,89429,200mg,90.0,45.00
+alopurnal,80907,100mg,90.0,0
+Rosuvastatin,33317,20mg,90.0,0
+Losartan,33317,50mg,90.0,0
+Clopidogrel,33317,75mg,90.0,0
+METOPROLOL TARTRATE,10704,25mg,180.0,0
+TIKOSYN,10704,25mg,180.0,0
+LISINOPRIL,10704,5mg,90.0,0
+ATORVASTATIN,10704,80mg,90.0,0
+ELIQUIS,10704,5mg,180.0,0
+lEVOTHYROXINE,29455,075mg,90.0,0
+Lisinopril/HCTZ,29455,20mg,90.0,0
+Atrovatasin,92107,20mg,90.0,0
+atorvastatin,53221,80mg,90.0,0
+baclofen,53221,10mg,270.0,0
+losartan,53221,50mg,90.0,0
+metformin,53221,500mg,360.0,0
+nortriptyline,53221,25mg,180.0,0
+Citalopram,75601,40mg,90.0,146
+Simvastatin,75601,10mg,90.0,0.00
+Eszopiclone,80602,3mg,90.0,26.99
+Lisinopril,80602,40mg,90.0,7.77
+metoprolol tart,66109,25mg,180.0,0
+potassium,43054,20gram,90.0,0
+Divalproex,53011,500mg,180.0,100
+lisinopril,91107,10mg,90.0,.88
+atorvastatin,91107,40mg,90.0,3.00
+Atenalol,72560,25mg,90.0,00.00
+Citalopram,72560,40mg,90.0,00.00
+simvastatin,72560,10mg,90.0,00.00
+ativan,72560,2mg,90.0,4.00
+Prevastatin,46582,20mg,90.0,0
+lisinopril,53114,40mg,90.0,0
+Atorvastatin,32162,20mg,90.0,0
+Lisinopril-hctz,32162,20mg,90.0,0
+Toujeo,78940,40I.U.,90.0,113.97
+Metformin,78940,500mg,180.0,0.00
+Metoprolol,78940,100mg,180.0,0.00
+Atorvastatin,78940,40mg,90.0,0.00
+Furosemide,78940,20mg,90.0,0.00
+Metformin,07960,1mg,180.0,5
+Allopurinol,07728,400mg,90.0,1
+zetia,07728,10mg,90.0,1
+Whelchol,07728,1875mg,180.0,1
+Amytryptelene,07728,25mg,90.0,1
+Atorvastatin,34232,20mg,90.0,10
+Losartan,85739,50mg,90.0,0
+Amlodapine,85739,5mg,90.0,0
+Doxazosin,85739,4mg,90.0,0
+Rosuvastatin,85739,10mg,90.0,0
+Lisinopril,10452,40mg,60.0,10
+Metformin,10452,2000mg,180.0,12
+Januvia,10452,5mg,90.0,70
+Buspirone Hcl,15748,15mg,180.0,0
+MetFormin,01821,500mg,180.0,0
+METFORMIN,01821,500mg,180.0,0
+Hydrochlorothiaz,54915,1mg,90.0,7.99
+Metoprolol,54915,1mg,90.0,60.50
+Levothyroxine,54915,1mg,90.0,45.33
+tamsulosin,33884,.4mg,90.0,0
+venlafaxine,33884,150mg,90.0,0
+amlod/benazprl,33884,10mg,90.0,0
+prednisone,33884,5mg,90.0,0
+oxcarbazepine,33884,150mg,180.0,0
+Zoloft,49071,100mg,90.0,4.19
+Azelastine,49071,.1inhalation,180.0,10.00
+Synthroid,49071,50mcg,90.0,7.88
+Omeprazole,49071,40mg,90.0,10
+Ipratropium,24477,42mcg,180.0,2
+Welchol,60189,625mg,90.0,99.00
+Losartan,60189,50mg,90.0,0
+Fenofibrate,60189,54mg,90.0,0
+loestrin fe,08901,1mg,90.0,157.24
+Welchol,60189,625mg,90.0,99
+Sprintec,30014,0.25mg,90.0,4
+Amlodipine,04346,1gram,90.0,0
+Omeprazole,04346,40gram,90.0,0
+Propafenone hcl,44062,150mg,270.0,0.00
+LOSARTAN,44062,25mg,90.0,0.00
+METOPROLOL,44062,25mg,180.0,0.00
+SYNTHROID,44062,125mg,90.0,0.00
+Simvastatin,44062,20mcg,90.0,0.00
+Iprapropium Bromide,44062,2inhalation,270.0,0.00
+Hydrochlorothiaz,44062,25mg,90.0,0.00
+Potassium cl sr mc tb,44062,20unit,90.0,0.00
+latanoprost,48642,1unit,90.0,3
+amlopine,33616,10mg,90.0,4
+Losartin,32159,50mg,90.0,9.00
+Trimethoprim sulfate and polymixin B sulfate opthalmic solution,32159,1ml,90.0,10.00
+Prednisolone acetate opthalmic suspension,32159,1ml,90.0,30.00
+00,43207,0000gram,90.0,00
+00,43207,00gram,90.0,00
+0000,43207,00gram,90.0,0
+Anaastrole Tab,92241,1mg,90.0,30.00
+Lisinopril,92241,1mg,90.0,30.00
+Potassium CL CR WM TB,92241,2mg,90.0,30.00
+PROAIR HFA,92241,2inhalation,90.0,30.00
+Losartin,32159,50mg,90.0,3.00
+Prednisone eye drops,32159,1ml,90.0,30.00
+Polymixin eye dropsn,32159,1ml,12.87,3.00
+montelukast,60610,10mg,90.0,0
+fluticasone,60610,50mcg,90.0,0
+Azilect,06437,1mg,90.0,4.05
+Nuplazid,06437,17mg,90.0,75
+Memantine,06437,10mg,180.0,4.05
+Rytary,06437,47.5mg,360.0,2500
+Mirtazapind,06437,45mg,90.0,4.05
+Nitrfurantoin,06437,100mg,90.0,4.05
+Car idols-Levodopa,06437,100mg,90.0,4.05
+Eszopiclone,06437,3mg,90.0,4.06
+Myrbetrique,06437,25mg,90.0,400
+Lorazepam,06437,1mg,90.0,3.35
+Atorvastatin,29680,80mg,90.0,00.00
+Prasugrel,29680,10mg,90.0,1.80
+Omeprazole,29680,20mg,90.0,0.00
+Metformin,29680,500mg,180.0,0.00
+Tamsulosin,29680,0.4mg,90.0,0.00
+Metoprolol,29680,50mg,180.0,0.00
+Irbesartan,29680,150mg,90.0,0.00
+prednisone,98532,10mg,90.0,00
+spiriva,98532,18mcg,90.0,00
+lisinopril,98532,40mg,180.0,00
+carvedilol,98532,6.25mg,180.0,00
+levothyroxine,98532,.025mg,90.0,00
+amlodipine,98532,10mg,90.0,00
+atorvastatin,98532,20mg,90.0,00
+AD,11743,5mg,90.0,1
+Advair discus 250/50,46845,2inhalation,180.0,125
+brilinta,08610,90mg,180.0,0
+lisinopril,08610,5mg,90.0,0
+metroprolo,08610,25mg,180.0,0
+simvastatin,08610,20mg,90.0,0
+spiriva,08610,18mcg,90.0,0
+Wellbutrin,78382,300mg,90.0,150.00
+Wellbutrin,78382,150mg,90.0,150.00
+ZOLPIDERM,80439,10mg,90.0,0
+Citalopram,46254,40mg,90.0,28.99
+Invokana,32927,100mg,90.0,125
+Blisovi Fe 1/20,30268,1mg,90.0,0
+Lisinopril,37742,20mg,90.0,0
+Warfarin,37742,5mg,90.0,0
+Glyburide,37742,1.25mg,90.0,0
+Potassium CL SR MC TB 1/2,37742,20mg,90.0,0
+Bumetanide,37742,.5mg,90.0,0
+Duloxetine,37742,30mg,90.0,0
+levothyroixine,31539,0.88mcg,90.0,0
+lisinopril,31539,10mg,90.0,0
+escitalopram,31539,20mg,90.0,0
+Montelukast,31539,10mg,90.0,3.35
+fenofibrate,31539,145mg,90.0,3.35
+cyclobenzaprine,31539,10mg,90.0,0
+atorvastatin,31539,20mg,90.0,0
+omeprazole,31539,20mg,180.0,0
+Tramadol,31539,50mg,90.0,0
+ibuprophin,31539,800mg,180.0,0
+furosemide,31539,30mg,90.0,0
+KCL,31539,20mg,90.0,0
+flovent Inhaler,31539,44mcg,90.0,0
+fluticasone prop nasal,31539,50mcg,90.0,0
+albuterol MDI,31539,90mcg,90.0,3.35
+Eliquis tab,43123,1mg,180.0,0
+Levoxyl,01887,25mg,90.0,30
+Omeprazole,33594,40mg,90.0,0
+Atenolol,33594,50mg,180.0,0
+Triamt/HCTZ,33594,75mg,90.0,0
+LOSARTAN,33594,100mg,90.0,0
+PREMARIN,33594,0.625mg,90.0,120.00
+LEVOYHYROXIN,33594,0.05mg,90.0,0
+cholestyramine,93561,9gram,90.0,20
+irbesartan,93561,150mg,90.0,20
+simvastatin,93561,20mg,90.0,20
+prilosec,93561,40mg,90.0,20
+Valsarten/acts 160-12.5,47348,1mg,90.0,0
+metformin,30024,500mg,180.0,5
+pravastatin sod,30076,80mg,90.0,0
+montelukast,30076,10mg,90.0,0
+natrglinide,30076,120mg,270.0,96
+valsartan/hctz,30076,12.5mg,90.0,0
+fluticasone prop.,30076,50mcg,90.0,0
+Simvastatin,76021,20mg,90.0,0
+Finasteride,76021,5mg,90.0,0
+Tamsulosin,76021,3mg,90.0,0
+Pravastatin,12833,40mg,90.0,0.00
+Lysinpril-hctz,12833,20mg,90.0,0.00
+Carvedilol,92505,6.25mg,180.0,0
+Lovastatin,92505,40mg,90.0,0
+Losartan,92505,50mg,90.0,0
+Levothyroxine,92505,0.1mcg,90.0,0
+Triamt/HCTZ 75,92505,50mg,38.61,0
+Gabapentin,92505,300mg,810.0,0
+Pantoprazole,92505,30mg,90.0,0
+Hydralazine,45845,50mg,270.0,1
+Amiodarone,45845,200mg,90.0,1
+Bisoprol,45845,5mg,180.0,1
+Spironlactone,45845,12.5mg,180.0,1
+Furosemide,45845,40mg,180.0,1
+Pantoprazole,45845,40mg,90.0,1
+Fenofibrate,45845,48mg,90.0,1
+Glybride,45845,5mg,360.0,1
+Proair HFA,45845,90mcg,90.0,1
+Duloxetine  Cap,91932,120mg,180.0,0
+levothyroxine tab,91932,0.088mg,90.0,0
+carvedilol tab,91932,3.125mg,180.0,0
+chlorthalidone tab,91932,50mg,90.0,0
+valsartan tab,91932,320mg,90.0,1
+mlodipine tab,91932,10mg,90.0,0
+gabapentin cap,91932,600mg,180.0,0
+nitro stat sub,91932,0.4mg,90.0,1
+atorvastin,91932,40mg,90.0,0
+Lisinopril-HCTZ Tab 20-12.5,42405,20mg,90.0,0
+Armour Thyroid,32137,780gram,90.0,0
+ezetimbe,19701,10mg,90.0,5.00
+zolpidem,19701,10mg,90.0,5.00
+Armour Thyroid,32137,780gram,180.0,0
+Nexium,08046,4mg,90.0,30
+Folic Acid,57104,1mg,90.0,30
+Carvedilol,37716,25mg,180.0,0
+Losartin,37716,100.25mg,90.0,0
+Nifedipine XL,37716,30mg,90.0,0
+Citalopram,37716,40mg,180.0,0
+Diclofenac Sod DR,37716,50mg,180.0,0
+Clopidrogel,37716,75mg,90.0,0
+Simvastatin,37716,20mg,90.0,0
+Furosemide,37716,20mg,90.0,0
+Bupropion XL XL,37716,150mg,90.0,0
+Prometazine-DM,08046,5ml,360.0,10
+Losartan,81402,50mg,90.0,0
+Sertraline,81402,50mg,90.0,0
+Celeboxix,81402,200mg,90.0,0
+Levothyroxine,81402,.05mg,90.0,0
+Eszopiclone,81402,3mg,90.0,0
+Tramadol,81402,50mg,90.0,0
+Atorvastan,81402,20mg,90.0,0
+Metoprolol,84312,50mg,180.0,4
+Prednisone,37090,5mg,90.0,0
+Vitamin D2,76706,50000I.U.,12.87,5
+lisinopril,84770,40mg,90.0,0
+amlodipine,84770,5mg,90.0,0
+methotrexate,84770,15mg,12.87,0
+Detrol LA,28805,4mg,90.0,0
+Trazadonee,28805,50mg,90.0,0
+metformin,34982,50mg,90.0,10
+metformin,98548,500mg,180.0,2.78
+bupropion sr,98548,200mg,180.0,15
+citalopram,98548,10mg,90.0,3.95
+Hydroxychloroquine,97471,200mg,180.0,10
+LEVODOPA/CARBIDOPA,07945,100mg,540.0,1
+RESAGELINE,07945,1mg,90.0,1
+LEVOTHRYROXINE,07945,0.1mg,90.0,1
+MODAFINIL,07945,200mg,180.0,1
+ANASTRAZOLE,07945,1mg,90.0,1
+METRONIDAZOLE,07945,0.75ounce,90.0,1
+DICLOFENAC SODIUM,07945,1ounce,90.0,1
+KETOCONAZOLE SHAMPOO,07945,2ounce,25.74,1
+HYDROCORTISONE LOTION,07945,2.5ounce,25.74,1
+OXYTROL PATCH,07945,3.9mg,90.0,1
+Zocor,48165,10mg,90.0,10.00
+Dicyclomine,48165,10mg,90.0,10.00
+Metformin ER,92583,750mg,90.0,10
+simvastatin,92021,40mg,90.0,0
+lisinopril,92021,20mg,90.0,0
+Armour,32180,60mg,90.0,0
+Armour,32180,90mg,90.0,0
+Femora,32180,2.5mg,90.0,0
+Triamterene HCTZ/,32180,37.525mg,90.0,0
+Montelukast,32180,10mg,90.0,0
+Ventolin,10987,0inhalation,306.0,0
+enalapril,03077,10mg,180.0,2.30
+cyclobenzaprine,03077,10mg,180.0,.55
+rosuvaststin,03077,5mg,90.0,7
+levothyroxine,03077,.025mg,90.0,24.42
+enalapril,03077,10mg,180.0,7
+levothyroxine,03077,0.025mg,90.0,2.30
+rosuvastatin,03077,5mg,90.0,024.42
+Levothyroxine,11365,0.075mg,90.0,25
+Levothyroxine,11365,0.75mg,90.0,25
+digoxin,02066,0.125mg,90.0,10.00
+primadone,02066,50mg,90.0,10.00
+atorvvastatin,02066,20mg,90.0,5.00
+Gabapentin,34476,300mg,90.0,0
+d,02066,0125mg,90.0,10
+primadone,02066,50mg,90.0,5.
+atorvastatin,02066,20mg,90.0,5.0
+nuvigil,08854,200mg,90.0,15
+Lisinopril,75839,5mg,90.0,0.00
+simvastain,75839,40mg,90.0,0.00
+levothyroxine,75839,.075mg,90.0,0.00
+leflunomide,75839,20mg,90.0,36.00
+lipitor,07410,10mg,90.0,5
+Donepezil,37650,10mg,90.0,0
+Benazepril,37650,20mg,90.0,0
+Amlodipine,37650,10mg,90.0,0
+Levothyroxine,37650,.05mg,90.0,0
+Simvastatin,37650,20mg,90.0,0
+Atorvastin,03079,.5mg,90.0,8
+Doxasosin,03079,1mg,90.0,8
+Metformin,34983,1500mg,90.0,3.00
+Glimepiride,34983,1mg,90.0,1.50
+Lisinopril,34983,2.5mg,90.0,1.50
+AMIODARONE,60563,200mg,90.0,0
+LOSARTAN,60563,25mg,90.0,0
+ATORVASTATIN,60563,40mg,90.0,0
+Simvastatin,15236,40mg,90.0,0
+Metoprolol,15236,25mg,180.0,0
+Losartan,15236,100mg,90.0,0
+Glimepride,15236,2mg,90.0,0
+Warfarin,15236,5mg,90.0,0
+Multaq,15236,200mg,180.0,125.00
+desvenlafaxine,50310,100mg,90.0,1
+Omeprazole Cap,85338,20mg,90.0,0
+Escialopram,85338,20mg,90.0,0
+Pravastatin,85338,20mg,90.0,0
+Escitalopram,85338,20mg,90.0,0
+Pravastatin Tab,85338,20mg,90.0,0
+Clopidogrel,92672,75mg,90.0,0
+Amlodipine,92672,5mg,90.0,0
+Lisinopril,92672,20mg,180.0,0
+Carvedilol,92672,3.125mg,180.0,0
+Atorvastatin,92672,40mg,90.0,0
+methotrexate,98059,1ml,12.87,15
+levothroxin,76049,75mcg,90.0,0
+simvastatin,76049,20mg,90.0,0
+lisinopril,76049,20mg,90.0,0
+propranol,76049,40mg,180.0,0
+Simvastatin,34135,5mg,90.0,12
+Meloxicam,34135,15mg,90.0,12
+amiod/benazprl,33884,10mg,90.0,0
+Gabapentin,87120,100mg,180.0,0
+avrostatin,48095,80mg,90.0,9.23
+topiramate,48095,50mg,180.0,2.31
+nadalol,48095,40mg,90.0,25.00
+levothyroxine,48095,0.05mg,90.0,23.44
+nortriptyline,48095,50mg,90.0,4.26
+sumatriptan spray,48095,20mg,90.0,72.76
+estradiol,08226,0.5gram,25.74,0
+metoprol,92673,25mg,90.0,0
+amlodipine,92673,10mg,90.0,0
+hydrochlorot,92673,12.5mg,90.0,0
+Carbamazepine,95247,2mg,180.0,135.00
+Duloxetine,95247,1mg,90.0,35.00
+ipratropium,95247,1inhalation,270.0,15.00
+Eliquis,56474,5mg,180.0,400
+Atorvastatin,56474,20mg,90.0,27
+Cardizem CD,56474,120mg,90.0,11
+Metformin,33326,500mg,180.0,0
+lisinopril,92126,1unit,90.0,0
+hydrochlorothizide,92126,1unit,90.0,0
+citalopram,63136,20mg,90.0,7.12
+buspirone,63136,15mg,180.0,12.39
+Sertaline HCL,17044,50mg,180.0,0.00
+Metoprolol Tart,17044,25mg,90.0,0.00
+Lisinopril,17044,2.5mg,180.0,0.00
+Furosemide,17044,80mg,90.0,0.00
+Gemfibrozil,17044,600mg,180.0,0.00
+Lovastatin,17044,20mg,90.0,0.00
+Omeoprazole,17044,20mg,180.0,0.00
+Finasteride,17044,5mg,90.0,0.00
+Potassium CL SR MC,17044,1500mg,90.0,0.00
+Warfarin,17044,5mg,270.0,0.00
+Cyclobenzaprine,30512,10mg,90.0,0
+verapamil,63124,120mg,90.0,10
+Levothyroxine,47304,0.125mg,90.0,10
+Sertraline,19446,75mg,90.0,58.7
+Ezetimibe,61725,10mg,90.0,20
+Rosuvastatin Calcium,61725,20mg,90.0,20
+Pioglitazone,17050,15mg,90.0,105.78
+Sertraline,28752,100mg,90.0,0
+Omeprazole Caps,84045,40mg,90.0,0
+Losartan/HCTZ tab,84045,12.5mg,90.0,0
+Terazosin,76118,10mg,90.0,14
+Atenolol,76118,50mg,180.0,0
+Nifedipine,76118,30mg,90.0,14
+Hydrochlorothiazide,76118,50mg,90.0,0
+Lisinopril,76118,40mg,90.0,0
+simvastatin,85743,20mg,90.0,0
+doxazosin,85743,4mg,90.0,0
+finesteride,85743,5mg,90.0,0
+irbesartin,85743,150mg,90.0,12
+spiriva,85743,0inhalation,90.0,90
+kombiglyze,85743,251000mg,180.0,90
+hydrochloithiazide,85743,25mg,90.0,0
+omprazole,85743,40mg,90.0,0
+lisinopril,85743,20mg,90.0,0
+Warfin,08873,2mg,90.0,0
+PANTOPRAZOLE SODIUM,60050,40mg,45.0,0
+Allopurinol,46514,200mg,90.0,10.00
+Pravatatin Sodium,46514,80mg,90.0,10
+Metoprol TAR,46514,50mg,180.0,10
+Furosemide,46514,40mg,180.0,10
+Klor-Con,46514,20mg,180.0,10
+Simastatin,11741,20mg,90.0,10
+metformin,27801,750mg,180.0,15.00
+baclofen,27801,10mg,180.0,9.00
+valacyclovir,27801,500mg,90.0,16.00
+cymbalta,27801,30mg,180.0,16.00
+ibersartan,27801,150mg,90.0,16.00
+vesicare,27801,5mg,180.0,113.00
+toujeo,27801,35unit,90.0,137.00
+glipizide,60501,10mg,90.0,0
+tradjenta,60501,5mg,90.0,0
+clopidogrel,60501,75mg,90.0,0
+losartan,60501,100mg,90.0,0
+atorvastatin,60501,40mg,90.0,0
+amlodipine,60501,10mg,90.0,0
+Pantoprazole,77406,40mg,90.0,10.00
+Hydrochlorothiazide,77406,26mg,90.0,10.00
+Fluticasone,77406,50mcg,180.0,10.00
+lisinopril,97760,20mg,90.0,5
+levothyroxine,97760,150mcg,90.0,5
+Methimazole,64055,10mg,90.0,0
+DiltiazemCDcap,64055,240mg,90.0,90
+Hydrochlorothizide,64055,25mg,90.0,0
+Warfarin,64055,6mg,90.0,0
+Warfarin,64055,7mg,12.87,0
+Combigan,64055,1ml,180.0,90
+metoprolol succ er tab,92545,50mg,90.0,0
+atorvastatin,92545,40mg,90.0,0
+fluticasone,92545,50mcg,90.0,0
+Lisinopril,98250,20mg,90.0,0
+Verapimil,98250,240mg,180.0,0
+Lovistatin,98250,20mg,90.0,0
+Tamsulosin,98250,4mg,90.0,0
+Concerta,10530,18mg,90.0,70
+Methylphenidate,10530,10mg,90.0,30
+concerta,10530,18mg,90.0,70
+Valtrex,08527,500ml,90.0,15
+Invokanna,28723,10mg,90.0,20
+Humalog,28723,40ml,540.0,20
+Toujeo,28723,80ml,90.0,20
+Rosuvastatin,28723,5mg,90.0,20
+alprazolam,35967,1mg,90.0,3.00
+Cypionate,35967,1CC,25.74,28.00
+Sildenafil,35967,100mg,90.0,14.00
+tadalafil,35967,20mg,90.0,32.00
+LamoTRigine,03264,200mg,180.0,1
+RisperDONE,03264,2mg,90.0,0
+captopril,85614,50mg,180.0,0
+synthroid,85614,50mg,90.0,0
+Losartan/hctz tab,12534,1mg,90.0,0
+simvastatin,12534,1mg,90.0,0
+omeprazole,12534,1mg,90.0,0
+finasteride,12534,1mg,90.0,0
+tamsulosin,12534,1mg,90.0,0
+montelukast,19971,10mg,90.0,0
+tamoxifen citrate,19971,20mg,90.0,0
+levothyroxine,19971,.05mg,90.0,0
+ipratropium Bromide nasal solution,19971,15ml,180.0,0
+fluticasone proprionate,19971,16gram,180.0,0
+rizatriptan,19971,10mg,90.0,0
+Levothyroxine,10026,0.137mcg,90.0,10.00
+metoprolol tart tab,33844,50mg,90.0,0
+pravastatin,33844,40mg,90.0,0
+Ibuprohene,89122,600ml,90.0,0
+Fluexetine,55443,40mg,90.0,5.25
+Allopurinol,46176,300mg,90.0,0
+Simvastatin,46176,40mg,90.0,0
+Lopressor,46176,50mg,180.0,0
+Lisinopril HCTZ,46176,20mg,180.0,0
+Bupropion,46176,150mg,180.0,0
+Metformin,46176,500mg,180.0,0
+simvastatin,98001,10mg,90.0,0
+metoprolol,98001,50mg,90.0,0
+allopurinol,98001,100mg,90.0,0
+Furisemide,36456,40mg,180.0,0
+amlod/benazprl,62025,10mg,90.0,25
+METFROMIN,63701,20mg,90.0,0
+lorantan,95073,40mg,90.0,0
+metoprolo,07418,50mg,270.0,5
+tamsulosen,07418,.4mg,90.0,5
+rosuvasratin,07418,40mg,90.0,5
+metformin,07418,1000mg,180.0,5
+Lamotrigine,60565,150mg,90.0,0
+Divalproex ER,60565,500mg,270.0,0
+Buspirone,60565,15mg,180.0,0
+Benazepril,*2835,20mg,90.0,00.00
+Simvastatin,*2835,20mg,90.0,00.00
+Lorazepam,08831,1mg,90.0,10
+Vyvanse,48412,40mg,90.0,87.5
+Bupropion XL,89178,300mg,90.0,117
+omeprazole,98506,20mg,180.0,20
+Tamsulosin,76179,.4mg,90.0,0
+Meloxicam,76179,15mg,90.0,0
+Ropinirole,76179,.25mg,90.0,0
+Simvistatin,94127,40mg,90.0,0
+Levothyroxine,94127,1mg,90.0,0
+Losartan,94127,100I.U.,90.0,0
+ambien,94127,10mg,90.0,0
+Hydroxyures,81212,500mg,64.25999999999999,0
+Levothyroxine,81212,0.1mg,90.0,0
+Metformin,81212,1000mg,180.0,0
+Naproxen,81212,500mg,90.0,0
+Lisinopril,79924,10mg,90.0,18.39
+LOSARTAN/HCTZ,46910,1unit,90.0,0
+triamt/hCTZ,72115,37.5mg,90.0,0.00
+ATORVASTATIN,72115,40mg,90.0,0.00
+CELECOXIB,72115,200mg,90.0,90.00
+FENOFIBRATE,72115,145mg,90.0,0.00
+TRAZODONE,72115,150mg,90.0,0.00
+AMPLODIPINE,72115,10mg,90.0,0.00
+BENAZEPRIL,72115,40mg,90.0,0.00
+OXYBUTYNIN,72115,5mg,90.0,90.00
+LINZESS,72115,145mcg,12.87,0.00
+ANORO,72115,62.5mcg,90.0,0.00
+Amlodipine,98564,10mg,90.0,0.00
+Letrozole,98564,2.5mg,90.0,0.00
+Atorvastatin,98564,20mg,90.0,0.00
+Eliquis,75252,2mg,180.0,0
+gabepiten,63044,300mg,270.0,0
+Simvastatin,15239,1unit,90.0,0
+Losartin,15239,1unit,90.0,0
+Hydrochlorthiaz,15239,1unit,90.0,0
+Gabapentin,15239,1unit,270.0,0
+Imitrex,80921,100mg,90.0,0.
+losartan,80921,100mg,90.0,0.
+chlorthalidone,83704,25mg,90.0,0
+losartan,83704,50mg,180.0,0
+NIFEdipine XL TAB 30mg,30736,1mg,90.0,0
+omeprazole,30736,1mg,90.0,0
+rosuvastatin,30736,1mg,90.0,0
+valacyclovir,30736,1mg,90.0,1
+Omperzale,77389,40mg,90.0,10
+Olmesartan,85268,20mg,90.0,2.00
+Levothyroxine,85268,.05mg,90.0,2.00
+Atorvastatin,85268,20mg,90.0,2.00
+Estradiol Transdermal,85268,.05mg,25.74,32.00
+xarelto,85268,20mg,90.0,145.00
+lovasstatin,01960,40mg,90.0,0
+atenolol,43528,50mg,90.0,0
+SERTILENE,60551,100mg,90.0,0
+ATORVASTATIN,60551,20mg,90.0,20.00
+Valsartan,07728,80mg,90.0,2.09
+Glimepride Tab,08003,4mg,90.0,5.00
+Rouvastatin Tabs,08003,10mg,90.0,8
+Montelukast,08003,10mg,90.0,5.00
+Bystolic Tabs,08003,5mg,90.0,5.00
+Irbesartan,08003,300mg,90.0,5.00
+Verapamil Hcl Sr Cap,08003,180mg,90.0,9
+Sertraline Hcl,08003,50mg,90.0,2.10
+Welchol Powder,08003,3.75gram,90.0,31.00
+Victoza,08003,18ml,90.0,31.00
+Farxiga,08003,5mg,90.0,53.00
+Eliquis,08003,5mg,180.0,31.00
+Doxazosin,76028,8mg,90.0,14
+Propranolol,20602,10mg,90.0,0
+Hydrochlorothiazide,20602,50mg,90.0,0
+Mibelas 24 fe,20602,1mg,90.0,0
+Indomethacin,30043,50mg,90.0,1
+xulane,15090,150mg,12.87,4.25
+Simvistatin,01827,20mg,90.0,7
+Metformin,43701,1000mg,180.0,0
+Albuterol,43701,180mcg,180.0,0
+Atorvastin,43701,20mg,90.0,0
+Symbicort,43701,160inhalation,360.0,0
+Carvedilol,43701,12.6mg,180.0,0
+Gabapentin,43701,400mg,270.0,0
+Toujeo 300 units/ml,43701,35ml,90.0,0
+Hyzaar,43701,100mg,90.0,0
+Spirits Respimat,43701,2.5mcg,180.0,0
+Pen needles,43701,1I.U.,90.0,0
+Hyzaar,43701,100mg,90.0,1
+Metformin,43701,1000mg,180.0,1
+Actos,43701,45mg,90.0,1
+Toujeo,43701,35unit,90.0,1
+Gabapentin,43701,400mg,270.0,1
+Carvedilol,43701,12.5mg,180.0,1
+Symbicort,43701,160inhalation,360.0,1
+Atorvastatin,43701,25mg,180.0,1
+Proair hfa,43701,108inhalation,540.0,1
+Synthroid,34293,50mcg,90.0,0
+Atorvastatin,34293,20mg,90.0,0
+bisoprolol/HCTZ,34293,2.5mg,90.0,0
+Omerprazole,34293,40mg,90.0,0
+Latanoprost Opth Soln,34293,2.5ml,90.0,0
+Fluticasone Propionate,34293,50mcg,180.0,0
+Estrace Cream,34293,1gram,90.0,0
+Triamcinolone Cream,34293,15mg,90.0,0
+simvastatin,75783,20mg,90.0,0
+metoprolol such er,75783,25mg,90.0,0
+Tramadol HCL,63123,50mg,360.0,1.27
+Viibryd,85268,40mg,90.0,10
+Montelukast,85268,10mg,90.0,11.84
+Blisovi FE,85268,20mcg,90.0,0
+Fluocinonide,85268,1unit,90.0,38.28
+Cardizem,01057,120mg,90.0,90
+tamsulosin,14513,4mg,90.0,0
+metoprolol,14513,50mg,90.0,0
+accupril,85374,40mg,90.0,15.00
+norvasc,85374,10mg,90.0,5.00
+Humalog Mix,08244,40unit,90.0,0.00
+Victoza,08244,1.2ml,90.0,0.00
+Amlod/atorva,08244,10.40mg,90.0,0.00
+Losartan,08244,100mg,90.0,0.00
+Gabapentin,08244,300mg,270.0,0.00
+losartin,19438,10025mg,90.0,1
+diltiazem,19438,180mg,90.0,5
+astorvastatin,19438,20mcg,90.0,1
+METFORMIN,19438,1000mg,180.0,1
+JARDIANCE,19438,25mg,90.0,1
+Amlod/Valsar,10913,160mg,90.0,0
+xarelto,60463,20mg,90.0,50
+diltiazem,60463,180mg,90.0,20
+atorvastatin,60463,20mg,90.0,20
+hydrochlorothiazi,60463,25mg,90.0,5
+eliquis,74011,4mg,180.0,0
+Atorvastatin,75075,40mg,90.0,0
+Buproprion XL,75075,300mg,90.0,0
+Bystolic,75075,5mg,90.0,87.00
+Furosemide,75075,20mg,90.0,0
+Irbesartan,75075,150mg,90.0,0
+Pantoprazole SOD TB,75075,40mg,90.0,0
+Tramadol HCL,75075,50mg,540.0,0
+sertraline,02478,100mcg,90.0,10
+liothyronine,02478,25mcg,90.0,10
+levothyroxine,02478,.88mcg,90.0,10
+flovent,02478,110mcg,180.0,10
+ProAir hfs,02478,90mcg,90.0,10
+Cialis,78254,20mg,8.0,25
+lovastatin,33467,20mg,90.0,6
+atenolol,33467,50mg,90.0,6
+amlodipine,33467,10mg,90.0,6
+Proair,17774,90mcg,540.0,50
+pantroprazole,03103,40mg,90.0,10
+montilukast,32820,10mg,90.0,1
+flomax,63703,0.4mg,90.0,0
+lisinopril,63703,20mg,90.0,0
+omeprazole,63703,20mg,90.0,0
+amlodipine,98092,10mg,90.0,6
+Beyaz,46220,0.02mg,90.0,100
+Valsartan,08753,320mg,180.0,23
+metropolol,o6716,2mg,180.0,15
+Labetalol,46748,50mg,180.0,0
+Bupropion hcl xl,91320,300mg,90.0,10
+Lasix,34446,40mg,90.0,0
+Bupropion xl,92394,150gram,90.0,30
+unknown,08865,0.5ml,90.0,3
+metformin hydrochloride,23228,500mg,180.0,10.00
+chestor,23228,20mg,90.0,10.00
+tamsulosin hlc,23228,0.4mg,180.0,10.00
+losartan,23228,100mg,90.0,10.00
+amlodipine besylate,23228,10mg,90.0,10.00
+omeprazole,23228,20mg,180.0,10.00
+bystolic,23228,20mg,90.0,10.00
+allopurinol,23228,100mg,90.0,10.00
+finasteride smg,23228,5mg,90.0,10.00
+furosemide,23228,20mg,90.0,10.00
+myrbetriq,23228,25mg,90.0,10.00
+cialis,23228,5mg,90.0,10.00
+Eliquis,77070,5mg,180.0,485.00
+Metformin,77070,350mg,90.0,0
+Gabapentin,77070,1800mg,90.0,0
+Amiodarone,77070,100mg,90.0,0
+Allopurinol,77070,100mg,90.0,0
+Carvedilol,77070,3.125mg,180.0,0
+Amilodipine,77070,5mg,90.0,0
+Temazepam,95403,15mg,90.0,0
+Gabapentin,95403,600mg,270.0,0
+Valsartan,95403,160mg,90.0,0
+Losartan,95403,50mg,90.0,0
+Ketoconazole,95403,2unit,90.0,0
+AmLODIPine,95403,5mg,90.0,0
+Roxycodone,07083,3mg,270.0,3
+Omeprazole,07753,40mg,90.0,0
+Sertraline,07753,100mg,90.0,0
+Acyclovir,07753,4mg,270.0,0
+Tamulosin,92143,.4mg,90.0,0
+Simvastin,92143,.4mg,90.0,0
+levothyroxine,98203,50mcg,90.0,0
+liothyronine,98203,5mcg,90.0,0
+amlodipine,98203,5mg,90.0,0
+atorvastatin,98203,20mg,90.0,0
+gabapentin,98203,300mg,180.0,0
+meloxicam,98203,7.5mg,90.0,0
+Levothyroxine,60067,50mcg,90.0,7.74
+Losarten,28805,100mg,90.0,3.75
+advair,28805,500mcg,180.0,8.75
+fluticasone,28805,50mcg,180.0,3.75
+levothyroxine,28805,0.175mg,90.0,3.75
+baclofen,28805,10mg,180.0,3.75
+omeprazole,28805,20mg,90.0,3.75
+labetalol,28805,200mg,180.0,3.75
+amolopidine,28805,5mg,90.0,3.75
+Losartan,32526,100mg,90.0,6.00
+Glipizide,32526,4mg,90.0,5.78
+Metformin,32526,1000mg,180.0,6.00
+Nifedipine,32526,90mg,90.0,28.00
+Glipizide,32526,5mg,90.0,5.78
+HydroCHLOROthiaz,04861,25mg,90.0,0
+Otezla,04861,30mg,180.0,0
+Duloxetine,04861,20mg,90.0,131.00
+Methoterate,04861,2.5mg,102.87,0
+Cyclobenzaprine,04861,10mg,90.0,0
+Montelukast,04861,10mg,90.0,0
+Simvastatin,04861,20mg,90.0,0
+Atorvastatin,53156,20mg,90.0,0
+Clopidogrel Bisulfate,53156,75mg,90.0,0
+Amlodopine/Olmesartan,53156,40mg,90.0,0
+WARFARIN,11208,7.5mg,90.0,6.00
+LOSARTAN,11208,100mg,90.0,6.00
+TRIAMTERENEHCTZ,11208,375mg,90.0,12.00
+ATENOLOL,11208,50mg,180.0,12.00
+METFORMIN HCL,11208,500mg,180.0,12.00
+Alphagan,48915,2ml,180.0,10.00
+Latanoprost,48915,1ml,90.0,1.00
+Dorzolamide,48915,2ml,180.0,1.00
+Simvastatin,48915,1mg,90.0,1.00
+Citalopram,48915,1mg,90.0,1.00
+Venlafaxine,48915,1mg,90.0,1.00
+Nexium,78244,40mg,180.0,45
+amlodipine,83605,10mg,90.0,0.00
+ATENOLOL,83605,50mg,90.0,0.00
+levothyroxine,83605,0.075mg,90.0,0.00
+lisinopril,83605,20mg,90.0,0.00
+omeprazole,83605,40mg,90.0,0.00
+simvastatin,83605,20mg,90.0,0.00
+Losartan,32765,50mg,90.0,0
+omeprazole,34287,20mg,90.0,0
+escitalopram,53189,10mg,90.0,0
+depacote,07666,1500mg,90.0,33
+lithium,07666,600mg,90.0,5
+lipitor,07666,5mg,90.0,8
+latanaprost,07666,1CC,90.0,5
+metropol succ er tb,47273,100mg,180.0,0
+simvastatin tab,47273,40mg,90.0,0
+benazepril/hctz tab,47273,20mg,90.0,0
+verapamil sr cap,47273,240mg,90.0,96.00
+tujeo solo 300,06260,42ml,90.0,0
+glipizide,06260,05mg,180.0,0
+Belsomra,06260,015mg,90.0,0
+fluticasone propionate 50,06260,02mcg,90.0,0
+carvedilol,06260,25mg,180.0,0
+lisinopril,06260,40mg,90.0,0
+omeprazole,06260,40mg,90.0,0
+allopurinol,06260,100mg,90.0,0
+pravastatin sodium,06260,020mg,90.0,0
+levothyroxine sodium,06260,100mcg,90.0,0
+chlorthalidone,06260,25mg,90.0,0
+clonidine HCI,06260,.2mg,180.0,0
+PAROXETINE,54847,1mg,90.0,0
+Carvedilol,63020,25mg,180.0,0
+Omeprazole,63020,40mg,12.87,0
+Hydralazine,63020,50mg,180.0,0
+Levothyroxine,63020,0.05mg,90.0,0
+Metformin,63020,500mg,90.0,0
+Atorvastatin,63020,80mg,90.0,0
+Breo,33897,62.5mcg,90.0,00
+Incruse,33897,100mcg,90.0,00
+Furosemide,33897,20mg,90.0,00
+Amlopidine,33897,5mg,90.0,00
+Clopidogrel,33897,75mg,90.0,00
+Glipizide,33897,5mg,180.0,00
+Carvedilol,33897,12.5mg,90.0,00
+Rosuvastatin,33897,40mg,90.0,00
+Metformin er,10805,500mg,90.0,10.00
+simvastatin,10805,40mg,90.0,1.00
+Escitalopram,10805,20mg,90.0,10.00
+Zolpidem,10805,10mg,90.0,1.00
+Lorazaepam,10805,1mg,270.0,10.00
+Ranitidine,80120,150mg,90.0,4
+Atorvastatin,80120,40mg,90.0,4
+Lisinopril,80120,5mg,90.0,4
+Prednisone,80120,2mg,90.0,4
+A bunch,29655,5gram,90.0,5
+clopidogrel,44406,75mg,90.0,0
+premarin,44406,0.3mg,90.0,189
+amlodipine,44406,5mg,90.0,0
+meloxicam,44406,15mg,90.0,0
+atorvastatin,44406,40mg,90.0,0
+topril xl,08759,25mg,90.0,0
+lipitor,08759,10mg,90.0,0
+coxaar,08759,25mg,90.0,0
+Amlodipine,24228,5mg,90.0,0
+Methimazole,32174,5mg,180.0,5
+Metroporol,07663,25mg,90.0,10
+Fosinopril,08859,40mg,90.0,0
+Simvastatin,08859,40mg,90.0,0
+atenolol,44484,25mg,90.0,0
+atorvastatin,44484,20mg,90.0,0
+Montelukast,44484,10mg,90.0,0
+Symbicort,44484,160inhalation,90.0,50
+aricept,48507,5mg,90.0,20.00
+dorzolamide hcl/timolol maleate,48507,10CC,180.0,20.00
+latanoprosr,48507,10CC,90.0,20.00
+metoprolol,48507,12.5mg,180.0,20.00
+prilosec,48507,20mg,90.0,20.00
+gabapentin,48507,200mg,180.0,4.78
+coumadin,48507,3mg,77.13,20.00
+pravastatin,48507,40mg,90.0,20.00
+duloxetine,48507,60mg,90.0,20.00
+bisoprol,97404,10mg,90.0,0
+acyclovir,97404,400mg,270.0,0
+losartan,97404,100mg,90.0,0
+finasteride,97404,5mg,90.0,0
+amlodlpine,97404,5mg,90.0,0
+tamsulosin,97404,4mg,180.0,0
+atorvastatin,97404,40mg,90.0,0
+metformin,97404,500mg,180.0,0
+advair,97404,250mcg,180.0,0
+gabapentin,12524,300mg,270.0,0
+levothyroxine tab,95383,0.075mg,90.0,0
+simvastatin tab,95383,20mg,90.0,0
+lisinopril-hctz tab,95383,20mg,90.0,0
+Metformin tab,95383,1000mg,180.0,0
+glipizide xl tab,95383,2.5mg,90.0,0
+fenofibrate,06716,160mg,90.0,0
+mrtoprolol tart,06716,25mg,180.0,0
+pravastatin sodium,06716,40mg,90.0,0
+pantoprazole sodium,06716,20mg,90.0,0
+escitalopram tab,06716,20mg,90.0,0
+triamt/hctz cap 37.5,06716,25mg,90.0,0
+losartan potassium,06716,100mg,90.0,0
+mircette,07860,0mg,90.0,5
+viibryd,07860,20mg,90.0,10
+BELSOMRA,06260,015mg,90.0,0
+TOUJEO,06260,42ml,90.0,0
+FLUTICASONE,06260,50mcg,90.0,0
+CARVEDILOL,06260,25mg,90.0,0
+LISINOPRIL,06260,40mg,90.0,0
+OMEPRAZOLE,06260,40mg,90.0,0
+pravastatin,06260,20mg,90.0,0
+levothyroxine,06260,100mg,90.0,0
+clonidine hci,06260,0.2mg,180.0,0
+Levothyroxine,07830,200mcg,90.0,20
+Tramadol,07830,150mg,90.0,30
+levothyroxine,77845,50mg,90.0,15
+norvac,08008,5mg,90.0,5
+Brillianta,12302,60mg,180.0,1000.38
+Atenolol,12302,25mg,90.0,3.60
+Nitroglycerin,12302,0.4mg,90.0,33.03
+Tamsulosin,12302,0.4mg,90.0,52.92
+Finasteride,12302,5mg,90.0,28.46
+Omeprazole,12302,40mg,90.0,42.40
+Atorvastatin,12302,40mg,90.0,31.43
+propranol,53154,160mg,90.0,10
+Omeprazole,32250,20mg,90.0,10
+Warfarin,21236,5mg,90.0,0
+Hydrochlorothiaz25,21236,25mg,90.0,0
+Atorvastatin,21236,40mg,90.0,0
+Allopurinol,21236,100mg,180.0,0
+Hydralazine,21236,100mg,270.0,0
+Carvedilol,21236,25mg,180.0,0
+Hydrochlorothiaz,21236,25mg,90.0,0
+Synthroid,08226,50mcg,90.0,10.00
+Reloxifene,08226,60mg,90.0,5.00
+Valacyclovir,08226,500mg,90.0,5.00
+Vagifem,08226,10mcg,90.0,5.00
+lisinopril,34797,5mg,90.0,10
+levothyroxine,34797,0.1mg,90.0,20
+pantoprazole sod ec tb,34797,40mg,180.0,20
+rosuvastatin,34797,5mg,90.0,10
+ibuprofen,34797,800mg,90.0,20
+clonazepam,34797,0.5mg,90.0,20
+omerprazole,60515,40mg,90.0,20
+levothyroxine,46807,0.025mg,90.0,0
+atenolol,33146,1mg,90.0,10
+Metoprolol Tartrrate,10589,25mg,180.0,0
+Amlodipine,10589,5mg,90.0,0
+clopidogrel,10589,75mg,90.0,0
+Atrovastatin,10589,80mg,90.0,0
+Citalopram,10589,20mg,90.0,0
+BuProPion XL,77377,150mg,90.0,20.00
+Escitalopram,77377,20mg,90.0,18.68
+Irbesartan,96816,300mg,90.0,9.00
+Simvastatin,96816,20mg,90.0,7.79
+SIMVASTITIN,92082,40mg,90.0,0
+TRIAMT/HCTZ,92082,50mg,90.0,0
+Amitriptyline,89533,10mg,90.0,1
+Gabapentin,89533,600mg,270.0,1
+Nexium,89533,40mg,90.0,1
+Coreg,89533,6.25mg,180.0,1
+asacol,89533,800mg,270.0,1
+Budesonide,89533,3mg,180.0,1
+Latandpost,89533,2ml,90.0,1
+Metrogel,89533,1ounce,90.0,1
+Oxycodone,89533,5mg,90.0,1
+Fluctasone,08533,2inhalation,90.0,9
+tretnal,07869,400mg,180.0,30
+metformin,72601,500mg,90.0,0
+Fluoxetine,20146,20mg,90.0,13.96
+Metformin,30542,2000mg,90.0,1
+Losartan/HCTZ,32744,50mg,90.0,0
+Metformin,32744,500mg,180.0,0
+Rosuvastatin,32744,10mg,90.0,0
+Fenofibrate,32744,160mg,90.0,0
+Diltiazem,97306,120mg,90.0,3
+Atorvastatin,97306,10mg,90.0,0
+Tamsulosin,97306,.4mg,90.0,3
+LISINOPRIL-HCTZ,74070,10mg,90.0,0.00
+AMANTADINE,74070,100mg,90.0,0.00
+Atenolol,48176,50mg,180.0,2.67
+Cosar,48176,100mg,90.0,5.67
+Metformin,48176,500mg,90.0,1.72
+Omeprazole,48176,40mg,90.0,7.88
+Pravastatin,48176,40mg,90.0,10.00
+Omerprazole,60515,40mg,90.0,0
+clopidogrel,55026,75mg,90.0,0
+toprol xl,32407,75mg,90.0,30
+januvia,21048,100mg,90.0,20.00
+Metroprol,21048,100mg,90.0,10.00
+Valsartan/HCTZ,21048,160mg,90.0,10.00
+Niacin ER,21048,1000mg,90.0,10.00
+Paxil,77017,30mg,90.0,0
+Metformin,44129,500mg,90.0,0
+Metformin er,44129,500mg,90.0,0
+Lisinpril-hctz,44129,10mg,90.0,0
+Paxil,44129,40mg,90.0,0
+Levrothyroxine,44129,0.15mg,90.0,0
+Atorvastin,44129,10mg,90.0,0
+Metoprolol,44129,25mg,180.0,0
+SIMVASTATIN,92845,20mg,90.0,0
+LEVOTHYROXINE,92845,.075mg,90.0,0
+Potassium CL SR MC TB 10MEQ,60178,1mcg,90.0,0
+Tirosint,08850,88mcg,90.0,120
+candestartan,08850,16mg,90.0,120
+dilitiazem hydrochloride,08850,240mg,90.0,120
+Triamterene hxtz,08850,37.5unit,90.0,20
+citalopram,39567,10mg,180.0,0
+omeprazole,39567,20mg,180.0,0
+simvastatin,39567,40mg,90.0,0
+lisinopril,39567,40mg,90.0,0
+triamterene-hydrochlorothiazide,39567,37mg,90.0,0
+Calcium Acetate,33881,667mg,270.0,0
+Amiodorone,33881,100mg,90.0,0
+Hydrazaline,33881,10mg,270.0,0
+Levothryxon,33881,150mg,90.0,0
+Warfarin,33881,5mg,90.0,0
+Symvastatin,33881,20mg,90.0,0
+Januvi,21048,100mg,90.0,10
+Venlafexine,80128,300mg,90.0,0
+metformin,71236,1000mg,180.0,0
+amlodipine,71236,10mg,90.0,0
+levothyroxine,71236,0.125mg,90.0,0
+hyrochlorothiaz,71236,25mg,90.0,0
+atorvastatin,71236,20mg,90.0,0
+lantus injection,71236,15unit,90.0,90.00
+benicar hct,43026,20mg,90.0,20
+Rexulti,44839,2mg,90.0,50
+Trintellix,44839,20mg,90.0,100.00
+Propranolol,44839,10mg,90.0,30
+Clomipramine,44839,50mg,90.0,30
+Fluoxetine,44839,20mg,180.0,50
+Hydroxychloroquine,44839,200mg,180.0,50
+omeprazole,46214,40mg,90.0,0
+simvastatin tab,46214,40mg,90.0,0
+metoprolol succer tab,46214,50mg,90.0,0
+fenofibrate tab,46214,54mg,90.0,0
+Lisinopril,32223,10mg,90.0,5
+Duloxetine,94403,60mg,90.0,30
+ATORVASTATIN,19103,40mg,90.0,755.87
+HYDROCLOROSIDE,19103,12.5mg,90.0,79.19
+Esomeprazol mag,43112,40mg,90.0,10
+pantoprazole,66086,40mg,90.0,3.50
+escitalopram,66086,20mg,90.0,3.50
+atorvastatin,66086,20mg,90.0,3.50
+tizanidine,66086,2mg,180.0,3.50
+trazodine,66086,100mg,90.0,3.50
+gabapentin,66086,300mg,540.0,3.50
+fenofibrate,53110,160mg,90.0,10
+metoprolol,53110,100mg,90.0,10
+atorvastatin,53110,40mg,90.0,10
+lisinopril,53110,20mg,90.0,10
+pantoprazole,53110,40mg,180.0,10
+citalopram,39567,10mg,90.0,0
+lisinoprol,39567,40mg,90.0,0
+amlodipine,32792,300mg,180.0,0
+Spironolactone,08540,50mg,180.0,3
+ProAir,08836,1inhalation,90.0,30
+Gabapentin,28211,400mg,90.0,21
+Tekturna,61615,300mg,90.0,100
+Metoprolol TARTTRATE,10589,25mg,180.0,0
+Clopidogrel,10589,75mg,90.0,0
+atovastatin,75075,40mg,90.0,0
+Omeprazole,21061,40mg,90.0,0
+Hydralaxine,21061,100mg,270.0,0
+Carvedilol,21061,12.5mg,180.0,0
+Isosorbide,21061,20mg,180.0,0
+Olmesartan,21061,40mg,90.0,0
+Potassium,21061,20mg,90.0,0
+Doxazosin,21061,8mg,90.0,0
+Parvastatin,21061,40mg,90.0,0
+Allopurinol,21061,100mg,180.0,0
+Furosemide,21061,20mg,180.0,0
+Atorvastatin,85006,10mg,90.0,15
+Losartan,85006,100mg,90.0,7
+Benazepril,92128,10mg,90.0,3
+Metformin,06335,500mg,180.0,1.25
+Lipitor,06335,20mg,90.0,1.25
+escitalopram,06335,20mg,90.0,1.25
+acyclovir,06335,400mg,90.0,1.25
+atorvastatin,10583,10mg,90.0,25.87
+Hydrochlorothiaz,10941,25mg,90.0,12.50
+Irbesartan,10941,300mg,90.0,12.50
+Lovastatin,92807,40mg,90.0,0
+allopurinol,92346,100mg,90.0,0
+amlodipine,92346,5mg,90.0,0
+lovastatin,92346,40mg,90.0,0
+lisinopril-hctz,92346,5mg,90.0,0
+Levothyroxine,48835,0.1mg,90.0,20
+Atorvastatin,48835,10mg,12.87,20
+Simvastatin,04530,40mg,90.0,0
+Hctz,04530,025mg,90.0,0
+Metrprolal Tartrate,04530,0100mg,180.0,0
+Lorazepam,04530,.5mg,90.0,0
+Oxybutynin,04530,05mg,180.0,0
+Lisinopril,04530,05mg,180.0,0
+Pulmicort,93024,180mcg,180.0,0
+Synthroid,93024,.112mg,90.0,0
+advair,13783,01inhalation,180.0,133
+spriva,13783,1inhalation,90.0,0133
+Junel,19146,0.02mg,90.0,0
+Levothyroxixine,29576,0.1mg,90.0,0
+Gabapentin,29576,600mg,180.0,0
+Atorvastin,29576,20mg,90.0,0
+Trazadone,29576,50mg,180.0,0
+Tramadol,29576,50mg,90.0,0
+Estradiol,29576,0.01gram,12.87,0
+hydrochlorothiaz,06880,25mg,90.0,0
+synthroid,06880,137mcg,90.0,0
+quinapril,06880,40mg,90.0,0
+amlodipine,06880,10mg,90.0,0
+metoprolol succ er,06880,25mg,90.0,0
+eliquis,06880,5mg,180.0,0
+Quinapril,11428,20mg,90.0,0
+nexium,11428,40mg,90.0,124.25
+tamasulin,85140,4mg,180.0,39
+finasteride,29388,1mg,90.0,5.69
+Alvogen,29388,100mg,180.0,4.70
+Trazodone,76844,150mg,90.0,0.00
+Atenolol,76844,50mg,90.0,0.00
+Esomeprazole,76844,40mg,90.0,0.00
+Ramipril,76844,10mg,180.0,0.00
+Tresiba,76844,50unit,90.0,8.50
+Novolog,76844,10unit,270.0,8.50
+Enbrel,76844,50unit,12.87,0.00
+armour thyroid,89123,90mg,90.0,36
+Trazadone,80206,50mg,90.0,4.00
+Atorvastatin,80206,20mg,90.0,4.00
+metformin,80206,500mg,90.0,9.34
+Duloxetene,80206,60mg,180.0,141.00
+Duloxetene,80206,30mg,180.0,141.00
+Hydroxychloroquine,07052,200mg,360.0,10
+Simvastatin,07052,40mg,90.0,10
+Prednisone,07052,5mg,60.0,14
+Atorvastatin,93041,10mg,90.0,5
+Allopurinol,53073,100mg,90.0,0
+lovastatin,95003,40mg,180.0,0
+levothyroxine,95003,0.137mg,38.07,0
+levothyroxine,95003,0.125mg,51.38999999999999,0
+acyclovir,95003,400mg,1.0,0
+Lipitor,35803,40mg,90.0,0
+Metoprolol,80134,50mg,90.0,0
+Chlorthalidone,80134,25mg,90.0,0
+Simvistatin,80134,40mg,90.0,0
+Atorvastatin,61277,1mg,90.0,0
+ranitidine,61277,1mg,180.0,0
+oxybutynin,61277,1mg,180.0,0
+pantoprazole sod ec tb,61277,1mg,90.0,0
+Mononessa,78006,0.035mg,90.0,0
+AmLODIPine,32962,5mg,90.0,0
+Sertraline hcl,32962,0100mg,90.0,0
+celecoxib,32962,200mg,90.0,0
+simvastatin,32962,020mg,90.0,0
+0,32962,0mg,90.0,0
+allopurinol,63379,300mg,90.0,0
+alprazolam,63379,.25mg,270.0,0
+aspirin,63379,81mg,90.0,0
+citalopram,63379,40mg,90.0,0
+clonidine,63379,.1mg,180.0,0
+fenifibrate,63379,160mg,90.0,0
+gabapentin,63379,300mg,180.0,0
+glimepiride,63379,4mg,90.0,0
+hyradlazine,63379,50mg,180.0,0
+lactulose,63379,30ml,180.0,0
+metformin ER 24,63379,500mg,180.0,0
+minoxidil,63379,10mg,90.0,0
+pantoprazole,63379,40mg,90.0,0
+pravastatin,63379,20mg,90.0,0
+spironolactone,63379,25mg,90.0,0
+torsemide,63379,20mg,90.0,0
+tramadol,63379,50mg,270.0,0
+vitamin B12,63379,1000mcg,90.0,0
+warfarin,63379,6mg,90.0,0
+Calcitriol,34614,0.5mg,90.0,0
+lisinopril,60401,40mg,90.0,0
+pentoxifylline er,60401,400mg,180.0,0
+clopidogrel,60401,75mg,90.0,0
+atorvastatine,60401,90mg,90.0,0
+pantoprazole,60401,40mg,90.0,0
+topomax,60401,25mg,180.0,0
+pentoxifrlline er,60401,40mg,180.0,0
+atorvastatine,60401,10mg,90.0,0
+simvastatin,01827,20mg,90.0,3.25
+carvedilol,63379,12.5mg,180.0,0
+citalopram,63379,20mg,90.0,0
+glimepiride,63379,2mg,180.0,0
+levothyroxine,63379,150mcg,90.0,0
+losartan-hydrochlorothiazide 100,63379,12.5mg,90.0,0
+metformin,63379,1000mg,180.0,0
+pantoprazole EC,63379,40mg,180.0,0
+pravastatin,63379,40mg,90.0,0
+topiramate,63379,50mg,180.0,0
+nortriptyline cap,63379,10mg,270.0,0
+Amlod/Benazpril,07008,5mg,180.0,5.00
+Omega-3-Acid,07008,1gram,180.0,5.00
+Simvastatian,32962,020mg,90.0,0
+celecoxib,32962,0200mg,90.0,37.00
+sertraline,32962,100mg,90.0,0
+Omega-3-Acid Cap,07008,1gram,180.0,5.00
+atorvastatin,48827,20mg,90.0,6.32
+Etodolac,52301,400mg,180.0,131
+metroprolo succ er,29642,50mg,90.0,0
+Synthroid,29642,.075mg,90.0,0
+Metformin,29642,1000mg,180.0,0
+Farxiga,29642,10mg,90.0,0
+atorvastatin,29642,40mg,90.0,0
+nucynta,55435,100mg,270.0,1000
+Triamt/HCTZ,96003,37.5mg,90.0,0.00
+Amlodipine,96003,5mg,90.0,0.00
+amlodipine tab,43351,10mg,90.0,0
+lovastation,43351,40mg,90.0,0
+lisinopril,43351,40mg,90.0,0
+trazodone,16146,650mg,90.0,0
+lisinopril,16146,10mg,90.0,0
+venlafaxine xr,16146,150mg,90.0,0
+metoprolol,16146,25mg,180.0,0
+Methotrexate,92399,20mg,12.87,0
+Folic Acid,92399,1mg,90.0,30
+Simvastatin,92399,20mg,90.0,0
+Oxybutynin ER,92399,10mg,90.0,143
+Lisinopril,92399,10mg,90.0,0
+Pantoprazole,92399,40mg,90.0,0
+simvastain,32162,20mg,90.0,5
+metoprolol,32162,100mg,90.0,30
+losartin,32162,75mg,90.0,15
+levothyroxine,32162,.05mg,90.0,30
+HydroChlorothiaz,20707,50mg,180.0,9
+glipside,35756,1ml,90.0,0
+Gabapentin,77340,300mg,270.0,6
+Trazodone,77340,50mg,90.0,10
+Lithium Carbonate,77340,300mg,180.0,6
+Levothyroxine,77340,75mcg,180.0,6
+Amethyst,77340,0mcg,90.0,0
+metformin,07719,4mg,90.0,5
+Advair,85028,50mcg,180.0,80.00
+Fluticasone Prop,85028,50mcg,180.0,12.57
+Prednisone,85028,5mg,90.0,8.12
+Azathioprine,85028,50mg,90.0,20.00
+Cephalexin,85028,500mg,90.0,7.05
+Lisinopril Tab,85028,5mg,90.0,2.40
+Potassium,85028,20mg,180.0,20.00
+Furosemide,85028,40mg,90.0,1.83
+atenolol,18211,50mg,90.0,0.00
+triamterene/HCTZ,18211,37.525mg,90.0,0.00
+Levothyrixine,07724,0.112mg,90.0,13.00
+Trazadone,07724,50mg,90.0,10.00
+Celecoxib,07724,200mg,90.0,25.00
+Cyclobenzaprine,07724,10mg,42.0,15.00
+Sertrealine HCl,07724,50mg,90.0,10.00
+Rosuvastatin,53185,40mg,90.0,10
+Effexor,19939,75mg,90.0,12.5
+losartan,08854,100mg,90.0,0.00
+levothyroxine,08854,0.15mg,90.0,0.00
+uloric,08854,10mg,90.0,133.96
+oxybutynin,08854,10mg,90.0,0.00
+chlorthaladone,08854,25mg,90.0,0.00
+toprol,85050,50mg,90.0,20
+losartan,54982,50mg,90.0,0.00
+carvedilol,54982,12.5mg,180.0,0.00
+simvastatin,54982,20mg,90.0,0.00
+lisinopril/hctz,85718,20mg,90.0,12.67
+uloric,08854,40mg,90.0,133.96
+Ramipril,07006,10mg,90.0,0
+Alfuzosin HCL,07006,10mg,90.0,0
+Finasteride,07006,5mg,90.0,0
+Simvastatin,07006,20mg,90.0,0
+METROPOLOL ER SUCCINATE,14513,50mg,90.0,0
+ELOQUIS,14513,5mg,90.0,47
+DIGOXIN,14513,0.25mg,90.0,34
+Pravastatin,32163,20mg,90.0,0.00
+Estadol Vaginal Cream,32163,1gram,12.87,40.00
+flomax,12020,0.4mg,180.0,4
+Morphine sulf 15MG ER TABS (12H),37743,15mg,270.0,25.00
+clopidogrel,37743,75mg,90.0,0
+trelegy ellipta,37743,100mcg,180.0,90
+fluticasone,99350,50mcg,90.0,1
+Lisinopril,28660,20mg,90.0,0
+Lovastatin,46619,20mg,90.0,0
+Fluoxetine,84312,20mg,90.0,0
+Methotrexate,13850,2.5mg,77.13,0
+Naproxen,13850,500mg,90.0,0
+clopidogrel,33436,75mg,90.0,6
+metoprolol,33436,25mg,90.0,6
+Metoprolol tartrate,44095,25mg,180.0,5
+Atorvastatin,44095,40mg,90.0,5
+Hydrochlorothiazid,44095,25mg,90.0,5
+Pantoprazole,44095,40mg,90.0,5
+Estradiol,44095,.5mg,90.0,5
+Belsomra,44095,15mg,90.0,5
+Aripiprazole,44095,2mg,90.0,5
+Cymbalta,44095,90mg,90.0,5
+Synthroid,44095,.025mg,90.0,5
+Ipratropium bromid,44095,.06inhalation,180.0,5
+Ranitidine,44095,300mg,90.0,5
+Plavix,44095,75mg,90.0,5
+Furosemide,34293,40mg,90.0,0
+metformin,08884,500mg,180.0,0
+losartan,08884,100mg,90.0,0
+levothyroxine,08884,0.05mg,90.0,0
+gabapentin,33993,100mg,180.0,0
+METFORMIN,76273,1000mg,180.0,0
+Myrbetriz,52742,50mg,90.0,42.4
+Prazosin,80021,2mg,90.0,0
+PROPRANOLOL,80021,80mg,90.0,0
+Allopurinol,80021,300mg,90.0,0
+Atorvastatin,80021,10mg,90.0,0
+Lisinopril-HCT2,80021,20mg,90.0,0
+Venlafaxine,80021,225mg,90.0,0
+fenofibrate,48624,1mg,90.0,16.7
+fenofibrate,48624,160mg,90.0,17.6
+levothyroxine,11740,125mcg,90.0,30
+Lyrica,76244,150mg,90.0,250
+Synthroid,76244,125mg,90.0,35
+hydrchlorothiaz,97411,25mg,90.0,1.
+diclofenac xr,97411,100mg,90.0,1.
+potassiumcl sr mc tb,97411,20unit,90.0,1.
+metoprolol succ er,97411,12.5mg,90.0,1.
+rosuvastatin,63866,40mg,90.0,0
+propafenone,71107,150mg,270.0,8.35
+furosemide,71107,40mg,60.0,3.35
+atorvastatin,71107,40mg,90.0,3.35
+atrovastin,74055,40mg,90.0,0
+gemfibrozil,74055,600mg,90.0,0
+tamsulosin,74055,.4mg,90.0,0
+meloxicam,74055,15mg,90.0,0
+lisinopril,74055,40mg,90.0,0
+amlodipine,74055,5mg,90.0,0
+metformin,74055,500mg,180.0,0
+glimpride,74055,4mg,90.0,0
+Lisinopril,02631,20mg,90.0,5
+simvastatin,02631,40mg,90.0,5
+calcitriol,02631,0.25mcg,180.0,5
+meloxicam,02631,7.5mg,90.0,5
+omeprazole,02631,20mg,90.0,5
+yuvafem,02631,10mcg,25.74,5
+Metformin,30269,500mg,360.0,0
+Bisoprolol,63303,5mg,90.0,0
+paroxitine,92070,10mg,90.0,0
+metformin,43082,500mg,90.0,0
+atorvastatin,43082,40mg,90.0,0
+atenolol,43082,50mg,90.0,0
+allopurinol,43082,300mg,90.0,0
+ranitidine,43082,150mg,180.0,0
+ropinirole,43082,2mg,90.0,0
+atenolol,72153,25mg,180.0,0
+Furosemide,34711,20mg,90.0,3.74
+Potassium CL SR MC TB,34711,20unit,90.0,28.00
+Atenolol Tab,34711,50mg,180.0,6.00
+SIMVASTATEN tAB,34711,20mg,90.0,6.00
+mETFORMIN er tAB,34711,500mg,90.0,3.78
+aLLOPURINOL tAB,34711,300mg,90.0,6.00
+OMEPRAZOLE Cap,34711,20mg,90.0,27.34
+Proair HFA AER,34711,90mcg,90.0,176.175
+Symbicort 160/4.5,34711,160mcg,180.0,115.00
+Meloxican,64157,15mg,90.0,1
+clopidogril,68041,75mg,90.0,0
+atorvastatin,68041,80mg,90.0,0
+Victoza,78957,1.8mg,90.0,35.00
+Jardience,78957,25mg,90.0,35.00
+Omeprazole,78957,40mg,90.0,10
+meloxcan,98591,7.5mg,90.0,0
+fenofibrate,98591,160mg,38.61,0
+crestor,98591,5mg,38.61,0
+escitalopram oxlate,10023,10mg,90.0,50
+topiramate,10023,50mg,90.0,10
+indomethacin,10023,50mg,90.0,10
+topiramate,10023,50mg,90.0,50
+indomethacin,10023,50mg,90.0,50
+colesevelam,78041,625mg,270.0,15.00
+ezetimibe,78041,10mg,90.0,15.00
+Valsartan,78041,80mg,90.0,15.00
+Tramadol,85614,50mg,360.0,0
+Simvastatin,85614,20mg,90.0,0
+Lisinopril,85614,20mg,90.0,0
+Verapamil ER,85614,240mg,90.0,0
+Finasteride,85614,5mg,90.0,0
+gabpenten,08865,3gram,270.0,5
+Metoprolol,85614,25mg,90.0,0
+Zestoretic,85614,20mg,90.0,0
+Rosuvastatin tab,85614,10mg,90.0,0
+Levothyroxine,85614,.075mg,90.0,0
+Potassium,85614,10mcg,180.0,0
+Ipratropium,85614,.03inhalation,90.0,0
+Tambocor,85614,50mg,180.0,0
+simvastatin,32164,10mg,90.0,0
+lisinopril,32164,20mg,90.0,0
+Atorvastatin,08844,20mg,90.0,15
+Zenzedi,08302,30mg,180.0,35
+Zenzedi,08302,10mg,180.0,7
+Lunesta,08302,3mg,90.0,7
+atorvastatin,55947,20mg,90.0,10
+OMEPRAZOLE,55947,20mg,90.0,10
+LISINOPRIL,55947,20mg,90.0,10
+pantoprazole Sodium,11104,40mg,90.0,10
+artovastatin,11104,20mg,90.0,10
+Lisinopril,11104,10mg,90.0,10
+metro gel,11104,0ounce,180.0,25
+Sodium Sulfacetamide 10%,11104,0ounce,90.0,25
+metform,10475,500mg,180.0,3
+gabapentin,48195,800mg,360.0,25
+zoloft,48195,50mg,90.0,25.00
+metoprolol,48195,25mg,90.0,25.00
+pantoprazole,21704,1unit,90.0,4
+Modafinil,03820,100mg,90.0,120.58
+Duloxetine,03820,60mg,90.0,0
+Omeprazole,03820,40mg,90.0,0.00
+Levothyroxine,03820,0.175mg,90.0,00.00
+amlopidol,77642,10mg,90.0,0
+bisoprolol-hctz 10,08055,6.25mg,90.0,2
+valsartan/hctz tab 80,08055,12.5mg,90.0,2
+gemfibrozil,08055,600mg,180.0,2
+metformin HCL ER,08055,500mg,90.0,2
+Atenenol,43528,50mg,90.0,8
+levothyroxine,94931,112mcg,90.0,30
+cyclobenzaprine,21009,10mg,180.0,1
+EZETIMIBE,21009,10mg,90.0,1
+SIMVASTATIN,21009,40mg,90.0,1
+METFORMIN,21009,500gram,90.0,1
+METOPROLOL TARTRATE,21009,100mg,180.0,1
+PRADAXA,21009,150mg,180.0,1
+FUROSEMIDE,21009,80mg,180.0,1
+KLOR-CON,21009,10unit,180.0,1
+ATENOLOL,98023,50mg,90.0,0
+TAMSULOSIN,98023,.40mg,180.0,0
+ATORVASTATIN,98023,40mg,90.0,0
+KETOCONAZOLE SHA 2%,98023,4ounce,90.0,0
+tenolol,98023,50mg,90.0,0
+simvastatin,19468,20mg,90.0,6.00
+losartan,19468,25mg,90.0,6.00
+folic acid,12401,1mg,90.0,1
+Tri Sprintec,06901,1unit,90.0,0
+Montelukast Sod,06901,10mg,90.0,10
+Levalbuterol tartrate HFA,06901,90mcg,90.0,90
+valacyclovir,08844,1000mg,90.0,3.29
+carvedilio cr cap,08844,10mg,90.0,5.00
+levothyroxine,08844,125mg,90.0,5.00
+bupropion XL tab,08844,300mg,90.0,5.00
+venlafaxine XR cap,08844,75mg,270.0,5.00
+celecoxib,08844,200mg,180.0,5.00
+Lo loestrin FE,07601,1mg,90.0,25
+Metoprolol Succ ER Tab 25MG,33556,25mg,90.0,3.35
+AmLODIpine,33556,5mg,180.0,3.35
+Latanoprost,33556,2.5ml,180.0,3.35
+Enaoapril,54103,1mg,90.0,0
+Atorvastatin,54103,1mg,90.0,0
+zimvastatin,85351,1mg,90.0,0
+lexapro,75148,5mg,90.0,10
+zimvastatin,85351,40mg,90.0,0
+Metformin ER,44145,2000mg,90.0,0
+doxazoain Mes,44145,8mg,90.0,0
+Pantoprazole,81082,40mg,90.0,0
+Synthroid,81082,112mcg,90.0,96
+NifedipineXL,81082,30mg,90.0,0
+doxazosin Mes,44145,8mg,90.0,0
+Lisinopril-HCTZ,44145,20mg,90.0,0
+piogliazone,44145,45mg,90.0,0
+Glipizide,44145,10mg,180.0,0
+Pravastatin,44145,80mg,90.0,0
+losartan,30011,100mg,90.0,2.00
+omeprazole,30011,40mg,90.0,0
+amiodarone,30011,200mg,180.0,0
+eliquis,30011,05mg,180.0,0
+hydralazine,30011,25mg,180.0,0
+diltiazem,30011,180mg,90.0,0
+trazodone,30011,100mg,90.0,0
+Amlodipine,94044,5mg,90.0,.00
+Lisinopril,94044,40mg,90.0,.00
+Glipizide,07834,10mg,90.0,0
+amlodipine,77356,5mg,90.0,5
+clopidogrel,90638,75mg,90.0,0
+pantoprazole,90638,40mg,90.0,0
+metoprolol tart,90638,25mg,90.0,0
+atorvastatin,90638,40mg,90.0,10
+furosemide,63376,40mg,180.0,0
+eliquis,93619,5mg,180.0,94
+Symbicort,84770,160mcg,180.0,94.00
+Proair hfa,84770,90mcg,90.0,64.00
+Benazepril,84770,20mg,90.0,9.00
+Montelukast,84770,10mg,90.0,9.00
+Atorvastatin,84770,10mg,90.0,9.00
+ALPRAZOLAM,84770,.5mg,90.0,9.00
+Trazodone HCI,84770,10mg,90.0,9.00
+TESTOSERONE,75239,4gram,90.0,40
+NATURA THYROID,75239,25mg,90.0,20
+Sertraline,21221,100mg,90.0,0
+Pravastatin,21221,80mg,90.0,0
+Aycyclovir,21221,400mg,180.0,0
+Multaq,85338,400mg,180.0,50
+dutasteride,85338,0.5mg,90.0,38.45
+diltiazem,85338,120mg,180.0,20
+tamsulosin,85338,0.4mg,90.0,20
+pantoprazole,85338,40mg,90.0,20
+Eliquis,85338,5mg,90.0,50
+nifedipine xl,98584,30mg,90.0,0
+lisinopril hctz,98584,25mg,90.0,0
+lovastatin,98584,20mg,90.0,0
+metoprolol succ er,98584,50mg,90.0,0
+metformin er,12758,500mg,180.0,0
+Liptor,27545,10mg,90.0,30
+simvistatin,60022,0.25mg,90.0,0
+Tamsulosin,32035,.4mg,180.0,0
+Metformin,32035,500mg,180.0,0
+Bystolic,32035,10mg,90.0,99
+Atorvastatin,32035,40mg,90.0,0
+Pantoprazole,32035,40mg,90.0,0
+Olmesartan,32035,20mg,90.0,0
+Amlodipine,32035,5mg,90.0,0
+Plavix,94401,75mg,90.0,0
+microogestin,11238,1.5mcg,90.0,0
+Flomax,94401,75mg,90.0,0.00
+Omeprozole,94401,40mg,90.0,0.00
+Atorvastatin,94401,40mg,90.0,0.00
+lovastatin,32714,20mg,90.0,0
+lisinopril,32714,40mg,90.0,0
+pioglitazone,32714,45mg,90.0,19.99
+escitalopram,32714,10mg,90.0,12.76
+glimepiride,32714,2mg,90.0,4.26
+metformin,32714,850mg,90.0,0
+metformin,96122,500mg,180.0,0
+Levothyroxine,06851,50mg,90.0,0
+Amlodipine Besylate,06851,5mg,90.0,0
+Furosemide,06851,20mg,45.0,0
+Aricept,06851,5mg,90.0,0
+Lipitor,06851,10mg,90.0,0
+Vivomo,85225,500mg,180.0,5
+Hydroxyzine,85225,10mg,360.0,5
+ENALAPRIL,60901,10mg,90.0,0.00
+SIMVASTATIN,60901,20mg,90.0,0.00
+MONTELUKAST,60901,10mg,90.0,0.00
+METOPROLOL,60901,50mg,180.0,0.00
+POLYETH GLYC POW 3350 NF,60901,17gram,90.0,0.00
+Duloxetine,29730,30mg,180.0,50.00
+Ranitidine,29730,150mg,180.0,50.00
+Eliquis,21146,5mg,180.0,2
+Atenulol,21146,50mg,90.0,1
+HCTZ,21146,25mg,90.0,1
+Tamsulosin,29745,0.4mg,90.0,0
+simvastatin,29745,40mg,90.0,0
+Gabapentin,29745,300mg,270.0,0
+Pantoprzole DR,29745,40mg,90.0,0
+Advair,29745,500mcg,180.0,0
+glimepiride,85388,4mg,180.0,0
+atorvastatin,61275,10mg,90.0,9
+eliquis,61275,5mg,180.0,155
+Fluoxetine,78665,1unit,90.0,0
+Fluoxetine,34667,40mg,90.0,37.99
+benazepril,33955,20mg,90.0,0
+doxazosin,33955,8mg,90.0,0
+finasteride,33955,5mg,90.0,0
+Gabapentin,32163,600mg,90.0,0
+atorvastatin,32163,20mg,90.0,0
+escitalopram,32163,5mg,90.0,0
+cyclobenzaprine,32163,10mg,90.0,0
+alprazalam,32163,.5mg,90.0,0
+fluticasone,32163,50mg,90.0,0
+Ramipril,07758,10mg,90.0,9.33
+Ditiazen,34481,240mg,90.0,9
+arorasastatin,07712,1mg,90.0,1
+Amlodipine,48236,2.5mg,90.0,58.00
+Lexapro,48236,1.25mg,90.0,125.00
+metformanertab500mg,13820,2mg,180.0,0
+simvastatin,54311,20mg,90.0,0
+truvada,10011,200mg,90.0,1700
+Cialis,10011,20mg,90.0,30.00
+oxybutynin,60441,5mg,90.0,85.00
+warfarin,60441,1mg,90.0,6.00
+warfarin,60441,6mg,90.0,15.00
+atorvastatin,60441,40mg,90.0,85.00
+levemir,60441,90mg,90.0,536.00
+glipizide xl,60441,10mg,180.0,136.00
+fenofirbrate,60441,145mg,90.0,100.00
+Lyrica,08037,100mg,180.0,27
+Propranolol,80817,40mg,180.0,0
+Tamsulosin,80817,0.4mg,90.0,0.00
+zolpiderm,07079,1mg,90.0,48.98
+Sertraline HCL,10301,50mg,90.0,5
+Minastrin 24 Fe,10301,20mg,90.0,0
+Levothroxine,53066,0.112mg,90.0,25
+Triamterene-Hctz,60516,25mg,90.0,0
+Lisinopril,32810,1mg,90.0,90
+simvastatin,34785,20mg,90.0,0
+pramipexole,92320,2mg,90.0,9
+rosuvastatin,33180,10mg,90.0,0
+olanzapine,33180,5mg,90.0,0
+mirtazapine,33180,30mg,90.0,0
+fluoxetine,33180,10mg,90.0,0
+lisinpril,89121,10mg,90.0,10
+pravastatin,08534,20mg,90.0,5
+Lisinopril,78633,10mg,90.0,0
+rosuvastatin,78633,10mg,90.0,0
+Methotrex,10589,2.5mg,12.87,0
+Levetiraetam,10589,1000mg,180.0,0
+Folic acid,10589,1mg,90.0,12.00
+Omeprazole,10589,10mg,90.0,0
+Levothroxine,10589,0.088mg,90.0,0
+pravastatin,01930,20mg,90.0,0
+Escitalopram,01930,20mg,90.0,0
+Lossartan,01930,50gram,90.0,0
+Amlodipine,01930,5mg,90.0,0
+wellbutrin,08050,150mg,90.0,15.00
+hydrochlorothiazide,08050,12.5mg,90.0,15.00
+flovastatin,08050,20mg,90.0,15.00
+Valtrex,08050,200mg,90.0,5.00
+Metformin,80513,1000mg,180.0,1
+Metaformin,63385,1000mg,180.0,3
+metformin,78669,2000mg,90.0,10
+Eliquis,13849,5mg,180.0,131
+tamsulosin,08550,0.4mg,90.0,0
+tamsulosin,08550,.4mg,90.0,0
+omeprazone,08550,40mg,90.0,0
+amlodepine,78214,1inhalation,90.0,75
+CARVEDILOL,75208,25mg,180.0,0
+allopurinol,75208,01mg,90.0,0
+ATORVASTATIN,07093,40mg,90.0,0
+metaformin,48197,10000mg,180.0,1
+glipizide,48197,5mg,180.0,1
+atorvastatin,48197,40mg,90.0,1
+lisinopril,48197,10mg,90.0,1
+Tamsulosin,48837,0.4mg,90.0,3
+ATORVASTATIN,07093,40mg,90.0,1
+levothyroine,78374,0.125mg,90.0,0
+bupropion xl,78374,300mg,90.0,0
+lorazepam,78374,0.5mg,180.0,0
+ibandronate sodium,78374,1mg,2.9970000000000003,0
+pennsaid,78374,40mg,90.0,0
+losartan,95315,1mg,90.0,0
+CARVEDIOL,46845,25mg,180.0,2.00
+TAMSULOSIN,46845,.4mg,180.0,0.00
+FUROSEMIDE,46845,40mg,180.0,0.00
+ENTRESTO,46845,51mg,180.0,0.00
+ALDACTONE,46845,50mg,90.0,0.00
+PLAVIX,46845,75mg,90.0,0.00
+METHOTREXATE,46845,2.5mg,12.87,0.00
+Metformin,08081,1000mg,180.0,5.00
+Januvia,08081,100mg,90.0,30.00
+bisofum/hct,08081,5mg,90.0,5.00
+rampril,08081,2.5mg,90.0,30.00
+atorvastatin,46123,20mg,90.0,3.00
+lisinopril,46123,5mg,90.0,2.35
+Levothyroxine,78415,100mcg,90.0,15
+lisinopril,45252,30mg,90.0,0
+Levothyroxine,11710,90mg,90.0,0
+Alendronate,11710,70mg,90.0,0
+atorvastatin,53217,10mg,90.0,0
+Atorvastatin,84119,10mg,90.0,0
+Lisinopril,84119,10mg,90.0,0
+amlodipine,60193,2.5mg,180.0,0
+fenofibrate,60193,160mg,90.0,0
+zaleplon,60193,10mg,90.0,14.53
+Metformin,79904,500mg,90.0,0
+Lisinopril,79904,5mg,90.0,0
+metformin,08560,1000mg,180.0,10
+Glipizide XL,08560,5mg,90.0,10
+Januvia,08560,100mg,90.0,10
+bupropion,73110,150mg,270.0,3.30
+metformin,73110,500mg,360.0,3.30
+levothyroxine,73110,100mcg,90.0,1.30
+atorvastatin,73110,40mg,90.0,3.30
+sertraline,73110,100mg,180.0,3.30
+lisinopril,73110,40mg,90.0,1.30
+hydrochlorothiazide,73110,25mg,90.0,1.30
+bupropion,73110,150mg,270.0,3.3
+Losartan,32159,50mg,90.0,9.00
+Famotidine,32159,20mg,180.0,9.00
+Trimerhoprin and polymixin B opthalmic solution,32159,1ml,90.0,10.00
+Prednisolone opthalmic  solution,32159,1ml,90.0,50.00
+Aatorvastatin,07847,10mg,90.0,5
+Metformin hcl er,18052,500mg,180.0,0.00
+Lisinopril,18052,40mg,90.0,0.00
+Methotrexate,18052,2.5mg,12.87,5.00
+Betamethasone dipropionate ointment,18052,0.4mg,90.0,60.00
+Tamsulosin hcl,18052,0.4mg,90.0,30.00
+Potassium,20775,20mcg,180.0,20.00
+Simvastatin,20775,80mg,90.0,16.48
+Metoprolol Succ,20775,100mg,90.0,20.00
+AMLOD/VALSA/HCT,20775,10mg,90.0,20.00
+Warfarin,20775,5mg,90.0,18.93
+spironolactone,21102,50mg,270.0,20
+Levothyroxine,28785,0.075mcg,90.0,0
+HydroCHLOROthiazide,28785,12.5mg,90.0,0
+Citalopram,28785,20mg,90.0,0
+TraZODone,28785,100mg,90.0,0
+DULoxetine,28785,30mg,90.0,0
+Flonase,28785,50mcg,90.0,0
+levothyroxine,85383,0.1mg,180.0,0
+Meloxicam,48725,7.5mg,90.0,1.5
+proair hfa proventil,68106,90mcg,360.0,0.0
+atenolol,68106,25mg,90.0,0.0
+amloditine,68106,5mg,90.0,0.0
+losartan,68106,100mg,90.0,0.0
+levothyroxine,68106,65mcg,90.0,0.0
+letrocole,68106,2.5mg,90.0,0.0
+simvastacin,68106,20mg,90.0,0.0
+Levothyroxine,04930,88mcg,90.0,0
+Trazadone,04930,50mg,90.0,0
+Mertazipine,04930,15mg,90.0,0
+Bupropion,04930,350mg,90.0,0
+Omeprazole,04930,40mg,90.0,18.00
+Levothyroxine,07647,0.15mcg,90.0,9
+Pravastain,14227,20mg,90.0,1.00
+Levothyroxine,14227,.125mg,90.0,1.00
+Citalapram,14227,5mg,90.0,1.00
+Omeprazole,33914,40mg,180.0,0
+Gabapentin,33914,300mg,180.0,0
+Hydrochlorothiazide,33914,25mg,90.0,0
+Sertraline HCL,33914,50mg,90.0,0
+Bupropion xl,33914,300mg,90.0,0
+Duloxetine,33914,30mg,90.0,0
+Hydroxychloraquin,33914,200mg,90.0,0
+Azathrioprine,33914,50mg,90.0,0
+pramipexole,33896,1mg,180.0,9
+latanoprost,33896,1I.U.,90.0,9
+Chlorthalidone,61614,25mg,90.0,36.00
+Potassium CL ER,61614,20mg,90.0,36.00
+Diltiazem 24HR,61614,300mg,90.0,36.00
+insulin-N,13215,15unit,180.0,115
+insulin-R,13215,6unit,180.0,115
+Terazosin,59866,5mg,90.0,0
+Finasteride,59866,5mg,90.0,0
+Atorvastatin,59866,20mg,90.0,0
+Omeprazole,92647,40mg,90.0,0
+LEVOTHYROXINE,92647,88mg,90.0,0
+PRAVASTATIN,92647,20mg,90.0,0
+simvastatin,53188,20gram,90.0,0
+metroprolol,08807,50mg,90.0,0
+irbesartan,32257,300mg,90.0,90
+simvistatin,33919,40mg,90.0,0
+Metformin,33919,1000mg,180.0,0
+Tamulosin,33919,0.4mg,180.0,0
+Plavix,33919,75mg,90.0,0
+Pioglitazone,33919,15mg,90.0,0
+Omega3Acid Cap 1GM,33919,2gram,180.0,95
+Breo,06831,100mcg,90.0,25
+Proair,06831,90mcg,90.0,10
+Amlodipine,74743,10mg,90.0,125
+Atenaolal,74743,75mg,90.0,125
+Citilopram,74743,20mcg,90.0,125
+Lipator,08302,20mg,90.0,25
+Omeproazole,96778,20mg,90.0,8.44
+Levoxyl,07869,1unit,90.0,0
+Lo Lo Lestrin Fe,07869,1unit,90.0,0
+Amlodipene,74743,10mg,90.0,125
+Atenolol,74743,75mg,180.0,125
+Cilalopram,74743,20mg,90.0,125
+gapapentine,75041,300mg,270.0,15
+omerprazole,75041,40mg,90.0,15
+Gabapentin,75041,300mg,270.0,15
+Melicoxin,48725,7.5mg,90.0,6
+Simvastatin,98354,20mg,90.0,0
+Carb/Levo,98354,100mg,1080.0,0
+AmLOD/Pine,98354,5mg,90.0,0
+Pravastatin,34431,40mg,90.0,0
+Omeprazole,34431,40mg,90.0,0
+Lisinopril,34431,40mg,90.0,0
+Terrizzoin,34431,5mg,90.0,0
+Finasteride,34431,5mg,90.0,0
+BuProPion XL,43123,300mg,90.0,25.00
+Montelukast,43123,10mg,90.0,25.00
+Levothyroxine,07724,112mg,90.0,13.00
+Cyclobenzaprine,07724,10mg,135.0,10.00
+Synthroid,08087,88mcg,90.0,35
+Synthroid,97003,25mcg,90.0,35
+Gipizide,417-2,10mg,90.0,0
+Lisinopril,417-2,20mg,90.0,0
+Pioglitazone,417-2,45mg,90.0,0
+enalaprilhctz,06902,1mg,90.0,0
+atorvastatin,06902,1mg,90.0,0
+Methotrexate,07070,2.5mg,12.87,1.00
+Predisone,07070,5mg,180.0,1.00
+Folic Acid,07070,1mg,90.0,1.00
+Meloxicam,07070,7.5mg,90.0,1.00
+Divalporex,07070,500mg,90.0,1.00
+Olanzipane,07070,200mg,90.0,1.00
+Glipizide,417-2,10mg,90.0,0
+celebrex,04049,200mg,90.0,90.00
+adorvastatin,04049,40mg,90.0,0
+levothoroxin,04049,0.05mg,90.0,0
+benazapril,04049,40mg,90.0,0
+Syeda,37876,0.03mg,90.0,0
+Atenolol,10065,25mg,90.0,9
+simvastatin,45631,40mg,90.0,0
+lisinopril,45631,10mg,180.0,0
+verapamil,45631,180mg,90.0,0
+citalopram,45631,10mg,90.0,0
+tamsulosin,85132,0.4mg,90.0,7.00
+atorvastatin,85132,10mg,90.0,5.00
+Rosuvastatin,32257,10mg,90.0,7.90
+Amlodipine,32257,5mg,90.0,4.00
+Metoprolol,32257,50mg,90.0,4.00
+tirosint capsule,54636,75mcg,90.0,0
+lisinopril,54636,40mg,90.0,0
+venlafaxine xr cap,54636,150mg,90.0,0
+venlafaxine xr cap,54636,225mg,90.0,0
+Atorvastatin,08816,10mg,90.0,5
+Levothroxine,01969,0.05mg,90.0,0
+Levostatin,01969,20mg,90.0,0
+Citalopram,01969,20mg,90.0,0
+Metoprolol/HCTZ,01969,5025mg,90.0,0
+estradiol,63385,1mg,90.0,8.00
+levothyroxine,63385,112mcg,90.0,6.00
+Lisinopril,02116,10mg,90.0,0
+simvastatin,61605,40mg,90.0,0
+glipizide,61605,5mg,180.0,0
+hydrochlorothiaz,61605,25mg,90.0,0
+metformin er,61605,1000mg,180.0,0
+Atorvastatin,92532,20mg,90.0,3.00
+Venlafaxine ER,92532,75mg,90.0,8.00
+Levothyroxine,92532,0.075mg,90.0,3.00
+Losarten Potassium,92532,50mg,90.0,3.00
+Lorazepam,92532,0.5mg,90.0,3.00
+trazodone,07027,100mg,90.0,31.98
+lunesta,06770,3mg,90.0,10
+Atorvastatin,94941,10mg,90.0,1
+lisinopril,81212,5mg,90.0,12.00
+lovastatin,81212,60mg,90.0,12.00
+Amlodipine Besylate,91711,10mg,90.0,.01
+Simvastatin,91711,20mg,90.0,.01
+Propranolol HCR ER,91711,60mg,90.0,.01
+Metformin,91711,1000mg,180.0,.02
+Toujeo,91711,50unit,180.0,.01
+Pioglitazone HCL,91711,30mg,90.0,.01
+Victoza,91711,1.8unit,90.0,.01
+Toujeo,91711,50unit,180.0,.02
+fluoxatine,33919,20mg,90.0,5
+CYLOBENZAPRINE,54539,1unit,270.0,0
+LISINOPRIL,54539,1unit,90.0,0
+Atorvostatin,44709,10mg,90.0,0
+Lisinopril,53072,10mg,90.0,0
+Rosuvistayin,53072,40mg,90.0,0
+Bicalutamide,53072,50mg,90.0,0
+Clopidogrel,53072,75mg,90.0,0
+Lazartan,12208,25mg,90.0,5
+Metformin,12208,25mg,90.0,5
+Pravastatin,27299,20mg,90.0,0
+Timolol,27299,3.4mg,90.0,0
+hydrochlorotheaz,61605,25mg,90.0,0
+Diltiazem cd,04416,180mg,90.0,1
+Levetiracetam,04416,500mg,180.0,1
+Linopril,04416,40mg,90.0,1
+Finasteride,04416,5mg,90.0,1
+Tamsulosin,04416,0.4mg,180.0,1
+Lumigan,04416,0.01ml,90.0,1
+Losartan,44672,25mg,90.0,0
+Metoprolol Succ,44672,5mg,180.0,0
+Potassium,44672,20mcg,180.0,0
+Atrovistatin,44672,40mg,90.0,0
+Warfarin,44672,4mg,90.0,0
+Warfarin,44672,5mg,90.0,0
+metoprolol,16407,50mg,90.0,17.39
+citalopram,16407,20mg,90.0,2.53
+losartan,16407,50mg,90.0,7.49
+proair hfa aer tev,16407,90inhalation,360.0,36.40
+osphena,07726,1mg,90.0,52
+atorvastatin,85301,40mg,90.0,12
+Metoprolol Succ,44672,5mg,90.0,0
+Potassium,44672,25mg,180.0,0
+rosuvastatin,33760,5mg,90.0,0
+Warfarin,20109,3.125mg,90.0,0
+Linzess,20109,145mcg,90.0,97.00
+Lovastatin,20109,40mg,90.0,0
+Flecanide,20109,100mg,180.0,200.00
+Premarin Cream,20109,.05ml,90.0,100.00
+Lisinopril Tab,27249,20mg,90.0,0.00
+Provastatin Sodium,27249,80mg,90.0,0.00
+Donepezil Tab,27249,23mg,90.0,95.00
+Memantine HCL Tab,27249,10mg,180.0,75.00
+Bupropion XL,27249,150mg,90.0,0.00
+Levothyoxine,03748,.075mg,90.0,0
+Netformin,03748,1000mg,180.0,00
+Glipizide,03748,5mg,90.0,0
+Astorvastatin,03748,80mg,90.0,0
+Advair Disc,03748,25050inhalation,180.0,0
+Metroprolol,03748,100mg,90.0,0
+Clopidogrel,03748,75mg,90.0,0
+divalproex,59602,250mg,180.0,10
+xarelto,46808,15mg,90.0,15
+amiodarone,46808,200mg,90.0,5
+lisinopril,46808,20mg,180.0,5
+omeprazole,46808,20mg,180.0,5
+paroxetine HCL,46808,40mg,90.0,5
+simvastatin,46808,20mg,90.0,5
+tamsulosin,46808,4mg,90.0,5
+Lomotil,32259,5mg,540.0,7
+fluocinolone ac oint,33810,.025gram,180.0,3.35
+clonidine,33810,.1mg,90.0,2.10
+meloxicam,33810,15mg,90.0,2.11
+quetiapine,28204,200mg,90.0,0
+Losartan,77056,12.5mg,90.0,0.00
+Atorvastatin,77056,40mg,90.0,0.00
+Levothyroxine,77056,0.1mg,90.0,1.00
+Vesicare,77056,50mg,90.0,0.00
+METFORMAN,90041,5mg,180.0,0
+Amlodipine,08759,10gram,90.0,5
+Metformin,07432,500mg,90.0,24
+NEXIUM,93110,40mg,90.0,0
+Atenolol,34654,100mg,90.0,3
+Chlorthalidone,34654,25mg,90.0,17
+Simvastatin,34654,40mg,90.0,5
+mmmm,78219,1mcg,90.0,0
+simvastin,07424,40mg,90.0,5
+Lisinopril,80007,10mg,90.0,0.00
+Trazadone,80007,100mg,90.0,0.00
+Tramadol,80007,50mg,360.0,0.00
+Hydrochlorothiazide,80007,25mg,90.0,0.00
+Loryna,85345,0.03mg,90.0,0
+HYDROCHLOROTHIAZ,14103,12.5mg,90.0,0
+BISOPROL FUM TAB,14103,10mg,90.0,0
+PRAVASTATIN SOD TAB,14103,20mg,90.0,0
+POTASSIUM CL SR MC TAM,14103,20mg,180.0,0
+HYDROCHLOROTHIAZIDE,14103,12.5mg,90.0,0
+POTASSIUM CL SR MC TAB,14103,20mg,180.0,0
+Simvastatin,27244,10mg,90.0,14.72
+Lisinopril,27244,5mg,90.0,10.28
+AmLodipine,27244,2.5mg,90.0,8.04
+MetFormin,27244,500mg,180.0,9.13
+furosemide,29330,40mg,90.0,0
+warfarin sodium,29330,5mg,90.0,0
+mexiletine,29330,250mg,180.0,0
+metoprolol Succinate,29330,25mg,90.0,0
+eplerenone,29330,50mg,90.0,131
+pravastatin,29330,40mg,90.0,0
+losartan,29330,25mg,90.0,0
+montelukast,29330,10mg,90.0,0
+potassium chloride,29330,20mcg,90.0,0
+fluticasone Propionate nasal,29330,50inhalation,90.0,0
+Metoprolol,85901,50mg,180.0,0.0
+Rosuvastatin,85901,20mg,90.0,0.0
+Lisinopril,85901,40mg,90.0,0.0
+Metoprolol Succonate,77257,50mg,90.0,35
+Avorstatin,77257,20mg,90.0,35
+Lisinopril,77257,20mg,90.0,35
+Ranitidine Tab,77257,150mg,90.0,35
+breo elipta,94538,200inhalation,90.0,420
+furusomide,94538,80mg,180.0,0
+Trazadone,24381,150mg,90.0,0
+Neurontin,24381,300mg,90.0,0
+Metoprolol,24381,12.5mg,180.0,0
+Meloxicam,28412,7.5mg,180.0,0
+Tramadol,28412,200mg,90.0,0
+Tramadol,28412,50mg,90.0,0
+IIrbesartan/HTCD,28412,150mg,90.0,0
+Amlodipine,28412,10mg,90.0,0
+Ropinirole,28412,0.5mg,180.0,0
+Omeprazole,28412,20mg,90.0,0
+Nuvaring,75951,1unit,2.9970000000000003,165
+montelukast,83647,10mg,90.0,0
+Atorvastatin,89166,20mg,90.0,0
+Losartan,89166,25mg,25.74,0
+Furosemide,89166,1mg,51.38999999999999,0
+Gabapentin,89166,900mg,270.0,0
+Oxybutynin,89166,5mg,270.0,0
+Tramadol,89166,50mg,90.0,0
+Doxazosin,89166,8mg,90.0,0
+Finasteride,89166,5mg,90.0,0
+Levothyroxine,89166,0.112mg,90.0,0
+Humalog,89166,70unit,90.0,540.00
+T/S Accu-chk Aviva Plus,89166,3unit,270.0,0
+Errin,98056,0.35mg,90.0,0
+Bydureon,40165,2mg,12.87,75
+omeprozole,34737,20mg,90.0,0
+losartan,34737,25mg,90.0,0
+levothyroxine,34737,.1mg,90.0,0
+gabapentin,34737,100mg,90.0,0
+rosuvastatin,34737,40mg,90.0,0
+dexilant,34108,30mg,90.0,55.00
+atorvastatin,34108,80mg,90.0,5.00
+gemfibrozil,34108,600mg,180.0,5.00
+metoprolol,34108,100mg,90.0,5.00
+valsartan,34108,32025mg,90.0,5.00
+metformin,34108,500mg,90.0,2.00
+lisinopril,02859,10mg,90.0,0
+omeprazole,02859,20mg,90.0,0
+lovastatin,02859,40mg,90.0,0
+Ezetimibe,85614,10mg,90.0,1
+zolpidem,85614,5mg,90.0,1
+Atorvastatin,85614,20mg,90.0,1
+Atenolol,85614,50mg,90.0,1
+Levothyroxine,92040,.07mg,90.0,0
+Amlodipine,92040,10mg,90.0,0
+lisinopril,85739,20mg,90.0,0.00
+metoprolol,85739,25mg,90.0,0.00
+Spirinolactone,77044,500mg,180.0,5
+Metformin,77044,500gram,180.0,5
+Melicoxin,48725,7.5mg,90.0,10
+Atorvastatin,38340,40mg,90.0,0
+Hydrochlorothiaz,38340,25mg,90.0,0
+Benzepril,38340,40mg,90.0,0
+Anastrozole,33881,1mg,90.0,0
+Enalapril Tab,33881,10mg,90.0,0
+Bumetanide Tab,33881,1mg,90.0,0
+Pravastatin Sodium,33881,40mg,90.0,0
+Escitalopram,33881,20mg,90.0,0
+Glipizide,33881,5mg,270.0,0
+Oxybutin,33881,5mg,180.0,0
+Ropinerole,33881,.5mg,90.0,0
+Metoprolol,33881,25mg,90.0,0
+Amlodipine Besyla,06906,5mg,90.0,0
+Metoprolol,06906,12.5mg,180.0,0
+Methatrexate,06906,7.5mg,12.87,0
+Pantoprazole Sodium,06906,40mg,90.0,0
+Donepezil,06906,10mg,90.0,0
+Olmesartan HCTZ  tab,07052,40mg,90.0,0
+Atorvastatin tab,07052,20mg,90.0,0
+Tamsulosin,07052,0.4mg,90.0,0
+Omeprazole,07052,40mg,90.0,0
+metoprolol er,73505,50mg,90.0,20
+Lisinopril,95677,10mg,90.0,0
+Rosuvastatin,95677,10mg,90.0,0
+oxybutynin,95677,5mg,90.0,0
+Loperamide,95677,2mg,180.0,0
+Timolol Mal Solution .5%,95677,0.5ounce,180.0,0
+Brimonidine Tartrate Solution 0.2%,95677,1ounce,270.0,0
+amlodipine,29702,5mg,90.0,0
+abilify,29702,5mg,90.0,0
+aspirin,29702,81mg,90.0,0
+lipitor,29702,80mg,90.0,0
+accu-chek aviva,29702,0ml,270.0,0
+blood glucose,29702,0mg,270.0,0
+celebrex,29702,200mg,90.0,0
+zyrtec,29702,10mg,90.0,0
+vitamin D2,29702,50000unit,12.87,0
+advair didkus,29702,500mg,180.0,0
+neurotin,29702,300mg,270.0,0
+atarax,29702,25mg,90.0,0
+microchamber,29702,0mg,90.0,0
+nano pen needles,29702,32gram,270.0,0
+potassium chloride,29702,10mg,90.0,0
+albuterol,29702,90mcg,180.0,0
+humulin R U,29702,500unit,270.0,0
+imdur,29702,60mg,90.0,0
+Accu-chek fastclix lancing,29702,0unit,270.0,0
+singular,29702,10mg,90.0,0
+zantac,29702,150mg,90.0,0
+zoloft,29702,100mg,90.0,0
+zanaflex,29702,4mg,90.0,0
+topamax,29702,25mg,90.0,0
+Victoza,29702,0.6mg,90.0,0
+ambiem,29702,5mg,90.0,0
+Botox,75703,200CC,0.999,2000
+Brimonidine Tartrate Solution 0.2%,95677,0.2ounce,270.0,0
+Metformin,44904,750mg,180.0,0
+Levothyroxine,44904,0.112mg,90.0,0
+Triam/HCTZ,44904,37.5mg,90.0,0
+Losartan,44904,100mg,90.0,0
+Sertraline HCl,44904,100mg,90.0,0
+Rosuvastatin,44904,10mg,90.0,0
+Diovan,85266,320mg,90.0,0
+toprol,85266,100mg,90.0,1
+Triprevifem,06870,28unit,90.0,0
+lisinopril-hctz,85395,20mg,90.0,7.47
+pravastatin sod,85395,20mg,90.0,17.45
+xarelto,85395,20mg,90.0,20
+Geodon,80232,40mg,90.0,15
+Trazadone,80232,40mg,90.0,20
+Propranolol,80232,20mg,90.0,15
+Lecothyroxone,80232,135mcg,90.0,20
+Atorvastatin,89434,40mg,100.0,0
+Enalapril Maleate,89434,2.5mg,100.0,0
+Donepezil,89434,10mg,100.0,0
+Alendronate,89434,1unit,12.87,0
+Lisinopril,75248,10mg,90.0,2
+Amlodipine Besylate,78251,10mg,90.0,0
+Losartan Potassium,78251,100mg,90.0,0
+Valsartan,85741,160mg,90.0,0
+embrel,07075,25mg,25.74,75
+Actos met,07075,1mg,180.0,75
+Glipizide,12589,1mg,90.0,3.31
+Metropolol,98116,25mg,90.0,0
+Losartan,92672,100mg,90.0,0
+Tizanidine,92672,2mg,90.0,0
+clobetasol propionate,92672,0.05ounce,90.0,0
+Tramadol,63348,50mg,90.0,15
+BuPROPion,63348,150mg,90.0,15
+Prevastatin,63348,20mg,90.0,15
+Naproxen,63348,500mg,180.0,80
+Lyrica,63348,75mg,180.0,150
+Citalopram,63348,40mg,90.0,20
+ProAir,63348,8.5inhalation,180.0,150
+Triam/HCTZ,63348,37.5mg,90.0,50
+Diltiazem,61421,180mg,90.0,78.00
+Benazepril,61421,40mg,90.0,0.00
+Hydrochlorothiazide,61421,25mg,90.0,0.00
+Metoprolol,61421,50mg,90.0,0.00
+Atorvastatin,61421,20mg,90.0,0.00
+Pravastatin,92660,20mg,90.0,15
+lovastatin,01960,40mg,90.0,0
+Tramadol,60459,50mg,180.0,3.76
+Voltaren,10469,1ml,180.0,0
+allopurinol,94952,100mg,90.0,0
+furosemide,94952,220mg,270.0,0
+Benazepril,94952,5mg,90.0,0
+metoprolol,94952,25mg,90.0,0
+levothyroxine,94952,0.05mg,90.0,0
+atorvaststin,94952,80mg,90.0,0
+clopidogrel,94952,75mg,90.0,0
+soliqua 100/33,94952,75mg,90.0,0
+atenolol,08107,25mg,90.0,0
+tamsulosin,08107,.4mg,90.0,0
+celecoxib,08107,200mg,90.0,0
+rosuvastatin,08107,5mg,45.0,0
+treximet,08107,500mg,90.0,0
+Promethazine,33604,25mg,100.0,30
+tizanidine,33604,4mg,200.0,45
+Venlafaxine,33604,75mg,90.0,30
+simvastatin,48197,20mg,90.0,1
+metroprolol,48197,100mg,90.0,1
+hydrochlorothiaz,48197,25mg,90.0,1
+Levothyroxine,16417,.05mg,90.0,0
+Sertaline,16417,50mg,90.0,0
+Isosorbide,16417,30mg,90.0,0
+Clodidogrel,16417,75mg,90.0,0
+Ramipril,16417,5mg,90.0,0
+Metoprolol succ er,16417,25mg,90.0,0
+Ambien,60119,10mg,90.0,95
+Pristiq,43162,100mg,90.0,100
+Carvetelol,32726,49mg,180.0,10
+Levothyroxine tab,08054,.05mg,90.0,0
+Topiramate,08054,50mg,180.0,0
+Gabapentin,08054,300mg,270.0,0
+Lonastan,08005,10mg,90.0,0
+digoxin,33810,.125mg,90.0,1.00
+astorvastin,33810,20mg,90.0,1.00
+comodin,33810,4mg,90.0,1.00
+Atorvastatin,76133,20mg,90.0,30
+hydrochlorothiaz,76133,12.5mg,90.0,25
+atorvastatin,94952,80mg,90.0,0
+benazepril,94952,5mg,90.0,0
+furosemide,94952,20mg,270.0,0
+levothyorxine,94952,0.05mg,90.0,0
+metoprolol,0314,100mg,90.0,6.00
+amlodopine,0314,10mg,90.0,5.00
+rosuvastatin,0314,20mg,90.0,6.00
+premarin,46038,0.3mg,90.0,60
+Oxycodone,85730,10mg,90.0,10
+Levothyroxine,61109,50mcg,90.0,13.00
+Camilla,61109,35mg,90.0,22.00
+Losartan HCT,64119,1mg,90.0,2
+suboxone,08731,4mg,180.0,10
+Metaformin,75036,500mg,90.0,4.5
+Amiodarone HCL,78253,200mg,90.0,0
+Amlodipine Besylate,78253,10mg,180.0,0
+Atorvastatin,78253,40mg,90.0,0
+Eliquis,78253,5mg,180.0,135
+Metoprolol Tartrate,78253,75mg,180.0,0
+lisinopril,92111,5mg,90.0,0
+amlodipine,92111,5mg,90.0,0
+metformin,92111,500mg,270.0,0
+simvastatin,92111,10mg,90.0,0
+pravastatin,28226,20mg,90.0,25
+zoloft,28226,50gram,45.0,25
+Sertraline,85122,100mg,90.0,0
+Simvastatin,85122,40mg,90.0,0
+pradaxa,32965,150mg,180.0,150
+Levothyroxine,85122,.05mg,90.0,0
+synthroid,33509,75mg,90.0,99
+bystolic,33509,10mg,90.0,99
+hydrochlorathiazide,33509,25mg,90.0,0
+atrovastatin,33509,40mg,90.0,0
+metformin,33509,500mg,90.0,0
+Letrozole,80905,2.5mg,90.0,0
+Amlodipine Besylate,32810,5mg,90.0,20.00
+Lisinopril,32810,5mg,90.0,20.00
+Rosuvastatin Calcium,32810,5mg,90.0,20.00
+Estrace,33435,42.5gram,25.74,50
+Lisinopril,93536,40mg,90.0,0
+CLOPIDOGREL,62049,75mg,90.0,0
+LISINOPRIL,62049,40mg,180.0,0
+METOPROLOL TART,62049,50mg,180.0,0
+FINOFIBRATE,62049,145mg,90.0,0
+omeprazole,92072,20mg,90.0,10.00
+anastrozole,92072,1mg,90.0,10.00
+Tramadol HCL,46123,50mg,90.0,0.00
+Meloxicam,46123,15mg,90.0,0.00
+Amlodipine,46123,10mg,90.0,0.00
+Losartan,46123,100mg,90.0,0.00
+Omeprazole,46123,20mg,90.0,0.00
+Brimonidine,46123,15ml,180.0,0.00
+Hydrochlorothiazide,46123,25mg,90.0,0.00
+Tekturna,89052,300mg,90.0,0
+Plavix,89052,75mg,90.0,0
+Amlodipine,89052,5mg,180.0,0
+Lipitor,89052,40mg,90.0,0
+Gabapentin,89052,300gram,180.0,0
+duloxitine,89052,60mg,90.0,0
+DOXYCYCLINE HYCLATE,63366,100mg,180.0,183.03
+CELECOXIB,63366,200mg,90.0,103.61
+GABAPENTIN,63366,300mg,180.0,9.35
+WARFARIN,63366,4mg,180.0,21.37
+FLUDROCORT,63366,.1mg,90.0,20.92
+RABEPRAZOLE,63366,20mg,180.0,204.04
+DESIPPPPRAMINE,63366,25mg,90.0,55.77
+mobic,27870,7.5mg,180.0,1.63
+Janumet,08094,1000mg,180.0,15.00
+Invokana,08094,300mg,90.0,15.00
+Nexium,08094,40mg,90.0,15.00
+Celexa,08094,20mg,90.0,15.00
+Cozaar,08094,100mg,90.0,15.00
+Lipitor,08094,20mg,90.0,15.00
+Zetia,08094,10mg,90.0,15.00
+Advair,08094,250inhalation,180.0,15.00
+glucovance,70072,500mg,180.0,10.00
+accu check compact,70072,000mg,180.0,000
+Naproxen Sodium,70072,550mg,90.0,000
+hyoscyamine,70072,0.125mg,90.0,000
+Nifedipine XL,94571,30mg,90.0,0
+Ranitidine,94571,150mg,180.0,0
+dorzolamide HCL-Timolol maleate,94571,20mg,180.0,10
+Olopatadine,94571,1.11mg,90.0,0
+Fenofibrate,28906,160mg,90.0,0.00
+Hydrochlorothiazide,28906,25mg,90.0,0.00
+Meeeetoprolol Tartrate,28906,50mg,180.0,0.00
+Levothyroxin,28906,0.05mg,90.0,0.00
+Losartan,28906,50mg,180.0,0.00
+Rosuvastatin,28906,40mg,90.0,96.00
+Potassium Chloride,28906,10mg,180.0,0.00
+Flueeticasone Propionate,28906,50mcg,180.0,0.00
+Nitro-Quick,28906,0.4mg,90.0,0.00
+Atenolol,07630,50mg,180.0,2.57
+Gemfibrozil,07630,600mg,180.0,1.02
+Invvokana,07630,300mg,90.0,37.00
+MetFORMIN,07630,1000mg,180.0,5.00
+RAMIPRIL,07630,2.5mg,180.0,5.00
+Linzess,07630,290mcg,90.0,5.00
+Ranexa,07630,500mg,180.0,5.00
+PENNEEDLE_32GXMM_UF_NANO,07630,180unit,270.0,68.00
+ATENOLOL,07630,50mg,180.0,2.57
+GEMFIBROZIL,07630,600mg,180.0,5.00
+INVOKANA,07630,300mg,90.0,37.00
+RAMIPRIL,07630,2.5mg,90.0,5.00
+Hydrea,43213,2000mg,90.0,39.99
+Amitryptiline,43213,25mg,90.0,38.45
+Atorvastatin,43213,10mg,90.0,0
+Gabapentin,43213,400mg,90.0,39.99
+Duloxetine,43213,60mg,180.0,159.99
+Omeprazole,76065,20gram,180.0,0
+Atenenol,43528,50mg,90.0,0
+Atavorstatin,11201,10mg,90.0,0
+Amabelz,11201,0.5mg,90.0,20.00
+Tamsulosin,06801,2mg,90.0,0
+Amlodipine,34113,5mg,90.0,15
+KCL,34113,10mg,90.0,10
+Allopurinol,34113,300mg,90.0,5
+Donezepil,34113,5mg,90.0,5
+Trazadone,34113,50mg,90.0,2.5
+monteleukast,34113,10mg,90.0,3
+eliquis,34113,2.5mg,360.0,35
+warfarin,10605,7.5mg,90.0,0
+MetFormin,10605,500mg,180.0,0
+levothyroxine,10605,200mcg,90.0,0
+simvastin,10605,10mg,90.0,0
+hydroCHLOROthiazide,10605,25mg,90.0,0
+humulog,08055,100unit,90.0,10
+Valsartan/HCTZ,33813,160mg,90.0,25.55
+Ibuprofen,33813,800mg,270.0,20.00
+Xarelto,75572,20mg,90.0,1
+Metoprolol,75572,12.5mg,90.0,1
+Lisinopril,75572,40mg,90.0,1
+Atorvastatin,75572,40mg,90.0,1
+Bupropion XL,08053,150mg,90.0,0
+Junel FE,53029,1.5unit,90.0,0
+Advair,53029,250mcg,60.0,0
+celebrex,19348,200mg,90.0,39
+Bystolic,96057,20mg,90.0,0
+Valsartan,96057,320mg,90.0,0
+Amlodipine,96057,5mg,90.0,0
+oxybutynin,96057,10mg,90.0,0
+esomeprazole,96057,40mg,90.0,0
+meloxicam,96057,15mg,90.0,0
+synthroid,96057,125mcg,90.0,0
+bupropion,96057,150mg,90.0,0
+venlafaxine,12309,150mg,90.0,0.00
+atorvastatin,12309,20mg,90.0,0.00
+Pentasa,21701,1000mg,360.0,0
+Gabapentin,21701,600mg,270.0,0
+Methocarbamol,21701,500mg,90.0,0
+xerelto,21701,20mg,90.0,0
+oxycodon,21701,10mg,360.0,0
+mirtazapine,21701,15mg,90.0,0
+Prednisone,21701,10mg,90.0,0
+Spironolactone,44107,100mg,90.0,0
+buPROPion XL,44107,150mg,90.0,0
+Citalopram,44107,20mg,90.0,0
+valACYclovir 500mg,44107,500mg,90.0,0
+Necon,44107,0.5mg,90.0,0
+allopurinol,53403,300mg,90.0,0
+ACTOS,98382,30mg,90.0,0
+VASOTEC,98382,10mg,90.0,0
+GLUCOPHAGE,98382,1000mg,180.0,0
+chlorthalidone,61614,25mg,90.0,36.00
+dilitazem,61614,300mg,90.0,36.00
+potassium cl er,61614,20mg,90.0,36.00
+atorvastain,08757,20mg,90.0,0
+finasteride,08757,5mg,90.0,0
+tamsulosin,08757,0.4mg,90.0,0
+Synthroid,08551,75mcg,90.0,30
+Diltiazem,61614,300mg,90.0,36.00
+Losartan,07836,100mg,90.0,0
+Ezetimbe,07836,10mg,90.0,0
+Levothyroxine,07836,.075mg,90.0,0
+fenofibrate,07836,145mg,90.0,0
+atorvastatin,08757,20mg,90.0,0
+spriva,98685,1inhalation,90.0,135
+Losartan,89074,100mg,90.0,0
+Atorvastatin,89074,10mg,90.0,0
+Levothyroxine,89074,0.112mg,90.0,0
+Finasteride,89074,5mg,90.0,0
+Tamsulosin,89074,0.4mg,90.0,0
+Travatan z,60617,0.004ml,90.0,9
+dorzolamide,60617,22.3mg,180.0,6
+alphagan p,60617,0.1ml,180.0,7
+tamsulosin HCL,60617,0.4mg,90.0,9
+finasteride,60617,5mg,90.0,8
+simvistatin,19111,20mg,90.0,0
+Lisinopril,19111,20mg,90.0,0
+HCTZ,19111,25mg,90.0,0
+Propranolol,19111,80mg,90.0,0
+Pantoprazole,19111,40mg,90.0,0
+Mirtazapine,21701,15mg,90.0,0
+Xarelto,21701,20mg,90.0,0
+Oxycodon,21701,10mg,360.0,0
+VALSARTAN,80005,80mg,90.0,.00
+GLIMEPIRIDE,80005,4mg,180.0,4.00
+atenolol,33442,25mg,90.0,0
+levothroid,33442,.25mg,90.0,0
+amlodipine,33442,5mg,90.0,0
+omeprazole,33442,40mg,90.0,0
+simvastatin,33442,20mg,90.0,0
+metformin,48455,500mg,270.0,0
+levothyroxine,48455,0.15mg,90.0,20.00
+atrovastatin,48455,10mg,90.0,10.25
+omeprazole,48455,20mg,90.0,0
+atenolol,48455,25mg,360.0,5.03
+hydrochlorot,48455,12.5mg,90.0,8.99
+Ramipril,07094,5mg,90.0,0
+Hydrochlorothiaz,07094,25mg,90.0,0
+levothyroxine,14086,100mg,90.0,25
+topamax,14086,50mcg,90.0,25
+Humalog,78214,12mg,270.0,75
+furosimide,80918,40mg,90.0,0
+carvedilol,60401,12.5mg,180.0,0
+triamt/hctz,60401,37.5mg,90.0,0
+pravastatin,60401,80mg,90.0,0
+Atorvastatin,80138,40mg,90.0,0
+Celecoxib,80138,200mg,90.0,30
+ursodiol,63304,3mg,90.0,131
+lyvothyroxine,63304,1mg,90.0,0
+Atorvastatin,77382,20mg,90.0,0
+Test Drug 1,10544,50mg,90.0,25
+Test Drug 2,10544,100ml,270.0,90
+Lisinopril,46034,20mg,90.0,0
+solodyn,60559,55mg,90.0,220
+ramipril,94904,10mg,90.0,0
+xarelto,94904,20mg,90.0,0
+metoprolol,94904,100mg,180.0,0
+atorvastatin,94904,40mg,90.0,0
+hct,94904,12.5mg,90.0,0
+METOPROLOL ER SUCCINATE,66002,100mg,90.0,0
+LISINOPRIL,66002,5mg,90.0,0
+ATORVASTATIN,66002,20mg,90.0,0
+FLUTICASONE PROPIONATE,66002,50mcg,90.0,0
+Metformin,12065,1500mg,90.0,40
+Pantroprazole,11952,40mg,90.0,12.00
+Simvastatin Tab.,11952,40mg,90.0,25
+Donepezil HCL,11952,5mg,90.0,20
+Fluoxetine HCL,11952,40mg,90.0,0
+Fluoxetine HCL,11952,10mg,90.0,0
+Olanzapine Tab.,11952,15mg,90.0,35
+Citalopram,74006,20mg,90.0,0
+amlodipine,74006,5mg,90.0,0
+simvastatin,74006,20mg,90.0,0
+Levothyroxine,74006,.075mg,90.0,0
+Levathyrozine,09852,88mg,90.0,3.76
+rosuvastatin tab,23112,10mg,90.0,0
+Estradiol,54635,1mg,90.0,0
+Trazodone,54635,1mg,90.0,0
+Omeprazole,54635,20mg,180.0,0
+Sulindac,54635,200mg,180.0,0
+Fluoxetine,54635,20mg,90.0,0
+Levothyroxine,54635,0.75mg,90.0,0
+Lyrica,54635,25mg,180.0,0
+metoprolol,06824,25mg,180.0,10
+eliquis,06824,5mg,180.0,10
+alendronate,83702,70mg,12.87,0
+Trinessa,10065,0unit,90.0,5
+Zoloft,20814,100mg,90.0,4
+Ambien,20814,5mg,90.0,2
+Lisinopril,46563,5mg,90.0,0.00
+Atorvastatin,46563,10mg,90.0,0.00
+Hydrochlorothiaz,46563,12.5mg,90.0,0.00
+crestor,47240,20mg,90.0,0
+Zolof,28792,50mg,90.0,0
+Lisinopril,22204,10mg,90.0,0
+Crestor,22204,40mg,90.0,0
+astorvastatin,60142,20mg,90.0,0
+metoprolol,60142,25mg,90.0,0
+dicyclomine,60142,20mg,90.0,0
+lisinopril,60142,10mg,90.0,0
+pantoprazole,60142,40mg,90.0,0
+Metroporol,21093,20mg,90.0,20
+Amabelz,23111,0.5mg,90.0,0
+Spironolactone,23111,50mg,180.0,1
+DicloFenac,23111,75mg,180.0,1
+Progesterone,85042,100mg,90.0,43
+Micronized,85042,100mg,90.0,43
+allopurinol,29466,300mg,90.0,0
+atorvastatin,29466,20mg,90.0,0
+clopidogrel,29466,75mg,90.0,0
+metoprolol,29466,25mg,90.0,0
+tamsulosin,29466,0.4mg,90.0,0
+amlodipine,60653,10mg,90.0,5
+Chlorthalidone,60653,25mg,90.0,10
+Lisinopril,48167,20mg,90.0,2
+Sertraline,32162,50mg,90.0,0
+Metformin Hydrochloride,07430,500mg,90.0,0
+Lumigan,07430,1ml,90.0,90.00
+Carteolol Hydrochloride Ophthalmic Sol,07430,1ml,180.0,0
+Sertraline,98502,25mg,90.0,2.13
+Topiramate,98502,100mg,90.0,3.13
+gabapentin,18018,300mg,90.0,30
+GLIMEPIRIDE,18018,4mg,90.0,0
+lisinopril,18018,10mg,90.0,0
+metformin,18018,1000mg,180.0,0
+levothyroxine,18018,50mcg,90.0,30
+Pravastin,30127,10mg,90.0,0
+Escitalopram,30127,15mg,90.0,0
+Pantiprazole,30127,40mg,180.0,0
+amlodipune,30127,2.5mg,90.0,0
+diphenoxylate,19805,2mg,90.0,0
+levothyroxine,19805,1mg,90.0,0
+ramipril,76012,10mg,90.0,0
+indapamide,76012,1.25mg,90.0,0
+Plavis,12533,75mg,90.0,1
+Oxybutynin,12533,10mg,90.0,1
+Opprazole,12533,10mg,90.0,1
+Vitamine D,12533,5000unit,12.87,1
+Gabapentin,12533,600mg,180.0,1
+lisinopril,04965,30mg,90.0,0
+HydroCHLOROthiaz,04965,25mg,90.0,0
+Amlodipine,54902,5mg,90.0,0
+Rosuvastatin,54902,20mg,90.0,0
+Hydrochlorathiazide,54902,25mg,90.0,0
+Metoprolol succ,54902,100mcg,90.0,0
+Potassium CL,48307,10mg,90.0,25.
+Simvastatin,48307,40mg,90.0,25.00
+Omeprazole,48307,40mg,90.0,25.00
+Atenol/Chlorthal,48307,50mg,90.0,25.
+Doxazosin Mes,48307,4mg,90.0,25.
+Diazipam,24382,5mg,180.0,4.54
+divalproex,53070,1000mg,90.0,0
+Enalapril,07512,20mg,90.0,22.48
+pradaxa,11218,150mg,180.0,87.5
+Hydroxychloroquine,08332,200gram,180.0,0
+Losartan Postassium,93453,50mg,90.0,20
+Venlafaxine,54403,225mg,90.0,25.00
+Levotheroxine,54403,100mcg,90.0,22.50
+Sertraline,61265,75mg,90.0,10.00
+Lisiniprol,61265,10mg,90.0,10.00
+Lorstan,11379,100mg,90.0,0
+amlodipine,08096,10mg,90.0,20
+losartan,64020,100mg,90.0,0
+amiodarone,64020,200mg,90.0,0
+atorvastatin,64020,40mg,90.0,0
+morco,63040,4mg,360.0,1
+norco,63040,4mg,360.0,1
+Atenolol,29334,12.5mg,90.0,0
+Crestol,29334,10mg,90.0,0
+Levothyroxine,29334,.15mcg,90.0,0
+Colestipol,29334,1gram,180.0,0
+Vyvanse,30092,70mg,90.0,50
+ezetimibe,85266,20mg,90.0,18.00
+rosuvastatin,85266,20mg,90.0,18.00
+allopurinol,85266,100mg,90.0,4.00
+Synthroid,07675,150mg,90.0,5
+AmLODIPine,07675,2.5mg,90.0,5
+Metoprolol,07675,25mg,90.0,5
+Timolol,07675,6.8mg,90.0,5
+Letrozole,07675,2.5mg,90.0,0
+Mometasone Furoate,07675,50mg,90.0,5
+Azalastine,07675,175mg,90.0,5
+Verapamil ER,04412,180mg,90.0,24.00
+Hydroclorot,04412,25mg,90.0,10.00
+Lisinopril,04412,40mg,90.0,11.96
+Atorvastatin,04412,40mg,90.0,27.00
+atorvastatin,07103,10mg,90.0,6
+metformin,06811,1000mg,180.0,1
+Losartan,06811,50mg,90.0,1
+Rosuvastatin,06811,20mg,90.0,1
+Tradjenta,06811,5mg,90.0,1
+Pioglidazone,06811,30mg,90.0,1
+Sildenafil,06811,20mg,90.0,1
+Victoza,75249,18mg,90.0,40
+LISINOPRIL-HCTZ,29431,1mg,90.0,0
+Propanol,77484,60mg,90.0,4
+Levathyroxine,30514,100mcg,90.0,0
+1,91911,1gram,90.0,1
+venlafaxine,73505,225mg,90.0,50
+Levetiracetam,94506,500mg,180.0,0
+Finastiride,94506,5mg,90.0,0
+Estradiol,62221,.5mcg,270.0,0
+Modafinil,62221,200mg,90.0,0
+Levothyroxine,62221,100mcg,90.0,0
+Furosemide,62221,40mg,180.0,0
+Omeprazole,62221,40mg,90.0,0
+Bontril,62221,35mg,180.0,19
+Estradiol,62221,0.5mcg,270.0,0
+metoprolol tart,91942,50mg,180.0,0
+simvastatin,91942,40mg,90.0,0
+Valsartan,08723,320mg,90.0,5
+methotrexate,08019,2.5mg,12.87,0
+nexium,08019,40mg,90.0,8.00
+lipitoatorvastatin,02748,20mg,90.0,0
+levothyroxine,02748,.075mcg,90.0,0
+omeprazole,02748,20unit,90.0,0
+Oxybutin,08882,10mg,90.0,127.06
+Symbicort,08701,2inhalation,180.0,345.00
+Spriva,08701,1inhalation,90.0,245.00
+Fenofibrate,08701,1gram,90.0,75.00
+Verpermil,08701,1mg,90.0,80.00
+Zopidum,08701,1gram,90.0,90.00
+carisoprodol,08701,1mg,360.0,70.00
+alprazolam,08701,1mg,270.0,85.00
+Norvasc,10028,5mg,90.0,21
+invokana,63010,1mg,90.0,0
+mettoprololersuccinate,63010,100mg,90.0,0
+levothyroxine,63010,0.175mg,90.0,0
+losartan,63010,50mg,90.0,0
+metforminer,63010,500mg,180.0,0
+simvastatin,63010,10mg,90.0,0
+ibuprofen,63010,800mg,90.0,0
+losartan,63010,100mg,90.0,0
+januvia,63010,100mg,90.0,0
+rosuvastatin,08618,10mg,90.0,5
+Citalopram,49508,10mg,90.0,0
+atorvastatin,49508,20mg,90.0,0
+Amlodipine,49508,10mg,90.0,0
+Fenofibrate,49508,54mg,90.0,0
+Losartan/HCTZ,49508,100mg,90.0,0
+Januvia,49508,50mg,90.0,0
+Myerbetriq,49508,10mg,90.0,0
+Atorvastatin,94903,10mg,90.0,16
+sevelamer,94903,800mg,270.0,23
+Tammoxifen,19010,20mg,90.0,01
+Sertraline,19010,25mg,90.0,01
+SYNTHROID,10580,75mg,90.0,0
+losartan,08054,100mg,90.0,5
+Atenolol,08054,25mg,90.0,5
+EZETIMIB/SIMVASTAT TB 10-40,08361,1mg,90.0,2
+microgest,80222,1ml,90.0,0
+Venlafaxine,53705,75mg,90.0,0
+Levothroxine,53705,0.088mg,90.0,0
+AmLODIPine,77077,5mg,90.0,0
+Atorvastatin Calcium Tab,19333,80mg,90.0,0
+Losartan Potassium Tab,19333,25mg,90.0,0
+Omeprazole,19333,20mg,90.0,0
+Ezetimibe,06040,10mg,90.0,30.00
+Brilinta,06040,90mg,180.0,135.
+Atorvastatin,06040,80mg,90.0,33.00
+Metoprolol Succinate,06040,50mg,90.0,35.
+toprol,95928,50mg,90.0,40
+lipitor,95928,10mg,90.0,40
+Fenofibrate,28601,54mg,90.0,22.15
+lisinopril-hctz,78729,1mg,90.0,0
+furosemide,78729,1mg,90.0,0
+fluticasone,78729,1mcg,90.0,0
+Ramipril,07465,10ml,90.0,5
+lisinipril,08055,20mg,90.0,0
+hydrochlorothiazide,08055,25mg,90.0,0
+pravastatin,08055,40mg,90.0,0
+hydrochlorothiaz,45238,25mg,90.0,0
+lisinorol,45238,20mg,90.0,0
+clopidogrek,45238,75mg,90.0,0
+atorvastatin,45238,20mg,90.0,0
+allopurinol,45238,300mg,90.0,2
+isosorbide,45238,30mg,90.0,0
+pantoprazole,45238,40mg,90.0,0
+metoprolol,45238,26mg,90.0,0
+Amlodipine,27360,10mg,90.0,0
+Tamsulosin,27360,.4mg,180.0,0
+Spironolactone,27360,25mg,180.0,0
+Montelukast,27360,10mg,90.0,0
+Brero,27360,25mg,90.0,45
+Metformin,79744,1000mg,180.0,0
+atenolol,79744,25mg,90.0,0
+atorvastatin,79744,20mg,90.0,0
+escitlopram,79744,20mg,180.0,0
+Kevin Jerelds,34787,160mg,90.0,0
+Lisinopril HCTZ,85282,20mg,90.0,0
+Buspirone HCL,85282,15mg,180.0,8
+Omepazole DR,85282,20mg,90.0,8
+Propranolol,85282,10mg,90.0,8
+Eliiquis,85282,10gram,180.0,30
+Sertraline,27215,50mg,90.0,3.97
+Metoprolol ER,27215,25mg,90.0,0
+escatalipram,63040,10mg,90.0,10.00
+ambien10,63040,10mg,90.0,10
+progesterone,63040,40mg,90.0,10
+Simvastatin,97325,20mg,90.0,0.00
+Levothyroxine,97325,.075mg,90.0,0.00
+Metoprolol,97325,50mg,90.0,0.00
+BLISOVI 24 Fe,29505,1mg,90.0,0
+Cymbalta,39503,30mg,90.0,1
+Atorvastatin,39503,20mg,90.0,1
+HyydroCholotiaside,98506,12.5mg,90.0,0
+Levolxyl,98506,0.1mg,90.0,0
+Losartan,98506,25mg,90.0,0
+Flueoxetine,98506,20mg,90.0,0
+celecobrix,98506,200mg,90.0,5
+losartan,99328,25mg,90.0,3.88
+omeprazole,99328,20mg,90.0,19.43
+Synthroid,08093,100mg,90.0,30
+Memantine HCL,30265,10mg,180.0,80.57
+Escitalopram,30265,20mg,90.0,48.43
+LamoTRIgine,30265,100mg,180.0,32.13
+Horizant,60142,600mg,90.0,180
+Fluoxetine,68508,40mg,90.0,15
+Janumet 50-1000,10037,1mg,180.0,0
+Losartan,10037,50mg,180.0,0
+Atorvastatin,10037,40mg,90.0,0
+Metoprolol Succ ER,10037,50mg,90.0,0
+Latanoprost 0.005%,10037,1unit,90.0,0
+Simbrinza 1%-0.2%,10037,1unit,180.0,0
+Atorvastatin,33809,10mg,90.0,0
+Tamsulosin,33809,0.4mg,90.0,0
+Finasteride,33809,5mg,90.0,0
+escitalopram,27215,20mg,90.0,1
+clopidogril,77571,75mg,90.0,0
+qsymia,77205,11.25mg,90.0,0
+Simvistatin,01940,20mg,90.0,12
+Metformin,98133,1000mg,180.0,0
+Verapamil SR,98133,240mg,90.0,0
+Potassium Cl  ER,98040,20unit,90.0,1
+Ranitidine,98040,150mg,90.0,1
+Lisinopril,98040,20mg,90.0,1
+Fluoxetine,98040,40mg,90.0,1
+Simvastatin,98040,20mg,90.0,1
+Hydrochlorothiaz,98040,25mg,90.0,1
+Amlodipine,98040,5mg,90.0,1
+Levothyroxin,07960,50mcg,90.0,5
+Yaz,11021,3mg,90.0,75
+Metformin,34433,500mg,180.0,0
+Pantoprazole,78249,20mg,90.0,1
+Leflunomide,78249,20mg,90.0,1
+lexipro,95065,2unit,180.0,2
+Valsartan,32064,160mg,90.0,0
+Protonix,32064,40mg,180.0,1
+Amlodipine,78749,0.05mg,90.0,1
+Esomeprazole,78749,40mg,90.0,1
+Levoxyl,78749,.175mg,90.0,1
+Potassium,78749,20mg,90.0,1
+Carveditol,78749,25mg,180.0,1
+Citalopram,78749,20mg,90.0,1
+Meloxicam,78749,15mg,90.0,0
+Ropinirole,78749,.5mg,90.0,1
+Entresto,78749,97103unit,180.0,0
+Furosemine,78749,40mg,270.0,1
+HydraAzine,78749,12.5mg,270.0,1
+Gabapentin,06705,300mg,360.0,15
+Lamotrigine,06705,100mg,270.0,15
+nifedipine,95823,60mg,90.0,0
+citalopram,95823,10mg,90.0,0
+Edarbi,31533,80mg,90.0,08.35
+levothyroxine,31533,.137mcg,90.0,0
+escitalopram,31533,20mg,90.0,0
+imipramine,31533,25mg,180.0,0
+atvorastatin,31533,10mg,90.0,0
+premarin,31533,0.625mg,90.0,0
+montelukast,31533,10mg,90.0,0
+myrbetroq,31533,25mg,90.0,0
+nitrofurantoin-macro,31533,50mg,12.87,3.35
+metformin,60120,1000mg,180.0,0
+glipizide,60120,5mg,180.0,0
+pioglitizone,60120,45mg,90.0,0
+simvastatin,60120,20mg,90.0,0
+omeprezole,60120,20mg,90.0,0
+losartan,60120,100mg,90.0,0
+amlodipine besylate,60120,5mg,90.0,0
+furosemide,60120,20mg,90.0,0
+Enskyce,33716,0.15mg,90.0,0
+Omeprazole,44260,20mg,90.0,20.00
+Olmesartan,44260,40mg,90.0,40.00
+Spironolactone,33843,25mg,45.0,0.00
+Isosorbide,33843,60mg,90.0,0.00
+Bupropion,33843,150mg,180.0,0.00
+Olmesartan,33843,40mg,90.0,0.00
+Furosemide,33843,20mg,45.0,0.00
+Alorvastatin,33843,20mg,90.0,0.00
+Oxybuytin 5mg,30114,5mg,90.0,0
+Pravastatin,60423,80mg,90.0,25
+Chlorthaladone,60423,25mg,90.0,25
+Lorsartan,33437,100mg,90.0,0
+Atorvastatin,33437,40mg,90.0,0
+omeprazole,33437,20mg,90.0,0
+Lo Loestrin FE,10002,10mcg,90.0,0
+Tretinoin Cream 0.025%,10002,45gram,90.0,0
+Clindamycin Phosphate Gel,10002,45gram,90.0,0
+Pravastatin,07424,20mg,90.0,0
+SYTHYROID,11704,100mg,90.0,36
+MYRBETRIQ,11704,25mg,90.0,303
+simvastatin,07728,10mg,90.0,0
+symbicort 160/4.5,08204,4.5inhalation,180.0,90
+BisoFum,08618,10mg,90.0,5.00
+Rosuvatatin,08618,20mg,90.0,5.00
+carverdilo,16001,1mg,180.0,0
+fenofibrate,16001,1mg,90.0,0
+simvastatin,16001,1mg,90.0,0
+Norgestim-Eth Estrad Triphasic,28078,35mcg,90.0,0
+elequis,32779,5mg,180.0,1362.00
+tamsolusin,32779,0.4mg,90.0,100
+metoprolol,32779,25mg,90.0,100
+pantoprazole,32779,40mg,90.0,100
+simvastatin,32779,40mg,90.0,100
+Propafenone,32779,225mg,90.0,100
+MetFormin,85132,1000mg,180.0,0
+fenofibrate,89120,048mg,90.0,96
+Alendronate,89120,070mg,90.0,0
+Levothyroxin,89120,100mcg,90.0,0
+Atorvastatin,89120,10mg,90.0,0
+Spiriva Handinhaler,89120,0inhalation,90.0,0
+Sulfasazine,11207,2500mg,90.0,5
+Eliquis,75204,5mg,180.0,0
+Lisinopril,75204,40mg,90.0,0
+Carvedilol,75204,6.25mg,120.0,0
+Nifedipine,75204,30mg,90.0,0
+Vitamin D,75204,50000unit,0.572,0
+Lisinopril,11590,40mg,90.0,5.00
+Hydrochlorothiaz,11590,25mg,90.0,5.00
+Escitalopram,85704,10mg,90.0,20
+Evoxac,90640,30mg,270.0,10
+Eliquis,*****,5mg,180.0,464.64
+Atorvastatin,*****,20mg,90.0,9.02
+cyclobenzaprine,*****,10mg,90.0,10.61
+dofetilide,*****,500mcg,180.0,412.57
+furosemide,*****,40mg,90.0,5.83
+lisinopril,*****,10mg,90.0,8.41
+metoprolol succinate ER,*****,100mg,90.0,25.50
+metoprolol succinate ER,*****,25mg,90.0,18.53
+triazolam,*****,0.25mg,90.0,90.01
+amlodipine,71854,10mg,90.0,0
+triamt/hctz,71854,37.5mg,90.0,0
+hctz,71854,25mg,90.0,0
+benazepril,71854,20mg,90.0,0
+simvastatin,71854,20mg,90.0,0
+Cozaar,37138,50mg,180.0,3
+Lyrica,37138,75mg,180.0,3
+Amaryl,37138,2mg,90.0,3
+Fluticasone Prop. SPR,37138,50mcg,90.0,3
+Zantac,37138,150mg,180.0,3
+Eliquis,37138,5mg,180.0,3
+Desonide .05,37138,59ml,180.0,3
+Naproxen,34974,500mg,180.0,10.00
+potassium chloride Er,34974,10mg,90.0,10.00
+hydrochlorothiazide,34974,50mg,90.0,10.00
+simistaten,87124,10mg,90.0,0
+nnnnn,11779,10mg,90.0,3
+Metoprolol,06840,50mg,180.0,0
+Atorvastatin,06840,40mg,90.0,0
+omeprazole,06840,20mg,90.0,0
+Sertraline,53406,1mg,90.0,0
+Finasteride,53406,1unit,90.0,0
+Simvastatin,53406,1mg,90.0,0
+Atorvastatin,76048,20mg,90.0,0
+Metoprolol,76048,50mg,90.0,0
+Amlodipine,77521,10mg,90.0,6.03
+Zolpidem,77521,5mg,90.0,23.39
+Tramadol,77521,50mg,180.0,10.28
+metformin,76859,1000mg,180.0,0
+Lisinopril,76859,40mg,180.0,0
+Metoprolol,76859,100mg,180.0,0
+Atorvastin,76859,20mg,90.0,0
+Clonidine,76859,0.1mg,180.0,0
+Glimeripride,76859,2mg,180.0,0
+atenolol,53227,50mg,90.0,0
+amlodipine,53227,5mg,90.0,0
+lovistatin,53227,10mg,90.0,0
+forosemide,53227,40mg,90.0,0
+warfarin,53227,5mg,90.0,0
+metoprolol,34233,50mg,90.0,27.00
+ezetimibe,34233,10mg,90.0,27.00
+rosuvastatin,34233,40mg,90.0,27.00
+clopidogrel,34233,75mg,90.0,27.00
+losartan,34233,25mg,90.0,27.00
+metoprolol,98168,50mg,180.0,0
+losartan,98168,50mg,90.0,0
+synthroid,53217,1mg,90.0,0
+isosorbide mn,33868,30mg,90.0,0
+metopropolol,33868,25mg,180.0,0
+simvistatin,33868,40mg,90.0,0
+finasteride,33868,5mg,90.0,0
+tamsulosin,33868,0.4mg,90.0,0
+allopurinol,33868,100mg,90.0,0
+astrovastin,01220,20mg,90.0,1
+Nifedipine,01220,90mg,90.0,1
+Atenolol,01220,25mg,90.0,1
+TTriamterene,01220,37.5mg,90.0,1
+Flovent,01220,110inhalation,90.0,1
+Metformin ER,27312,500mg,360.0,18.00
+Glipizide XL,27312,5mg,90.0,18
+Naproxen,06093,500mg,180.0,10
+Metformin,32578,1000mg,90.0,0
+Finasteride,35581,5mg,90.0,15.93
+Isosorbide,35581,30mg,90.0,16.38
+Rosuvastatin,35581,5mg,90.0,21.76
+Carvedilol,35581,6.25mg,180.0,3.10
+Eliquis,35581,5mg,180.0,415.68
+Irbesartan,35581,300mg,90.0,22.40
+Propafenone,35581,150mg,270.0,74.07
+Amlodipine,35581,5mg,90.0,2.49
+pravastatin,92128,10mg,90.0,0
+Metomin,10566,750mg,90.0,0
+Duloxatine,80134,60mg,90.0,30
+Atorvastatin,34120,40mg,90.0,12.50
+allopurinol,34120,100mg,180.0,14.75
+Eliquis,34120,5mg,180.0,485.00
+Flecainide,34120,50mg,180.0,57.02
+Metoprolol,34120,50mg,180.0,17.59
+Pantoprazole,34120,40mg,90.0,15.00
+Potassium Chloride,34120,20mg,90.0,1500
+Telmisartan,34120,80mg,180.0,57.00
+Oxybutynin,34120,10mg,90.0,13.00
+Bupropion HCL SR,02886,100mg,90.0,6
+Alendronate Sodium,02886,70mg,12.87,6
+Montelukast,02886,10mg,90.0,6.00
+ProAir Hfa,02886,110mcg,90.0,56.00
+Rizatriptan Hcl Sr,02886,10mg,90.0,56.00
+Symbicort (Aerosol)l,02886,160inhalation,180.0,56.00
+Ceterizine,02886,10mg,90.0,6.00
+Spiriva HandiHaler,02886,2.5inhalation,180.0,56.00
+topiramate,34471,200mg,90.0,147.99
+bupropion xl,34471,150mg,90.0,118.99
+Simvastatin,52742,40mg,90.0,0
+Metformin,52742,1000mg,180.0,0
+Glipizide er,52742,5mg,180.0,0
+Flecainide,01262,50mg,180.0,0.00
+Terazosin,01262,5mg,90.0,0
+Pantoprazole,85390,40mg,90.0,0
+Metformin,85390,500mg,180.0,0
+Atorvastatin,85390,80mg,90.0,0
+Fluoxetine,85390,40mg,90.0,0
+Gabapentin,85390,309mg,180.0,0
+Alendronate,85390,70mg,12.87,0
+Atorvastatin,10028,10mg,90.0,5
+Advair Diskus,54301,10050mcg,180.0,125.00
+Fluticasone Proprionate,54301,50mcg,180.0,0
+Lamotrigine,54301,200mg,90.0,0
+Fluoxetine,54301,40mg,90.0,0
+atenolol,34746,25mg,90.0,1.00
+levothyroxine,34746,0.05mg,90.0,1.00
+pravastatin,34746,20mg,90.0,1.00
+levothiroxine,44321,150mg,90.0,30
+Trazodone,63051,50mg,90.0,5.71
+Fluoxetine,63051,40mg,90.0,13.15
+fenofibrate,34705,160mg,90.0,6.00
+sertraline hcl,34705,100mg,90.0,6.00
+losartan,34705,100mg,90.0,6.00
+metoprolol,34705,50mg,180.0,6.00
+levothyroxine,34705,0.075mg,90.0,6.00
+Alendronate Sodium,16505,1mg,12.87,0
+Amlod/Benazprl 5/20,16505,1mg,90.0,0
+atorvastatin,16505,1mg,90.0,0
+Eliquis,33161,5mg,180.0,30
+pravacol,34114,20mg,90.0,0
+Vagifem,22903,10mcg,25.74,450
+levothyroxine,22903,88mcg,90.0,50000
+Levothyroxine,25064,0.075mg,90.0,0
+Metformin,25064,1000mg,180.0,0
+metoprolol tart Tab,25064,50mg,90.0,0
+ATORVASTATIN,25064,80mg,90.0,0
+HydroCHLOROthiaz TAB,25064,25mg,90.0,0
+RaNITIdine TAB,25064,150mg,180.0,0
+lEVOTHYROXINE,85283,1mg,90.0,0
+lOVASTATIN,85283,1mg,90.0,0
+amlodipine,48917,10mg,90.0,4.00
+lisinopril,48917,40mg,90.0,4.00
+duloxetine,34741,60mg,90.0,1.00
+Metoprolol,34741,25mg,90.0,1.00
+crestor,34741,20mg,90.0,1.00
+Exemestane,34741,25mg,90.0,1.00
+Creon DR,34741,2000unit,180.0,1.00
+famotidine,34741,20mg,90.0,1.00
+Metformin ER,34741,500mg,360.0,1.00
+alendronate,92612,70mg,12.87,0
+lisinopril,92612,10mg,90.0,0
+lovasyatin,92612,40mg,90.0,0
+Losartan,73529,50mg,180.0,0
+HydroCHLOROthiaz,28513,25mg,90.0,2.98
+SIMVASTATIN,28513,40mg,90.0,2.98
+FENOFIBRATE,28513,145mg,90.0,2.98
+VENLAFAXINE XR,28513,37.5mg,90.0,2.98
+BuPROPion SR TAB,28513,150mg,90.0,2.98
+Simvisatin,95576,40mg,90.0,10.00
+Lisinipril,95576,30mg,90.0,10.00
+Metropolis success er,95576,50mg,90.0,10.00
+Zolpiden,95576,5mg,90.0,10.00
+Tramadol,95576,50mg,90.0,10.00
+Cyclobenzaprine,95576,10mg,90.0,10.00
+Ibuprofen,95576,600mg,270.0,10.00
+Lansoprazole,95576,30mg,90.0,10.00
+Losartan,08096,50mg,90.0,0
+Simvastation,81069,40mg,90.0,0.00
+Lisinopril,81069,20mg,90.0,0.00
+Amlodipine Besylate,90241,10mg,90.0,0
+Atorvastatin,90241,10mg,90.0,0
+Furosemide,90241,40mg,180.0,0
+Glimepide,90241,4mg,90.0,0
+Pioglitazone,90241,30mg,90.0,0
+Allopurinol,90241,100mg,90.0,0
+Amlodipine,78665,5mg,90.0,0
+Lisinopril,78665,40mg,90.0,0
+HCZT,78665,50mg,90.0,0
+Atenolol,93710,50mg,90.0,1
+Lisinopril,93710,20mg,90.0,1
+Hydrochlorothiazide,93710,25mg,90.0,1
+Fluticasone,93710,50mg,180.0,1
+Acyclovir,93710,400mg,270.0,1
+Levothyroxine,08037,50mcg,90.0,9.00
+Mibleas 24 Fe,08037,1mg,90.0,0.00
+Meloxicam,02816,15mg,90.0,0
+Atorvastatin,07506,20mg,90.0,25.80
+valsartan,07506,160mg,90.0,25.20
+rizatriptan,07506,10mg,90.0,76.02
+Lisinopril,18067,10mg,90.0,1
+LevoThyroxine,18067,.075mg,90.0,1
+Tamsulosin,18067,0.4mg,180.0,1
+Esomeprazol,18067,40mg,90.0,1
+tamsulosin,74133,0.4mg,90.0,20
+Cymbalta,07204,60mg,180.0,5
+Lyrica,07204,150mg,180.0,21
+Celebrex,07204,200mg,90.0,5
+LANTUS,11756,45unit,90.0,37.50
+NOVOLOG,11756,18unit,270.0,37.50
+GLUCOPHAGE ER,11756,1000mg,180.0,15
+OMEPRAZOLE,11756,20mg,90.0,0
+AMLODIPINE,11756,10mg,90.0,1
+SIMVASTAT,11756,10mg,90.0,1
+amlodopine,46112,10mg,90.0,0
+fenofibrate,75000,200mg,90.0,0
+lisinopril-hctz,75000,12.5mg,90.0,0
+Lisinopril,75000,20mg,90.0,0
+Allopurinol,75000,300mg,90.0,0.00
+Tamoxifen Citrate,75000,20mg,90.0,0.00
+Ezetimibe,75000,10mg,90.0,0.00
+Omeprazole,75000,20mg,90.0,0.00
+Escitalopram,75000,20mg,90.0,0.00
+Atorvastatin,75000,40mg,180.0,0.00
+Levothyroxine,75000,0.075mg,90.0,0.00
+Zolpidem,75000,10mg,90.0,0.00
+Lisinopril-HCTZ,75000,12.5mg,90.0,1
+Losartan,75000,50mg,90.0,0
+Levothyroxine,75000,.075mg,90.0,0
+HydroChlorothiaz,75000,25mg,90.0,0
+lisinoprial,75000,20mg,90.0,0
+Atorvastatin,75000,20mg,90.0,0
+Levothyroxine,75000,150mcg,90.0,0
+Losartan,75000,100mg,90.0,0
+HCTZ,75000,25mg,90.0,0
+ziac,75000,10gram,90.0,2
+Glipizide,75000,5mg,180.0,0
+losartain/hctz,75000,100mg,90.0,0
+Nexium,75000,40mg,90.0,0
+Alprazolam,75000,.5mg,90.0,0
+telmisartan,75000,40mg,90.0,0
+cloptdogrel,75000,75mg,90.0,0
+montelukast,75000,10mg,90.0,30
+atorvastatin,75000,80mg,90.0,0
+Metforman,75000,1000mg,180.0,0
+Lantus,75000,20unit,90.0,0
+Byderon,75000,2I.U.,90.0,0
+Metroprolol Succinate ER,75000,1mg,90.0,0
+Amlodipine,75000,10mg,90.0,0
+Atorvastin,75000,40mg,90.0,0
+Losartan Potassum,75000,25mg,90.0,0
+Wellbutrin,75000,100mg,180.0,0
+Mirtazapine,75000,30mg,90.0,0
+Alprazolam,75000,.5mg,270.0,0
+Simvastatin,75000,40mg,90.0,0
+Sertraline,75000,200mg,90.0,0
+Mylan-levothyrox,75000,.125mg,90.0,0
+Pantoprazole did ec,75000,40mg,90.0,0
+atorvastatin tab 20mg,75000,20mg,90.0,3.20
+metoprolol succ er tab,75000,25mg,90.0,3.20
+furosemide tab,75000,20mg,90.0,3.20
+levothroxine tab,75000,0.112mg,90.0,3.20
+glimepiride tab,75000,1mg,90.0,3.20
+allopurinol tab,75000,100mg,90.0,3.20
+synthroid,75000,75mg,90.0,5
+vesicare,75000,5mg,90.0,0
+allopurinol,75000,300mg,90.0,0
+potassium cl,75000,10mcg,90.0,0
+indapamide,75000,2.5mg,90.0,0
+losartan,75000,25mg,90.0,0
+Metropopol Succinate,75000,50mg,90.0,0
+adverstatin,75000,80mg,90.0,0
+omeprazole,75000,20mg,90.0,0
+losartan,75000,50mg,90.0,0
+simvastatin,75000,10mg,90.0,0
+terazosing,75000,5mg,90.0,0
+Entresto,75000,26mg,180.0,0
+Furosemide,75000,20mg,90.0,0
+Digoxin,75000,.25mg,90.0,0
+Carvedilol,75000,3.125mg,180.0,0
+Flovent,75000,220mg,180.0,189
+medformin,75000,500mg,180.0,0
+simvastin,75000,40mg,90.0,0
+losartan/HCTZ 100/25,75000,100mg,90.0,0
+AmLODIPine,75000,10mg,90.0,0
+labetalol,75000,100mg,90.0,16
+levothyroxine,75000,0.088mg,90.0,0
+Atenolol,75000,25mg,90.0,0
+Simvastatin,75000,20mg,90.0,0
+Simvastatin,75000,20mg,90.0,5
+Celecoxib,75000,200mg,180.0,10
+carvedilol,75000,25mg,180.0,10
+Hydrochlorthiaz,75000,25mg,90.0,10
+Simvastatin,75000,40mg,90.0,10
+Omeprazole,75000,40mg,90.0,10
+Mesalamine,75000,800mg,180.0,100
+Prednisone,75000,5mg,180.0,10
+gabapentin,75000,300mg,270.0,0
+propranolol,75000,20mg,270.0,0
+simvastatin,75000,40mg,90.0,2.61
+praxada,75000,150mg,180.0,87.5
+aTENOLOL,75000,1mg,100.0,3.51
+LISINOPRIL-HCTZ,75000,1unit,100.0,3.51
+wellbutrinxl,75000,300mg,90.0,0
+Metoprolol,75000,100mg,180.0,0
+Lisinopril,75000,40mg,90.0,0
+Pravastatin,75000,40mg,90.0,0
+HydroCHLOROthiaz,75000,12.5mg,90.0,0
+atorvastin,75000,40mg,90.0,0
+carvedilol,75000,50mg,180.0,0
+hydralazine,75000,100mg,270.0,0
+losarten,75000,50mg,90.0,0
+terzosin,75000,20mg,90.0,0
+isosorbide,75000,60mg,90.0,0
+sertraline,75000,50mg,90.0,0
+Paxil,75000,20gram,90.0,5
+levothyroxine,75000,0.175mg,90.0,0
+Atorvastatin,75000,80mg,90.0,0
+Spironolactone,75000,25mg,90.0,0
+Warfarin,75000,7.5mg,90.0,0
+Carbamazepine,75000,200mg,180.0,0
+Larartan,75000,50mg,90.0,0
+Carvedilol,75000,12.5mg,180.0,0
+Omeprazole,75000,20mg,90.0,0
+losartan,75000,100mg,90.0,25
+Sertraline HCL,75000,100mg,90.0,7
+Omeprazole,75000,20mg,90.0,20
+Diclofenec Sodium,75000,50mg,180.0,20
+Leflunomide,75000,20mg,90.0,20
+Xeljanz XR,75000,11mg,90.0,0
+cyclobenziprin,75000,10mg,90.0,5
+glimepiride,75000,1mg,90.0,5
+gabapentin,75000,300mg,180.0,0
+dutasteride,75000,5mg,90.0,0
+furosemide,75000,20mg,90.0,0
+atovrastatin,75000,10mg,90.0,0
+metoprolol succ er,75000,50mg,90.0,0
+warfarin,75000,5mg,90.0,0
+klorcon,75000,10mg,90.0,0
+potassium cl,75000,10mg,90.0,0
+ferrous sulfate,75000,325mg,90.0,0
+finasteride,75000,5mg,90.0,0
+finasteride,75000,5mg,90.0,9.00
+tamsulosin,75000,.4mg,180.0,9.00
+prednisone,75000,10mg,90.0,9.00
+carvedilol,75000,6.25mg,180.0,0
+gabapentin tab,75000,600mg,180.0,0
+prednisone,75000,5mg,90.0,0
+hydrochlorothiaz tab,75000,12.5mg,90.0,0
+Atorvastation,75000,10mg,90.0,0
+oxybutnin,75000,10mg,90.0,0
+CQ10,75000,600mg,90.0,0
+Xarelto,75000,20mg,90.0,15
+levothyroxine,75000,5mg,90.0,0
+Adderall,75000,20mg,90.0,10
+Narco,75000,10mg,270.0,55
+NIFEDIPINE XL,75000,30mg,180.0,14
+TELMEISARTAN,75000,80mg,90.0,14
+Sertraline,75000,100mg,90.0,2
+Losartan/HCTZ,75000,100mg,90.0,13.5
+Levothyroxine,75000,0.5mg,90.0,20
+Sucralfate,75000,1gram,360.0,0.0
+meloxicam,75000,15mg,90.0,0.0
+pantoprazole,75000,40mg,180.0,0.0
+gabapentin,75000,300mg,270.0,0.0
+enalapril,75000,2.5mg,90.0,0.0
+metformin er,75000,500mg,180.0,0.0
+atorvastatin,75000,20mg,90.0,0.0
+fenofibrate,75000,160mg,90.0,0.0
+Omeporosel,75000,20mg,90.0,0
+pacerone,75000,200mg,90.0,30
+Tulana,75000,1mg,90.0,0
+Metformin,75000,1000mg,180.0,15
+Clonazepam,75000,0.5mg,90.0,0
+metoprolol Succ ER Tab,75000,50mg,180.0,0
+Xarelto,75000,20mg,90.0,416
+Levothyroxine Tab,75000,0.05mg,90.0,1
+AmLODIPine Tab,75000,10mg,135.0,1
+potassium cl,75000,20mg,90.0,5.00
+clopidogrel,75000,75mg,90.0,5.00
+carvedilol,75000,3.125mg,180.0,5.00
+terazosin,75000,5mg,90.0,5.00
+atorvastatin,75000,40mg,90.0,5.00
+finasteride,75000,5mg,90.0,5.00
+wszopiclone,75000,2mg,90.0,80.00
+fenofibrate,75000,80mg,90.0,5.00
+clopidogrel,75000,75mg,90.0,1.00
+donepezil,75000,10mg,90.0,0.01
+memantine,75000,10mg,180.0,91.00
+metorprolol succinate,75000,50mg,90.0,0.01
+quetiapine fumarate,75000,50mg,180.0,0.01
+simvastatin,75000,80mg,90.0,0.01
+vesicare,75000,10mg,90.0,91.00
+Simvastain,75000,20mg,90.0,0
+lLisinopril,75000,10mg,180.0,24
+crixivan,75000,800mg,270.0,10
+lamivudine/ziovudine,75000,450mg,180.0,10
+synthroid,75000,0.125mg,90.0,3
+amlodipine,75000,10mg,90.0,1
+Ranitidine,75000,150mg,90.0,0
+Tamsulosin,75000,0.4mg,90.0,0
+Omneprazole,75000,20mg,90.0,0
+Eliquis,75000,5mg,180.0,157.
+ProAir,75000,2inhalation,360.0,157.00
+Levothyroxine,75000,75mcg,90.0,20.00
+Meloxicam,75000,15mg,90.0,20.00
+Lipitor,75000,20mg,90.0,20.00
+Irbesartan,75000,150mg,90.0,20.00
+sumatriptan,75000,25mg,90.0,20.00
+Lorazepam,75000,0.5mg,90.0,20.00
+atorvastain,75000,40mg,90.0,0
+Bystolic,75000,20mg,90.0,18.55
+levothyroxine,75000,.075mg,90.0,0
+simvastatin,75000,20mg,90.0,0
+oxybutynin,75000,5mg,180.0,0
+Flecainide,75000,50mg,180.0,0
+metoprolol,75000,25mg,90.0,0
+myrbetriq,75000,50mg,90.0,376
+acyclovir,75000,200mg,90.0,0
+Metoprolol,75000,25mg,90.0,0
+Myrbetriq,75000,50mg,90.0,357
+Acyclovir,75000,200mg,90.0,0
+Citalopram,75000,40mg,180.0,0
+Fludrocortisone,75000,0.1mg,90.0,0
+Fluticasone Propionate,75000,50mcg,90.0,0
+Humalog INJ,75000,40ml,90.0,0
+Montelukast,75000,10mg,90.0,0
+allopurinol,75000,100mg,90.0,5
+omeprosol,75000,40mg,90.0,5
+metformin,75000,500mg,180.0,0
+simvastatin,75000,80mg,90.0,0
+allopurinol,75000,100mg,90.0,0
+glimepiride,75000,2mg,180.0,0
+Finofibrate Tab,75000,158mg,90.0,0
+metoprolol,75000,25mg,180.0,20.63
+amlodipine,75000,5mg,90.0,1.00
+clopidogrel,75000,75mg,90.0,5.75
+atrovastatin,75000,80mg,90.0,37.98
+metoprolol,75000,25mg,180.0,20.60
+citalopram,75000,20mg,90.0,4.50
+Fenofibrates,75000,43mg,90.0,20
+primidone,75000,50mg,180.0,15
+zoloft,75000,150mg,90.0,3
+levothyroine,75000,150mg,90.0,00
+lovastatin,75000,40mg,90.0,00
+tamsulosin,75000,4mg,90.0,000
+amlodipine/olmes medoxom,75000,1040mg,90.0,8
+Lisinopril,75000,20mg,90.0,2
+metformin,75000,1000mg,180.0,1
+Atorvastatin,75000,40mg,90.0,1
+Loratadine,75000,10mg,90.0,1
+Glimepiride,75000,2mg,180.0,1
+Pioalitazone,75000,30mg,90.0,1
+Potassium Citrate,75000,1080mg,180.0,1
+Lisinopril,75000,2.5mg,90.0,1
+Lumingan,75000,0unit,90.0,1
+Accu-Chk Aviva Plus Test Strips,75000,1unit,270.0,1
+Isosorbide MN,75000,1mg,90.0,0
+Atorvastatin,75000,1mg,90.0,0
+Lisinopril,75000,1mg,90.0,0
+Amlodipine,75000,1mg,90.0,0
+Pantop;razole SOD,75000,2mg,180.0,0
+Clopidogrel,75000,1mg,90.0,0
+Toprol,75000,1mg,90.0,0
+Flornase,75000,0mg,90.0,9
+Ranitidine,75000,1mg,90.0,0
+Tylenol,75000,2mg,90.0,8
+Calcium,75000,2mg,90.0,8
+Vitamin D3,75000,1mcg,90.0,8
+donepezil,75000,10mg,90.0,0
+HydroCHLOROthiaz,75000,25mg,90.0,0
+LEVOTHYROXINE TAB,75000,0.075mg,90.0,0
+OLMESARTAN/HCTZ TAB 20,75000,12.5mg,90.0,0
+ATORVASTATIN TAB,75000,10mg,90.0,0
+estradiol,75000,1mg,90.0,0
+metoprolol tarttab,75000,1mg,90.0,0
+fluoxetine cap,75000,1mg,90.0,0
+metoprolol tart,75000,1mg,90.0,0
+gabapentin,75000,1mg,90.0,0
+irbesarttan/hctz tb,75000,1mg,90.0,0
+glburide,75000,2.5mg,90.0,0
+atorvastatin,75000,40mg,90.0,0
+brilinta,75000,60mg,180.0,0
+metoprolol,75000,25mg,180.0,0
+lisinopril,75000,10mg,90.0,0
+jardiance,75000,25mg,90.0,0
+liraglutide,75000,1.8ml,90.0,0
+Atorvastatin Tab,75000,40mg,90.0,5
+Losartan Tab,75000,100mg,90.0,5
+Montelukast,75000,10mg,90.0,5
+xarelto,75000,20mg,90.0,131.00
+omeprezol,75000,40mg,90.0,30.00
+gabapentin,75000,300mg,360.0,100
+Propranolol,75000,10mg,180.0,15
+Donepezil,75000,10mg,90.0,15
+Lisinopril,75000,30mg,90.0,15
+Lactulose,75000,30mg,180.0,15
+Xifaxan,75000,550mg,180.0,0
+Indapamide,75000,2.5mg,90.0,0
+Losrtan Potassium,75000,100mg,90.0,0
+Estradiol,75000,.5mg,90.0,29
+Rosuvastatin,75000,20mg,90.0,6
+Amlodipine,75000,10mg,90.0,6
+Ezetimide,75000,10mg,90.0,24
+Anastrozole,75000,1mg,90.0,24
+Pantoprazole,75000,40mg,90.0,39
+Levetiracetam,75000,500mg,180.0,15.18
+lexapro,75000,20gram,90.0,0
+lexapro,75000,20mg,90.0,25
+levothyroxine,75000,0.075mg,90.0,0
+amlodipine,75000,10mg,90.0,0
+bumetanide,75000,0.5mg,90.0,0
+clopidogrel,75000,75mg,90.0,0
+metoprolol,75000,50mg,90.0,0
+Levothyroxine,75000,0.025mg,90.0,0
+Benazepril,75000,20mg,90.0,0
+FENOFIBRATE,75000,160mg,90.0,0
+OXYBUTYNIN TAB,75000,5mg,90.0,0
+OMEPRAZOLE,75000,20mg,90.0,0
+Levothyroxine,75000,1mg,90.0,0
+provastatin,75000,40mg,90.0,0
+paroxitine,75000,20mg,90.0,6
+anastrozole,75000,1mg,90.0,10
+Letrezole,75000,2.5mg,90.0,14
+letrezole,75000,2.5mg,90.0,30
+Atorvastatin,75000,40mg,90.0,0
+Sertraline,75000,100mg,90.0,0
+Omeprazole,75000,40mg,90.0,0
+Synthroid,75000,75mg,90.0,0
+Triamterene hydrochlorothiazide,75000,25mg,90.0,0
+Metoprolol,75000,25mg,180.0,10
+Quinapril,75000,40mg,180.0,0
+Metoprolol,75000,50mg,90.0,0
+Xarelto,75000,15mg,90.0,158
+Spironolactone,75000,50mg,90.0,10
+Labetalol,75000,200mg,180.0,47
+escitalopram,75000,10mg,90.0,7
+lipitor,75000,40mg,90.0,0
+Lantus,75000,64unit,90.0,0
+levothyroxine,75000,0.1mg,90.0,0
+Prednisone,75000,5mg,90.0,0
+Humalog,75000,6unit,270.0,100
+Citalopram,75000,20mg,90.0,0
+spironolactone,75000,25mg,90.0,0
+atenolol,75000,25mg,90.0,0
+lisinopril,75000,40mg,90.0,0
+hydralazine,75000,10mg,180.0,0
+Diazapam,75000,2mg,90.0,0
+Estradiol,75000,2mg,180.0,0
+glimepiride,75000,2mg,90.0,0
+lisinopril-hctz,75000,20mg,90.0,0
+ropinirole,75000,1mg,270.0,0
+benazepril,75000,40mg,90.0,10
+XARELTO,75000,20mg,90.0,1100
+Omepraxole,75000,40mg,90.0,4
+Eliquis,75000,5mg,180.0,1
+Hydrochlorot,75000,25mg,90.0,4
+Fenofibrate,75000,160mg,90.0,10
+Metformin ER,75000,500mg,90.0,10
+Chlorthalidone,75000,25mg,90.0,14.00
+Losartan,75000,100mg,90.0,14.00
+Nifedipine,75000,90mg,90.0,14.00
+Simvastatin,75000,20mg,90.0,14.00
+Montelukast SOD,75000,10mg,90.0,20.00
+uloric40,75000,40mg,90.0,25
+simvastatin,75000,020mg,90.0,0
+Atorvastatin,75000,1mg,90.0,14
+Lisinopril,75000,1mg,90.0,1
+prednisone,75000,5mg,90.0,5
+Hydroxychloroquine,75000,200mg,180.0,5
+mychophenolate,75000,500mg,180.0,5
+meloxicam,75000,15mg,90.0,5
+Losartan,75000,25mg,90.0,0
+Carvedilol,75000,25mg,180.0,0
+Alendronate,75000,70mg,12.87,0
+Diltiazem CD,75000,240mg,90.0,40.51
+Astrovastin,75000,10mg,90.0,13.24
+Potassium CL SR MC,75000,10mcg,90.0,16.72
+ELIQUIS,75000,5mg,180.0,433.10
+Losartan,75000,25mg,90.0,15.01
+Furosemide,75000,20mg,90.0,0.01
+Hydroxyurea,75000,2000mg,90.0,141.83
+Amitriptyline,75000,25mg,90.0,16.92
+gabapentin,75000,1200mg,90.0,24.87
+Duloxitine,75000,60mg,180.0,27.84
+Atorvastatin,75000,10mg,90.0,10.00
+simvastatin,75000,40mg,90.0,0
+lisiniopril,75000,10mg,90.0,0
+pioglitazonc,75000,30mg,90.0,00
+simvastain,75000,40mg,90.0,00
+metformin,75000,500mg,180.0,00
+fluoretine,75000,40mg,90.0,00
+clopidogel,75000,75mg,90.0,00
+lisinopril,75000,5mg,90.0,00
+Omeprozole,75000,20mg,90.0,10
+metformin er,75000,1mg,180.0,0
+Clonidine,75000,1mg,270.0,3.95
+Hydralazine,75000,25mg,90.0,20
+Biso fum/hct,75000,6.25mg,90.0,6.85
+Simvastine tab,75000,20mg,90.0,3.33
+metoprolol tartrate,75000,50mg,180.0,3.49
+Pravastatin,75000,1mg,90.0,0.00
+Finasteride,75000,1mg,90.0,0.00
+Losartan/HCTZ,75000,1mg,90.0,0.00
+Fluoxetine,75000,1mg,90.0,0.00
+Fenofibrate,75000,1mg,90.0,87.00
+Clopidogrel,75000,1mg,90.0,0.00
+Levothyroxine,75000,1mg,90.0,0.00
+Pioglitazone,75000,30mg,90.0,20
+Atorvastatin Tab,75000,20mg,90.0,3.00
+Lisinopril-HCTZ TAB,75000,12.5mg,90.0,18.00
+Nexium CAP,75000,40mg,90.0,75.00
+xareto,75000,20gram,90.0,130
+linsinopril,75000,20mg,90.0,0
+Ramipril,75000,10mg,90.0,12
+Lisinipril,75000,25mg,90.0,0
+Synthroid,75000,1mcg,90.0,100
+xarelto,75000,20mg,90.0,290
+Nadalol,75000,40mg,90.0,98.50
+hydroxychloroquine,75000,200mg,90.0,10.18
+benazapril,75000,20mg,90.0,10.18
+protonix,75000,40mg,90.0,10.18
+keppra,75000,500mg,90.0,10.18
+allopurinol,75000,300mg,90.0,10.18
+celecoxib,75000,200mg,90.0,290
+levothyroxine,75000,50mcg,90.0,10.18
+citalopram,75000,10mg,90.0,10.18
+Atorvastatin,75000,10mg,90.0,0
+DULOXETINE,75000,30mg,90.0,120
+lotrel-generic,75000,1mg,90.0,5
+Metformin,75000,2mg,180.0,5
+januvia,75000,1mg,90.0,25
+Pravastatin,75000,1mg,90.0,5
+Potassium Chloride,75000,1mg,180.0,5
+Furosemide,75000,1mg,180.0,5
+Thyroizane,75000,1mg,90.0,5
+Vagifem,75000,1mg,12.87,40
+Simvastatin Tab,75000,40mg,90.0,0
+Phenobarbital,75000,64.8mg,90.0,18.00
+Folic Acid,75000,1gram,90.0,1.94
+Losartan/Hctz,75000,0gram,90.0,0
+Advair Diskus,75000,50050mg,90.0,0
+Azithromycin,75000,250mg,90.0,0
+Carisoprodol,75000,350mg,90.0,11.00
+Diltiazem,75000,240mg,90.0,34
+Etodolac,75000,400mg,180.0,81.00
+Hydrocodone -Acetaminophen,75000,325mg,270.0,34.00
+Ipratropium-Albuterol,75000,0.5ml,270.0,14.00
+Nature-Thyroid,75000,32.5mg,90.0,0.00
+Prednisone,75000,5mg,180.0,0.0
+ProFit Respiclick 108,75000,90mcg,180.0,0
+Oxygen,75000,3.5inhalation,90.0,0
+Spirits respimat,75000,2.5mcg,180.0,0
+Nasonex,75000,50mg,180.0,0
+Famotidine,75000,10mg,90.0,35.00
+Gemfibrozil,75000,600mg,180.0,25.00
+atorvastatin,75000,10mg,90.0,14.60
+glimeperide,75000,2mg,90.0,23.91
+jardiance,75000,25mg,90.0,75.00
+levothyroxine,75000,100mcg,90.0,25.00
+lisinopril,75000,10mg,90.0,2.23
+lisinhopril,75000,20mg,90.0,0
+atorvastain,75000,10mg,90.0,0
+triamterene-hctz,75000,75mg,90.0,0
+paroxetine,75000,10mg,90.0,1.70
+synthroid,75000,50mcg,90.0,11.90
+levocetirizine,75000,5mg,90.0,0
+irbesartan,75000,75mg,90.0,0
+pravastatin's,75000,80mg,90.0,0
+donepezil's,75000,23mg,90.0,0
+pantoprazole,75000,40mg,90.0,0
+spiriva,75000,2.5mcg,90.0,0
+budesonide,75000,.5mg,180.0,0
+brovana,75000,15mg,180.0,0
+hydrochlorothiazide,75000,12.5mg,90.0,0
+proair,75000,8.5mg,540.0,0
+tacrolimus,75000,1mg,180.0,00.00
+tacrolimus,75000,.5mg,180.0,00.00
+atrovastin,75000,20mg,90.0,00.00
+carvedilol,75000,3.125mg,180.0,00.00
+amlodipine,75000,10mg,90.0,00.00
+lisinopril,75000,10mg,90.0,00.00
+Lisinopail,75000,40mg,90.0,0
+Glipizide,75000,10mg,180.0,0
+Atenolol,75000,100mg,90.0,0
+Hydrochlorothiaz,75000,25mg,90.0,0
+Losartan/hctz,75000,100mg,90.0,0
+Metformin,75000,1000mg,180.0,0
+Humilog,75000,35unit,270.0,1200.00
+Januvia,75000,70unit,90.0,1200.00
+Metformin,75000,1000mg,180.0,30.00
+furosimide,75000,40mg,90.0,20.00
+MetOLazone,75000,5mg,38.519999999999996,50.00
+PARoxetine,75000,30mg,90.0,40.00
+CARVEDIOL,75000,12.5gram,90.0,20.00
+Pot Chlor ER,75000,20mg,90.0,20.00
+BuPROPion XL TAB,75000,300mg,90.0,0
+GABAPENTIN CAP,75000,300mg,90.0,0
+METOPROLOL SUCC TAB ER,75000,25mg,180.0,0
+FENOFIBRATE TAB,75000,160mg,90.0,0
+LOSARTAN HCTZ TAB ER,75000,50mg,180.0,0
+starlix,75000,104mg,270.0,0
+verapamil,75000,180mg,90.0,18.
+atenolol,75000,75mg,90.0,0
+janumet xr,75000,50mg,180.0,0
+RaNITldine,75000,300mg,90.0,0
+METOPROLOL,75000,25mg,90.0,0
+ALLOPURINOL,75000,300mg,90.0,0
+LISINOPRIL,75000,40mg,90.0,0
+BuPROPion,75000,150mg,90.0,0
+ATORVASTIN,75000,80mg,90.0,0
+AmLODIPine,75000,5mg,135.0,0
+WARFARIN,75000,1mg,77.22,0
+WARFARIN,75000,5mg,102.87,0
+TraZODone,75000,50mg,90.0,0
+FENOFIBRATE,75000,54mg,90.0,0
+Losartan,75000,100mg,90.0,15.00
+Atorvastatin,75000,10mg,90.0,15.00
+alprazolam,75000,1mg,270.0,12
+cyanocobalamin,75000,1000mg,2.9970000000000003,30
+levothyroxine,75000,.088mg,90.0,0
+citalopram,75000,40mg,90.0,0
+propranolol,75000,20mg,1.0,0
+propranolol er,75000,160mg,90.0,0
+alendronate,75000,70mg,12.87,0
+AmLODIPine,75000,5mg,180.0,100.00
+ALPRAZolam,75000,.5mg,180.0,100.00
+Levothyroxin,75000,75mg,90.0,15.99
+escitalopram,75000,10mg,90.0,150
+Qumipril,75000,40mg,90.0,35.02
+Amlodipine Besylate,75000,5mg,90.0,15.62
+crestor,75000,40mg,90.0,36.00
+Zetia,75000,10mg,90.0,12.00
+Metoprolol  Succinate ER,75000,50mg,180.0,36.00
+Estradiol,75000,0.5mg,45.0,12.00
+valsartan,75000,80mg,90.0,5.00
+Simvastatin,75000,20mg,90.0,5.00
+montelukast,75000,10mg,90.0,5.00
+Metformin,75000,500mg,180.0,0
+Acyclovir,75000,400mg,180.0,0
+Glimepiride,75000,4mg,90.0,0
+Metoprolol,75000,100mg,90.0,0
+Finasteride,75000,5mg,90.0,0
+amlodipine besylate,75000,5mg,90.0,0
+hydrochlorothiazide,75000,25mg,90.0,0
+bystolic,75000,10mg,90.0,96.00
+losartan,75000,50mg,180.0,0
+levothroxine,75000,.075mg,90.0,0
+Benazepril,75000,40mg,90.0,0.00
+Sertraline HCL,75000,50mg,90.0,0.00
+Metoprolol Succ,75000,50mg,90.0,0.00
+finasteride,75000,5mg,90.0,20.00
+tamulosin,75000,.4mg,90.0,20.00
+allopurinol,75000,300mg,90.0,20.00
+janumet,75000,50mg,180.0,60.00
+Allopurinol,75000,100mg,180.0,0
+Premarin,75000,0.625mg,25.74,0
+Amlodipine,75000,2.5mg,90.0,0
+Syynthroid,75000,.05mg,90.0,0
+Ability,75000,10mg,90.0,10.00
+Sertraline,75000,100mg,90.0,10.00
+Cymbalta,75000,60mg,90.0,10.00
+Cymbalta,75000,30mg,90.0,10.00
+Lovastatin,75000,40mg,180.0,0
+Ramipiril,75000,10mg,90.0,0
+Amplodipine,75000,5mg,90.0,0
+indapaide,75000,1.25mg,90.0,8
+klor con(potassium)m20,75000,20mg,180.0,8
+nifedipine,75000,60mg,90.0,8
+Lovvastain,75000,40mg,90.0,8
+Norpace,75000,100mg,180.0,0
+Pravaststin,75000,40mg,90.0,69.89
+Lisinopril,75000,40mg,90.0,6.91
+Metformin 500 HcL,75000,500mg,180.0,4.29
+eszopiclone,75000,1mg,90.0,34
+l-thyroxine,75000,125mcg,38.61,0
+l-thyroxine,75000,112mcg,51.38999999999999,0
+meloxicam,75000,15mg,90.0,0
+alendronate sodium,75000,70mg,12.87,0
+Chlorthalidone,75000,25mg,90.0,5.00
+Carvedidol,75000,12.5mg,180.0,5.00
+Losartan,75000,100mg,90.0,5.00
+Isosorbide,75000,60mg,90.0,5.00
+Bupropion,75000,300mg,90.0,5.00
+Escitalopram,75000,20mg,90.0,5.00
+Amlodipine,75000,5mg,180.0,5.00
+Atorvastatin,75000,40mg,90.0,5.00
+Pramipexole,75000,0.125mg,270.0,5.00
+Finasteride,75000,5mg,90.0,5.00
+Tamsulosin,75000,0.4mg,90.0,5.00
+lexapro,75000,20mg,90.0,10
+duloxetine hcl,75000,60mg,90.0,59.00
+SIMVASTATIN,75000,40mg,90.0,0
+LEVOTHYROXINE,75000,0.075mg,90.0,0
+GABAPENTIN,75000,300mg,270.0,0
+MONTELUKAST,75000,10mg,90.0,0
+ZOLPIDEM,75000,10mg,90.0,10.40
+CALCITROIL,75000,0.25mcg,90.0,21.30
+ATENOLOL,75000,50mg,90.0,9.20
+testostorone,75000,1ml,12.87,41
+Armour Thyroid,75000,1mg,90.0,10
+metformin,75000,500mg,180.0,1.97
+Metformin,75000,500mg,360.0,10
+rosuvastatin,75000,20mg,90.0,15
+losarten,75000,12.5mg,90.0,20
+prevostaten,75000,40mg,90.0,20
+gabapentin,75000,100mg,90.0,0
+gabapentin,75000,600mg,90.0,0
+chlorthalidone,75000,25mg,90.0,0
+hydrochlorothiaz,75000,25mg,90.0,0
+losartan,75000,100mg,90.0,7.19
+simvastatin,75000,20mg,90.0,1.04
+tramdol,75000,50mg,90.0,10.18
+metformin,75000,500mg,180.0,8.54
+hydrochlorothiazide,75000,25mg,90.0,0.31
+januvia,75000,50mg,90.0,390.50
+oxybutynin,75000,10mg,90.0,21.00
+amitriptyline,75000,10mg,180.0,7.00
+Finasteridc,75000,5mg,90.0,0
+Tamsulosin,75000,.4mg,90.0,0
+levothyroxine,75000,500mg,90.0,0
+amlodipine,75000,5mg,90.0,3.63
+atorvastatin,75000,20mg,90.0,51.58
+losartan,75000,50mg,90.0,3.53
+fluconazole,75000,150mg,12.87,36.90
+simvastatin,75000,10mg,90.0,0.0
+terazosin,75000,10mg,90.0,0.0
+bupropion,75000,150mg,180.0,0.0
+fluocinonide,75000,0.05ml,90.0,0.0
+triamolone,75000,.1gram,90.0,47.00
+fluticasone propionate,75000,50mcg,180.0,0.0
+Lisinopril,75000,20mg,90.0,0.01
+Prevastatin Sod,75000,80mg,90.0,0.01
+Levothyroxine,75000,100mcg,90.0,0.01
+Liothyonine Sod,75000,5mg,90.0,0.01
+Metaprolol Tartrate,75000,25mg,180.0,0.01
+Omeprazole,75000,40mg,90.0,0.01
+Ipratropium Bro Nasal Spray,75000,1000mg,180.0,0.01
+{sosorbide,75000,60mg,180.0,45
+HydroChlorothiaz,75000,25mg,90.0,5
+Metoprolol Tart,75000,25mg,540.0,45
+Clonidine,75000,0.1mg,180.0,45
+Amlodipine,75000,10mg,90.0,45
+Estradiol,75000,0.6mg,12.87,25
+Lantus,75000,30unit,90.0,106
+Humalog,75000,10unit,180.0,199
+Eliquist,75000,5mg,180.0,157
+Gabapentin,75000,300mg,270.0,5.00
+amlodipine,75000,10mg,90.0,5.00
+lisinopril,75000,20mg,90.0,5.00
+esomeprazole,75000,40mg,90.0,5.00
+glimepiride,75000,2mg,90.0,400
+pravastatin,75000,20mg,90.0,0
+methotrexate,75000,22mg,12.87,0
+bisoprolol/hct,75000,25mg,90.0,26
+XARELTO,75000,20mg,90.0,451.00
+METOPROLOL,75000,115mg,180.0,13.00
+SERTERLINE,75000,50mg,90.0,8.00
+PRAVASTATIN,75000,40mg,90.0,45.00
+Albuterol,75000,90mcg,90.0,42.00
+Clonozapam,75000,50mg,90.0,13.00
+Lorsartan,75000,50mg,90.0,8.00
+Breo,75000,100mcg,90.0,410.99
+Acyclover,75000,400mg,90.0,3.35
+vesicare,75000,10mg,90.0,40
+losartin,75000,100mg,90.0,12
+WARFARIN,75000,5mg,90.0,14.78
+ATORVASTATIN,75000,10mg,90.0,20.00
+KATANOPROST OPHTHALMIC SOLUTION,75000,0.005ml,90.0,0
+Levothyroxine,75000,0.137mg,90.0,10.00
+ALLOPURINOL,75000,100mg,270.0,0
+ATORVASTATIN,75000,40mg,90.0,0
+DilTIAZem CD CAP,75000,180mg,90.0,0
+METOPROLOL TART TAB,75000,50mg,90.0,0
+RAMIPRIL,75000,2.5mg,90.0,0
+Lesinopril,75000,10mg,90.0,0
+Levothyroxine,75000,25mcg,90.0,0
+Metaprolol Taitrate,75000,100mg,180.0,0
+Omeprazole DR,75000,40mg,90.0,0
+Lorazepam,75000,1mg,90.0,0
+Zolpidem,75000,10mg,90.0,0
+Tramadol,75000,50mg,90.0,0
+Gabapentin,75000,1200mg,90.0,10.00
+Diovan,75000,80mg,90.0,10.00
+Lipitor,75000,10mg,90.0,10.00
+citalopram,75000,20mg,90.0,0
+rosuvastatin,75000,20mg,90.0,0
+ramipril,75000,10mg,90.0,0
+Adderall,75000,20mg,180.0,36
+amlodipine/benazepril cap,75000,10mg,90.0,0
+atorvastatin calcium,75000,20mg,90.0,0
+pantoprazole sod,75000,40mg,90.0,0
+Vimpat,75000,150mg,180.0,350
+valsarton,75000,80mg,90.0,0
+plavix,75000,20mg,90.0,0
+Lamotrogine,75000,400mg,90.0,5.
+gabapentin,75000,600mg,90.0,5.
+Brilinta,75000,90mg,180.0,0
+Lisinopril,75000,5mg,90.0,0
+Ezetimibe,75000,10mg,90.0,0
+Smvastatin,75000,80mg,90.0,0
+LISINOPRIL,75000,1mg,90.0,1.53
+GABAPENTIN,75000,4mg,360.0,14.00
+LEVEMIR,75000,1unit,90.0,100.00
+NOVOLOG,75000,1unit,270.0,100.00
+AMLODIPRIN,75000,1mg,90.0,14.00
+BRIMONIDINE TARTRATE,75000,2ml,180.0,14.00
+TIMOLOL MELEATE,75000,2ml,180.0,14.00
+DORZOLAMIDE HCL,75000,2ml,180.0,14.00
+Atorvastatin,75000,10mg,90.0,10
+Lo Loestrin,75000,1unit,90.0,25
+levothyroxine,75000,0.125mg,90.0,0
+lovastatin,75000,40mg,90.0,0
+losartan potassium,75000,25mg,90.0,0
+prozac,75000,60mg,90.0,3.00
+xanax,75000,.5mg,90.0,3.00
+zocor,75000,80mg,90.0,3.00
+carvedilol,75000,12.5mg,180.0,3.00
+potassium chloride,75000,20mg,90.0,3.00
+hydrochlorothiazide,75000,50mg,90.0,3.00
+synvastatin,75000,20mg,90.0,0
+omeprazol,75000,1mg,90.0,0
+Synthroid,75000,88mcg,90.0,52
+ROSUVASTATIN,75000,10mg,90.0,0
+VALSARTAN,75000,80mg,90.0,0
+Adderall,75000,15mg,180.0,37.5
+Levothyroxine,75000,0.2mg,90.0,999.99
+Omeprazole,75000,20mg,180.0,999.99
+Metoprolol ER,75000,50mg,90.0,999.99
+Metformin Er,75000,1000mg,180.0,999.99
+Verapamil SR,75000,240mg,180.0,999.99
+Pravastatin,75000,20mg,90.0,999.99
+Meloxicam,75000,15mg,90.0,999.99
+Losartan,75000,100mg,90.0,999.99
+levothyroxine,75000,112mcg,90.0,21.00
+fluoxetine,75000,10mg,90.0,3.22
+trazadone,75000,100mg,90.0,10.70
+lamotrigine,75000,150mg,180.0,17.77
+armour thyroid,75000,180mg,90.0,0.00
+Lisinopril,75000,12.5mg,90.0,0.00
+Latuda,75000,60mg,90.0,600
+Bupropion SR,75000,150mg,180.0,0
+Tamulosin HCL,75000,0.4mg,180.0,0
+Losartin Potassium,75000,50mg,90.0,0
+Acyclovir,75000,400mg,90.0,0
+Atorvastatin,75000,40mg,90.0,15
+Bupro,75000,300mg,90.0,5
+atenolol,75000,50mg,90.0,.94
+amlodipine,75000,10mg,90.0,1.48
+latanoprost,75000,005unit,90.0,25.00
+levothyroxine tab,75000,.05mg,90.0,25.00
+lisinopril,75000,40mg,90.0,3.69
+lovastatin,75000,20mg,90.0,4.22
+fenofibrate,75000,145mg,90.0,25.00
+Amlod/valsar tab,75000,320mg,90.0,20.00
+Metoprolol succ er tab,75000,50mg,90.0,20.00
+Levocetirizine,75000,5mg,90.0,0.00
+Montelukast,75000,10mg,90.0,0.00
+Metoprolol,75000,25mg,90.0,0.00
+Atorvastatin,75000,20mg,90.0,0.00
+Amlodipine,75000,5mg,90.0,0.00
+ramipril,75000,5mg,180.0,21
+Amlodipine,75000,5mg,90.0,0
+metoprolol,75000,10mg,90.0,0
+pravastatin,75000,10mg,90.0,0
+plavix,75000,75mg,90.0,0
+ATORVASTATIN,75000,10mg,90.0,0
+LOSARTAN HCTZ TAB 100,75000,12.5mg,90.0,0
+MYRBETRIQ,75000,25mg,90.0,90
+LEVOTHYROXINE,75000,75mg,90.0,0
+Plaquenil,75000,200mg,180.0,0
+ATORVASTATIN,75000,20mg,90.0,0
+Viagra/Cialis,75000,100mg,90.0,0
+Metronidazole Gel 1%,75000,60unit,90.0,0
+hydrachlorothiaz,75000,50mg,90.0,0
+Mycophenalate,75000,500mg,540.0,10
+Diltiazem,75000,240mg,90.0,5.00
+Omeprazole,75000,20mg,90.0,5.00
+Pravastatin,75000,40mg,90.0,5.00
+Levocetirizine,75000,5mg,90.0,5.00
+Efexor,75000,37.5mg,90.0,1
+pravastatin,75000,1unit,90.0,0
+irbesartan tab,75000,150mg,90.0,0000
+metoprolol succ er tab,75000,25mg,90.0,0000
+simvastatin tab,75000,40mg,90.0,000
+fluoxentine cap,75000,20mg,90.0,000
+Gabapentin,75000,300mg,180.0,0
+Fluticasone Proprionate,75000,50mcg,90.0,0
+Amlodipine tab,75000,10mg,90.0,1
+Atorvastatin tab,75000,20mg,90.0,0
+ACYCLOVIR,75000,200mg,90.0,0.0
+ATORVASTATIN,75000,40mg,90.0,0.0
+METOCLOPRAMIDE,75000,10mg,180.0,0.0
+LOSARTIN/HCTZ,75000,100mg,90.0,0.0
+AMLOIPINE,75000,5mg,90.0,0.0
+PANTOPRAZOL SOD,75000,40mg,90.0,0.0
+PREDNISONE,75000,10mg,180.0,0.0
+B12,75000,1000ml,2.9970000000000003,0.0
+Lisinopril,75000,10mg,90.0,0
+Pantoprazole,75000,40mg,90.0,0
+enalapril,75000,20mg,90.0,0
+allopurinol,75000,100mg,180.0,0
+terazosin,75000,5mg,90.0,0
+Trintellix,75000,20mg,90.0,0
+hydrocloroquin,75000,200mg,90.0,0
+calcium 600+D,75000,400unit,180.0,0
+gabapentine,75000,2700mg,90.0,0
+lisinopril,75000,20mg,90.0,0.00
+allopurinol,75000,300mg,90.0,0.00
+atorvastatin,75000,40mg,90.0,0.00
+clonazePam,75000,0.5mg,180.0,0.0
+xarelto,75000,20mcg,90.0,45.00
+metformin,75000,500mg,180.0,0.00
+levothyroxine,75000,0.75mcg,90.0,0
+metoprolol hctz,75000,125mg,90.0,0
+Metoformin,75000,500gram,90.0,0
+Omeprozol,75000,40mg,90.0,0
+toprol,75000,25mg,90.0,30
+crestor,75000,20mg,90.0,87.00
+lisinopril,75000,5mg,90.0,15.00
+BuPropion XL,75000,150mg,90.0,30
+Fluoxetine HCL,75000,20mg,90.0,20
+Crestor,75000,25mg,90.0,30
+losartan,75000,100mg,90.0,0
+januvia,75000,100gram,90.0,133
+finesteride,75000,20mg,90.0,00
+naproxen,75000,500gram,90.0,0
+Dexilant,75000,60mg,45.0,0
+Simvastitin,75000,040mg,90.0,0
+Losartan Potassim,75000,25mg,90.0,0
+Advair Diskus,75000,1inhalation,180.0,89
+Fluticasone Prop,75000,2inhalation,180.0,0
+Simvastatin,75000,1mg,90.0,0
+Atorvastatin,75000,20mg,90.0,5.00
+Losartan,75000,25mg,90.0,5.00
+Eliquis,75000,5mg,180.0,300.00
+Hydrochlothiazide,75000,12.5mg,38.61,5.00
+Anastrozole,75000,1mg,90.0,100.00
+Metopolol XL,75000,50gram,90.0,5.00
+Progesterone,75000,200mg,90.0,1.00
+Liothyronine,75000,5mg,90.0,1.00
+Escitalopram,75000,10mg,90.0,1.00
+Sumatripin,75000,50mg,90.0,35
+Lyrica,75000,50mg,180.0,131.00
+Synthroid,75000,75mcg,90.0,25
+levothyroxine,75000,0.05mg,90.0,500
+lisinopril,75000,2gram,90.0,1
+bumetanide,75000,0.5mg,180.0,0
+Sertraline,75000,50mg,180.0,6.00
+Estradiol,75000,0.5mg,90.0,35.18
+Atorvastatin,75000,20mg,90.0,6.00
+Diclofen Pot,75000,50mg,180.0,36.00
+singulair generic,75000,10mg,90.0,0
+paroxetine,75000,10mg,90.0,0
+lipitor generic,75000,40mg,90.0,0
+lisinopril-HCTZ,75000,10mg,90.0,0
+xaralto,75000,20mg,90.0,425
+clonidine-HCl,75000,0.15mg,180.0,0
+Humalog,75000,100ml,90.0,100
+Pioglitazone,75000,15mg,180.0,0
+Glimepiride,75000,1mg,90.0,18.81
+Furosemide,75000,20mg,90.0,5.10
+Metformin,75000,1000mg,180.0,8.12
+Lisinopril,75000,40mg,90.0,8.37
+atorvastatin,75000,20mg,90.0,28.09
+Potassium CL,75000,8mg,90.0,17.51
+Synthroid,75000,112mcg,90.0,96.00
+Triamterine/HCTZ,75000,37.5mg,90.0,0
+Warfarin,75000,7.5mg,90.0,3.00
+lisinopril,75000,5mg,90.0,3.00
+Gemfibrozil,75000,600mg,180.0,9.00
+Amiodorone,75000,200mg,90.0,30.00
+pravastatin,75000,20mg,90.0,9.00
+Sertraline,75000,50mg,90.0,15.22
+Lisinopril-HCTZ,75000,12.5mg,180.0,1
+Hydralizine,75000,50mg,270.0,1
+Lipitor,75000,20mg,90.0,1
+Metformin,75000,500mg,180.0,1
+Tamsulosin,75000,0.4mg,180.0,1
+Procardia,75000,60mg,180.0,1
+Zyflo,75000,1200mg,180.0,1
+baclofen,75000,10mg,90.0,1
+Topmax,75000,75mg,180.0,30
+Memantine HCL,75000,10mg,180.0,1
+Atorvastatin,75000,10mg,90.0,1
+Lisinopril,75000,5mg,90.0,1
+amlodipine,75000,2.5mg,90.0,3
+trintellix,75000,10mg,90.0,300.
+losartan potassium,75000,50mg,90.0,0
+Lisinopril,75000,5mg,90.0,0.00
+Potatissium,75000,10mcg,90.0,0.00
+Fenofibrate,75000,160mg,90.0,0.00
+Famotidine,75000,40mg,90.0,0.00
+Ibuprofen,75000,800mg,270.0,0.00
+escitalopram,75000,10gram,90.0,0
+Lipitor,75000,20mg,90.0,0
+EST ESTRGN METHTEST,75000,1.25mg,90.0,5.00
+THYROID,75000,60mg,90.0,24.60
+Levothyroxin,75000,50mcg,90.0,32.89
+Forteo,75000,20mcg,90.0,3498.97
+Zetia,75000,10mg,90.0,20
+Liptior,75000,40mg,90.0,20
+Tradjenta,75000,5mg,90.0,150
+Metoprolol,75000,100mg,90.0,20
+hydrochlorothiazide,75000,25mg,90.0,4
+Atorvastatin Tab,75000,20mg,90.0,6
+Ibuprofen,75000,400mg,360.0,28
+letrozole,75000,2.5mg,90.0,0
+vesicare,75000,10mg,90.0,0
+Uloric,75000,80mg,90.0,0
+zetia,75000,10mg,90.0,0
+tamsulosin,75000,.4mg,90.0,0
+zolpidem,75000,10mg,90.0,1
+advair,75000,50mg,180.0,1
+Lisinopril,75000,5mg,90.0,60
+generic zoloft,75000,75mg,90.0,60
+Ropinirole,75000,1mg,180.0,0
+Levothyroxine,75000,.025mg,90.0,0
+Bupropion SMK,75000,150mg,180.0,0
+Ibuprofen,75000,800mg,90.0,0
+Bupernorphine,75000,8mg,180.0,10
+Escitalopram,75000,10mg,90.0,10
+Adderall,75000,20mg,180.0,15
+Phentermine,75000,37.5mg,90.0,5
+Alprazolam,75000,2mg,180.0,10
+see your records,75000,40mg,180.0,0
+Vyvanse,75000,20mg,90.0,30
+Simvastatin tab,75000,20mg,90.0,0
+Gabapentin,75000,600mg,90.0,0
+Vesicare,75000,5mg,90.0,0
+Synthroid,75000,112mcg,180.0,0
+Losartan  Potassium hCTZ,75000,100mg,90.0,0
+Diltazem cd,75000,120mg,90.0,0
+Diclofenac sod ec,75000,75mg,90.0,0
+Synthroid,75000,75mcg,90.0,70.00
+Reclipsen,75000,.15mg,90.0,0.00
+Fenofibrate,75000,145mg,90.0,0
+Amlodipine,75000,5mg,180.0,0
+Dantrolene,75000,25mg,270.0,0
+Zetia,75000,10mg,90.0,0
+Duloxetine,75000,60mg,90.0,0
+Oxybutyinin,75000,5mg,90.0,0
+Omeprazole,75000,60mg,180.0,0
+Symbicort,75000,2inhalation,180.0,0
+atorvastatin,75000,10mg,90.0,8.75
+Duloxetine,75000,60mg,90.0,3
+metoprolol,75000,97mg,90.0,0
+Hydroxychloroquine,75000,200mg,180.0,0
+Alloputonal,75000,100mg,180.0,0
+Levothyroxine,75000,0.05mg,90.0,0
+morphine,75000,30mg,270.0,47
+ibandronate,75000,150mg,2.9970000000000003,47
+gabapentin,75000,600mg,90.0,6
+Dorzol/Timol,75000,3mg,180.0,0
+bullshit,75000,1gram,90.0,50
+irbesartan,75000,150mg,90.0,7.5
+lisinopril,75000,20mg,90.0,8
+atorvastatin,75000,10mg,90.0,0
+escitalopram,75000,5mg,90.0,0
+levothyroxine,75000,.05mg,90.0,0
+esomeprazol,75000,40mg,90.0,0
+AzaTHIOprine,75000,50mg,180.0,0
+Levoxyl,75000,0.01mg,90.0,0
+levothyroxine,75000,25mcg,90.0,0
+buspirone,75000,15mg,180.0,10
+Glipizide,75000,5mg,270.0,35.62
+Carvedidol,75000,3.125mg,180.0,13.88
+Lisinopril,75000,20mg,180.0,35.03
+metformin,75000,500mg,180.0,19.38
+Levothyroxine,75000,0.075mg,90.0,0
+Atenolol,75000,25mg,180.0,0
+Fluoxetine,75000,100mg,90.0,0
+Cyclobenzaprine,75000,10mg,90.0,0
+Olopatadine Ophth,75000,2gram,90.0,96.00
+Reclipsen,75000,1unit,90.0,0
+Meloxicam,75000,15mg,90.0,0
+DULOXETINE,75000,30mg,180.0,141
+Lisinprol,75000,40mg,90.0,0
+Escitalopram,75000,5mg,90.0,0
+Trazodone,75000,50mg,90.0,0
+Simvastatin,75000,40mg,90.0,5.00
+Benazepril,75000,10mg,90.0,5.00
+amlodipine,75000,5mg,90.0,0
+Norgestimate and ethinyl estradiol tablets,75000,0.25mg,90.0,0
+bystolic,75000,10mg,90.0,75.00
+zafirlukast,75000,20mg,180.0,15.00
+crestor,75000,10mg,90.0,45.00
+valsartan,75000,320mg,90.0,15.00
+metformin,75000,500mg,180.0,5.00
+januvia,75000,50mg,90.0,15.00
+Predizone,75000,5mg,90.0,0
+Amlodipine,75000,10mg,90.0,10
+TRI-SPRINTEC,75000,35mcg,90.0,0
+Valsartan/HCTZ Tab,75000,160mg,90.0,20.00
+Finasteride,75000,5mg,90.0,20.00
+Ezetimibe,29605,10mg,90.0,80.00
+Valsartan/HCTZ,29605,8012.5mg,200.0,6.00
+AmLODIPine,29605,10mg,90.0,6.00
+Metoprolol succ er,29605,50mg,90.0,8.00
+Omeprazole,29605,40mg,90.0,8.00
+Clopidogrel,11362,75mg,21.419999999999998,0
+Rosovstatin,11362,20mg,90.0,0
+Carvedilol,11362,6.25mg,180.0,0
+Spiriva,99301,18mcg,90.0,0
+albuterol,99301,108inhalation,1.0,0
+Rousuvastatin,34292,10mg,90.0,0
+Losartan,34292,50mg,90.0,0
+Amlodipine,34292,2.5mg,90.0,0
+Levothyroxine,34292,.75mg,90.0,0
+Tamsulosin,34292,.4mg,90.0,0
+Trelegy Ellipta,34292,100mcg,1.0,45
+ProAirDnFa,34292,90mcg,1.0,45
+phentermine,08830,30mg,90.0,45
+buproprion xl,08830,300mg,90.0,20
+zolpidem,08830,10mg,90.0,15
+alprazolam,08830,1mg,270.0,15
+spironolactone,08830,75mg,180.0,40
+kelnor,08830,1unit,30.0,0
+Lisinopril,53081,40mg,90.0,14.34
+Paroxetine,53081,20mg,135.0,13.85
+Omeprazole,53081,40mg,90.0,13.19
+Pravastain,53081,40mg,90.0,22.43
+Noreth/Ethin,53081,1.5mcg,15.0,69.48
+Junel Fe,10005,20mg,180.0,35
+rasagiline,79072,1mg,90.0,1574.40
+duopa,79072,4.63mg,60.300000000000004,0.00
+losartan,79072,25mg,90.0,0.00
+xarelto,79072,20mg,90.0,960.26
+isosorb mono,79072,30mg,90.0,0.00
+furosemide,79072,20mg,90.0,45.00
+escitalopram,79072,20mg,90.0,0.00
+carb/levo,79072,250mg,540.0,3.35
+tramadol,79072,325unit,90.0,3.35
+Lynsopril,41011,20mg,90.0,0.00
+Finasteraide,41011,5mg,180.0,40.00
+SPIRIVA HandiHaler,28658,1inhalation,90.0,620
+ADVAIR DISKUS,28658,250mcg,180.0,8
+Nortriptyline,28658,50mg,90.0,30
+Gabapentin,28658,300mg,270.0,0
+Sertraline,28658,100mg,180.0,3
+buPROPion XL,28658,150mg,90.0,3
+buPROPion XL,28658,300mg,90.0,3
+OMEPRAZOLE,28658,40mg,90.0,3
+Sumatriptan,28658,100mg,90.0,3
+PROAIR HFA AER,28658,90mcg,12.0,8
+metformin,76020,500mg,180.0,0
+Simvastatin,76020,40mg,90.0,0
+Lisinopril,76020,2.5mg,90.0,0
+metoprolol,76020,2.5mg,180.0,0
+Sertraline,76020,100mg,135.0,0
+Doneplzel,76020,10mg,90.0,0
+Plavix,76020,70mg,90.0,0
+Pioglitazone,76020,15mg,90.0,0
+Stelara,85225,1unit,1.0,1.00
+Metformin ER,85225,750ml,180.0,1.00
+Meloxicam,85225,15ml,90.0,1.00
+Glimepiride,85225,2mg,90.0,100
+Pioglitazone,85225,15mg,90.0,1.00
+Jardiance,85225,10mg,90.0,1.00
+Simvastatin,85225,20mg,90.0,1.00
+Sertraline,85225,10mg,135.0,1.00
+Lyrica,85225,150mg,270.0,1.00
+Pushbutton ER,85225,5mg,90.0,1.00
+Hyoscyamine,85225,0.125mg,90.0,10.00
+Dicyclomine,85225,10mg,90.0,10.00
+Xarelto,08053,15mg,60.0,772.99
+Victoza,30349,1unit,90.0,0
+Humalog,30349,3unit,270.0,0
+Levemir,30349,2unit,180.0,0
+Furosemide,30349,40mg,90.0,0
+Meloxicam,30349,7.5mg,90.0,0
+Simvastatin,30349,40mg,90.0,0
+Lyrica,30349,75mg,180.0,0
+Refresh,30349,2ounce,90.0,0
+Pro HFA,30349,2inhalation,360.0,0
+Triamcinolone Acetonide,30349,60ml,270.0,0
+Pen/Needle,30349,31I.U.,540.0,0
+Armour Thyroid,32137,780mg,540.0,0.00
+Bi-est,32137,4mg,120.0,90.00
+Progesterone,32137,200mg,60.0,120.00
+Liothyronnie,89178,25mcg,60.0,10.00
+Liothyronine,89178,10mcg,60.0,10.00
+Venlafaxine,89178,75mg,60.0,10.00
+Medformin,78244,1000mg,180.0,30.00
+Tamsulosin,78244,0.4mg,90.0,30.00
+Montelukast,78244,10mg,90.0,30.00
+Atenolol,78244,50mg,180.0,30.00
+Amlodipine,78244,10mg,90.0,30.00
+Pravastatin,78244,40mg,90.0,30.00
+Lisinopril,78244,30mg,180.0,30.00
+Chlorthlidone,78244,50mg,180.0,30.00
+Allopurinol,78244,300mg,90.0,30.00
+Androgel,78244,2.5gram,90.0,30.00
+Breo Ellipta,78244,200mg,60.0,47.00
+metroprolol,75000,25mg,90.0,12
+omeprazole,75000,20mg,180.0,36
+amiodarone,75000,200mg,45.0,12
+alprazolam,75000,.25mg,90.0,2.21
+furosemide,75000,20mg,90.0,12
+warfarin,75000,1mg,180.0,12
+hydrochlorothiazide,75000,12.5mg,90.0,12
+klor-con m20,75000,20unit,90.0,36
+isosorbide mononitrate er,75000,30mg,90.0,32.11
+ferrous sulfate,75000,325mg,120.0,2.86
+proair hfa,75000,90mcg,6.0,57
+Mirtazapine,75000,7.5mg,60.0,0
+Imuran,33467,50mg,180.0,0
+Delzicol,33467,400mg,540.0,0
+Remicade,33467,100mg,1.611,0
+Metropolol,36456,50mg,90.0,0
+Synthroid,36456,125mcg,90.0,110.00
+Omperazole,36456,20mg,90.0,0
+Metformin,36456,1000mg,180.0,0
+Atrivastin,36456,20mg,90.0,0
+Glimeparide,36456,2mg,180.0,0
+Gemfibrozil,36456,600mg,180.0,0
+Amiodarone,36456,200mg,90.0,0
+Clopidogrel,36456,75mg,90.0,0
+Zurampic,36456,200mg,30.0,0
+Potassium Chloride,54143,1mg,90.0,20.00
+Warfarin,54143,1mg,60.0,10.00
+Gabapentin,54143,1mg,90.0,1.58
+Ranitidine,54143,1mg,90.0,16.98
+Novolog,54143,28unit,270.0,100.00
+Trazadone,54143,1mg,90.0,7.22
+Allopurinol,54143,2mg,180.0,10.00
+Metroprolol,54143,1mg,90.0,8.15
+Hydralzine,54143,1mg,270.0,10.21
+Paroxetine,54143,1mg,90.0,16.63
+Amlodipine,54143,1mg,90.0,13.90
+Lantus,54143,30unit,180.0,100.00
+Rosuvastatis,54143,1mg,90.0,5.44
+Baclofen,54143,2mg,180.0,2.91
+Bumetanide,54143,3mg,180.0,25.00
+Potassium Chloride,54143,1mg,90.0,10
+Magnesium Oxide,54143,1mg,90.0,10.00
+Tramadol,85635,50mg,60.0,6.36
+Amoxicillin,85635,2000mg,60.0,4.07
+Vitamin D2,85635,50000I.U.,60.0,4.07
+Oxycodone,85635,5mg,360.0,10.00
+Atorvastatin,85635,20mg,90.0,9.00
+Duloxetine,85635,60mg,90.0,20.00
+Losartan,85635,50mg,90.0,20.00
+Ropinirole,85635,5mg,90.0,16.45
+Potassium CL SR MC,85635,20mg,180.0,20.00
+Celecoxib,85635,100mg,180.0,20.00
+Levothyroxine,85635,0.075mg,90.0,8.00
+Furosemide,85635,40mg,180.0,20.00
+Ventolin,85635,90mcg,90.0,60.00
+Flovent Hfa,85635,110mcg,30.0,20.00
+Azithromycin,85635,250mg,5.0,7.13
+Lidocaine 5% Oin,85635,2ml,540.0,30.00
+simvastatin,77482,20mg,30.0,6.15
+tramadol,77482,50mg,120.0,2.06
+PREZISTA,92234,800mg,90.0,0
+DESCOVY,92234,200mg,90.0,0
+MELOXICAM,92234,7.5mg,90.0,0
+ACYCLOVIR,92234,400mg,90.0,0
+LEVOTHYROXINE,92234,0.5mg,90.0,0
+fenofibrate,92234,160mg,90.0,0
+FLUOXETINE,92234,40mg,90.0,0
+ARIPIPRAZOLE,92234,5mg,90.0,0
+RITONAVIR,92234,100mg,90.0,0
+ASTELIN,92234,137unit,2.0,0
+TEMAZEPAM,92234,30mg,90.0,0
+SYRINGE 3CC/22GX1" 3ML 22X 1",92234,1unit,12.87,0
+TESTOSTERONE,92234,200mg,12.87,0
+olmesartan medoxomil,12758,40mg,90.0,0
+chlordalidine,12758,25mg,45.0,0
+Levothyroxine,63052,75mcg,90.0,0
+Losartan/HCTZ,63052,50mg,90.0,0
+Metoprolol Succ,63052,100mg,90.0,0
+Pantoprazole SOD DR TABS,63052,40mg,180.0,0
+Atorvastatin Tabs,63052,10mg,90.0,0
+Breo,63052,100mcg,1.0,0
+Clonazepam,63052,.5mg,90.0,0
+Proair HFA INH,63052,8.5gram,90.0,0
+CYLOBENZAPRINE,54539,1unit,30.0,4.00
+simvastatin,96022,10mg,90.0,0
+Omeprazole,96022,40mg,90.0,0
+Hydroxzyzine,96022,25mg,90.0,0
+Naproxen,96022,500mg,180.0,0
+Alendronate,96022,70mg,12.87,0
+Estradiol vaginal cream,96022,.50gram,4.29,0
+lasinapril,75000,1mg,30.0,789
+Rosuvastatin,90210,25mg,22.5,20
+levothyroxine,08831,0.112mg,103.0,00
+lexapro,08831,5mg,90.0,00
+Simvastatin,28792,20mg,90.0,4
+Bisoprolol/HCTZ,28792,6mg,90.0,4
+Pantoprazo SOD DR,28792,40mg,120.0,4
+Tamsulosin,28792,4mg,90.0,4
+Gabapentin,74857,800mg,270.0,0.00
+Buspirone,74857,15mg,180.0,0.00
+Cyclobenzaprine,74857,10mg,180.0,0.00
+Venlafaxine,74857,300mg,90.0,0.00
+Trazadone,74857,300mg,90.0,0.00
+Mirtazapine,74857,15mg,90.0,0.00
+Promethazine,74857,25mg,30.0,14.00
+bystolic,11204,5mg,90.0,0
+praluent,11204,150mg,2.001,0
+olmesartan medoxom,11204,20mg,90.0,0
+pantoprazole,11204,40mg,90.0,0
+amlodipine besylat,11204,5mg,90.0,0
+Uloric,75000,40mg,90.0,187.50
+Mitigare,75000,0.6mg,360.0,87.50
+Finesterride,75000,5mg,90.0,0
+Omeprazole,75000,20mg,135.0,0
+Fluoxetine,75000,20mg,90.0,0
+Simvastastin,75000,80mg,90.0,0
+Ibuprofen,75000,800mg,540.0,0

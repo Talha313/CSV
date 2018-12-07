@@ -51,6 +51,7 @@ def read():
                 if item_dic not in items_list:
                     items_list.append(item_dic)
                 item_dic['zip']=item_dic['zip']
+                #print(item_dic)
 def write(list):
     with open('med_check.csv', 'w') as f:
        csv_linr = "Name,ZipCode,Unit,Quantity,Cost\n"
@@ -61,7 +62,7 @@ def write(list):
 
 if __name__ == "__main__":
     read()
-   # print(items_list)
+    print(items_list)
     write(items_list)
 
 

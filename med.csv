@@ -1,0 +1,1790 @@
+User ID,Drug Name,Zipcode,Dosage,Unit,Frequency,Supply,Cost
+1,Xanax,19468,0.25,mg,1,90,9
+2,Tramadol,77429,50,mg,4,90,0
+3,"avorvastatin, oxybutynin",43616,"20, 5","mg, mg","1, 2","90, 90","0, 0"
+4,"Amlodipine, Losartan, Sildenafil",21113,"5, 12.5, 20","mg, mg, mg","1, 1, 1","90, 90, 20","1.50, 1.50, 5.00"
+5,tresibia,78842,85,I.U.,3,90,0
+6,tizanidine,55303,2,unit,1,90,4
+7,"Valsartan-hctz, Atovastatin",34135,"80, 10","mg, mg","1, .5","90, 90","5.00, 5.00"
+8,atorvastatin,75010,80,mg,1,90,6
+9,Metformin,6082,500,mg,2,90,10
+10,atorvastatin,75010,80,mg,1,90,6
+11,synjardy,84029,12.51,mg,2,90,650
+12,"losartan, amlodipine, allopurinol",18017,"100, 5, 300","mg, mg, mg","1, 1, 1","90, 90, 90","7.19, 2.14, 20"
+13,pioglitazone,52233,45,mg,1,90,3
+14,LIVILO,33071,10,mg,1,90,99
+15,"Carvedilol, Lamictal, Welbutrin, Flonase, ketoconazole sna",44120,"6.25, 100, 300, 50, 1","mg, mg, mg, mcg, ounce","2, 2, 1, 2, 1","90, 90, 90, 90, 90","0, 0, 0.00, 0.00, 0.00"
+16,"Methotrexate, Tamsulosin, Omeprazole, Allopurinol",54311,"2.5, .4, 20, 300","mg, mg, mg, mg",".143, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+17,"irbesartan, simvastatin, prilosec, cholestyramine",93561,"150, 20, 40, 4","mg, mg, mg, gram","1, 1, 1, 1","90, 90, 90, 90","20.00, 20.00, 20.00, 20.00"
+18,"Tenofovir, Lamotrigine, Atorvastatin",85326,"300, 200, 20","mg, mg, mg",".5, 2, 1","90, 90, 90","735.83, 36.54, 28.70"
+19,Novolog,7071,150,ml,1,90,31
+20,"Levothyroxine, Allopurinol, Atorvastatin, Lisinopril, MetFormin ER",82937,"0.112, 300, 80, 30, 500","mg, unit, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+21,"Bupropion, Escitalopram",32547,"300, 10","mg, mg","1, 1","90, 90","10., 8."
+23,levothroxin,76049,75,mcg,1,90,10
+24,"NIFEdipine, OLMESARTAN/HCTZ",7302,"90, 90","mg, mg","1, 1","90, 90","0.00, 0.00"
+25,Lisinopril HCZT,75771,2012.5,mg,1,90,1
+26,"Alondronate, Rizatriptan, Metformin, Atorvastatin, Gabapentin",22477,"70, 10, 500, 20, 300","mg, mg, mg, mg, mg",".143, 1, 2, 1, 1","90, 90, 90, 90, 90","12.00, 33.00, 0, 0, 0"
+27,simvastatin,97759,20,mg,1,90,6.04
+28,metoprolol tart,8820,25,mg,2,90,100
+29,Symbicort,60120,10.2,inhalation,1,90,47
+30,"rosuvastatin, Cartia xt cap, levothyroxine, omega 3 acid, pantoprozole, venlafaxine xr, venalafaxine 75",34476,"10, 120, 50, 5, 40, 150, 75","mg, mg, mcg, mg, mg, mg, mg","1, 1, 1, 2, 2, 1, 1","90, 90, 90, 90, 90, 90, 90","0, 0, 0, 3.35, 0, 0, 0"
+31,"allopurinal, ezetimibe, pravastatin, amlidipine",60076,"200, 10, 40, 10","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+32,lipitor,91344,20,mg,1,90,192
+33,"prilosec, simvastatin, irbesartan, cholestyramine",93561,"40, 20, 150, 4","mg, mg, mg, gram","1, 1, 1, 1","90, 90, 90, 90","1, 1, 1, 1"
+34,"Symbicort, Proair hfa, Amlod/valsar tab, Fluticasone spr, Simvastatin tab, Dicyclomine cap, Montelukast tab, Spironolactone",60120,"10.2, 90, 320, 50, 20, 10, 10, 25","inhalation, mcg, mg, mcg, mg, mg, mg, mg","1, 1, 1, 1, 1, 3, 1, 1","90, 90, 90, 90, 90, 90, 90, 90","47.00, 47.00, 290.00, 0.00, 0.0, 0.00, 0.00, 0.00"
+35,"ROSUVASTIN, PRAMIPEXOLE DIHYDROCHLORIDE, FUROSEMIDE, BUPROPION XL, VALSARTAN/HCTZ, LYRICA, SERTRALINE HCL, MONTELUKAST, GLYBURIDE(M), FOLIC ACID, METHOTREXATE, TRAMADOL HCL, METFORMIN, ADVAIR DISKUS, FLUTICASONE PROPIONATE, PROAIR HFA, AEROCHAMBER, TOUJEO, VICTOZA, NANO NEEDLE",8345,"5, 0.375, 40, 150, 16025, 75, 200, 10, 10, 1, 20, 50, 1000, 50050, 50, 2, 1, 45, 1.8, 2","mg, mg, mg, mg, mg, mg, mg, mg, mg, mg, mg, mg, mg, inhalation, mcg, inhalation, inhalation, unit, mg, I.U.","1, 1, 1, 1, 1, 2, 1, 1, 2, 1, .143, 2, 2, 2, 2, 2, .143, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90","5.00, 5.00, 5.00, 5.00, 5.00, 5.00, 5.00, 5.00, 5.00, 5.00, 5.00, 5.00, 5.00, 5.00, 5.00, 5.00, 5.00, 5.00, 5.00, 5.00"
+36,meloxicam,34613,15,mg,1,90,0
+37,"synthroid, irbesartan, AmLODIPine, tamsulosin",90292,".075, 300, 10, .4","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","90, 0, 0, 0"
+38,"Lisinopril, Atorvastatin, Bicalutamide",95003,"40, 40, 50","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+39,"coumadin, losartan, levothyroxine, levothyroxine, hydrochlorothiazide, simvastatin, metformin",10605,"7.5, 50, 0.2, 175, 25, 10, 500","mg, mg, mg, mcg, mg, mg, mg","1, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0"
+40,Omeprazole,46750,20,mg,1,90,0
+41,"Valsartan hctz, Sertraline hcl, Carvedilol, Rosuvastain calcium, Diazepam",68108,"12.5, 100, 6.25, 10, 10","mg, mg, mg, mg, mg","1, 1, 2, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+42,"Valsartan, Sertraline, Carvedilol, Rosuvastain calcium, Diazepam",68108,"12.5, 100, 6.25, 10, 10","mg, mg, mg, mg, mg","1, 1, 2, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+43,"pravastatin, metoprololsucc er, cetrizine, valsartan/hctz, montelukast, azelastine",78662,"40, 100, 10, 320, 10, 1","mg, mg, mg, mg, mg, mcg","1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+44,metformin,97456,1000,mg,2,90,10.13
+45,"Metformin, cyanocobal, clopidogrel, hydrochlorothiaz, atorvastatin, zolpidem, latanoprost",77471,"500, 1, 75, 25, 40, 5, 0.005","mg, ml, mg, mg, mg, mg, ounce","1, .0333, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90","0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00"
+46,"Wellbutrin, Protonix",41175,"300, 40","mg, mg","1, 1","90, 90","10.00, 10.00"
+47,"Losartan Potassium, Venlafaxine HCL ER, Crestor, Nortriptyline HCL, Actonel",76180,"500, 150, 40, 50, 35","mg, mg, mg, mg, mg","1, 1, 1, 1, .143","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+48,"Levothyroxine tab, chlordiaz/clid cap, losartan tab, pravastatin sod tab, metformin tab, fluocinonide cream, proair hfa, omega 3 acid cap, Victoza, Levemir, Alphagan P, Lumigan SOL, Furosemide Tab",76110,"0.5, 2.5, 100, 80, 1000, 30, 90, 1, 1.8, 20, 0.1, 0.1, 40","mg, mg, mg, mg, mg, gram, mcg, gram, unit, unit, mg, mg, mg","1, .5, 1, 1, 2, 1, 6, 2, 1, 2, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"
+49,"Atenolol, Allopurinol, Hydrochlorizide",88007,"50, 100, 12.5","mg, mg, mg","1, 2, 1","90, 90, 90","0, 0, 0"
+50,xralto,27526,20,mg,1,90,93
+51,xrelto,27526,20,mg,1,90,93
+52,pravastatin sod,27526,80,mg,1,90,3
+53,"Farxiga, Triceba, Amlodepine, Quinapril, Humalog",77429,"10, 20, 5, 40, 1000","mg, I.U., mg, mg, I.U.","2, 1, 1, 1, 1","90, 90, 90, 90, 90","25, 25, 5, 2.50, 50.00"
+54,Buproprion XL,76116,300,mg,1,90,0.01
+55,"quinapril, amlodipine, DOXYCYCLINE, PAROXETINE ER, TORSEMIDE, METOPROLOL SUCC ER",34243,"40, 10, 100, 25, 10, 50","mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+56,"METOPROLOL, DOXYCYCLINE, PAROXETINE, AMLODIPINE, QUINAPRIL, TORSEMIDE",34243,"50, 100, 25, 10, 40, 10","mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+57,"Amlodipine, Losartan, Sildenafil",21113,"5, 12.5, 20","mg, mg, mg","1, 1, 1","90, 90, 20","1.5, 1.5, 5.00"
+58,"Aimovig, Relpax",93105,"1, 1","mg, mg",".0333, 1","90, 90","100, 35"
+59,"ATORVASTATIN, CLOPIDOGREL, METOPROLOL SUCCER, LISINOPRIL, ASPIRIN EC",78570,"40, 75, 25, 2.5, 81","mg, mg, mg, mcg, mg","1, 1, .5, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+60,lantus,34741,80,unit,2,90,0
+61,Levothyroxine,76063,0.125,mg,1,90,20
+62,Lisinopril,29718,20,mg,1,90,0
+63,"levothyroxine, duloxatine, cyclobenzaprine, amphetamine salts",84057,"50, 60, 5, 10","mcg, mg, mg, mg","1, 2, 1, 1","90, 90, 90, 90","0, 200, 150, 26"
+64,takind a lot,92821,0,mg,1,90,0
+65,Sertaline,12563,100,mg,1,90,0.16
+66,"nexium, arthrotec",46996,"40, 10","mg, mg","1, 1","90, 90","15, 15"
+67,"citalopram, levothyroxine, ventolin hfs, ditropan xl, spirit respimat",98503,"20, 75, 0, 10, 0","mg, mcg, inhalation, mg, inhalation","1, 1, 1, 1, 1","90, 90, 90, 90, 90","3.00, 0, 20.00, 0.00, 0.00"
+68,"Lamictal XR 100mg, Lamictal XR 300mg, Keppra XR 500mg",11731,"200, 600, 3000","mg, mg, mg","1, 1, 1","90, 90, 90","35, 35, 150"
+69,irbesartan,7626,300,mg,1,90,0
+70,"Metformin, Tresiba, Actos, Zetia, Crestor, Levothyroxine, Amlodipine Besylate",77041,"500, 6, 22.5, 10, 5, 112, 5","mg, unit, mg, mg, mg, mcg, mg","2, 1, 1, 1, .5, 1, 1","90, 90, 90, 90, 45, 90, 90","30, 0, 30, 30, 30, 30, 30"
+71,"LOSARTAN/HCTZ TAB 100-25, LEVOTHYROXINE, SERTRALINE HCL, AMLODIPINE TAB, PRAVASTATIN SO10D, Linzess",34481,"10025, 0.05, 25, 5, 10, 290","mg, mg, mg, mg, mg, mcg","1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 110"
+72,omega-3-Acid Ethyl capsules,70510,1,gram,2,90,0
+73,"Losartan, levithyroxine, omeprazole, atorvastatin",8020,"50, 88, 40, 40","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","5, 5, 5, 5"
+74,MELOXICAM,48135,7,mg,1,90,0
+75,montolukast,78641,10,mg,1,90,50
+76,"Hydralazine, Esomeprazol, Buspirone, Diltazem, Aspirin, Zyrtac, Cyanocobalamin",14867,"25, 40, 10, 120, 81, 10, 1","mg, mg, mg, mg, mg, mg, mg","2, 1, 2, 1, 1, 1, .0333","90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0"
+77,"BUPROPION, CITALOPRAM, GLIMEPIRIDE, hUMALOG kWIKPEN, HYDROCHLOROTHIAZIDE, LEVOTHYROXINE, PANTOPAZOLE, ROSUVASTATIN, TOUJEO SOLOSTAR",33873,"300, 20, 4, 100, 25, 100, 40, 20, 300","mg, mg, mg, ml, mg, mcg, mg, mg, ml","1, 1, 1, 3, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90","58.44, 3.52, 23.43, 78.31, 2.40, 12.55, 8.16, 15.08, 316.92"
+78,"Atorvasatin, Citalopram",32828,"20, 40","mg, mg","1, 1","90, 90","2, 2"
+79,amlodipine,8810,5,mg,1,90,1.88
+80,"BuPropion, Fluoxitine",2135,"200, 20","mg, mg","1, 1.5","90, 90","8, 8"
+81,rastovin,20175,10,mg,1,90,20
+82,levoxythoxine,84057,88,mcg,1,90,0
+83,"premarin, vytorin",89015,"0.3, 40","mg, mg","1, 1","90, 90","50, 50"
+84,"premarin, vytorin",89015,"0.3, 40","mg, mg","1, 1","90, 90","50, 50"
+85,"levothyroxine, ciclopirox",94526,"75, 1","mcg, unit","1, 1","90, 90","34.98, 111.65"
+86,"Lexapro, Synthroid, HCTZ, Warfarin, Crestor",30189,"40, 200, 25, 10, 40","mg, mcg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+87,"Imipramine, Losartan, AmLODIPine",80909,"100, 50, 10","mg, mg, mg","1, 1, 1","90, 90, 90","153.00, 0, 0"
+88,Simvistatin,2116,20,mg,1,90,0
+89,Trazodone,93401,50,mg,2,90,0
+90,Simvistatin,2116,20,mg,1,90,1
+91,Lisinopril,93283,10,mg,2,90,0
+92,Lisinopril,93283,10,mg,2,90,0
+93,"Baclofen, Amitriptyline, Ultram, Provigil, Oxybutynin, Acycolvir, Enoxaparin, Zomig, Lidocaine Patch, Omeprazole",80130,"20, 150, 8, 200, 7.5, 20, 100, 5, 700, 20","mg, mg, mg, mg, ml, ml, ml, inhalation, mg, gram","2, 2, 3, 1, 2, 2, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0, 0, 0"
+94,Venlafaxine xr,21784,75,mg,1,90,25
+95,Gemfibrozil,11758,600,mg,2,90,10
+96,Combigan sol,49004,1,unit,2,90,100
+97,"Simvastatin, Losartan",80923,"40, 100","mg, mg","1, 1","90, 90","0, 0"
+98,"Crestor, Warfarin, Lexapro, HCTZ, Synthroid",30189,"40, 10, 20, 25, 200","mg, mg, mg, mg, mcg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+99,"benazepril, HCL, AMLOOIPINE",32780,"10, 25, 5","mg, mg, mg","1, 1, 1","90, 90, 90","000, 000, 000"
+100,"Losartan, Simvastatin, Metformin",10993,"100, 20, 500","mg, mg, mg","1, 1, 2","90, 90, 90","0, 0, 0"
+101,"Wellbution, Netium",8690,"300, 40","mg, mg","1, 1","90, 90","1.00, 1.00"
+102,"Wellburtin, Nextium",8690,"300, 40","mg, mg","1, 1","90, 90","1.00, 1.00"
+103,"ProAir HFR Inhaler, Pramepexole, Amitriptylin, Gabapentin, Carbodopa/Levidopa, Omeprazole, Levothyroxin (Synthroid), Simvastatin (Zocor), Hydrochlorothiazide (Microzide), Albuterol (Proventil), Furosemide (Lasix), Symbicort Inhaler",7514,"60, 1, 50, 600, 25, 20, 0.15, 40, 25, 0.083, 40, 1604.5","I.U., mg, mg, mg, mg, mg, gram, mg, mg, inhalation, mg, inhalation","1, 2, 4, 2, 2, 2, 1, 1, 1, 1, 2, 1, 2","90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90","45, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 45"
+104,"isosorbide mn er tab, clopidogrel, carvedilol, losartan, citalopram, omeprazole, pravastatain sod, met formin",45103,"60, 75, 12.5, 25, 40, 20, 40, 1000","mg, mg, mg, mg, mg, mg, mg, mg","1, 1, 2, 1, 1, 1, 1, 2","90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0"
+105,"pramipexole, gabapentin, zolpidem, sertraline, losartan, bupropion, amlodipine, omeprazole, altorvastin",3291,"0.5, 300, 5, 150, 100, 150, 5, 40, 40","mg, mg, mg, mg, mg, mg, mg, mg, mg","1, 3, 1, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90","0.00, 0.00, 10.00, 0.00, 0.00, 0.00, 0.00, 10.00, 10.00"
+106,Sertraline,4352,50,mg,1,90,0
+107,atenolol,63013,50,mg,1,90,0
+108,atenolol,63013,50,mg,1,90,0
+109,"Metroprolol, Glimepiridie, Ibresartan, Isosorbide",19512,"50, 1, 150, 60","mg, mg, mg, mg","2, 2, 1, 1","90, 90, 90, 90","5., 5.00, 5.00, 5.00"
+110,"citalopram, amlodipine, simvastatin",15108,"40, 5, 40","mg, mg, mg","1, 1, 1","90, 90, 90","0.00, 0.00, 0.00"
+111,"simvastatin, citalopram, amlodipine",15108,"40, 40, 5","mg, mg, mg","1, 1, 1","90, 90, 90","0.00, 0.00, 0.00"
+112,"simvastatin, citalopram, amlodipine",15108,"40, 40, 5","mg, mg, mg","1, 1, 1","90, 90, 90","0.00, 0.00, 0.00"
+113,"Omeprazole, Losartan, Lorazepam, Tamulosin, Paroxetine, Atorvastatin, Carvedilol",58529,"20, 100, .5, .4, 40, 80, 12.5","mg, mg, mg, mg, mg, mg, mg","2, 1, 2, 1, 1, 1, 2","90, 90, 90, 90, 90, 90, 90","3.35, 3.35, 3.00, 3.35, 3.35, 3.35, 3.35"
+114,"BYSTOLIC, EZETIMIBE, METFORMIN, OLMESARTAN/HCTZ",31542,"5, 10, 1000, 40","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","141.00, 0.00, 0.00, 0.00"
+115,"Olmesartam HCTZ, Metformin, Bystolic, Ezetimibe",31542,"40, 1000, 5, 10","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0.00, 0.00, 0, 0.00"
+116,"Atrovastatin, Vesicare, Pantoprazole",37174,"20, 5, 40","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+117,"creon, NEXIUM",30187,"3, 1","unit, mg","3, 1","90, 90","585.00, 28.00"
+118,Rizatriptian,43019,1,unit,1,90,25
+119,"Myrbetriq, Eszopiclone, Acyclovir",6902,"25, 2, 400","mg, mg, mg","1, 1, 2","90, 90, 90","25.00, 5, 5"
+120,"Prozac, Protonix",46705,"40, 40","mg, mg","1, .143","90, 90","10.00, 5"
+121,"Metoprolol Tart Tab, Lisinopril-HCTZ Tab, Amlodipine Tab",36301,"0100, 20, 10","mg, mg, mg","1, 1, 1","90, 90, 90","12.00, 11.00, 8.00"
+122,"Levoxyl, Birth controle",82009,"200, 1","mcg, ounce","1, 1","90, 90","20, 0"
+123,Dexilant,75219,60,mg,1,90,90
+124,"escitalopram, amlodipine, rosuvatin",10986,"10, 5, 10","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+125,Propanelol,17111,1,mg,1,90,0
+126,atorvastatin,8690,10,mg,1,90,9
+127,Propanelol,17111,80,mg,1,90,25
+128,"Warfarin, Entresto, oxcarbazepine",6484,"2, 1, 1","gram, gram, gram","1, 2, 2","90, 90, 90","9, 9, 4"
+129,"mesalamine, amitiza",7753,"1.2, 24","gram, unit","2, 1","90, 90","33.00, 0"
+130,Triamterene - HCTZ 37.5,7728,25,mg,1,90,10
+131,omerprazole,89436,200,mg,1,90,1
+132,"Lisinopril, Atorvastatin, Citalopram, Metoprolol Succ Er, Omeprazole, Levothyroxine",53916,"40, 80, 20, 50, 40, 0.125","mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+133,losartin,60185,100,mg,1,90,10
+134,"losartan/hctz, simvastatin",60185,"100, 10","mg, mg","1, 1","90, 90","22.35, 14.72"
+135,"losartan/hctz, simvastatin",60185,"100, 10","mg, mg","1, 1","90, 90","22, 12"
+136,"Finasteride, Atorvastatin",7052,"5, 20","mg, mg","1, 1","90, 90","0, 0"
+137,"Metformin ER, Metoprolol Tart, Atorvastatin",46319,"500, 25, 40","mg, mg, mg","2, 2, 1","90, 90, 90","0, 0, 0"
+138,"Metformin, Metoprolol, Atorvastatin",46319,"500, 25, 40","mg, mg, mg","2, 2, 1","90, 90, 90","0, 0, 0"
+139,ibuprofen,1541,800,mg,3,90,0
+140,Lisinopril,53010,10,mg,1,90,0
+141,"symbicort, ventolin",11793,"80, 90","inhalation, inhalation","2, 1","90, 90","20, 20"
+142,Metformin,8512,1000,mg,2,90,12
+143,escitaloprom,54101,20,mg,1,90,0
+145,Ranexa,76051,500,mg,2,90,0
+146,Indocin,33076,75,mg,2,90,10
+147,"Mirtazapine O/DI TAB, Bromocriptine CAP, Metoprolol SUCC ER, Clonazepam, Lisinopril TAB, Atrovastatin TAB, AmLOPIPine TAB, Burproprion SR TAB",54952,"45, 5, 25, 0.5, 40, 40, 5, 150","mg, mg, mg, mg, mg, mg, mg, mg","1, 1, 2, 1, 1, 2, 1, 1","90, 90, 90, 90, 90, 90, 90, 90","0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00"
+148,Diovan,7104,80,mg,1,90,5
+149,"losartin, simisatin",60185,"100, 60","mg, gram","1, 1","90, 90","10, 10"
+150,"lisinipril, atorvastin, raloxfene",75089,"5, 20, 60","mg, mg, mg","2, 1, 1","180, 90, 90","0.00, 0.00, 87.00"
+151,Metformin,76706,1000,mg,2,90,0
+152,"Lisonopril, Escitalopram, Omeprazole",5478,"10, 20, 40","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+153,"tradjenta, rosuvasttain, lisinopril, esomeprazol, metopproolol succ, MerFORMIN",23310,"5, 40, 20, 40, 100, 1000","mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 2","90, 90, 90, 90, 90, 90","600, 20, 30, 30, 30, 30"
+154,"metformin, metoprolol, rosuvasttatin, esomeprazol, tradjenta",23310,"1000, 100, 40, 40, 5","mg, mg, mg, mg, mg","2, 1, 1, 1, 1","90, 90, 90, 90, 90","30, 30, 30, 30, 600"
+155,"lisinopril, atorvastin, raloxfene",75089,"587.0, 20, 60","mg, mg, mg","2, 1, 1","180, 90, 90","0.00, 0.00, 87.00"
+156,"tradjenta, esomeprazol, rosuvastatin, metooprolol, metformin",23310,"5, 40, 40, 100, 1000","mg, mg, mg, mg, mg","1, 1, 1, 1, 2","90, 90, 90, 90, 90","600, 30, 30, 30, 30"
+157,"Rizatriptan Benzoate, Ondansetron",92708,"10, 8","mg, mg","1, 1","90, 90","20.00, 20.00"
+158,"atenol/chlorthal, simvastatin, lisinopril, metformin, glimepride, tamsulosin, hydroxychloroquine",19709,"50, 40, 20, 1000, 2, 0.4, 200","mg, mg, mg, mg, mg, mg, mg","1, 1, 1, 2, 1, 1, 2","90, 90, 90, 90, 90, 90, 90","1, 0, 0, 0, 0, 0, 0"
+159,"metoprolol, omeprazole",54313,"50, 40","mg, mg","2, 1","90, 90","0.00, 0.00"
+160,Xarelto,7647,10,mg,1,90,40
+161,atorvastatin,11959,10,mg,1,90,9
+162,potassium,92083,20,mcg,1,90,9
+163,"Lisinopril, Amlodipine, Eloquis5, Levothyroxine, Omeprozole, TraMADol, Furosemide, Pot.Cloride",80209,"20, 10, 5, 75, 10, 50, 40, 10","mg, mg, mg, mg, mg, mg, mg, mg","1, 1, 2, 1, 1, 2, 1, 1","90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0"
+164,"levothyroxine, atorvastatin, metoprolol suc er",99507,".137, 20, 75","mg, mg, mg","1, 1, 1","90, 90, 90","000, 000, 000"
+165,Spironolactone,75034,100,mg,1,90,19.9
+166,orphenadrine,64473,100,mg,1,90,10
+168,Sharobel,96307,0.35,mg,1,90,5
+169,"Ibersartan, allopurinol, atorvastatin",11375,"300, 300, 40","mg, mg, mg","1, 1, 1","90, 90, 90","10, 10, 10"
+170,"tamsulosin, attenolol, atorvastatin, finasteride, omeprazole, hydrochlorothiaz, lisinopril",23235,"0.04, 12.5, 40, 5, 20, 12.5, 10","mg, mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0"
+171,lisinopril,32408,20,mg,2,90,0
+172,Prednisone,30039,10,mg,2,90,5
+173,"ATORVASTATIN, LEVOTHYROXINE, ESTRACE VAG CRE, AMLODIPINE",49009,"20, 0.088, 0.1, 5","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 69.63, 0"
+174,amlodipine,66207,10,mg,1,90,0
+175,montelukast,8065,10,mg,1,90,5
+176,"alendronate, amitripttyline",32506,"70, 300","mg, mg",".143, 1","90, 90","0, 0"
+177,"Simvastatin, Meloxicam, VESIcare",28115,"10, 15, 10","mg, mg, mg","1, 1, 1","90, 90, 90","10, 10, 7"
+178,simvaststin,34607,40,mg,1,90,0
+179,lisinopril,65809,40,mg,1,90,0
+180,Warfarin,75044,5,mg,1,90,10
+181,"AMIDARONE, APIXABAN, FUROSEMIDE, ALLOPURINOL, ATORVASTATIN, NITROGLYCERIN, ROPINIROLE, METOPROLOL ER",3038,"200, 5, 40, 300, 80, .4, 4, 25","mg, mg, mg, mg, mg, mg, gram, mg","1, 2, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0"
+182,"Amiodarone, Astorvastatin, Cholestyramine, Esomeprazole, Ferrous Sulfate, Levothyroxine, Olmesartan",8889,"200, 20, 4, 40, 325, 0.05, 20","mg, mg, gram, mg, mg, mg, mg","1, 1, 2, 2, 1, 1, 1","90, 90, 90, 90, 90, 90, 90","1, 1, 1, 1, 1, 1, 1"
+183,oxy,24517,20,mg,3,90,0
+184,"Levothyroxine, Losartan",60173,"0.112, 25","mg, mg","1, 1","90, 90","0, 0"
+185,"Triamt/HCTZ, Pot Chlor Sr, Metoprolol Succ ER, Ezetimibe, Pravastatin Sod, AmLODIPine, Levocetirizine Dihydrochloride, Metoprolol Tartrate, Levothyroxine",34609,"37.525, 10, 50, 10, 80, 7.5, 5, 25, 175","mg, mg, mg, mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90","5.00, 5.00, 5.00, 5.00, 5.00, 5.00, 5.00, 5.00, 5.00"
+186,"panttoprazole, simvastatin, Warfarin",46835,"40, 20, 5","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+187,"clopidogrel, amlodipine besalyte, losartan potassium, carvedilol, metformin, atorvastatine",32129,"75, 5, 50, 6.25, 1000, 5","mg, mg, mg, mg, mg, mg","1, 1, 1, 2, 2, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+188,rosuvastatin,44133,20,mg,1,90,0
+189,"Pantoprazole, Simvistatin, Warfarin",46835,"40, 20, 5","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+190,"Atorvastatin, Vascepa",10990,"20, 20","mg, mg","1, 2","90, 90","10, 10"
+191,"Levothyroxine, Metoprolol Tartrate, Levocetirizine, AmLODIPine, Pot Chlor Sr Caps, Triamt/HCTZ, Metoprolol Succ ER, Ezetimibe, Pravastatin Sod",34609,"175, 25, 5, 5, 10, 37.525, 50, 10, 80","mg, mg, mg, mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 2, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90","5.00, 5.00, 5.00, 5.00, 5.00, 5.00, 5.00, 5.00, 5.00"
+192,"Simvistatin, omeprazole, armour thyroid",75218,"40, 20, 60","mg, mg, mg","1, 1, 1","90, 90, 90","3.00, 3.00, 86.00"
+193,"Fluticasone Propionate, Myrbetriq, Rosuvastatin, Amlodipine Besylate, Finasteride, Metorprolol Tartrate, Tadalafil Tablets IP",32250,"50, 50, 20, 10, 5, 25, 20","mcg, mg, mg, mg, mg, mg, mg","2, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 45, 20","47, 400.68, 30, 9, 9, 4.56, 75.00"
+194,"Ttemazepam, Atorvastatin, Fenofibrate",95678,"15, 20, 160","gram, mg, mg","1, 1, 1","90, 90, 90","30.00, 30.00, 30.00"
+195,"venlafaxine xr cap 75mg, venlafaxine xr cap, levetiracetam tab, clopidogrel",33908,"75, 150, 500, 75","mg, mg, mg, mg","1, 1, 2, 1","90, 90, 90, 90","0, 0, 0, 0"
+196,Valacyclovir,11735,500,mg,1,90,1
+197,"Balsalazide Disodium, Atorvastatin calcium, Oxybutynin ER, Amlodipine, Memantine, Tamsulosin",33469,"6, 1, 1, 1, 1, 1","mg, mg, mg, mg, mg, mg","2, 1, 1, 1, 1, 2","90, 90, 90, 90, 90, 90","0, 0, 1, 1, 0, 1"
+198,"METROPROLOL TARTRATE, ELIQUIS",19078,"50, 5","mg, mg","2, 2","90, 90","42, 42"
+199,"metformin, simvastatin, pantoprazole, tramadol",18428,"1000, 20, 40, 50","mg, mg, mg, mg","2, 1, 1, 4","90, 90, 90, 90","0, 0, 0, 0"
+200,omeprazole,44266,20,mg,2,90,0
+201,"Olmesartan Medox/Hctz, Lyrica, Celecoxib",60119,"1, 1, 11","mg, mg, mg","1, 2, 2","90, 90, 90","14.00, 38.00, 26.04"
+202,"Rosuvastatin, Montelukast, advair, Proair HFA",75146,"10, 10, 250, 90","mg, mg, mcg, mcg","1, 1, 2, 1","90, 90, 90, 90","2, 2, 2, 2"
+203,Allopurinol,21030,100,mg,1,90,500
+204,Simvistatin,22102,40,mg,1,90,0
+205,"Lisinopril, Lyrica, Diazepam",80124,"10, 300, 5","mg, mg, mg","1, 1, 1","90, 90, 90","30.00, 347.00, 244.00"
+206,carvedilol,60447,12.5,mg,2,90,1
+207,Lossrtan,8724,50,mg,1,90,130
+208,"prednisone, metformin, ammonium lotion, alfuzosin, furosemide, pro-air, atorvastatin",31709,"10, 500, 2, 10, 40, 2, 20","mg, mg, ounce, mg, mg, inhalation, mg","1, 1, 2, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0"
+209,"Warfarin tab, Rosuvastatin tab, Metoprolol Succ Er tab, Folic Acid Tab, Ezetimibe tab",34609,"5, 5, 25, 1, 10","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","5.00, 5.00, 5.00, 5.00, 5.00"
+210,ELIQUIS,85282,1,unit,2,90,140
+211,Test/preg/dhea,7670,5,mg,1,90,45
+212,"finasteride, lovastatin, tamsulosin",91942,"5, 40, 04","mg, mg, mg","1, 1, 2","90, 90, 90","1, 1, 1"
+215,atorvastatin,8003,10,mg,1,90,0
+216,"Setraline, Meloxicam, Omeprozole, Gabapentin",63129,"50, 50, 40, 300","mg, mg, mg, mg","1, 1, 1, 2","90, 90, 90, 90","0, 0, 0, 0"
+217,"metformin, indapimaide, benazepril, novolin 70/30",12758,"500, 1.25, 40, 34","mg, mg, mg, unit","2, 1, 1, 2","90, 90, 90, 90","0, 0, 0, 24.88"
+218,"Metformin, Glimepride, Fenofibrate, Losartan/HCTZ",19154,"1000, 1, 160, 100","mg, mg, mg, mg","2, 3, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+219,simvastatin,8750,20,mg,1,90,0
+220,METFORMIN,19154,1000,mg,2,90,0
+221,"Gabapentin, Simvastatin",86361,"100, 10","mg, mg","1, 1","90, 90","0, 0"
+222,"Pravastatin, Invokana, T/S One Touch Ultr Blue",8063,"40, 300, 100","mg, mg, unit","1, 1, 3","90, 90, 90","15, 50, 15"
+223,lasix,23513,40,mg,1,90,4
+224,"Metformin, Glimepiride, Lisinopril, Clopdogrel, Pravastatin, Carvedilol, Bayer Aspirin",77345,"1000, 4, 20, 75, 40, 25, 81","mg, mg, mg, mg, mg, mg, mg","2, 2, 2, 1, 1, 2, 1","90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0"
+225,"Levothyroxine, Irbesartan, Hydrochlorothiazide, Metoprolol, Rosuvastin, Methotrexate Sodium",17517,".15, 150, 25, 25, 10, 2.5","mg, mg, mg, mg, mg, mg","1, 1, 1, 2, 1, .858","90, 90, 90, 90, 90, 90","10.00, 10.00, 10.00, 10.00, 10.00, 36.00"
+226,"victoza, lantus, Metformin",11040,"1.8, 30, 4","mg, mg, mg","1, 1, 2","90, 90, 90","0, 0, 0"
+227,"Gabapentin, clonazapam, lisonopril, omeprozole",5478,"600, 1, 10, 20","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+228,"Venlafaxine HLC ER, Trazodone",99654,"150, 100","mg, mg","1, 1","90, 90","10.00, 10.00"
+229,SYNTHROID,94521,0.1,mg,1,90,92.82
+230,SYNTHROID,94521,0.1,mg,1,90,92.82
+231,Levothyroxine,34114,0.1,mg,1,90,0
+232,"Amlodipine, LosartanPotassium",11516,"5, 50","mg, mg","1, 1","90, 90","13.13, 7.00"
+233,"losartanpotassium, amlodipine",11516,"50, 5","mg, mg","1, 1","90, 90","7.00, 13.13"
+234,"Ventolin, Symbicort, Montelukast",30141,"90, 160, 10","mcg, mcg, mg","1, 2, 1","90, 90, 90","13, 60, 7"
+235,Levothroxine,30022,0.75,mg,1,90,18.34
+236,"metformin, losartan, simvastatin",27043,"1000, 100, 20","mg, mg, mg","1, 1, 1","90, 90, 90","20, 20, 20"
+237,"Furosemide, levothyroxine, Celecoxib, doxycycline Mono, betameth val lot, tramedol HCL",95354,"4, .088, 100, 100, 60, 50","mg, mg, mg, mg, ml, mg","1, 1, 1, 2, 2, 1","90, 90, 90, 90, 90, 90","2.50, 10.00, 10.00, 10.00, 10.00, 5.00"
+238,Levoxyl,82009,200,mcg,1,90,40
+239,"Levoxyl, Birth control",82009,"200, 1","mcg, mg","1, 1","90, 90","40, 0"
+240,"Losarton, linzess, laculose, amamlodifine besylate",33762,"100, 145, 30, 5","mg, mg, mcg, mg","1, 1, 2, 2","90, 90, 90, 90","95.00, 400.00, 75.00, 0.00"
+241,losartan,2066,50,mg,1,90,0
+242,"Rampril, Glimpride, Actos, metformin, Simvastin, Victoza",8027,"10, 4, 45, 100, 20, 0.6","mg, mg, mg, mg, mg, mg","1, 2, 1, 2, 1, 1","90, 90, 90, 90, 90, 90","1, 1, 1, 1, 1, 1"
+243,levothyroxine,91505,1,mg,1,90,0
+244,levothyroxine,91505,1,mg,1,90,0
+245,levothyroxine,91505,1,mg,1,90,0
+246,"Lexapro, Crestor, Losartan Pot",71051,"10, 40, 50","mg, mg, mcg","1, 1, 1","90, 90, 90","25, 25, 25"
+247,Amlodipine,27260,30,mg,1,90,1
+248,"blisovi FE 1.5/30, Alprazolam",95382,"30, .25","mg, mg","1, 1","90, 90","1, 1"
+249,"deblitane, venlafaxine, nortriptyline",44131,".35, 37.5, 50","mg, mg, mg","1, 1, 1","90, 90, 90","0, 3.68, 7.00"
+250,"HTZ, BENAZEPRIL, AMLODIPINE",32780,"25, 10, 5","mg, mg, mg","1, 1, 1","90, 90, 90","000, 000, 000"
+251,"Citalopram, Spironolactone, Furosemide",10003,"20, 12.5, 20","mg, mg, mg","1, 1, .5","90, 90, 90","0.00, 6.00, 0.00"
+252,"Fluvoxamin, Atorvastin",10502,"50, 40","mg, mg","1, 1","90, 90","15.00, 0"
+253,"januvia, quinapril-hct 2-20, glimediride, metformin, atorvastatin, amlodipipine besylate, ibandronate sodium",7083,"100, 125, 1, 1000, 10, 5, 150","mg, mg, mg, mg, mg, mg, mg","1, 1, 1, 2, 1, 1, .0333","90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0"
+254,"Atorvastatin, Trazodone, Diclofenac Sod EC",98040,"10, 150, 75","mg, mg, mg","1, 1, 2","90, 90, 90","7.00, 7.00, 7.00"
+255,"methotrexate, metformin, lisinopril/hctz, rosuvastatin, folic acid, RA lortadine, meloxicam, low dose aspirin",13073,"2.5, 750, 2512.5, 20, 1, 10, 15, 81","mg, mg, mg, mg, mg, mg, mg, mg",".143, 2, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90","1.25, 1.25, 1.25, 1.25, 4.00, 11.00, 1.25, 5.00"
+256,"Crestor, Protonix, Vitamin D2",1464,"5, 40, 50000","mg, mg, I.U.","1, 1, .143","90, 90, 90","100.00, 50.00, 23.00"
+257,"Metoprolol ER Succinate, Lisinopril, Atorvastation, Fluticasone Propionate",66002,"100, 5, 20, 50","mg, mg, mg, mcg","1, 1, 1, 1","90, 90, 90, 90","50, 15, 35, 15"
+258,Adderall,76114,30,mg,1,90,30
+259,"ropinirole, ampolodine",8723,".25, 5","mg, mg","1, 1","90, 90","0, 0"
+260,donepezil,78253,5,mg,1,90,3
+261,donepezil,78253,5,mg,1,90,3
+262,escitalopram,3224,20,gram,1,90,8
+263,"sertraline, trazodone, symbicort, triamcinolone",61275,"100, 50, 1604.5, 1","mg, mg, mcg, mg","1, 1, 2, 1","90, 90, 90, 90","9.00, 9.00, 45.00, 2.00"
+265,"Nexium, Humaria, Sexenda",8816,"1, 40, 3","mg, mg, unit","1, .143, 1","90, 90, 90","0, 0, 0"
+266,"Gabapentin, Metformin, Omeprazole",49419,"300, 1000, 40","mg, mg, mg","6, 2, 1","90, 90, 90","0, 0, 0"
+267,"Effexor, WelbutrenXL, Lamotragine, Benazipril, Synthroid",92131,"225, 300, 200, 10, 0.2","mg, mg, mg, mg, mg","1, 1, 1, 2, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+268,"pantoprazole, micardis, allopurinol, amlodipine, carvedilol, clopidogrel, sertraline, simvastatin, flomax",36854,"40, 80, 300, 10, 6.25, 75, 50, 10, 0.4","mg, mg, mg, mg, mg, mg, mg, mg, mg","1, 1, 2, 1, 2, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90","00, 90.00, 00, 00, 00, 00, 00, 00, 00"
+269,warafin,12302,7.5,mg,1,90,0
+270,"depakote, metformin, levothyroxine, januvia, atorvastatin, losartan, hydrochlorothiaz, lantus solostar, humalog mix 75/25",22803,"750, 500, 0.15, 100, 40, 50, 12.5, 51, 18","mg, mg, mg, mg, mg, mg, mg, ml, ml","2, 2, 1, 1, 1, 1, 1, 1, 2","90, 90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0, 0"
+271,celexa,92124,5,mg,1,90,0
+272,"crestor, lisinopril",95973,"10, 5","mg, mg","1, 1","90, 90","1, 1"
+273,Amlodipine,30135,5,mg,1,90,5
+274,"flovent HFA, amlodipine besylate, montelukast",85375,"110, 5, 10","mcg, mg, mg","1, 1, 1","90, 90, 90","155.00, 10.00, 35.00"
+275,"montelukast, benazepril, simvastatin",78240,"10, 12.5, 20","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+276,"Meloxicam, Duloxetine",77356,"1, 1","mg, mg","1, 1","90, 90","00.00, 00.00"
+277,lisinopril,95818,40,mg,1,90,10
+278,Ortho Tri Cyclen Lo,1760,1,unit,1,90,400
+279,"LOSARTAN/HCTZ, SIMVASTATIN, ATENOLOL, METFORNIN HYDROCHLORIDE, RENITIDINE, CLOPIDOGREL, MINOXIDIL, PRAMIPIEXOLE",76114,"10025, 40, 100, 500, 300, 75, 2.5, .5","mg, mg, mg, mg, mg, mg, mg, mg","1, 1, 1, 2, 1, 1, 2, 1","90, 90, 90, 90, 90, 90, 90, 90","0.00, 0.00, 0.00, 0.00, 14.00, 14.00, 14.00, 14.00"
+281,"pravastatipravastatin, tamsulosin, clopidogrel, lorazepam",80104,"40, 0.4, 75, 1","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+282,"Dicyclomine, Amlodipine, Atenolol, Lisinopril, Klor-con, Mirtazapine, Meloxicam, Sertraline, Furosemide",29566,"20, 5, 12.5, 40, 10, 30, 7.5, 150, 20","mg, mg, mg, mg, mg, mg, mg, mg, mg","4, 1, 2, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 2, 0, 0, 0"
+283,"Finasteride, Tamsulosin, Paroxitene",34685,"5, .4, 20","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+284,"Diatiazem, Alendronate, Simvastatin, Olmesa Medox, Hydroclorort, Metformin",33014,"300, 70, 40, 40, 25, 500","mg, mg, mg, mg, mg, mg","1, .143, 1, 1, 1, 2","90, 90, 90, 90, 90, 90","105.78, 18.04, 18.22, 75.90, 5.46, 15.97"
+285,Lopressor xl,8554,200,mg,1,90,18
+286,"Lisinopril, Hydrochlorothiazideo, Triamcinolone, Atorvastatin",34691,"40, 25, 1, 20","mg, mg, unit, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+287,Roprinale,45891,10,mg,1,90,9
+288,"Lisinopril, Hydrochlorothiazide, Atorvastatin, Triamcinolone 0.1%",34691,"20, 12.5, 20, 1","mg, mg, mg, mg","1, 1, 1, 2","90, 90, 90, 90","0, 0, 0, 0"
+289,Lexapro,6013,0.2,mg,1,90,3
+290,"Breo, Hydrochlorothiaz",8610,"25, 12.5","inhalation, mg","1, 1","90, 90","28.00, 3.00"
+291,"Amlodipine, Atorvastatin, Tamsulosin, Omeprazole",60657,"5, 10, 0.4, 20","mg, mg, mg, mg","1, 1, 2, 1","90, 90, 90, 90","0, 0, 0, 0"
+292,Levothyroxine,92056,0.088,mg,1,90,0
+293,Metformin,73120,1,mg,2,90,0
+294,losartan,6418,50,mg,1,90,20
+295,Simvistatin,11372,10,mg,2,90,2
+296,Levothyroxine,12721,0.1,mcg,1,90,14
+297,simvastatin,95476,40,mg,1,90,1
+298,"Meloxicam, Sertraline, Furosemide, Dicyclomine, Amlodipine, Atenolol, Lisinopril, Klor-con, Mirtazapine",29566,"7.5, 150, 20, 20, 5, 12.5, 40, 10, 30","mg, mg, mg, mg, mg, mg, mg, unit, mg","1, 1, 1, 4, 1, 2, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0, 0"
+299,Losartan,31411,50,mg,1,90,1
+300,Levothyroxine,78737,1,mg,1,90,10
+301,"Ambien, Atorvastatin, Carvedilol, Doxazosin, Dymista, Eliquis, Finasteride, Klor-con, Olmesartan, Omeprazole, Paroxetine, Tamsulosin",33950,"5, 11, 25, 2, 50, 5, 5, 10, 40, 20, 20, 1","mg, mg, mg, mg, mcg, mg, mg, mcg, mg, mg, mg, mg","1, 1, 2, 1, 1, 2, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90","20, 20, 20, 20, 75, 25, 20, 20, 20, 20, 20, 20"
+302,"Singulair, Paxil",7470,"10, 20","mg, mg","1, 1","90, 90","10, 20"
+303,Cymbalta,92344,60,mg,1,90,10
+304,"Lisinopril, Simvistatin, Sertaline, Metformin",21050,"10, 10, 100, 500","mg, mg, mg, mg","1, 1, 1, 4","90, 90, 90, 90","0, 0, 0, 0"
+305,"losartan, escitlopram, simvastatin, zolpidem, levothroxin, ibruprofen",19962,"100, 20, 10, 10, 75, 800","mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+306,"Bupropion, Bupropion, Tamsulosin, Finasteride, Rosuvastatin",90064,"150, 300, .4, 5, 10","mg, mg, mg, mg, mg","1, 1, 2, 1, 1","90, 90, 90, 90, 90","54, 84, 15, 21, 42"
+307,Sumatriptan,93023,100,mg,1,90,10
+308,Sumatriptan,93023,100,mg,1,90,10
+309,Amlodipine,74538,10,mg,1,90,0
+310,citalopram,60060,40,mg,1,90,0
+311,Eliquis,75214,5,mg,2,90,131
+312,"atenolol, primidone, atorvastatin0",86301,"50, 50, 10","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+313,Sronyx,11213,1,mg,1,90,0
+314,"Janumet, vesicare, Amlodipine, Glimepiride, hydrochlorothiaz, losartan, Rosuvastatin, Plavix, Pantoprazole",38654,"1, 10, 10, 2, 25, 100, 10, 75, 40","mg, mg, mg, mg, mg, mg, mg, mg, mg","2, 1, 1, 2, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90","88.00, 84, 1.00, 1.00, 1.00, 1.00, 1.00, 1.00, 1.00"
+315,"wellbutrin, celexa, Mevacor",45005,"200, 40, 40","mg, mg, mg","2, 1, 1","90, 90, 90","0, 0, 0"
+316,"amlodipine, metoprolol, atorvastatin",38118,"10, 50, 40","mg, mg, mg","1, 2, 1","90, 90, 90","5, 5, 5"
+317,"Ttrazadone, Sertraline",49908,"50, 50","mg, mg","1, 1","90, 90","275, 295"
+318,"Metoprolol Tartrate, Nitroglycerin, Clopidogrel, Lovastatin, Cilostazol, Isosorbide Mononitrate, Omeprazole, Baclofen, HCTZ, Renexa, Gemfibrozil, Sertraline, Norco",71640,"25, 0.4, 75, 40, 1000, 60, 40, 20, 25, 1000, 600, 50, 10","mg, mg, mg, mg, mg, mg, mg, mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 2, 1, 1, 2, 2, 2, 2, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90","0, 11.69, 0, 0, 0, 0, 0, 0, 0, 195.00, 0, 0, 28.95"
+319,lisinopril,20005,5,mg,1,90,17
+320,"pioglitazone, allopurinol, metformin, lisinopril, amlodipine, simvastatin",92868,"30, 100, 1000, 2.5, 10, 20","mg, mg, mg, mg, mg, mg","1, 1, 2, 1, 1, 1","90, 90, 90, 90, 90, 90","34.70, 30.89, 10.13, 8.19, 8.47, 8.51"
+321,"folic acid, fluoxetine, metoprolol succ er tab, omeprazole, valacyclovir, levothyroxine",3055,"1, 40, 25, 20, 500, 025","mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+322,Atorvastatin,92101,20,mg,1,90,20
+323,"Tamoxifen, Venlafaxine hcl er 24 hr",88081,"20, 150","mg, mg","1, 2","90, 90","20, 20"
+324,"Floxetine, Levothyroxine",8518,"40, .1","mg, mg","1, 1","90, 90","0, 0"
+325,"Metoprolol, Venlafaxine XR50, Atorvastatin, Amlodipine",14810,"50, 150, 80, 10","mg, mg, mg, mg","2, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+326,"atorvastatin, amlodipine, metoprolol, venlafaxine",14810,"80, 10, 50, 150","mg, mg, mg, mg","1, 1, 2, 1","90, 90, 90, 90","0, 0, 0, 0"
+327,Omeprazole,11793,40,mg,1,90,0
+328,Metforman,89049,1000,mg,2,90,6
+329,"Lisinopril, atorvastatin, Tamsulosin",53037,"20, 10, .4","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+330,JUNEL,10025,1,unit,1,90,0
+331,ramipil,14729,10,mg,1,90,1
+332,"digox, carvedilol, levothyroxine, levothyroxine",85132,"125, 25, 200, 25","mcg, mg, mcg, mcg","2, 2, 1, 1","90, 90, 90, 90","10.00, 4.01, 10.00, 9.30"
+333,cymbolta,24124,69,mg,1,90,300
+334,"protonix, lipitor, mirtazapine, clonzepam",29579,"40, 40, 15, 0.25","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","5, 5, 5, 5"
+335,Atorvastatin,7748,20,mg,1,90,3
+336,"Levothyroxine, Armour Thyroid, Farxiga",10026,"0.137, 30, 5","mg, mg, mg","1, 1, 1","90, 90, 90","10.00, 10.00, 50.00"
+337,"Carvedilol, Furosemide, Minoxidil, Ibesartan",77459,"25, 40, 10.5, 150","mg, mg, mg, mg","2, 1, 2, 2","90, 90, 90, 90","0, 0, 0, 0"
+338,"Phenytoin, Simvastatin",32707,"100, 40","mg, mg","3, 1","90, 90","0, 0"
+339,"Clopidogrel, Pantoprazole, Furosemide, Metoprolol, Atorvastatin",60459,"75, 40, 20, 25, 20","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+340,"Otezla, LISINO[RIL, ATENOLOL, VIBERZI",92071,"30, 20, 50, 100","mg, mg, mg, mg","2, 2, 2, 2","90, 90, 90, 90","0, 0, 0, 505.00"
+341,lisinopril,6478,5,mg,1,90,0
+342,"lexapro, lunesta, adivant",7108,"20, 3, 2","mg, mg, mg","1, 1, 1","90, 90, 90","168, 360, 100"
+343,"Gabapentin, levemir, homolog, enalapril, pantoprazole sod, raloxifene, simvastatin",24426,"400, 7, 3, 10, 40, 40, 40","mg, unit, unit, mg, mg, mg, mg","6, 1, 2, 2, 1, 1, 1","90, 90, 90, 90, 90, 90, 90","00, 100, 100, 00, 00, 00, 00"
+344,"Bystolic, Benicar, Niacin ER, Xanax",92120,"5, 20, 1000, 0.25","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","40.00, 10.00, 10.00, 5.00"
+345,"Amlodipine Besylate, Sertraline HC1, Atenolol, esomeprazole magnesium, Lorsartan Potassium hctz",78577,"10, 100, 25, 40, 10025","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","1.94, 3.35, 1.59, 3.35, 3.35"
+346,"Cartia XT, Finasteride, Omeprazole, Allopurinol, Tamsulosin, Levothyroxine",48371,"240, 5, 20, 300, 0.4, 150","mg, mg, mg, mg, mg, mcg","1, 1, 1, 1, 1, 1.143","90, 90, 90, 90, 90, 90","11.77, 9.80, 5.65, 9.23, 7.93, 11.62"
+347,"digox, levothyroxine, levothyroxine, carvedilol, pradaxa",85132,"125, 200, 25, 25, 150","mcg, mcg, mcg, mg, mg","2, 1, 1, 2, 2","90, 90, 90, 90, 90","10.00, 10.00, 9.30, 4.01, 20.00"
+348,"ProAir HFA, Omeprazole, Finasteride, Allopurinol, Levothyroxine, Cartia XT, Tamsulosin",48371,"2, 20, 5, 300, 150, 240, 0.4","inhalation, mg, mg, mg, mcg, mg, mg","4, 1, 1, 1, 1.143, 1, 1","90, 90, 90, 90, 90, 90, 90","23.92, 5.65, 30, 9.23, 11.62, 11.77, 7.93"
+349,"Humalog, San Tan Plus",78363,"38, 1","ml, gram","2, 1","90, 90","84, 29"
+350,"Metfomin, Bupropion, Benicar, Prednisone, Januvia, Folic acid, Simvastatin, Nexium, Warfarin, Rapaflo, Methotrexate",8512,"1000, 300, 40, 5, 100, 1, 40, 40, 5, 8, 12.5","mg, mg, mg, mg, mg, mg, mg, mg, mg, mg, mg","2, 1, 1, 1, 1, 1, 1, 1, 1, 1, .143","90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90","1.00, 1.00, 1.00, 1.00, 1.00, 1.00, 1.00, 1.00, 1.00, 1.00, 1.00"
+351,"BISO FUM/HCT 10-6.25, SIMVASTATIN",49707,"1, 20","mg, mg","1, 1","90, 90","0, 0"
+352,"Levetiracetam, Losartan Potassium, Escitalopram",28461,"1000, 25, 10","mg, mg, mg","2, 1, 1","90, 90, 90","11.00, 11.00, 7.00"
+353,"Escitalophram, Levathoroxin",30092,"20, 175","mg, mcg","1, 1","90, 90","1.00, 1.00"
+354,Alopurnal,80907,100,mg,1,90,0
+355,levothyroxine,8092,1,mg,1,90,0
+356,onfi,8844,20,mg,2,90,250
+357,"adderall XR, adderall ir",60559,"30, 15","mg, mg","1, 1","90, 90","65.00, 30.00"
+358,"lexapro, lunesta, lorazapan",7108,"20, 3, 2","mg, mg, mg","1, 1, 1","90, 90, 90","200, 360, 100"
+359,"Losartan, Zolipidem",31602,"100, 10","mg, mg","1, 1","90, 90","25, 30"
+360,Atorvastatin,97321,20,mg,1,90,0
+361,"Advair, Amlodipine",92688,"50, 10","mg, mg","2, 1","90, 90","30, 0"
+362,"Amlodipine, Benazepril, Bystolic, Gemfibrozil, Metforman, Glipozide, Montelukast, Lamnoprost, Timolol Mal OP Sol, Symbicort, Hydroshlorothazide, Pro Air, Brovana, Budesonide, Incruse, Allegra-D",89429,"10, 40, 10, 600, 500, 5, 10, 0.005, 0.2, 160, 25, 90, 15.0, 0.5, 62.5, 240","mg, mg, mg, mg, mg, mg, mg, CC, CC, inhalation, mg, mcg, inhalation, inhalation, mcg, mg","1, 1, 1, 2, 2, 2, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90","0, 0, 00, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 120.00, 45.00"
+363,sertraline,45342,50,mg,1,90,0
+364,cymbalta,77095,1,mg,1,90,2
+365,lisenpril,92083,20,mg,1,90,0
+366,"clopidogrel, sertraline, metformin, amlodipine, fenofibrate, atorvistatin, metformin, vesicare",68041,"75, 100, 500, 5, 54, 80, 500, 5","mg, mg, mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 141.00"
+367,"MetFORMAN Tab, Tradjenta Tab, Atorvastatin, Losartan Tab",8360,"1000, 5, 40, 25","mg, mg, mg, mg","2, 1, 1, 1","90, 90, 90, 90","5.00, 19.00, 5.00, 2.33"
+369,"Simvastatin, Losartan, Metoprolol, Potassium, Ibandronate, D-3",95372,"40, 100, 25, 10, 150, 50000","mg, mg, mg, mg, mg, I.U.","1, 1, 1, 4, .0333, .143","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 38.12, 9.63"
+370,"lisinopril, omeprazole, xarelto",54913,"10, 20, 20","mg, mg, mg","1, 2, 1","90, 90, 90","0, 0, 0"
+371,"Metformin, Estradio TD, Metoprolol Succ, Levothyroxine, Fluoxetine, Ramipril, Atorvastatin",93906,"500, 1, 10, .075, 20, 5, 10","mg, mg, mg, mcg, mg, mg, mg","2, .143, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90","10.00, 10.00, 10.00, 10.00, 10.00, 10.00, 10.00"
+372,fenofibrate,75134,160,mg,1,90,0
+373,atrovastatin,8859,20,mg,1,90,5
+374,"Levothyroxine Tab, Simvastatin tab, Metformin tab, Citalopram tab",36305,".075, 10, 500, 40","mg, mg, ounce, mg","1, 1, 2, 1","90, 90, 90, 90","0, 0, 00, 0"
+375,Losartanhct,7070,50,mg,1,90,15
+376,"Elequis, Allopurinal, Rosuvastatin, Metformin, Sotalol",94803,"5, 150, 20, 1000, 120","mg, mg, mg, mg, mg","2, 1, 1, 2, 2","90, 90, 90, 90, 90","131., 12.36, 9.75, 6.06, 16.20"
+377,"Allopurinal, Rosuvastatin, Eliquis, Metformin, Sotalol",94803,"150, 20, 5, 1000, 120","mg, mg, mg, mg, mg","1, 1, 2, 2, 2","90, 90, 90, 90, 90","6., 9., 131., 12.75, 16.50"
+378,lisinipril,93420,40,mg,1,90,1.2
+379,"Estradiol, Medroxypr, Atorvastatin, Losartan, Lovothyroxine",95966,"0.5, 5, 20, 50, 0.1","mg, mg, mg, mg, mg","1, 1, 1, 2, 1","90, 90, 90, 180, 90","24.18, 26.60, 25.43, 12.74, 16.32"
+380,Trulicity Pen,85205,1,mg,0.143,90,0
+381,"lipitor, lisinafil",35244,"100, 0.4","mg, mg","1, 1","90, 90","5.00, 7.50"
+382,simvastatin,94591,10,mg,1,90,15
+383,"BUPROPION HCL, VENLAFAXINE",14867,"150, 150","mg, mg","1, 2","90, 90","5.00, 5.00"
+384,"Synthroid, Metformin, Losartan, AmLODIPine, Tradjenta",94558,"1, 2, 1, 1, 1","mg, mg, mg, mg, mg","1, 2, 1, 1, 1","90, 90, 90, 90, 90","3, 1, 1, 1, 1"
+385,"Amiodaroneadrone, acyclovir, furosemide, levothyroxine",54935,"100, 400, 20, 0.088","mg, mg, mg, mg","1, 2, 2, 1","90, 90, 90, 90","0, 0, 0, 0"
+386,"Losartan Potassium, furosemide, levothyroxine, potassium cl er",78412,"50, 40, 50, 20","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+387,"Amlodipine, Benazepril, Bystolic, Gemfibrozil, Metforman, Glipozide, Montelukast, lamnoprost, Timolol Mal OP Sol, Brimonidine Sol, Brovana, Budesonide, Symbicort, Incurse, Pro Air, Hydrochlorothiazide, Allera-D",89429,"10, 40, 10, 600, 500, 5, 10, 0.005, 0.5, 0.2, 15.0, 0.5, 160, 2.5, 90, 25, 200","mg, mg, mg, mg, mg, mg, mg, CC, CC, CC, ml, ml, inhalation, mcg, mcg, mg, mg","1, 1, 1, 2, 2, 2, 1, 1, 2, 2, 1, 1, 2, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90","7.94, 8.05, 135.00, 8.00, 4.18, 8.280, 7.50, 24.70, 15.22, 18.61, 0, 0, 338.22, 119.43, 0, 2.40, 45.00"
+388,alopurnal,80907,100,mg,1,90,0
+389,"Rosuvastatin, Losartan, Clopidogrel",33317,"20, 50, 75","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+390,"METOPROLOL TARTRATE, TIKOSYN, LISINOPRIL, ATORVASTATIN, ELIQUIS",10704,"25, 25, 5, 80, 5","mg, mg, mg, mg, mg","2, 2, 1, 1, 2","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+391,"METOPROLOL TARTRATE, ELIQUIS, ATORVASTATIN, LISINOPRIL",10704,"25, 5, 80, 5","mg, mg, mg, mg","2, 2, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+392,"lEVOTHYROXINE, Lisinopril/HCTZ",29455,"075, 20","mg, mg","1, 1","90, 90","0, 0"
+393,Atrovatasin,92107,20,mg,1,90,0
+394,"atorvastatin, baclofen, losartan, metformin, nortriptyline",53221,"80, 10, 50, 500, 25","mg, mg, mg, mg, mg","1, 3, 1, 4, 2","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+395,"Citalopram, Simvastatin",75601,"40, 10","mg, mg","1, 1","90, 90","146, 0.00"
+396,"Eszopiclone, Lisinopril",80602,"3, 40","mg, mg","1, 1","90, 90","26.99, 7.77"
+397,metoprolol tart,66109,25,mg,2,90,0
+398,potassium,43054,20,gram,1,90,0
+399,potassium,43054,20,gram,1,90,0
+400,Divalproex,53011,500,mg,2,90,100
+401,"lisinopril, atorvastatin",91107,"10, 40","mg, mg","1, 1","90, 90",".88, 3.00"
+402,"Atenalol, Citalopram, simvastatin, ativan",72560,"25, 40, 10, 2","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","00.00, 00.00, 00.00, 4.00"
+403,Prevastatin,46582,20,mg,1,90,0
+404,lisinopril,53114,40,mg,1,90,0
+405,"Atorvastatin, Lisinopril-hctz",32162,"20, 20","mg, mg","1, 1","90, 90","0, 0"
+406,"Toujeo, Metformin, Metoprolol, Atorvastatin, Furosemide",78940,"40, 500, 100, 40, 20","I.U., mg, mg, mg, mg","1, 2, 2, 1, 1","90, 90, 90, 90, 90","113.97, 0.00, 0.00, 0.00, 0.00"
+407,Metformin,7960,1,mg,2,90,5
+408,"Allopurinol, zetia, Whelchol, Amytryptelene",7728,"400, 10, 1875, 25","mg, mg, mg, mg","1, 1, 2, 1","90, 90, 90, 90","1, 1, 1, 1"
+409,Atorvastatin,34232,20,mg,1,90,10
+410,Metformin,7960,1,mg,2,90,5
+411,"Losartan, Amlodapine, Doxazosin, Rosuvastatin",85739,"50, 5, 4, 10","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+412,"Lisinopril, Metformin, Januvia",10452,"40, 2000, 5","mg, mg, mg","1, 2, 1","60, 90, 90","10, 12, 70"
+413,Buspirone Hcl,15748,15,mg,2,90,0
+414,MetFormin,1821,500,mg,2,90,0
+415,METFORMIN,1821,500,mg,2,90,0
+416,METFORMIN,1821,500,mg,2,90,0
+417,METFORMIN,1821,500,mg,2,90,0
+418,"Hydrochlorothiaz, Metoprolol, Levothyroxine",54915,"1, 1, 1","mg, mg, mg","1, 1, 1","90, 90, 90","7.99, 60.50, 45.33"
+419,"tamsulosin, venlafaxine, amlod/benazprl, prednisone, oxcarbazepine",33884,".4, 150, 10, 5, 150","mg, mg, mg, mg, mg","1, 1, 1, 1, 2","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+420,"Zoloft, Azelastine, Synthroid, Omeprazole",49071,"100, .1, 50, 40","mg, inhalation, mcg, mg","1, 2, 1, 1","90, 90, 90, 90","4.19, 10.00, 7.88, 10"
+421,Ipratropium,24477,42,mcg,2,90,2
+422,Ipratropium,24477,42,mcg,2,90,2
+423,"Welchol, Losartan, Fenofibrate",60189,"625, 50, 54","mg, mg, mg","1, 1, 1","90, 90, 90","99.00, 0, 0"
+424,loestrin fe,8901,1,mg,1,90,157.24
+425,Welchol,60189,625,mg,1,90,99
+426,"Welchol, Losartan, Fenofibrate",60189,"625, 50, 54","mg, mg, mg","1, 1, 1","90, 90, 90","99.00, 0, 0"
+427,Sprintec,30014,0.25,mg,1,90,4
+428,"Amlodipine, Omeprazole",4346,"1, 40","gram, gram","1, 1","90, 90","0, 0"
+429,"Propafenone hcl, LOSARTAN, METOPROLOL, SYNTHROID, Simvastatin, Iprapropium Bromide, Hydrochlorothiaz, Potassium cl sr mc tb",44062,"150, 25, 25, 125, 20, 2, 25, 20","mg, mg, mg, mg, mcg, inhalation, mg, unit","3, 1, 2, 1, 1, 3, 1, 1","90, 90, 90, 90, 90, 90, 90, 90","0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00"
+430,latanoprost,48642,1,unit,1,90,3
+431,amlopine,33616,10,mg,1,90,4
+432,"Losartin, Trimethoprim sulfate and polymixin B sulfate opthalmic solution, Prednisolone acetate opthalmic suspension",32159,"50, 1, 1","mg, ml, ml","1, 1, 1","90, 90, 90","9.00, 10.00, 30.00"
+433,"00, 00, 0000",43207,"0000, 00, 00","gram, gram, gram","1, 1, 1","90, 90, 90","00, 00, 0"
+434,"Anaastrole Tab, Lisinopril, Potassium CL CR WM TB, PROAIR HFA",92241,"1, 1, 2, 2","mg, mg, mg, inhalation","1, 1, 1, 1","90, 90, 90, 90","30.00, 30.00, 30.00, 30.00"
+435,"Losartin, Prednisone eye drops, Polymixin eye dropsn",32159,"50, 1, 1","mg, ml, ml","1, 1, .143","90, 90, 90","3.00, 30.00, 3.00"
+436,"montelukast, fluticasone",60610,"10, 50","mg, mcg","1, 1","90, 90","0, 0"
+438,"Azilect, Nuplazid, Memantine, Rytary, Mirtazapind, Nitrfurantoin, Car idols-Levodopa, Eszopiclone, Myrbetrique, Lorazepam",6437,"1, 17, 10, 47.5, 45, 100, 100, 3, 25, 1","mg, mg, mg, mg, mg, mg, mg, mg, mg, mg","1, 1, 2, 4, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90, 90","4.05, 75, 4.05, 2500, 4.05, 4.05, 4.05, 4.06, 400, 3.35"
+439,"Atorvastatin, Prasugrel, Omeprazole, Metformin, Tamsulosin, Metoprolol, Irbesartan",29680,"80, 10, 20, 500, 0.4, 50, 150","mg, mg, mg, mg, mg, mg, mg","1, 1, 1, 2, 1, 2, 1","90, 90, 90, 90, 90, 90, 90","00.00, 1.80, 0.00, 0.00, 0.00, 0.00, 0.00"
+440,"prednisone, spiriva, lisinopril, carvedilol, levothyroxine, amlodipine, atorvastatin",98532,"10, 18, 40, 6.25, .025, 10, 20","mg, mcg, mg, mg, mg, mg, mg","1, 1, 2, 2, 1, 1, 1","90, 90, 90, 90, 90, 90, 90","00, 00, 00, 00, 00, 00, 00"
+441,AD,11743,5,mg,1,90,1
+442,Advair discus 250/50,46845,2,inhalation,2,90,125
+443,"brilinta, lisinopril, metroprolo, simvastatin, spiriva",8610,"90, 5, 25, 20, 18","mg, mg, mg, mg, mcg","2, 1, 2, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+444,"Wellbutrin, Wellbutrin",78382,"300, 150","mg, mg","1, 1","90, 90","150.00, 150.00"
+445,ZOLPIDERM,80439,10,mg,1,90,0
+446,Citalopram,46254,40,mg,1,90,28.99
+447,Invokana,32927,100,mg,1,90,125
+448,Blisovi Fe 1/20,30268,1,mg,1,90,0
+449,"Lisinopril, Warfarin, Glyburide, Potassium CL SR MC TB 1/2, Bumetanide, Duloxetine",37742,"20, 5, 1.25, 20, .5, 30","mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+450,"levothyroixine, lisinopril, escitalopram, Montelukast, fenofibrate, cyclobenzaprine, atorvastatin, omeprazole, Tramadol, ibuprophin, furosemide, KCL, flovent Inhaler, fluticasone prop nasal, albuterol MDI",31539,"0.88, 10, 20, 10, 145, 10, 20, 20, 50, 800, 30, 20, 44, 50, 90","mcg, mg, mg, mg, mg, mg, mg, mg, mg, mg, mg, mg, mcg, mcg, mcg","1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 3.35, 3.35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3.35"
+451,Eliquis tab,43123,1,mg,2,90,0
+452,Levoxyl,1887,25,mg,1,90,30
+453,"Omeprazole, Atenolol, Triamt/HCTZ, LOSARTAN, PREMARIN, LEVOYHYROXIN",33594,"40, 50, 75, 100, 0.625, 0.05","mg, mg, mg, mg, mg, mg","1, 2, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 120.00, 0"
+454,"cholestyramine, irbesartan, simvastatin, prilosec",93561,"9, 150, 20, 40","gram, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","20, 20, 20, 20"
+455,Valsarten/acts 160-12.5,47348,1,mg,1,90,0
+456,metformin,30024,500,mg,2,90,5
+457,metformin,30024,500,mg,2,90,5
+458,"pravastatin sod, montelukast, natrglinide, valsartan/hctz, fluticasone prop.",30076,"80, 10, 120, 12.5, 50","mg, mg, mg, mg, mcg","1, 1, 3, 1, 1","90, 90, 90, 90, 90","0, 0, 96, 0, 0"
+459,"Simvastatin, Finasteride, Tamsulosin",76021,"20, 5, 3","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+460,"Pravastatin, Lysinpril-hctz",12833,"40, 20","mg, mg","1, 1","90, 90","0.00, 0.00"
+462,"Carvedilol, Lovastatin, Losartan, Levothyroxine, Triamt/HCTZ 75, Gabapentin, Pantoprazole",92505,"6.25, 40, 50, 0.1, 50, 300, 30","mg, mg, mg, mcg, mg, mg, mg","2, 1, 1, 1, .429, 9, 1","90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0"
+464,"Hydralazine, Amiodarone, Bisoprol, Spironlactone, Furosemide, Pantoprazole, Fenofibrate, Glybride, Proair HFA",45845,"50, 200, 5, 12.5, 40, 40, 48, 5, 90","mg, mg, mg, mg, mg, mg, mg, mg, mcg","3, 1, 2, 2, 2, 1, 1, 4, 1","90, 90, 90, 90, 90, 90, 90, 90, 90","1, 1, 1, 1, 1, 1, 1, 1, 1"
+465,"Duloxetine  Cap, levothyroxine tab, carvedilol tab, chlorthalidone tab, valsartan tab, mlodipine tab, gabapentin cap, nitro stat sub, atorvastin",91932,"120, 0.088, 3.125, 50, 320, 10, 600, 0.4, 40","mg, mg, mg, mg, mg, mg, mg, mg, mg","2, 1, 2, 1, 1, 1, 2, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 1, 0, 0, 1, 0"
+466,Lisinopril-HCTZ Tab 20-12.5,42405,20,mg,1,90,0
+468,Armour Thyroid,32137,780,gram,1,90,0
+470,"ezetimbe, zolpidem",19701,"10, 10","mg, mg","1, 1","90, 90","5.00, 5.00"
+471,Armour Thyroid,32137,780,gram,2,90,0
+472,Nexium,8046,4,mg,1,90,30
+473,Folic Acid,57104,1,mg,1,90,30
+474,"Carvedilol, Losartin, Nifedipine XL, Citalopram, Diclofenac Sod DR, Clopidrogel, Simvastatin, Furosemide, Bupropion XL XL",37716,"25, 100.25, 30, 40, 50, 75, 20, 20, 150","mg, mg, mg, mg, mg, mg, mg, mg, mg","2, 1, 1, 2, 2, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0, 0"
+475,Prometazine-DM,8046,5,ml,4,90,10
+476,"Losartan, Sertraline, Celeboxix, Levothyroxine, Eszopiclone, Tramadol, Atorvastan",81402,"50, 50, 200, .05, 3, 50, 20","mg, mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0"
+477,Metoprolol,84312,50,mg,2,90,4
+478,Prednisone,37090,5,mg,1,90,0
+479,Vitamin D2,76706,50000,I.U.,0.143,90,5
+480,"lisinopril, amlodipine, methotrexate",84770,"40, 5, 15","mg, mg, mg","1, 1, .143","90, 90, 90","0, 0, 0"
+481,"lisinopril, amlodipine, methotrexate",84770,"40, 5, 15","mg, mg, mg","1, 1, .143","90, 90, 90","0, 0, 0"
+482,"Detrol LA, Trazadonee",28805,"4, 50","mg, mg","1, 1","90, 90","0, 0"
+483,metformin,34982,50,mg,1,90,10
+484,"metformin, bupropion sr, citalopram",98548,"500, 200, 10","mg, mg, mg","2, 2, 1","90, 90, 90","2.78, 15, 3.95"
+485,Hydroxychloroquine,97471,200,mg,2,90,10
+486,"LEVODOPA/CARBIDOPA, RESAGELINE, LEVOTHRYROXINE, MODAFINIL, ANASTRAZOLE, METRONIDAZOLE, DICLOFENAC SODIUM, KETOCONAZOLE SHAMPOO, HYDROCORTISONE LOTION, OXYTROL PATCH",7945,"100, 1, 0.1, 200, 1, 0.75, 1, 2, 2.5, 3.9","mg, mg, mg, mg, mg, ounce, ounce, ounce, ounce, mg","6, 1, 1, 2, 1, 1, 1, .286, .286, 1","90, 90, 90, 90, 90, 90, 90, 90, 90, 90","1, 1, 1, 1, 1, 1, 1, 1, 1, 1"
+487,"Zocor, Dicyclomine",48165,"10, 10","mg, mg","1, 1","90, 90","10.00, 10.00"
+488,Metformin ER,92583,750,mg,1,90,10
+489,"simvastatin, lisinopril",92021,"40, 20","mg, mg","1, 1","90, 90","0, 0"
+490,"Armour, Armour, Femora, Triamterene HCTZ/, Montelukast",32180,"60, 90, 2.5, 37.525, 10","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+491,Ventolin,10987,0,inhalation,6,51,0
+492,"enalapril, cyclobenzaprine, rosuvaststin, levothyroxine",3077,"10, 10, 5, .025","mg, mg, mg, mg","2, 2, 1, 1","90, 90, 90, 90","2.30, .55, 7, 24.42"
+493,"enalapril, cyclobenzaprine, levothyroxine, rosuvastatin",3077,"10, 10, 0.025, 5","mg, mg, mg, mg","2, 2, 1, 1","90, 90, 90, 90","7, .55, 2.30, 024.42"
+494,Levothyroxine,11365,0.075,mg,1,90,25
+495,Levothyroxine,11365,0.075,mg,1,90,25
+496,Levothyroxine,11365,0.75,mg,1,90,25
+497,"digoxin, primadone, atorvvastatin",2066,"0.125, 50, 20","mg, mg, mg","1, 1, 1","90, 90, 90","10.00, 10.00, 5.00"
+498,Gabapentin,34476,300,mg,1,90,0
+499,"d, primadone, atorvastatin",2066,"0125, 50, 20","mg, mg, mg","1, 1, 1","90, 90, 90","10, 5., 5.0"
+500,Gabapentin,34476,300,mg,1,90,0
+501,nuvigil,8854,200,mg,1,90,15
+502,"Lisinopril, simvastain, levothyroxine, leflunomide",75839,"5, 40, .075, 20","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0.00, 0.00, 0.00, 36.00"
+503,lipitor,7410,10,mg,1,90,5
+504,"Donepezil, Benazepril, Amlodipine, Levothyroxine, Simvastatin",37650,"10, 20, 10, .05, 20","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+505,"Atorvastin, Doxasosin",3079,".5, 1","mg, mg","1, 1","90, 90","8, 8"
+506,"Metformin, Glimepiride, Lisinopril",34983,"1500, 1, 2.5","mg, mg, mg","1, 1, 1","90, 90, 90","3.00, 1.50, 1.50"
+507,"AMIODARONE, LOSARTAN, ATORVASTATIN",60563,"200, 25, 40","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+508,"Simvastatin, Metoprolol, Losartan, Glimepride, Warfarin, Multaq",15236,"40, 25, 100, 2, 5, 200","mg, mg, mg, mg, mg, mg","1, 2, 1, 1, 1, 2","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 125.00"
+509,desvenlafaxine,50310,100,mg,1,90,1
+510,"Omeprazole Cap, Escialopram, Pravastatin",85338,"20, 20, 20","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+511,"Omeprazole Cap, Escitalopram, Pravastatin Tab",85338,"20, 20, 20","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+512,"Clopidogrel, Amlodipine, Lisinopril, Carvedilol, Atorvastatin",92672,"75, 5, 20, 3.125, 40","mg, mg, mg, mg, mg","1, 1, 2, 2, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+513,methotrexate,98059,1,ml,0.143,90,15
+514,"levothroxin, simvastatin, lisinopril, propranol",76049,"75, 20, 20, 40","mcg, mg, mg, mg","1, 1, 1, 2","90, 90, 90, 90","0, 0, 0, 0"
+515,"Simvastatin, Meloxicam",34135,"5, 15","mg, mg","1, 1","90, 90","12, 12"
+516,"tamsulosin, venlafaxine, amiod/benazprl",33884,".4, 150, 10","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+517,Gabapentin,87120,100,mg,2,90,0
+518,"avrostatin, topiramate, nadalol, levothyroxine, nortriptyline, sumatriptan spray",48095,"80, 50, 40, 0.05, 50, 20","mg, mg, mg, mg, mg, mg","1, 2, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","9.23, 2.31, 25.00, 23.44, 4.26, 72.76"
+519,estradiol,8226,0.5,gram,0.286,90,0
+520,"metoprol, amlodipine, hydrochlorot",92673,"25, 10, 12.5","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+521,"Carbamazepine, Duloxetine, ipratropium",95247,"2, 1, 1","mg, mg, inhalation","2, 1, 3","90, 90, 90","135.00, 35.00, 15.00"
+522,Prednisone,37090,5,mg,1,90,0
+523,"Eliquis, Atorvastatin, Cardizem CD",56474,"5, 20, 120","mg, mg, mg","2, 1, 1","90, 90, 90","400, 27, 11"
+524,Metformin,33326,500,mg,2,90,0
+525,"lisinopril, hydrochlorothizide",92126,"1, 1","unit, unit","1, 1","90, 90","0, 0"
+526,"citalopram, buspirone",63136,"20, 15","mg, mg","1, 2","90, 90","7.12, 12.39"
+527,"Sertaline HCL, Metoprolol Tart, Lisinopril, Furosemide, Gemfibrozil, Lovastatin, Omeoprazole, Finasteride, Potassium CL SR MC, Warfarin",17044,"50, 25, 2.5, 80, 600, 20, 20, 5, 1500, 5","mg, mg, mg, mg, mg, mg, mg, mg, mg, mg","2, 1, 2, 1, 2, 1, 2, 1, 1, 3","90, 90, 90, 90, 90, 90, 90, 90, 90, 90","0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00"
+528,Cyclobenzaprine,30512,10,mg,1,90,0
+529,verapamil,63124,120,mg,1,90,10
+530,Levothyroxine,47304,0.125,mg,1,90,10
+531,Sertraline,19446,75,mg,1,90,58.7
+532,"Ezetimibe, Rosuvastatin Calcium",61725,"10, 20","mg, mg","1, 1","90, 90","20, 20"
+533,Pioglitazone,17050,15,mg,1,90,105.78
+534,Sertraline,28752,100,mg,1,90,0
+535,"Omeprazole Caps, Losartan/HCTZ tab",84045,"40, 12.5","mg, mg","1, 1","90, 90","0, 0"
+536,"Terazosin, Atenolol, Nifedipine, Hydrochlorothiazide, Lisinopril",76118,"10, 50, 30, 50, 40","mg, mg, mg, mg, mg","1, 2, 1, 1, 1","90, 90, 90, 90, 90","14, 0, 14, 0, 0"
+537,"simvastatin, doxazosin, finesteride, irbesartin, spiriva, kombiglyze",85743,"20, 4, 5, 150, 0, 251000","mg, mg, mg, mg, inhalation, mg","1, 1, 1, 1, 1, 2","90, 90, 90, 90, 90, 90","0, 0, 0, 12, 90, 90"
+538,"simvastatin, hydrochloithiazide, omprazole, lisinopril",85743,"20, 25, 40, 20","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+539,Warfin,8873,2,mg,1,90,0
+540,PANTOPRAZOLE SODIUM,60050,40,mg,0.5,90,0
+541,"Allopurinol, Pravatatin Sodium, Metoprol TAR, Furosemide, Klor-Con",46514,"200, 80, 50, 40, 20","mg, mg, mg, mg, mg","1, 1, 2, 2, 2","90, 90, 90, 90, 90","10.00, 10, 10, 10, 10"
+542,Simastatin,11741,20,mg,1,90,10
+543,"metformin, baclofen, valacyclovir, cymbalta, ibersartan, vesicare, toujeo",27801,"750, 10, 500, 30, 150, 5, 35","mg, mg, mg, mg, mg, mg, unit","2, 2, 1, 2, 1, 2, 1","90, 90, 90, 90, 90, 90, 90","15.00, 9.00, 16.00, 16.00, 16.00, 113.00, 137.00"
+544,"glipizide, tradjenta, clopidogrel, losartan, atorvastatin, amlodipine",60501,"10, 5, 75, 100, 40, 10","mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+545,"Pantoprazole, Hydrochlorothiazide, Fluticasone",77406,"40, 26, 50","mg, mg, mcg","1, 1, 2","90, 90, 90","10.00, 10.00, 10.00"
+546,"lisinopril, levothyroxine",97760,"20, 150","mg, mcg","1, 1","90, 90","5, 5"
+547,"Methimazole, DiltiazemCDcap, Hydrochlorothizide, Warfarin, Warfarin, Combigan",64055,"10, 240, 25, 6, 7, 1","mg, mg, mg, mg, mg, ml","1, 1, 1, 1, .143, 2","90, 90, 90, 90, 90, 90","0, 90, 0, 0, 0, 90"
+548,"metoprolol succ er tab, atorvastatin, fluticasone",92545,"50, 40, 50","mg, mg, mcg","1, 1, 1","90, 90, 90","0, 0, 0"
+549,"Lisinopril, Verapimil, Lovistatin, Tamsulosin",98250,"20, 240, 20, 4","mg, mg, mg, mg","1, 2, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+550,"Concerta, Methylphenidate",10530,"18, 10","mg, mg","1, 1","90, 90","70, 30"
+551,"concerta, Methylphenidate",10530,"18, 10","mg, mg","1, 1","90, 90","70, 30"
+552,Valtrex,8527,500,ml,1,90,15
+554,"Invokanna, Humalog, Toujeo, Rosuvastatin",28723,"10, 40, 80, 5","mg, ml, ml, mg","1, 6, 1, 1","90, 90, 90, 90","20, 20, 20, 20"
+555,"alprazolam, Cypionate, Sildenafil, tadalafil",35967,"1, 1, 100, 20","mg, CC, mg, mg","1, .286, 1, 1","90, 90, 90, 90","3.00, 28.00, 14.00, 32.00"
+556,"LamoTRigine, RisperDONE",3264,"200, 2","mg, mg","2, 1","90, 90","1, 0"
+557,"captopril, synthroid",85614,"50, 50","mg, mg","1, 1","180, 90","0, 0"
+558,"Losartan/hctz tab, simvastatin, omeprazole, finasteride, tamsulosin",12534,"1, 1, 1, 1, 1","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+559,"montelukast, tamoxifen citrate, levothyroxine, ipratropium Bromide nasal solution, fluticasone proprionate, rizatriptan",19971,"10, 20, .05, 15, 16, 10","mg, mg, mg, ml, gram, mg","1, 1, 1, 2, 2, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+560,"Levothyroxine, Armour Thyroid, Farxiga",10026,"0.137, 30, 5","mcg, mg, mg","1, 1, 1","90, 90, 90","10.00, 10.00, 50.00"
+561,"metoprolol tart tab, pravastatin",33844,"50, 40","mg, mg","1, 1","90, 90","0, 0"
+562,Ibuprohene,89122,600,ml,1,90,0
+563,Fluexetine,55443,40,mg,1,90,5.25
+564,"Allopurinol, Simvastatin, Lopressor, Lisinopril HCTZ, Bupropion, Metformin",46176,"300, 40, 50, 20, 150, 500","mg, mg, mg, mg, mg, mg","1, 1, 2, 2, 2, 2","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+565,"simvastatin, metoprolol, allopurinol",98001,"10, 50, 100","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+567,Furisemide,36456,40,mg,2,90,0
+568,Furisemide,36456,40,mg,2,90,0
+569,Furisemide,36456,40,mg,2,90,0
+570,amlod/benazprl,62025,10,mg,1,90,25
+571,METFROMIN,63701,20,mg,1,90,0
+572,lorantan,95073,40,mg,1,90,0
+573,"metoprolo, tamsulosen, rosuvasratin, metformin",7418,"50, .4, 40, 1000","mg, mg, mg, mg","3, 1, 1, 2","90, 90, 90, 90","5, 5, 5, 5"
+574,"Lamotrigine, Divalproex ER, Buspirone",60565,"150, 500, 15","mg, mg, mg","1, 3, 2","90, 90, 90","0, 0, 0"
+575,"Benazepril, Simvastatin",*2835,"20, 20","mg, mg","1, 1","90, 90","00.00, 00.00"
+576,Lorazepam,8831,1,mg,1,90,10
+577,Vyvanse,48412,40,mg,1,90,87.5
+578,Bupropion XL,89178,300,mg,1,90,117
+579,omeprazole,98506,20,mg,2,90,20
+580,"Tamsulosin, Meloxicam, Ropinirole",76179,".4, 15, .25","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+581,"Simvistatin, Levothyroxine, Losartan, ambien",94127,"40, 1, 100, 10","mg, mg, I.U., mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+582,"Hydroxyures, Levothyroxine, Metformin, Naproxen",81212,"500, 0.1, 1000, 500","mg, mg, mg, mg",".714, 1, 2, 1","90, 90, 90, 90","0, 0, 0, 0"
+583,Lisinopril,79924,10,mg,1,90,18.39
+584,LOSARTAN/HCTZ,46910,1,unit,1,90,0
+585,"triamt/hCTZ, ATORVASTATIN, CELECOXIB, FENOFIBRATE, TRAZODONE, AMPLODIPINE, BENAZEPRIL, OXYBUTYNIN, LINZESS, ANORO",72115,"37.5, 40, 200, 145, 150, 10, 40, 5, 145, 62.5","mg, mg, mg, mg, mg, mg, mg, mg, mcg, mcg","1, 1, 1, 1, 1, 1, 1, 1, .143, 1","90, 90, 90, 90, 90, 90, 90, 90, 90, 90","0.00, 0.00, 90.00, 0.00, 0.00, 0.00, 0.00, 90.00, 0.00, 0.00"
+586,"Amlodipine, Letrozole, Atorvastatin",98564,"10, 2.5, 20","mg, mg, mg","1, 1, 1","90, 90, 90","0.00, 0.00, 0.00"
+587,Eliquis,75252,2,mg,2,90,0
+588,gabepiten,63044,300,mg,3,90,0
+589,"Simvastatin, Losartin, Hydrochlorthiaz, Gabapentin",15239,"1, 1, 1, 1","unit, unit, unit, unit","1, 1, 1, 3","90, 90, 90, 90","0, 0, 0, 0"
+590,"Imitrex, losartan",80921,"100, 100","mg, mg","1, 1","90, 90","0., 0."
+591,"chlorthalidone, losartan",83704,"25, 50","mg, mg","1, 2","90, 90","0, 0"
+592,"NIFEdipine XL TAB 30mg, omeprazole, rosuvastatin, valacyclovir",30736,"1, 1, 1, 1","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 1"
+593,Omperzale,77389,40,mg,1,90,10
+594,"Olmesartan, Levothyroxine, Atorvastatin, Estradiol Transdermal, xarelto",85268,"20, .05, 20, .05, 20","mg, mg, mg, mg, mg","1, 1, 1, .286, 1","90, 90, 90, 90, 90","2.00, 2.00, 2.00, 32.00, 145.00"
+595,lovasstatin,1960,40,mg,1,90,0
+596,atenolol,43528,50,mg,1,90,0
+597,"SERTILENE, ATORVASTATIN",60551,"100, 20","mg, mg","1, 1","90, 90","0, 20.00"
+598,Valsartan,7728,80,mg,1,90,2.09
+599,"Glimepride Tab, Rouvastatin Tabs, Montelukast, Bystolic Tabs, Irbesartan, Verapamil Hcl Sr Cap, Sertraline Hcl, Welchol Powder, Victoza, Farxiga, Eliquis",8003,"4, 10, 10, 5, 300, 180, 50, 3.75, 18, 5, 5","mg, mg, mg, mg, mg, mg, mg, gram, ml, mg, mg","1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2","90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90","5.00, 8, 5.00, 5.00, 5.00, 9, 2.10, 31.00, 31.00, 53.00, 31.00"
+600,Doxazosin,76028,8,mg,1,90,14
+601,Doxazosin,76028,8,mg,1,90,14
+602,"Propranolol, Hydrochlorothiazide, Mibelas 24 fe",20602,"10, 50, 1","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+603,Indomethacin,30043,50,mg,1,90,1
+604,xulane,15090,150,mg,0.143,90,4.25
+605,Simvistatin,1827,20,mg,1,90,7
+606,"Metformin, Albuterol, Atorvastin, Symbicort, Carvedilol, Gabapentin, Toujeo 300 units/ml, Hyzaar, Spirits Respimat, Pen needles",43701,"1000, 180, 20, 160, 12.6, 400, 35, 100, 2.5, 1","mg, mcg, mg, inhalation, mg, mg, ml, mg, mcg, I.U.","2, 2, 1, 4, 2, 3, 1, 1, 2, 1","90, 90, 90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0, 0, 0"
+607,"Hyzaar, Metformin, Actos, Toujeo, Gabapentin, Carvedilol, Symbicort, Atorvastatin, Proair hfa",43701,"100, 1000, 45, 35, 400, 12.5, 160, 25, 108","mg, mg, mg, unit, mg, mg, inhalation, mg, inhalation","1, 2, 1, 1, 3, 2, 4, 2, 6","90, 90, 90, 90, 90, 90, 90, 90, 90","1, 1, 1, 1, 1, 1, 1, 1, 1"
+608,"Synthroid, Atorvastatin, bisoprolol/HCTZ, Omerprazole, Latanoprost Opth Soln, Fluticasone Propionate, Estrace Cream, Triamcinolone Cream",34293,"50, 20, 2.5, 40, 2.5, 50, 1, 15","mcg, mg, mg, mg, ml, mcg, gram, mg","1, 1, 1, 1, 1, 2, 1, 1","90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0"
+609,"simvastatin, metoprolol such er",75783,"20, 25","mg, mg","1, 1","90, 90","0, 0"
+610,Tramadol HCL,63123,50,mg,4,90,1.27
+611,"Viibryd, Montelukast, Blisovi FE, Fluocinonide",85268,"40, 10, 20, 1","mg, mg, mcg, unit","1, 1, 1, 1","90, 90, 90, 90","10, 11.84, 0, 38.28"
+612,Cardizem,1057,120,mg,1,90,90
+613,"tamsulosin, metoprolol",14513,"4, 50","mg, mg","1, 1","90, 90","0, 0"
+614,"accupril, norvasc",85374,"40, 10","mg, mg","1, 1","90, 90","15.00, 5.00"
+615,"Humalog Mix, Victoza, Amlod/atorva, Losartan, Gabapentin",8244,"40, 1.2, 10.40, 100, 300","unit, ml, mg, mg, mg","1, 1, 1, 1, 3","90, 90, 90, 90, 90","0.00, 0.00, 0.00, 0.00, 0.00"
+616,"losartin, diltiazem, astorvastatin, METFORMIN, JARDIANCE",19438,"10025, 180, 20, 1000, 25","mg, mg, mcg, mg, mg","1, 1, 1, 2, 1","90, 90, 90, 90, 90","1, 5, 1, 1, 1"
+617,Amlod/Valsar,10913,160,mg,1,90,0
+618,"xarelto, diltiazem, atorvastatin, hydrochlorothiazi",60463,"20, 180, 20, 25","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","50, 20, 20, 5"
+619,eliquis,74011,4,mg,2,90,0
+620,"Atorvastatin, Buproprion XL, Bystolic, Furosemide, Irbesartan, Pantoprazole SOD TB, Tramadol HCL",75075,"40, 300, 5, 20, 150, 40, 50","mg, mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1, 6","90, 90, 90, 90, 90, 90, 90","0, 0, 87.00, 0, 0, 0, 0"
+621,"sertraline, liothyronine, levothyroxine, flovent, ProAir hfs",2478,"100, 25, .88, 110, 90","mcg, mcg, mcg, mcg, mcg","1, 1, 1, 2, 1","90, 90, 90, 90, 90","10, 10, 10, 10, 10"
+622,Cialis,78254,20,mg,1,8,25
+623,"lovastatin, atenolol, amlodipine",33467,"20, 50, 10","mg, mg, mg","1, 1, 1","90, 90, 90","6, 6, 6"
+624,Proair,17774,90,mcg,6,90,50
+625,pantroprazole,3103,40,mg,1,90,10
+626,montilukast,32820,10,mg,1,90,1
+627,"flomax, lisinopril, omeprazole",63703,"0.4, 20, 20","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+628,amlodipine,98092,10,mg,1,90,6
+629,Beyaz,46220,0.02,mg,1,90,100
+630,Valsartan,8753,320,mg,2,90,23
+631,metropolol,o6716,2,mg,2,90,15
+632,Labetalol,46748,50,mg,2,90,0
+633,sertraline,2478,100,mcg,1,90,10
+634,Bupropion hcl xl,91320,300,mg,1,90,10
+635,Lasix,34446,40,mg,1,90,0
+636,Bupropion xl,92394,150,gram,1,90,30
+637,unknown,8865,0.5,ml,1,90,3
+638,"metformin hydrochloride, chestor, tamsulosin hlc, losartan, amlodipine besylate, omeprazole, bystolic, allopurinol, finasteride smg, furosemide, myrbetriq, cialis",23228,"500, 20, 0.4, 100, 10, 20, 20, 100, 5, 20, 25, 5","mg, mg, mg, mg, mg, mg, mg, mg, mg, mg, mg, mg","2, 1, 2, 1, 1, 2, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90","10.00, 10.00, 10.00, 10.00, 10.00, 10.00, 10.00, 10.00, 10.00, 10.00, 10.00, 10.00"
+639,"Eliquis, Metformin, Gabapentin, Amiodarone, Allopurinol, Carvedilol, Amilodipine",77070,"5, 350, 1800, 100, 100, 3.125, 5","mg, mg, mg, mg, mg, mg, mg","2, 1, 1, 1, 1, 2, 1","90, 90, 90, 90, 90, 90, 90","485.00, 0, 0, 0, 0, 0, 0"
+640,"Temazepam, Gabapentin, Valsartan, Losartan, Ketoconazole, AmLODIPine",95403,"15, 600, 160, 50, 2, 5","mg, mg, mg, mg, unit, mg","1, 3, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+641,Roxycodone,7083,3,mg,3,90,3
+642,"Omeprazole, Sertraline, Acyclovir",7753,"40, 100, 4","mg, mg, mg","1, 1, 3","90, 90, 90","0, 0, 0"
+643,"Tamulosin, Simvastin",92143,".4, .4","mg, mg","1, 1","90, 90","0, 0"
+644,"levothyroxine, liothyronine, amlodipine, atorvastatin, gabapentin, meloxicam",98203,"50, 5, 5, 20, 300, 7.5","mcg, mcg, mg, mg, mg, mg","1, 1, 1, 1, 2, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+645,Levothyroxine,60067,50,mcg,1,90,7.74
+646,"Losarten, advair, fluticasone, levothyroxine, baclofen, omeprazole, labetalol, amolopidine",28805,"100, 500, 50, 0.175, 10, 20, 200, 5","mg, mcg, mcg, mg, mg, mg, mg, mg","1, 2, 2, 1, 2, 1, 2, 1","90, 90, 90, 90, 90, 90, 90, 90","3.75, 8.75, 3.75, 3.75, 3.75, 3.75, 3.75, 3.75"
+647,"Losartan, Glipizide, Metformin, Nifedipine",32526,"100, 4, 1000, 90","mg, mg, mg, mg","1, 1, 2, 1","90, 90, 90, 90","6.00, 5.78, 6.00, 28.00"
+648,"Glipizide, Losartan, Metformin, Nifedipine",32526,"5, 100, 1000, 90","mg, mg, mg, mg","1, 1, 2, 1","90, 90, 90, 90","5.78, 6.00, 6.00, 28.00"
+649,"HydroCHLOROthiaz, Otezla, Duloxetine, Methoterate, Cyclobenzaprine, Montelukast, Simvastatin",4861,"25, 30, 20, 2.5, 10, 10, 20","mg, mg, mg, mg, mg, mg, mg","1, 2, 1, 1.143, 1, 1, 1","90, 90, 90, 90, 90, 90, 90","0, 0, 131.00, 0, 0, 0, 0"
+651,"Atorvastatin, Clopidogrel Bisulfate, Amlodopine/Olmesartan",53156,"20, 75, 40","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+652,"WARFARIN, LOSARTAN, TRIAMTERENEHCTZ, ATENOLOL, METFORMIN HCL",11208,"7.5, 100, 375, 50, 500","mg, mg, mg, mg, mg","1, 1, 1, 2, 2","90, 90, 90, 90, 90","6.00, 6.00, 12.00, 12.00, 12.00"
+653,"Alphagan, Latanoprost, Dorzolamide, Simvastatin, Citalopram, Venlafaxine",48915,"2, 1, 2, 1, 1, 1","ml, ml, ml, mg, mg, mg","2, 1, 2, 1, 1, 1","90, 90, 90, 90, 90, 90","10.00, 1.00, 1.00, 1.00, 1.00, 1.00"
+654,Nexium,78244,40,mg,2,90,45
+656,"amlodipine, ATENOLOL, levothyroxine, lisinopril, omeprazole, simvastatin",83605,"10, 50, 0.075, 20, 40, 20","mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","0.00, 0.00, 0.00, 0.00, 0.00, 0.00"
+657,Losartan,32765,50,mg,1,90,0
+658,omeprazole,34287,20,mg,1,90,0
+659,escitalopram,53189,10,mg,1,90,0
+660,"depacote, lithium, lipitor, latanaprost",7666,"1500, 600, 5, 1","mg, mg, mg, CC","1, 1, 1, 1","90, 90, 90, 90","33, 5, 8, 5"
+661,"metropol succ er tb, simvastatin tab, benazepril/hctz tab, verapamil sr cap",47273,"100, 40, 20, 240","mg, mg, mg, mg","2, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 96.00"
+662,"tujeo solo 300, glipizide, Belsomra, fluticasone propionate 50, carvedilol, lisinopril, omeprazole, allopurinol, pravastatin sodium, levothyroxine sodium, chlorthalidone, clonidine HCI",6260,"42, 05, 015, 02, 25, 40, 40, 100, 020, 100, 25, .2","ml, mg, mg, mcg, mg, mg, mg, mg, mg, mcg, mg, mg","1, 2, 1, 1, 2, 1, 1, 1, 1, 1, 1, 2","90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"
+663,PAROXETINE,54847,1,mg,1,90,0
+664,"Carvedilol, Omeprazole, Hydralazine, Levothyroxine, Metformin, Atorvastatin",63020,"25, 40, 50, 0.05, 500, 80","mg, mg, mg, mg, mg, mg","2, .143, 2, 1, 1, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+665,"Breo, Incruse, Furosemide, Amlopidine, Clopidogrel, Glipizide, Carvedilol, Rosuvastatin",33897,"62.5, 100, 20, 5, 75, 5, 12.5, 40","mcg, mcg, mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 2, 1, 1","90, 90, 90, 90, 90, 90, 90, 90","00, 00, 00, 00, 00, 00, 00, 00"
+666,"Metformin er, simvastatin, Escitalopram, Zolpidem, Lorazaepam",10805,"500, 40, 20, 10, 1","mg, mg, mg, mg, mg","1, 1, 1, 1, 3","90, 90, 90, 90, 90","10.00, 1.00, 10.00, 1.00, 10.00"
+667,"Ranitidine, Atorvastatin, Lisinopril, Prednisone",80120,"150, 40, 5, 2","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","4, 4, 4, 4"
+668,A bunch,29655,5,gram,1,90,5
+669,"clopidogrel, premarin, amlodipine, meloxicam, atorvastatin",44406,"75, 0.3, 5, 15, 40","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 189, 0, 0, 0"
+670,"topril xl, lipitor, coxaar",8759,"25, 10, 25","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+671,Amlodipine,24228,5,mg,1,90,0
+672,Methimazole,32174,5,mg,2,90,5
+673,Metroporol,7663,25,mg,1,90,10
+674,"Fosinopril, Simvastatin",8859,"40, 40","mg, mg","1, 1","90, 90","0, 0"
+675,"atenolol, atorvastatin, Montelukast, Symbicort",44484,"25, 20, 10, 160","mg, mg, mg, inhalation","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 50"
+676,"aricept, dorzolamide hcl/timolol maleate, latanoprosr, metoprolol, prilosec, gabapentin, coumadin, pravastatin, duloxetine",48507,"5, 10, 10, 12.5, 20, 200, 3, 40, 60","mg, CC, CC, mg, mg, mg, mg, mg, mg","1, 2, 1, 2, 1, 2, .857, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90","20.00, 20.00, 20.00, 20.00, 20.00, 4.78, 20.00, 20.00, 20.00"
+677,"bisoprol, acyclovir, losartan, finasteride, amlodlpine, tamsulosin, atorvastatin, metformin, advair",97404,"10, 400, 100, 5, 5, 4, 40, 500, 250","mg, mg, mg, mg, mg, mg, mg, mg, mcg","1, 3, 1, 1, 1, 2, 1, 2, 2","90, 90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0, 0"
+678,gabapentin,12524,300,mg,3,90,0
+679,"levothyroxine tab, simvastatin tab, lisinopril-hctz tab, Metformin tab, glipizide xl tab",95383,"0.075, 20, 20, 1000, 2.5","mg, mg, mg, mg, mg","1, 1, 1, 2, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+680,"fenofibrate, mrtoprolol tart, pravastatin sodium, pantoprazole sodium, escitalopram tab, triamt/hctz cap 37.5, losartan potassium",6716,"160, 25, 40, 20, 20, 25, 100","mg, mg, mg, mg, mg, mg, mg","1, 2, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0"
+681,"mircette, viibryd",7860,"0, 20","mg, mg","1, 1","90, 90","5, 10"
+682,"BELSOMRA, TOUJEO, FLUTICASONE, CARVEDILOL, LISINOPRIL, OMEPRAZOLE, allopurinol, pravastatin, levothyroxine, chlorthalidone, clonidine hci",6260,"015, 42, 50, 25, 40, 40, 100, 20, 100, 25, 0.2","mg, ml, mcg, mg, mg, mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2","90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"
+683,"Levothyroxine, Tramadol",7830,"200, 150","mcg, mg","1, 1","90, 90","20, 30"
+685,Amlodipine,24228,5,mg,1,90,0
+686,levothyroxine,77845,50,mg,1,90,15
+687,norvac,8008,5,mg,1,90,5
+688,"Brillianta, Atenolol, Nitroglycerin, Tamsulosin, Finasteride, Omeprazole, Atorvastatin",12302,"60, 25, 0.4, 0.4, 5, 40, 40","mg, mg, mg, mg, mg, mg, mg","2, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90","1000.38, 3.60, 33.03, 52.92, 28.46, 42.40, 31.43"
+689,propranol,53154,160,mg,1,90,10
+690,Omeprazole,32250,20,mg,1,90,10
+691,"Warfarin, Hydrochlorothiaz25, Atorvastatin, Allopurinol, Hydralazine, Carvedilol",21236,"5, 25, 40, 100, 100, 25","mg, mg, mg, mg, mg, mg","1, 1, 1, 2, 3, 2","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+692,"Allopurinol, Atorvastatin, Warfarin, Hydrochlorothiaz, Carvedilol, Hydralazine",21236,"100, 40, 5, 25, 25, 100","mg, mg, mg, mg, mg, mg","2, 1, 1, 1, 2, 3","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+693,"Synthroid, Reloxifene, Valacyclovir, Vagifem",8226,"50, 60, 500, 10","mcg, mg, mg, mcg","1, 1, 1, 1","90, 90, 90, 90","10.00, 5.00, 5.00, 5.00"
+694,"lisinopril, levothyroxine, pantoprazole sod ec tb, rosuvastatin, ibuprofen, clonazepam",34797,"5, 0.1, 40, 5, 800, 0.5","mg, mg, mg, mg, mg, mg","1, 1, 2, 1, 1, 1","90, 90, 90, 90, 90, 90","10, 20, 20, 10, 20, 20"
+695,omerprazole,60515,40,mg,1,90,20
+696,levothyroxine,46807,0.025,mg,1,90,0
+697,atenolol,33146,1,mg,1,90,10
+698,"Metoprolol Tartrrate, Amlodipine, clopidogrel, Atrovastatin, Citalopram",10589,"25, 5, 75, 80, 20","mg, mg, mg, mg, mg","2, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+699,"BuProPion XL, Escitalopram",77377,"150, 20","mg, mg","1, 1","90, 90","20.00, 18.68"
+701,"Irbesartan, Simvastatin",96816,"300, 20","mg, mg","1, 1","90, 90","9.00, 7.79"
+702,"SIMVASTITIN, TRIAMT/HCTZ",92082,"40, 50","mg, mg","1, 1","90, 90","0, 0"
+703,"Amitriptyline, Gabapentin, Nexium, Coreg, asacol, Budesonide, Latandpost, Metrogel, Oxycodone",89533,"10, 600, 40, 6.25, 800, 3, 2, 1, 5","mg, mg, mg, mg, mg, mg, ml, ounce, mg","1, 3, 1, 2, 3, 2, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90","1, 1, 1, 1, 1, 1, 1, 1, 1"
+704,Fluctasone,8533,2,inhalation,1,90,9
+705,tretnal,7869,400,mg,2,90,30
+706,metformin,72601,500,mg,1,90,0
+707,Fluoxetine,20146,20,mg,1,90,13.96
+708,Metformin,30542,2000,mg,1,90,1
+709,"Losartan/HCTZ, Metformin, Rosuvastatin, Fenofibrate",32744,"50, 500, 10, 160","mg, mg, mg, mg","1, 2, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+710,"Diltiazem, Atorvastatin, Tamsulosin",97306,"120, 10, .4","mg, mg, mg","1, 1, 1","90, 90, 90","3, 0, 3"
+711,"LISINOPRIL-HCTZ, AMANTADINE",74070,"10, 100","mg, mg","1, 1","90, 90","0.00, 0.00"
+712,"Atenolol, Cosar, Metformin, Omeprazole, Pravastatin",48176,"50, 100, 500, 40, 40","mg, mg, mg, mg, mg","2, 1, 1, 1, 1","90, 90, 90, 90, 90","2.67, 5.67, 1.72, 7.88, 10.00"
+713,Omerprazole,60515,40,mg,1,90,0
+714,clopidogrel,55026,75,mg,1,90,0
+715,toprol xl,32407,75,mg,1,90,30
+716,"januvia, Metroprol, Valsartan/HCTZ, Niacin ER",21048,"100, 100, 160, 1000","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","20.00, 10.00, 10.00, 10.00"
+717,Paxil,77017,30,mg,1,90,0
+718,Metformin,44129,500,mg,1,90,0
+719,"Metformin er, Lisinpril-hctz, Paxil, Levrothyroxine, Atorvastin, Metoprolol",44129,"500, 10, 40, 0.15, 10, 25","mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 2","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+720,"SIMVASTATIN, LEVOTHYROXINE",92845,"20, .075","mg, mg","1, 1","90, 90","0, 0"
+721,"SIMVASTATIN, LEVOTHYROXINE",92845,"20, .075","mg, mg","1, 1","90, 90","0, 0"
+722,Potassium CL SR MC TB 10MEQ,60178,1,mcg,1,90,0
+723,"Tirosint, candestartan, dilitiazem hydrochloride, Triamterene hxtz",8850,"88, 16, 240, 37.5","mcg, mg, mg, unit","1, 1, 1, 1","90, 90, 90, 90","120, 120, 120, 20"
+724,"citalopram, omeprazole, simvastatin, lisinopril, triamterene-hydrochlorothiazide",39567,"10, 20, 40, 40, 37","mg, mg, mg, mg, mg","2, 2, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+725,"Calcium Acetate, Amiodorone, Hydrazaline, Levothryxon, Warfarin, Symvastatin",33881,"667, 100, 10, 150, 5, 20","mg, mg, mg, mg, mg, mg","3, 1, 3, 1, 1, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+726,Januvi,21048,100,mg,1,90,10
+727,Venlafexine,80128,300,mg,1,90,0
+728,"metformin, amlodipine, levothyroxine, hyrochlorothiaz, atorvastatin, lantus injection",71236,"1000, 10, 0.125, 25, 20, 15","mg, mg, mg, mg, mg, unit","2, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 90.00"
+729,benicar hct,43026,20,mg,1,90,20
+730,"Rexulti, Trintellix, Propranolol, Clomipramine",44839,"2, 20, 10, 50","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","50, 100.00, 30, 30"
+731,"Fluoxetine, Hydroxychloroquine",44839,"20, 200","mg, mg","2, 2","90, 90","50, 50"
+732,"omeprazole, simvastatin tab, metoprolol succer tab, fenofibrate tab",46214,"40, 40, 50, 54","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+733,Lisinopril,32223,10,mg,1,90,5
+734,Duloxetine,94403,60,mg,1,90,30
+735,"ATORVASTATIN, HYDROCLOROSIDE",19103,"40, 12.5","mg, mg","1, 1","90, 90","755.87, 79.19"
+736,Esomeprazol mag,43112,40,mg,1,90,10
+737,"pantoprazole, escitalopram, atorvastatin, tizanidine, trazodine, gabapentin",66086,"40, 20, 20, 2, 100, 300","mg, mg, mg, mg, mg, mg","1, 1, 1, 2, 1, 6","90, 90, 90, 90, 90, 90","3.50, 3.50, 3.50, 3.50, 3.50, 3.50"
+738,"fenofibrate, metoprolol, atorvastatin, lisinopril, pantoprazole",53110,"160, 100, 40, 20, 40","mg, mg, mg, mg, mg","1, 1, 1, 1, 2","90, 90, 90, 90, 90","10, 10, 10, 10, 10"
+739,"citalopram, simvastatin, omeprazole, lisinoprol, triamterene-hydrochlorothiazide",39567,"10, 40, 20, 40, 37","mg, mg, mg, mg, mg","1, 1, 2, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+740,amlodipine,32792,300,mg,2,90,0
+741,Spironolactone,8540,50,mg,2,90,3
+742,ProAir,8836,1,inhalation,1,90,30
+743,Spironolactone,8540,50,mg,2,90,3
+744,Gabapentin,28211,400,mg,1,90,21
+745,Tekturna,61615,300,mg,1,90,100
+746,"Metoprolol TARTTRATE, Amlodipine, Clopidogrel, Atrovastatin, Citalopram",10589,"25, 5, 75, 80, 20","mg, mg, mg, mg, mg","2, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+747,atovastatin,75075,40,mg,1,90,0
+748,"Omeprazole, Hydralaxine, Carvedilol, Isosorbide, Olmesartan, Potassium, Doxazosin, Parvastatin, Allopurinol, Furosemide",21061,"40, 100, 12.5, 20, 40, 20, 8, 40, 100, 20","mg, mg, mg, mg, mg, mg, mg, mg, mg, mg","1, 3, 2, 2, 1, 1, 1, 1, 2, 2","90, 90, 90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0, 0, 0"
+749,"Atorvastatin, Losartan",85006,"10, 100","mg, mg","1, 1","90, 90","15, 7"
+750,Benazepril,92128,10,mg,1,90,3
+751,"Metformin, Lipitor, escitalopram, acyclovir",6335,"500, 20, 20, 400","mg, mg, mg, mg","2, 1, 1, 1","90, 90, 90, 90","1.25, 1.25, 1.25, 1.25"
+752,atorvastatin,10583,10,mg,1,90,25.87
+753,"Hydrochlorothiaz, Irbesartan",10941,"25, 300","mg, mg","1, 1","90, 90","12.50, 12.50"
+754,Lovastatin,92807,40,mg,1,90,0
+755,"allopurinol, amlodipine, lovastatin, lisinopril-hctz",92346,"100, 5, 40, 5","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+756,"Levothyroxine, Atorvastatin",48835,"0.1, 10","mg, mg","1, .143","90, 90","20, 20"
+757,"Simvastatin, Hctz, Metrprolal Tartrate, Lorazepam, Oxybutynin, Lisinopril",4530,"40, 025, 0100, .5, 05, 05","mg, mg, mg, mg, mg, mg","1, 1, 2, 1, 2, 2","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+758,"Pulmicort, Synthroid",93024,"180, .112","mcg, mg","2, 1","90, 90","0, 0"
+759,"advair, spriva",13783,"01, 1","inhalation, inhalation","2, 1","90, 90","133, 0133"
+760,Junel,19146,0.02,mg,1,90,0
+761,"Levothyroxixine, Gabapentin, Atorvastin, Trazadone, Tramadol, Estradiol",29576,"0.1, 600, 20, 50, 50, 0.01","mg, mg, mg, mg, mg, gram","1, 2, 1, 2, 1, .143","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+762,"hydrochlorothiaz, synthroid, quinapril, amlodipine, metoprolol succ er, eliquis",6880,"25, 137, 40, 10, 25, 5","mg, mcg, mg, mg, mg, mg","1, 1, 1, 1, 1, 2","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+763,"Quinapril, nexium",11428,"20, 40","mg, mg","1, 1","90, 90","0, 124.25"
+764,tamasulin,85140,4,mg,2,90,39
+765,"finasteride, Alvogen",29388,"1, 100","mg, mg","1, 2","90, 90","5.69, 4.70"
+766,"Trazodone, Atenolol, Esomeprazole, Ramipril, Tresiba, Novolog, Enbrel",76844,"150, 50, 40, 10, 50, 10, 50","mg, mg, mg, mg, unit, unit, unit","1, 1, 1, 2, 1, 3, .143","90, 90, 90, 90, 90, 90, 90","0.00, 0.00, 0.00, 0.00, 8.50, 8.50, 0.00"
+767,armour thyroid,89123,90,mg,1,90,36
+768,"Trazadone, Atorvastatin, metformin, Duloxetene, Duloxetene",80206,"50, 20, 500, 60, 30","mg, mg, mg, mg, mg","1, 1, 1, 2, 2","90, 90, 90, 90, 90","4.00, 4.00, 9.34, 141.00, 141.00"
+769,"Hydroxychloroquine, Simvastatin, Prednisone",7052,"200, 40, 5","mg, mg, mg","2, 1, 1","180, 90, 60","10, 10, 14"
+770,Atorvastatin,93041,10,mg,1,90,5
+771,Allopurinol,53073,100,mg,1,90,0
+772,"lovastatin, levothyroxine, levothyroxine, acyclovir",95003,"40, 0.137, 0.125, 400","mg, mg, mg, mg","2, .423, .571, 1","90, 90, 90, 1","0, 0, 0, 0"
+773,Lipitor,35803,40,mg,1,90,0
+774,"Metoprolol, Chlorthalidone, Simvistatin",80134,"50, 25, 40","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+775,"Atorvastatin, ranitidine, oxybutynin, pantoprazole sod ec tb",61277,"1, 1, 1, 1","mg, mg, mg, mg","1, 2, 2, 1","90, 90, 90, 90","0, 0, 0, 0"
+776,Mononessa,78006,0.035,mg,1,90,0
+777,"AmLODIPine, Sertraline hcl, celecoxib, simvastatin, 0",32962,"5, 0100, 200, 020, 0","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+778,"allopurinol, alprazolam, aspirin, citalopram, clonidine, fenifibrate, gabapentin, glimepiride, hyradlazine, lactulose, metformin ER 24, minoxidil, pantoprazole, pravastatin, spironolactone, torsemide, tramadol, vitamin B12, warfarin",63379,"300, .25, 81, 40, .1, 160, 300, 4, 50, 30, 500, 10, 40, 20, 25, 20, 50, 1000, 6","mg, mg, mg, mg, mg, mg, mg, mg, mg, ml, mg, mg, mg, mg, mg, mg, mg, mcg, mg","1, 3, 1, 1, 2, 1, 2, 1, 2, 2, 2, 1, 1, 1, 1, 1, 3, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"
+779,Calcitriol,34614,0.5,mg,1,90,0
+780,"lisinopril, pentoxifylline er, clopidogrel, atorvastatine, pantoprazole, topomax, lisinopril, pentoxifrlline er, clopidogrel, atorvastatine",60401,"40, 400, 75, 90, 40, 25, 40, 40, 75, 10","mg, mg, mg, mg, mg, mg, mg, mg, mg, mg","1, 2, 1, 1, 1, 2, 1, 2, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0, 0, 0"
+781,simvastatin,1827,20,mg,1,90,3.25
+782,"alprazolam, aspirin, carvedilol, citalopram, glimepiride, levothyroxine, losartan-hydrochlorothiazide 100, metformin, pantoprazole EC, pravastatin, spironolactone, topiramate, nortriptyline cap",63379,".25, 81, 12.5, 20, 2, 150, 12.5, 1000, 40, 40, 25, 50, 10","mg, mg, mg, mg, mg, mcg, mg, mg, mg, mg, mg, mg, mg","3, 1, 2, 1, 2, 1, 1, 2, 2, 1, 1, 2, 3","90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"
+783,"Amlod/Benazpril, Omega-3-Acid",7008,"5, 1","mg, gram","2, 2","90, 90","5.00, 5.00"
+784,"Simvastatian, AmLODIPine, celecoxib, sertraline",32962,"020, 5, 0200, 100","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 37.00, 0"
+785,"Amlod/Benazpril, Omega-3-Acid Cap",7008,"5, 1","mg, gram","2, 2","90, 90","5.00, 5.00"
+786,atorvastatin,48827,20,mg,1,90,6.32
+788,Etodolac,52301,400,mg,2,90,131
+789,"metroprolo succ er, Synthroid, Metformin, Farxiga, atorvastatin",29642,"50, .075, 1000, 10, 40","mg, mg, mg, mg, mg","1, 1, 2, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+790,nucynta,55435,100,mg,3,90,1000
+791,"Triamt/HCTZ, Amlodipine",96003,"37.5, 5","mg, mg","1, 1","90, 90","0.00, 0.00"
+792,"amlodipine tab, lovastation, lisinopril",43351,"10, 40, 40","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+793,"trazodone, lisinopril, venlafaxine xr, metoprolol",16146,"650, 10, 150, 25","mg, mg, mg, mg","1, 1, 1, 2","90, 90, 90, 90","0, 0, 0, 0"
+794,"Methotrexate, Folic Acid, Simvastatin, Oxybutynin ER, Lisinopril, Pantoprazole",92399,"20, 1, 20, 10, 10, 40","mg, mg, mg, mg, mg, mg",".143, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","0, 30, 0, 143, 0, 0"
+795,Lipitor,35803,40,mg,1,90,0
+796,"simvastain, metoprolol, losartin, levothyroxine",32162,"20, 100, 75, .05","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","5, 30, 15, 30"
+797,HydroChlorothiaz,20707,50,mg,2,90,9
+798,glipside,35756,1,ml,1,90,0
+799,"Gabapentin, Trazodone, Lithium Carbonate, Levothyroxine, Amethyst",77340,"300, 50, 300, 75, 0","mg, mg, mg, mcg, mcg","3, 1, 2, 2, 1, 1","90, 90, 90, 90, 90","6, 10, 6, 6, 0"
+800,metformin,7719,4,mg,1,90,5
+801,"Advair, Fluticasone Prop, Prednisone, Azathioprine, Cephalexin, Lisinopril Tab, Potassium, Furosemide",85028,"50, 50, 5, 50, 500, 5, 20, 40","mcg, mcg, mg, mg, mg, mg, mg, mg","2, 2, 1, 1, 1, 1, 2, 1","90, 90, 90, 90, 90, 90, 90, 90","80.00, 12.57, 8.12, 20.00, 7.05, 2.40, 20.00, 1.83"
+802,"atenolol, triamterene/HCTZ",18211,"50, 37.525","mg, mg","1, 1","90, 90","0.00, 0.00"
+803,"Levothyrixine, Trazadone, Celecoxib, Cyclobenzaprine, Sertrealine HCl",7724,"0.112, 50, 200, 10, 50","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 42, 90","13.00, 10.00, 25.00, 15.00, 10.00"
+804,Rosuvastatin,53185,40,mg,1,90,10
+805,Effexor,19939,75,mg,1,90,12.5
+806,"losartan, levothyroxine, uloric, oxybutynin, chlorthaladone",8854,"100, 0.15, 10, 10, 25","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","0.00, 0.00, 133.96, 0.00, 0.00"
+807,toprol,85050,50,mg,1,90,20
+808,"losartan, carvedilol, simvastatin",54982,"50, 12.5, 20","mg, mg, mg","1, 2, 1","90, 90, 90","0.00, 0.00, 0.00"
+809,lisinopril/hctz,85718,20,mg,1,90,12.67
+810,"losartan, levothyroxine, uloric, oxybutynin",8854,"100, 0.15, 40, 10","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0.00, 0.00, 133.96, 0.00"
+811,"Ramipril, Alfuzosin HCL, Finasteride, Simvastatin",7006,"10, 10, 5, 20","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+812,"METROPOLOL ER SUCCINATE, ELOQUIS, DIGOXIN",14513,"50, 5, 0.25","mg, mg, mg","1, 1, 1","90, 90, 90","0, 47, 34"
+813,"Pravastatin, Estadol Vaginal Cream",32163,"20, 1","mg, gram","1, .143","90, 90","0.00, 40.00"
+814,flomax,12020,0.4,mg,2,90,4
+815,"Morphine sulf 15MG ER TABS (12H), clopidogrel, trelegy ellipta",37743,"15, 75, 100","mg, mg, mcg","3, 1, 2","90, 90, 90","25.00, 0, 90"
+816,fluticasone,99350,50,mcg,1,90,1
+817,Lisinopril,28660,20,mg,1,90,0
+818,Lovastatin,46619,20,mg,1,90,0
+819,Fluoxetine,84312,20,mg,1,90,0
+820,"Methotrexate, Naproxen",13850,"2.5, 500","mg, mg",".857, 1","90, 90","0, 0"
+821,Lovastatin,46619,20,mg,1,90,0
+822,"clopidogrel, metoprolol",33436,"75, 25","mg, mg","1, 1","90, 90","6, 6"
+823,"Metoprolol tartrate, Atorvastatin, Hydrochlorothiazid, Pantoprazole, Estradiol, Belsomra, Aripiprazole, Cymbalta, Synthroid, Ipratropium bromid, Ranitidine, Plavix",44095,"25, 40, 25, 40, .5, 15, 2, 90, .025, .06, 300, 75","mg, mg, mg, mg, mg, mg, mg, mg, mg, inhalation, mg, mg","2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90","5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5"
+824,Furosemide,34293,40,mg,1,90,0
+825,donepezil,78253,5,mg,1,90,3
+826,"metformin, losartan, levothyroxine",8884,"500, 100, 0.05","mg, mg, mg","2, 1, 1","90, 90, 90","0, 0, 0"
+827,gabapentin,33993,100,mg,2,90,0
+828,METFORMIN,76273,1000,mg,2,90,0
+829,Myrbetriz,52742,50,mg,1,90,42.4
+830,"Prazosin, PROPRANOLOL, Allopurinol, Atorvastatin, Lisinopril-HCT2, Venlafaxine",80021,"2, 80, 300, 10, 20, 225","mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+834,fenofibrate,48624,1,mg,1,90,16.7
+835,fenofibrate,48624,160,mg,1,90,17.6
+837,levothyroxine,11740,125,mcg,1,90,30
+839,"Lyrica, Synthroid",76244,"150, 125","mg, mg","1, 1","90, 90","250, 35"
+840,"hydrchlorothiaz, diclofenac xr, potassiumcl sr mc tb, metoprolol succ er",97411,"25, 100, 20, 12.5","mg, mg, unit, mg","1, 1, 1, 1","90, 90, 90, 90","1., 1., 1., 1."
+841,rosuvastatin,63866,40,mg,1,90,0
+842,"propafenone, furosemide, atorvastatin",71107,"150, 40, 40","mg, mg, mg","3, 1, 1","90, 60, 90","8.35, 3.35, 3.35"
+843,"atrovastin, gemfibrozil, tamsulosin, meloxicam, lisinopril, amlodipine, metformin, glimpride",74055,"40, 600, .4, 15, 40, 5, 500, 4","mg, mg, mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1, 2, 1","90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0"
+844,"Lisinopril, simvastatin, calcitriol, meloxicam, omeprazole, yuvafem",2631,"20, 40, 0.25, 7.5, 20, 10","mg, mg, mcg, mg, mg, mcg","1, 1, 2, 1, 1,  .286","90, 90, 90, 90, 90, 90","5, 5, 5, 5, 5, 5"
+845,Metformin,30269,500,mg,4,90,0
+846,Metformin,30269,500,mg,4,90,0
+847,Bisoprolol,63303,5,mg,1,90,0
+848,paroxitine,92070,10,mg,1,90,0
+849,"metformin, atorvastatin, atenolol, allopurinol, ranitidine, ropinirole",43082,"500, 40, 50, 300, 150, 2","mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1","90, 90, 90, 90, 180, 90","0, 0, 0, 0, 0, 0"
+850,atenolol,72153,25,mg,2,90,0
+851,"Furosemide, Potassium CL SR MC TB, Atenolol Tab, SIMVASTATEN tAB, mETFORMIN er tAB, aLLOPURINOL tAB, OMEPRAZOLE Cap, Proair HFA AER, Symbicort 160/4.5",34711,"20, 20, 50, 20, 500, 300, 20, 90, 160","mg, unit, mg, mg, mg, mg, mg, mcg, mcg","1, 1, 2, 1, 1, 1, 1, 1, 2","90, 90, 90, 90, 90, 90, 90, 90, 90","3.74, 28.00, 6.00, 6.00, 3.78, 6.00, 27.34, 176.175, 115.00"
+852,Meloxican,64157,15,mg,1,90,1
+853,"clopidogril, sertraline, metformin, amlodipine, fenofibrate, atorvastatin",68041,"75, 100, 500, 5, 54, 80","mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+854,"Victoza, Jardience, Omeprazole",78957,"1.8, 25, 40","mg, mg, mg","1, 1, 1","90, 90, 90","35.00, 35.00, 10"
+855,"meloxcan, fenofibrate, crestor",98591,"7.5, 160, 5","mg, mg, mg","1, .429, .429","90, 90, 90","0, 0, 0"
+856,"escitalopram oxlate, topiramate, indomethacin",10023,"10, 50, 50","mg, mg, mg","1, 1, 1","90, 90, 90","50, 10, 10"
+857,"escitalopram oxlate, topiramate, indomethacin",10023,"10, 50, 50","mg, mg, mg","1, 1, 1","90, 90, 90","50, 50, 50"
+858,"colesevelam, ezetimibe, Valsartan",78041,"625, 10, 80","mg, mg, mg","3, 1, 1","90, 90, 90","15.00, 15.00, 15.00"
+859,"Tramadol, Simvastatin, Lisinopril, Verapamil ER, Finasteride",85614,"50, 20, 20, 240, 5","mg, mg, mg, mg, mg","4, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+860,gabpenten,8865,3,gram,3,90,5
+861,"Tramadol, Metoprolol, Zestoretic, Rosuvastatin tab, Levothyroxine, Potassium, Ipratropium, Tambocor",85614,"50, 25, 20, 10, .075, 10, .03, 50","mg, mg, mg, mg, mg, mcg, inhalation, mg","4, 1, 1, 1, 1, 2, 1, 2","90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0"
+862,"simvastatin, lisinopril",32164,"10, 20","mg, mg","1, 1","90, 90","0, 0"
+863,Atorvastatin,8844,20,mg,1,90,15
+864,Tramadol,85614,50,mg,4,90,0
+865,"Zenzedi, Zenzedi, Lunesta",8302,"30, 10, 3","mg, mg, mg","2, 2, 1","90, 90, 90","35, 7, 7"
+866,"Zenzedi, Zenzedi, Lunesta",8302,"30, 10, 3","mg, mg, mg","2, 2, 1","90, 90, 90","35, 7, 7"
+867,"atorvastatin, OMEPRAZOLE, LISINOPRIL",55947,"20, 20, 20","mg, mg, mg","1, 1, 1","90, 90, 90","10, 10, 10"
+868,"pantoprazole Sodium, artovastatin, Lisinopril, metro gel, Sodium Sulfacetamide 10%",11104,"40, 20, 10, 0, 0","mg, mg, mg, ounce, ounce","1, 1, 1, 2, 1","90, 90, 90, 90, 90","10, 10, 10, 25, 25"
+869,metform,10475,500,mg,2,90,3
+870,"gabapentin, zoloft, metoprolol",48195,"800, 50, 25","mg, mg, mg","4, 1, 1","90, 90, 90","25, 25.00, 25.00"
+871,pantoprazole,21704,1,unit,1,90,4
+872,"Modafinil, Duloxetine, Omeprazole, Levothyroxine",3820,"100, 60, 40, 0.175","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","120.58, 0, 0.00, 00.00"
+873,amlopidol,77642,10,mg,1,90,0
+874,"bisoprolol-hctz 10, valsartan/hctz tab 80, gemfibrozil, metformin HCL ER",8055,"6.25, 12.5, 600, 500","mg, mg, mg, mg","1, 1, 2, 1","90, 90, 90, 90","2, 2, 2, 2"
+875,Atenenol,43528,50,mg,1,90,8
+876,levothyroxine,94931,112,mcg,1,90,30
+877,"cyclobenzaprine, EZETIMIBE, SIMVASTATIN, METFORMIN, METOPROLOL TARTRATE, PRADAXA, FUROSEMIDE, KLOR-CON",21009,"10, 10, 40, 500, 100, 150, 80, 10","mg, mg, mg, gram, mg, mg, mg, unit","2, 1, 1, 1, 2, 2, 2, 2","90, 90, 90, 90, 90, 90, 90, 90","1, 1, 1, 1, 1, 1, 1, 1"
+878,"ATENOLOL, TAMSULOSIN, ATORVASTATIN, KETOCONAZOLE SHA 2%",98023,"50, .40, 40, 4","mg, mg, mg, ounce","1, 2, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+879,ATENOLOL,98023,50,mg,1,90,0
+880,tenolol,98023,50,mg,1,90,0
+881,"simvastatin, losartan",19468,"20, 25","mg, mg","1, 1","90, 90","6.00, 6.00"
+882,folic acid,12401,1,mg,1,90,1
+883,"Tri Sprintec, Montelukast Sod, Levalbuterol tartrate HFA",6901,"1, 10, 90","unit, mg, mcg","1, 1, 1","90, 90, 90","0, 10, 90"
+884,"valacyclovir, carvedilio cr cap, levothyroxine, bupropion XL tab, venlafaxine XR cap, celecoxib",8844,"1000, 10, 125, 300, 75, 200","mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 3, 2","90, 90, 90, 90, 90, 90","3.29, 5.00, 5.00, 5.00, 5.00, 5.00"
+885,Lo loestrin FE,7601,1,mg,1,90,25
+886,"Metoprolol Succ ER Tab 25MG, AmLODIpine, Latanoprost",33556,"25, 5, 2.5","mg, mg, ml","1, 2, 2","90, 90, 90","3.35, 3.35, 3.35"
+889,"Enaoapril, Atorvastatin",54103,"1, 1","mg, mg","1, 1","90, 90","0, 0"
+890,zimvastatin,85351,1,mg,1,90,0
+891,lexapro,75148,5,mg,1,90,10
+892,zimvastatin,85351,40,mg,1,90,0
+893,"Metformin ER, doxazoain Mes",44145,"2000, 8","mg, mg","1, 1","90, 90","0, 0"
+894,"Pantoprazole, Synthroid, NifedipineXL",81082,"40, 112, 30","mg, mcg, mg","1, 1, 1","90, 90, 90","0, 96, 0"
+895,"doxazosin Mes, Metformin ER",44145,"8, 2000","mg, mg","1, 1","90, 90","0, 0"
+896,"doxazosin Mes, Metformin ER, Lisinopril-HCTZ, piogliazone, Glipizide, Pravastatin",44145,"8, 2000, 20, 45, 10, 80","mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 2, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+897,"losartan, omeprazole, amiodarone, eliquis, hydralazine, diltiazem, trazodone",30011,"100, 40, 200, 05, 25, 180, 100","mg, mg, mg, mg, mg, mg, mg","1, 1, 2, 2, 2, 1, 1","90, 90, 90, 90, 90, 90, 90","2.00, 0, 0, 0, 0, 0, 0"
+898,"Amlodipine, Lisinopril",94044,"5, 40","mg, mg","1, 1","90, 90",".00, .00"
+899,Glipizide,7834,10,mg,1,90,0
+900,amlodipine,77356,5,mg,1,90,5
+901,"clopidogrel, pantoprazole, metoprolol tart, atorvastatin",90638,"75, 40, 25, 40","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 10"
+902,furosemide,63376,40,mg,2,90,0
+903,eliquis,93619,5,mg,2,90,94
+905,"Symbicort, Proair hfa, Benazepril, Montelukast, Atorvastatin, ALPRAZOLAM, Trazodone HCI",84770,"160, 90, 20, 10, 10, .5, 10","mcg, mcg, mg, mg, mg, mg, mg","2, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90","94.00, 64.00, 9.00, 9.00, 9.00, 9.00, 9.00"
+907,"TESTOSERONE, NATURA THYROID",75239,"4, 25","gram, mg","1, 1","90, 90","40, 20"
+908,"Sertraline, Pravastatin, Aycyclovir",21221,"100, 80, 400","mg, mg, mg","1, 1, 2","90, 90, 90","0, 0, 0"
+909,"Multaq, dutasteride, diltiazem, tamsulosin, pantoprazole, Eliquis",85338,"400, 0.5, 120, 0.4, 40, 5","mg, mg, mg, mg, mg, mg","2, 1, 2, 1, 1, 1","90, 90, 90, 90, 90, 90","50, 38.45, 20, 20, 20, 50"
+910,"nifedipine xl, lisinopril hctz, lovastatin, metoprolol succ er",98584,"30, 25, 20, 50","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+911,metformin er,12758,500,mg,2,90,0
+912,Liptor,27545,10,mg,1,90,30
+913,simvistatin,60022,0.25,mg,1,90,0
+914,"Tamsulosin, Metformin, Bystolic, Atorvastatin, Pantoprazole, Olmesartan, Amlodipine",32035,".4, 500, 10, 40, 40, 20, 5","mg, mg, mg, mg, mg, mg, mg","2, 2, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90","0, 0, 99, 0, 0, 0, 0"
+915,Plavix,94401,75,mg,1,90,0
+916,microogestin,11238,1.5,mcg,1,90,0
+917,"Flomax, Omeprozole, Atorvastatin",94401,"75, 40, 40","mg, mg, mg","1, 1, 1","90, 90, 90","0.00, 0.00, 0.00"
+918,"lovastatin, lisinopril, pioglitazone, escitalopram, glimepiride, metformin",32714,"20, 40, 45, 10, 2, 850","mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","0, 0, 19.99, 12.76, 4.26, 0"
+919,metformin,96122,500,mg,2,90,0
+920,metformin,96122,500,mg,2,90,0
+921,"Levothyroxine, Amlodipine Besylate, Furosemide, Aricept, Lipitor",6851,"50, 5, 20, 5, 10","mg, mg, mg, mg, mg","1, 1, .5, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+922,"Vivomo, Hydroxyzine",85225,"500, 10","mg, mg","2, 4","90, 90","5, 5"
+923,"ENALAPRIL, SIMVASTATIN, MONTELUKAST, METOPROLOL, POLYETH GLYC POW 3350 NF",60901,"10, 20, 10, 50, 17","mg, mg, mg, mg, gram","1, 1, 1, 2, 1","90, 90, 90, 90, 90","0.00, 0.00, 0.00, 0.00, 0.00"
+924,"Duloxetine, Ranitidine",29730,"30, 150","mg, mg","2, 2","90, 90","50.00, 50.00"
+925,"Ranitidine, Duloxetine",29730,"150, 30","mg, mg","2, 2","90, 90","50.00, 50.00"
+926,"Eliquis, Atenulol, HCTZ",21146,"5, 50, 25","mg, mg, mg","2, 1, 1","90, 90, 90","2, 1, 1"
+927,"Tamsulosin, simvastatin, Gabapentin, Pantoprzole DR, Advair",29745,"0.4, 40, 300, 40, 500","mg, mg, mg, mg, mcg","1, 1, 3, 1, 2","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+928,glimepiride,85388,4,mg,2,90,0
+929,atorvastatin,61275,10,mg,1,90,9
+930,"atorvastatin, eliquis",61275,"10, 5","mg, mg","1, 2","90, 90","9, 155"
+931,"atorvastatin, eliquis",61275,"10, 5","mg, mg","1, 2","90, 90","9, 155"
+932,Fluoxetine,78665,1,unit,1,90,0
+933,Fluoxetine,34667,40,mg,1,90,37.99
+934,"benazepril, doxazosin, finasteride",33955,"20, 8, 5","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+935,"Gabapentin, atorvastatin, escitalopram, cyclobenzaprine, alprazalam, fluticasone",32163,"600, 20, 5, 10, .5, 50","mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+936,Ramipril,7758,10,mg,1,90,9.33
+937,Ditiazen,34481,240,mg,1,90,9
+938,arorasastatin,7712,1,mg,1,90,1
+939,"Amlodipine, Lexapro",48236,"2.5, 1.25","mg, mg","1, 1","90, 90","58.00, 125.00"
+940,metformanertab500mg,13820,2,mg,2,90,0
+941,simvastatin,54311,20,mg,1,90,0
+942,"truvada, Cialis",10011,"200, 20","mg, mg","1, 1","90, 90","1700, 30.00"
+943,"oxybutynin, warfarin, warfarin, atorvastatin, levemir, glipizide xl, fenofirbrate",60441,"5, 1, 6, 40, 90, 10, 145","mg, mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 2, 1","90, 90, 90, 90, 90, 90, 90","85.00, 6.00, 15.00, 85.00, 536.00, 136.00, 100.00"
+944,Lyrica,8037,100,mg,2,90,27
+945,"Propranolol, Tamsulosin",80817,"40, 0.4","mg, mg","2, 1","90, 90","0, 0.00"
+946,zolpiderm,7079,1,mg,1,90,48.98
+947,Lyrica,8037,100,mg,2,90,27
+948,"Sertraline HCL, Minastrin 24 Fe",10301,"50, 20","mg, mg","1, 1","90, 90","5, 0"
+949,"Sertraline HCL, Minastrin 24 Fe",10301,"50, 20","mg, mg","1, 1","90, 90","5, 0"
+950,Levothroxine,53066,0.112,mg,1,90,25
+951,Triamterene-Hctz,60516,25,mg,1,90,0
+952,Lisinopril,32810,1,mg,1,90,90
+953,simvastatin,34785,20,mg,1,90,0
+954,pramipexole,92320,2,mg,1,90,9
+955,"rosuvastatin, olanzapine, mirtazapine, fluoxetine",33180,"10, 5, 30, 10","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+956,lisinpril,89121,10,mg,1,90,10
+957,pravastatin,8534,20,mg,1,90,5
+958,"Lisinopril, rosuvastatin",78633,"10, 10","mg, mg","1, 1","90, 90","0, 0"
+959,"Methotrex, Levetiraetam, Folic acid, Omeprazole, Levothroxine",10589,"2.5, 1000, 1, 10, 0.088","mg, mg, mg, mg, mg",".143, 2, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 12.00, 0, 0"
+960,"pravastatin, Escitalopram, Lossartan, Amlodipine",1930,"20, 20, 50, 5","mg, mg, gram, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+961,"wellbutrin, hydrochlorothiazide, flovastatin, Valtrex",8050,"150, 12.5, 20, 200","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","15.00, 15.00, 15.00, 5.00"
+962,Metformin,80513,1000,mg,2,90,1
+963,Metaformin,63385,1000,mg,2,90,3
+964,metformin,78669,2000,mg,1,90,10
+965,Eliquis,13849,5,mg,2,90,131
+966,tamsulosin,8550,0.4,mg,1,90,0
+967,"tamsulosin, omeprazone",8550,".4, 40","mg, mg","1, 1","90, 90","0, 0"
+968,amlodepine,78214,1,inhalation,1,90,75
+969,"CARVEDILOL, allopurinol",75208,"25, 01","mg, mg","2, 1","90, 90","0, 0"
+970,ATORVASTATIN,7093,40,mg,1,90,0
+971,"metaformin, glipizide, atorvastatin, lisinopril",48197,"10000, 5, 40, 10","mg, mg, mg, mg","2, 2, 1, 1","90, 90, 90, 90","1, 1, 1, 1"
+972,Tamsulosin,48837,0.4,mg,1,90,3
+973,ATORVASTATIN,7093,40,mg,1,90,1
+974,"levothyroine, bupropion xl, lorazepam, ibandronate sodium, pennsaid",78374,"0.125, 300, 0.5, 1, 40","mg, mg, mg, mg, mg","1, 1, 2, .0333, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+975,losartan,95315,1,mg,1,90,0
+976,"CARVEDIOL, TAMSULOSIN, FUROSEMIDE, ENTRESTO, ALDACTONE, PLAVIX, METHOTREXATE",46845,"25, .4, 40, 51, 50, 75, 2.5","mg, mg, mg, mg, mg, mg, mg","2, 2, 2, 2, 1, 1, .143","90, 90, 90, 90, 90, 90, 90","2.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00"
+977,"Metformin, Januvia, bisofum/hct, rampril",8081,"1000, 100, 5, 2.5","mg, mg, mg, mg","2, 1, 1, 1","90, 90, 90, 90","5.00, 30.00, 5.00, 30.00"
+978,"atorvastatin, lisinopril",46123,"20, 5","mg, mg","1, 1","90, 90","3.00, 2.35"
+979,Levothyroxine,78415,100,mcg,1,90,15
+980,lisinopril,45252,30,mg,1,90,0
+981,"Levothyroxine, Alendronate",11710,"90, 70","mg, mg","1, 1","90, 90","0, 0"
+982,atorvastatin,53217,10,mg,1,90,0
+983,"Atorvastatin, Lisinopril",84119,"10, 10","mg, mg","1, 1","90, 90","0, 0"
+984,"amlodipine, fenofibrate, zaleplon",60193,"2.5, 160, 10","mg, mg, mg","2, 1, 1","90, 90, 90","0, 0, 14.53"
+985,"Metformin, Lisinopril",79904,"500, 5","mg, mg","1, 1","90, 90","0, 0"
+986,"metformin, Glipizide XL, Januvia",8560,"1000, 5, 100","mg, mg, mg","2, 1, 1","90, 90, 90","10, 10, 10"
+987,"bupropion, metformin, levothyroxine, atorvastatin, sertraline, lisinopril, hydrochlorothiazide",73110,"150, 500, 100, 40, 100, 40, 25","mg, mg, mcg, mg, mg, mg, mg","3, 4, 1, 1, 2, 1, 1","90, 90, 90, 90, 90, 90, 90","3.30, 3.30, 1.30, 3.30, 3.30, 1.30, 1.30"
+988,bupropion,73110,150,mg,3,90,3.3
+989,"Losartan, Famotidine, Trimerhoprin and polymixin B opthalmic solution, Prednisolone opthalmic  solution",32159,"50, 20, 1, 1","mg, mg, ml, ml","1, 2, 1, 1","90, 90, 90, 90","9.00, 9.00, 10.00, 50.00"
+990,Aatorvastatin,7847,10,mg,1,90,5
+991,"Metformin hcl er, Lisinopril, Methotrexate, Betamethasone dipropionate ointment, Tamsulosin hcl",18052,"500, 40, 2.5, 0.4, 0.4","mg, mg, mg, mg, mg","2, 1, .143, 1, 1","90, 90, 90, 90, 90","0.00, 0.00, 5.00, 60.00, 30.00"
+992,"Potassium, Simvastatin, Metoprolol Succ, AMLOD/VALSA/HCT, Warfarin",20775,"20, 80, 100, 10, 5","mcg, mg, mg, mg, mg","2, 1, 1, 1, 1","90, 90, 90, 90, 90","20.00, 16.48, 20.00, 20.00, 18.93"
+993,spironolactone,21102,50,mg,3,90,20
+994,"Levothyroxine, HydroCHLOROthiazide, Citalopram, TraZODone, DULoxetine, Flonase",28785,"0.075, 12.5, 20, 100, 30, 50","mcg, mg, mg, mg, mg, mcg","1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+995,levothyroxine,85383,0.1,mg,2,90,0
+996,Meloxicam,48725,7.5,mg,1,90,1.5
+997,"proair hfa proventil, atenolol, amloditine, losartan, levothyroxine, letrocole, simvastacin",68106,"90, 25, 5, 100, 65, 2.5, 20","mcg, mg, mg, mg, mcg, mg, mg","4, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90","0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0"
+998,"Levothyroxine, Trazadone, Mertazipine, Bupropion, Omeprazole",4930,"88, 50, 15, 350, 40","mcg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 18.00"
+999,Levothyroxine,7647,0.15,mcg,1,90,9
+1000,"Pravastain, Levothyroxine, Citalapram",14227,"20, .125, 5","mg, mg, mg","1, 1, 1","90, 90, 90","1.00, 1.00, 1.00"
+1001,"Omeprazole, Gabapentin, Hydrochlorothiazide, Sertraline HCL, Bupropion xl, Duloxetine, Hydroxychloraquin, Azathrioprine",33914,"40, 300, 25, 50, 300, 30, 200, 50","mg, mg, mg, mg, mg, mg, mg, mg","2, 2, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0"
+1002,"pramipexole, latanoprost",33896,"1, 1","mg, I.U.","2, 1","90, 90","9, 9"
+1003,"Chlorthalidone, Potassium CL ER, Diltiazem 24HR",61614,"25, 20, 300","mg, mg, mg","1, 1, 1","90, 90, 90","36.00, 36.00, 36.00"
+1004,"insulin-N, insulin-R",13215,"15, 6","unit, unit","2, 2","90, 90","115, 115"
+1005,"Terazosin, Finasteride, Atorvastatin",59866,"5, 5, 20","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+1006,"Omeprazole, LEVOTHYROXINE, PRAVASTATIN",92647,"40, 88, 20","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+1007,simvastatin,53188,20,gram,1,90,0
+1008,metroprolol,8807,50,mg,1,90,0
+1009,irbesartan,32257,300,mg,1,90,90
+1010,"simvistatin, Metformin, Tamulosin, Plavix, Pioglitazone, Omega3Acid Cap 1GM",33919,"40, 1000, 0.4, 75, 15, 2","mg, mg, mg, mg, mg, gram","1, 2, 2, 1, 1, 2","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 95"
+1011,"Breo, Proair",6831,"100, 90","mcg, mcg","1, 1","90, 90","25, 10"
+1012,"Amlodipine, Atenaolal, Citilopram",74743,"10, 75, 20","mg, mg, mcg","1, 1, 1","90, 90, 90","125, 125, 125"
+1013,Lipator,8302,20,mg,1,90,25
+1014,Omeproazole,96778,20,mg,1,90,8.44
+1015,"Levoxyl, Lo Lo Lestrin Fe",7869,"1, 1","unit, unit","1, 1","90, 90","0, 0"
+1016,"Amlodipene, Atenolol, Cilalopram",74743,"10, 75, 20","mg, mg, mg","1, 2, 1","90, 90, 90","125, 125, 125"
+1017,"gapapentine, omerprazole",75041,"300, 40","mg, mg","3, 1","90, 90","15, 15"
+1018,"Gabapentin, omerprazole",75041,"300, 40","mg, mg","3, 1","90, 90","15, 15"
+1019,Melicoxin,48725,7.5,mg,1,90,6
+1020,"Simvastatin, Carb/Levo, AmLOD/Pine",98354,"20, 100, 5","mg, mg, mg","1, 4, 1","90, 270, 90","0, 0, 0"
+1021,"Pravastatin, Omeprazole, Lisinopril, Terrizzoin, Finasteride",34431,"40, 40, 40, 5, 5","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+1022,"BuProPion XL, Montelukast",43123,"300, 10","mg, mg","1, 1","90, 90","25.00, 25.00"
+1023,"Levothyroxine, Trazadone, Celecoxib, Cyclobenzaprine",7724,"112, 50, 200, 10","mg, mg, mg, mg","1, 1, 1, 3","90, 90, 90, 45","13.00, 10.00, 25.00, 10.00"
+1024,Synthroid,8087,88,mcg,1,90,35
+1025,Synthroid,97003,25,mcg,1,90,35
+1026,"Gipizide, Lisinopril, Pioglitazone",417-2,"10, 20, 45","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+1027,"enalaprilhctz, atorvastatin",6902,"1, 1","mg, mg","1, 1","90, 90","0, 0"
+1028,"Methotrexate, Predisone, Folic Acid, Meloxicam, Divalporex, Olanzipane",7070,"2.5, 5, 1, 7.5, 500, 200","mg, mg, mg, mg, mg, mg",".143, 2, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","1.00, 1.00, 1.00, 1.00, 1.00, 1.00"
+1029,"Lisinopril, Pioglitazone, Glipizide",417-2,"20, 45, 10","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+1030,"celebrex, adorvastatin, levothoroxin, benazapril",4049,"200, 40, 0.05, 40","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","90.00, 0, 0, 0"
+1031,Syeda,37876,0.03,mg,1,90,0
+1032,Atenolol,10065,25,mg,1,90,9
+1033,"simvastatin, lisinopril, verapamil, citalopram",45631,"40, 10, 180, 10","mg, mg, mg, mg","1, 2, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+1034,"tamsulosin, atorvastatin",85132,"0.4, 10","mg, mg","1, 1","90, 90","7.00, 5.00"
+1035,"Rosuvastatin, Amlodipine, Metoprolol",32257,"10, 5, 50","mg, mg, mg","1, 1, 1","90, 90, 90","7.90, 4.00, 4.00"
+1036,"tirosint capsule, lisinopril, venlafaxine xr cap, venlafaxine xr cap",54636,"75, 40, 150, 225","mcg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+1037,Atorvastatin,8816,10,mg,1,90,5
+1038,"Levothroxine, Levostatin, Citalopram, Metoprolol/HCTZ",1969,"0.05, 20, 20, 5025","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+1039,"estradiol, levothyroxine",63385,"1, 112","mg, mcg","1, 1","90, 90","8.00, 6.00"
+1040,Lisinopril,2116,10,mg,1,90,0
+1041,"simvastatin, glipizide, hydrochlorothiaz, metformin er",61605,"40, 5, 25, 1000","mg, mg, mg, mg","1, 2, 1, 2","90, 90, 90, 90","0, 0, 0, 0"
+1042,"Atorvastatin, Venlafaxine ER, Levothyroxine, Losarten Potassium, Lorazepam",92532,"20, 75, 0.075, 50, 0.5","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","3.00, 8.00, 3.00, 3.00, 3.00"
+1043,trazodone,7027,100,mg,1,90,31.98
+1044,trazodone,7027,100,mg,1,90,31.98
+1045,lunesta,6770,3,mg,1,90,10
+1046,Atorvastatin,94941,10,mg,1,90,1
+1047,"lisinopril, lovastatin",81212,"5, 60","mg, mg","1, 1","90, 90","12.00, 12.00"
+1048,"Amlodipine Besylate, Simvastatin, Propranolol HCR ER, Metformin, Toujeo, Pioglitazone HCL, Victoza",91711,"10, 20, 60, 1000, 50, 30, 1.8","mg, mg, mg, mg, unit, mg, unit","1, 1, 1, 2, 2, 1, 1","90, 90, 90, 90, 90, 90, 90",".01, .01, .01, .02, .01, .01, .01"
+1049,"Amlodipine Besylate, Simvastatin, Propranolol HCR ER, Metformin, Pioglitazone HCL, Toujeo, Victoza",91711,"10, 20, 60, 1000, 30, 50, 1.8","mg, mg, mg, mg, mg, unit, unit","1, 1, 1, 2, 1, 2, 1","90, 90, 90, 90, 90, 90, 90",".01, .01, .01, .02, .01, .02, .01"
+1051,fluoxatine,33919,20,mg,1,90,5
+1052,"CYLOBENZAPRINE, LISINOPRIL",54539,"1, 1","unit, unit","3, 1","90, 90","0, 0"
+1053,Atorvostatin,44709,10,mg,1,90,0
+1054,"Lisinopril, Rosuvistayin, Bicalutamide, Clopidogrel",53072,"10, 40, 50, 75","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+1055,"Lazartan, Metformin",12208,25,mg,1,90,5
+1056,"Pravastatin, Timolol",27299,"20, 3.4","mg, mg","1, 1","90, 90","0, 0"
+1057,"Lazartan, Metformin",12208,25,mg,1,90,5
+1058,"simvastatin, hydrochlorotheaz, glipizide, metformin er",61605,"40, 25, 5, 1000","mg, mg, mg, mg","1, 1, 2, 2","90, 90, 90, 90","0, 0, 0, 0"
+1059,Propranolol,80817,40,mg,2,90,0
+1060,Clopidogrel,60459,75,mg,1,90,0
+1061,Clopidogrel,60459,75,mg,1,90,0
+1062,"Diltiazem cd, Levetiracetam, Linopril, Finasteride, Tamsulosin, Lumigan",4416,"180, 500, 40, 5, 0.4, 0.01","mg, mg, mg, mg, mg, ml","1, 2, 1, 1, 2, 1","90, 90, 90, 90, 90, 90","1, 1, 1, 1, 1, 1"
+1063,"Losartan, Metoprolol Succ, Potassium, Atrovistatin, Warfarin, Warfarin",44672,"25, 5, 20, 40, 4, 5","mg, mg, mcg, mg, mg, mg","1, 2, 2, 1, 1, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+1064,"metoprolol, citalopram, losartan, proair hfa aer tev",16407,"50, 20, 50, 90","mg, mg, mg, inhalation","1, 1, 1, 4","90, 90, 90, 90","17.39, 2.53, 7.49, 36.40"
+1065,osphena,7726,1,mg,1,90,52
+1066,atorvastatin,85301,40,mg,1,90,12
+1067,"Losartan, Metoprolol Succ, Potassium, Atrovistatin, Warfarin, Warfarin",44672,"25, 5, 25, 40, 4, 5","mg, mg, mg, mg, mg, mg","1, 1, 2, 1, 1, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+1068,rosuvastatin,33760,5,mg,1,90,0
+1069,"Warfarin, Linzess, Lovastatin, Flecanide, Premarin Cream",20109,"3.125, 145, 40, 100, .05","mg, mcg, mg, mg, ml","1, 1, 1, 2, 1","90, 90, 90, 90, 90","0, 97.00, 0, 200.00, 100.00"
+1070,"Lisinopril Tab, Provastatin Sodium, Donepezil Tab, Memantine HCL Tab, Bupropion XL",27249,"20, 80, 23, 10, 150","mg, mg, mg, mg, mg","1, 1, 1, 2, 1","90, 90, 90, 90, 90","0.00, 0.00, 95.00, 75.00, 0.00"
+1071,"Levothyoxine, Netformin, Glipizide, Astorvastatin, Advair Disc, Metroprolol, Clopidogrel",3748,".075, 1000, 5, 80, 25050, 100, 75","mg, mg, mg, mg, inhalation, mg, mg","1, 2, 1, 1, 2, 1, 1","90, 90, 90, 90, 90, 90, 90","0, 00, 0, 0, 0, 0, 0"
+1072,divalproex,59602,250,mg,2,90,10
+1073,"xarelto, amiodarone, lisinopril, omeprazole, paroxetine HCL, simvastatin, tamsulosin",46808,"15, 200, 20, 20, 40, 20, 4","mg, mg, mg, mg, mg, mg, mg","1, 1, 2, 2, 1, 1, 1","90, 90, 90, 90, 90, 90, 90","15, 5, 5, 5, 5, 5, 5"
+1074,Lomotil,32259,5,mg,6,90,7
+1075,"fluocinolone ac oint, clonidine, meloxicam",33810,".025, .1, 15","gram, mg, mg","2, 1, 1","90, 90, 90","3.35, 2.10, 2.11"
+1076,quetiapine,28204,200,mg,1,90,0
+1077,"Losartan, Atorvastatin, Levothyroxine, Vesicare",77056,"12.5, 40, 0.1, 50","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0.00, 0.00, 1.00, 0.00"
+1079,METFORMAN,90041,5,mg,2,90,0
+1080,Amlodipine,8759,10,gram,1,90,5
+1081,Metformin,7432,500,mg,1,90,24
+1082,NEXIUM,93110,40,mg,1,90,0
+1083,"Atenolol, Chlorthalidone, Simvastatin",34654,"100, 25, 40","mg, mg, mg","1, 1, 1","90, 90, 90","3, 17, 5"
+1084,mmmm,78219,1,mcg,1,90,0
+1085,simvastin,7424,40,mg,1,90,5
+1086,"Lisinopril, Trazadone, Tramadol, Hydrochlorothiazide",80007,"10, 100, 50, 25","mg, mg, mg, mg","1, 1, 4, 1","90, 90, 90, 90","0.00, 0.00, 0.00, 0.00"
+1087,Loryna,85345,0.03,mg,1,90,0
+1088,"HYDROCHLOROTHIAZ, BISOPROL FUM TAB, PRAVASTATIN SOD TAB, POTASSIUM CL SR MC TAM",14103,"12.5, 10, 20, 20","mg, mg, mg, mg","1, 1, 1, 2","90, 90, 90, 90","0, 0, 0, 0"
+1089,"BISOPROL FUM TAB, HYDROCHLOROTHIAZIDE, PRAVASTATIN SOD TAB, POTASSIUM CL SR MC TAB",14103,"10, 12.5, 20, 20","mg, mg, mg, mg","1, 1, 1, 2","90, 90, 90, 90","0, 0, 0, 0"
+1090,"Simvastatin, Lisinopril, AmLodipine, MetFormin",27244,"10, 5, 2.5, 500","mg, mg, mg, mg","1, 1, 1, 2","90, 90, 90, 90","14.72, 10.28, 8.04, 9.13"
+1091,"furosemide, warfarin sodium, mexiletine, metoprolol Succinate, eplerenone, pravastatin, losartan, montelukast, potassium chloride, fluticasone Propionate nasal",29330,"40, 5, 250, 25, 50, 40, 25, 10, 20, 50","mg, mg, mg, mg, mg, mg, mg, mg, mcg, inhalation","1, 1, 2, 1, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 131, 0, 0, 0, 0, 0"
+1092,"Metoprolol, Rosuvastatin, Lisinopril",85901,"50, 20, 40","mg, mg, mg","2, 1, 1","90, 90, 90","0.0, 0.0, 0.0"
+1093,"Metoprolol, Lisinopril, Rosuvastatin",85901,"50, 40, 20","mg, mg, mg","2, 1, 1","90, 90, 90","0.0, 0.0, 0.0"
+1094,"Metoprolol Succonate, Avorstatin, Lisinopril, Ranitidine Tab",77257,"50, 20, 20, 150","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","35, 35, 35, 35"
+1095,"breo elipta, furusomide",94538,"200, 80","inhalation, mg","1, 2","90, 90","420, 0"
+1096,"Trazadone, Neurontin, Metoprolol",24381,"150, 300, 12.5","mg, mg, mg","1, 1, 2","90, 90, 90","0, 0, 0"
+1097,"Meloxicam, Tramadol, Tramadol, IIrbesartan/HTCD, Amlodipine, Ropinirole, Omeprazole",28412,"7.5, 200, 50, 150, 10, 0.5, 20","mg, mg, mg, mg, mg, mg, mg","2, 1, 1, 1, 1, 2, 1","90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0"
+1098,Nuvaring,75951,1,unit,0.0333,90,165
+1099,montelukast,83647,10,mg,1,90,0
+1100,"Atorvastatin, Losartan, Furosemide, Gabapentin, Oxybutynin, Tramadol, Doxazosin, Finasteride, Levothyroxine, Humalog, T/S Accu-chk Aviva Plus",89166,"20, 25, 1, 900, 5, 50, 8, 5, 0.112, 70, 3","mg, mg, mg, mg, mg, mg, mg, mg, mg, unit, unit","1, .286, .571, 3, 3, 1, 1, 1, 1, 1, 3","90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0, 0, 540.00, 0"
+1101,Errin,98056,0.35,mg,1,90,0
+1102,Bydureon,40165,2,mg,0.143,90,75
+1103,"omeprozole, losartan, levothyroxine, gabapentin, rosuvastatin",34737,"20, 25, .1, 100, 40","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+1104,"dexilant, atorvastatin, gemfibrozil, metoprolol, valsartan, metformin",34108,"30, 80, 600, 100, 32025, 500","mg, mg, mg, mg, mg, mg","1, 1, 2, 1, 1, 1","90, 90, 90, 90, 90, 90","55.00, 5.00, 5.00, 5.00, 5.00, 2.00"
+1105,"lisinopril, omeprazole, lovastatin",2859,"10, 20, 40","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+1106,"Ezetimibe, zolpidem, Atorvastatin, Atenolol",85614,"10, 5, 20, 50","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","1, 1, 1, 1"
+1107,"Levothyroxine, Amlodipine",92040,".07, 10","mg, mg","1, 1","90, 90","0, 0"
+1108,"lisinopril, metoprolol",85739,"20, 25","mg, mg","1, 1","90, 90","0.00, 0.00"
+1109,"Spirinolactone, Metformin",77044,"500, 500","mg, gram","2, 2","90, 90","5, 5"
+1110,Melicoxin,48725,7.5,mg,1,90,10
+1111,"Atorvastatin, Hydrochlorothiaz, Benzepril",38340,"40, 25, 40","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+1112,"Anastrozole, Enalapril Tab, Bumetanide Tab, Pravastatin Sodium, Escitalopram, Glipizide, Oxybutin, Ropinerole, Metoprolol",33881,"1, 10, 1, 40, 20, 5, 5, .5, 25","mg, mg, mg, mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 3, 2, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0, 0"
+1113,"Amlodipine Besyla, Metoprolol, Methatrexate, Pantoprazole Sodium, Donepezil",6906,"5, 12.5, 7.5, 40, 10","mg, mg, mg, mg, mg","1, 2, .143, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+1114,"Olmesartan HCTZ  tab, Atorvastatin tab, Finasteride, Tamsulosin, Omeprazole",7052,"40, 20, 5, 0.4, 40","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+1115,metoprolol er,73505,50,mg,1,90,20
+1116,"Lisinopril, Rosuvastatin, oxybutynin, Loperamide, Timolol Mal Solution .5%, Brimonidine Tartrate Solution 0.2%",95677,"10, 10, 5, 2, 0.5, 1","mg, mg, mg, mg, ounce, ounce","1, 1, 1, 2, 2, 3","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+1117,"amlodipine, abilify, aspirin, lipitor, accu-chek aviva, blood glucose, celebrex, zyrtec, vitamin D2, advair didkus, neurotin, atarax, microchamber, nano pen needles, potassium chloride, albuterol, humulin R U, imdur, Accu-chek fastclix lancing, singular, zantac, zoloft, zanaflex, topamax, Victoza, ambiem",29702,"5, 5, 81, 80, 0, 0, 200, 10, 50000, 500, 300, 25, 0, 32, 10, 90, 500, 60, 0, 10, 150, 100, 4, 25, 0.6, 5","mg, mg, mg, mg, ml, mg, mg, mg, unit, mg, mg, mg, mg, gram, mg, mcg, unit, mg, unit, mg, mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 3, 3, 1, 1, .143, 2, 3, 1, 1, 3, 1, 2, 3, 1, 3, 1, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"
+1118,Botox,75703,200,CC,0.0111,90,2000
+1119,"Lisinopril, Rosuvastatin, oxybutynin, Loperamide, Timolol Mal Solution .5%, Brimonidine Tartrate Solution 0.2%",95677,"10, 10, 5, 2, 0.5, 0.2","mg, mg, mg, mg, ounce, ounce","1, 1, 1, 2, 2, 3","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+1120,"Metformin, Levothyroxine, Triam/HCTZ, Losartan, Sertraline HCl, Rosuvastatin",44904,"750, 0.112, 37.5, 100, 100, 10","mg, mg, mg, mg, mg, mg","2, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+1121,"Diovan, toprol",85266,"320, 100","mg, mg","1, 1","90, 90","0, 1"
+1122,Triprevifem,6870,28,unit,1,90,0
+1123,"lisinopril-hctz, pravastatin sod, xarelto",85395,"20, 20, 20","mg, mg, mg","1, 1, 1","90, 90, 90","7.47, 17.45, 20"
+1124,"Geodon, Trazadone, Propranolol, Lecothyroxone",80232,"40, 40, 20, 135","mg, mg, mg, mcg","1, 1, 1, 1","90, 90, 90, 90","15, 20, 15, 20"
+1125,"Atorvastatin, Enalapril Maleate, Donepezil, Alendronate",89434,"40, 2.5, 10, 1","mg, mg, mg, unit","1, 1, 1, .143","100, 100, 100, 90","0, 0, 0, 0"
+1126,Lisinopril,75248,10,mg,1,90,2
+1127,"Amlodipine Besylate, Losartan Potassium",78251,"10, 100","mg, mg","1, 1","90, 90","0, 0"
+1128,Valsartan,85741,160,mg,1,90,0
+1129,embrel,7075,25,mg,0.286,90,75
+1130,Actos met,7075,1,mg,2,90,75
+1131,Glipizide,12589,1,mg,1,90,3.31
+1132,Metropolol,98116,25,mg,1,90,0
+1133,Metropolol,98116,25,mg,1,90,0
+1134,"Losartan, Tizanidine, Atorvastatin, clobetasol propionate",92672,"100, 2, 40, 0.05","mg, mg, mg, ounce","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+1135,"Tramadol, BuPROPion, Prevastatin, Naproxen, Lyrica, Citalopram, ProAir, Triam/HCTZ",63348,"50, 150, 20, 500, 75, 40, 8.5, 37.5","mg, mg, mg, mg, mg, mg, inhalation, mg","1, 1, 1, 2, 2, 1, 2, 1","90, 90, 90, 90, 90, 90, 90, 90","15, 15, 15, 80, 150, 20, 150, 50"
+1136,"Diltiazem, Benazepril, Hydrochlorothiazide, Metoprolol, Atorvastatin",61421,"180, 40, 25, 50, 20","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","78.00, 0.00, 0.00, 0.00, 0.00"
+1137,Pravastatin,92660,20,mg,1,90,15
+1138,lovastatin,1960,40,mg,1,90,0
+1140,Tramadol,60459,50,mg,2,90,3.76
+1141,Voltaren,10469,1,ml,2,90,0
+1142,"allopurinol, furosemide, Benazepril, metoprolol, levothyroxine, atorvaststin, clopidogrel, soliqua 100/33",94952,"100, 220, 5, 25, 0.05, 80, 75, 75","mg, mg, mg, mg, mg, mg, mg, mg","1, 3, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0"
+1143,"atenolol, tamsulosin, celecoxib, rosuvastatin, treximet",8107,"25, .4, 200, 5, 500","mg, mg, mg, mg, mg","1, 1, 1, .5, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+1144,"Promethazine, tizanidine, Venlafaxine",33604,"25, 4, 75","mg, mg, mg","1, 1, 1","100, 200, 90","30, 45, 30"
+1145,"simvastatin, metroprolol, hydrochlorothiaz",48197,"20, 100, 25","mg, mg, mg","1, 1, 1","90, 90, 90","1, 1, 1"
+1146,"Levothyroxine, Sertaline, Isosorbide, Clodidogrel, Ramipril, Metoprolol succ er",16417,".05, 50, 30, 75, 5, 25","mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+1147,Ambien,60119,10,mg,1,90,95
+1148,Pristiq,43162,100,mg,1,90,100
+1149,Carvetelol,32726,49,mg,2,90,10
+1150,"Levothyroxine tab, Topiramate, Gabapentin",8054,".05, 50, 300","mg, mg, mg","1, 2, 3","90, 90, 90","0, 0, 0"
+1151,Lonastan,8005,10,mg,1,90,0
+1152,"digoxin, astorvastin, comodin",33810,".125, 20, 4","mg, mg, mg","1, 1, 1","90, 90, 90","1.00, 1.00, 1.00"
+1153,"Atorvastatin, hydrochlorothiaz",76133,"20, 12.5","mg, mg","1, 1","90, 90","30, 25"
+1154,"atorvastatin, allopurinol, benazepril, metoprolol, furosemide, clopidogrel, levothyorxine, soliqua 100/33",94952,"80, 100, 5, 25, 20, 75, 0.05, 75","mg, mg, mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 3, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0"
+1155,"metoprolol, amlodopine, rosuvastatin",314,"100, 10, 20","mg, mg, mg","1, 1, 1","90, 90, 90","6.00, 5.00, 6.00"
+1156,premarin,46038,0.3,mg,1,90,60
+1157,Oxycodone,85730,10,mg,1,90,10
+1158,"Levothyroxine, Camilla",61109,"50, 35","mcg, mg","1, 1","90, 90","13.00, 22.00"
+1159,Losartan HCT,64119,1,mg,1,90,2
+1160,suboxone,8731,4,mg,2,90,10
+1161,suboxone,8731,4,mg,2,90,10
+1162,Metaformin,75036,500,mg,1,90,4.5
+1163,"Amiodarone HCL, Amlodipine Besylate, Atorvastatin, Eliquis, Metoprolol Tartrate",78253,"200, 10, 40, 5, 75","mg, mg, mg, mg, mg","1, 2, 1, 2, 2","90, 90, 90, 90, 90","0, 0, 0, 135, 0"
+1164,"lisinopril, amlodipine, metformin, simvastatin",92111,"5, 5, 500, 10","mg, mg, mg, mg","1, 1, 3, 1","90, 90, 90, 90","0, 0, 0, 0"
+1165,"pravastatin, zoloft",28226,"20, 50","mg, gram","1, .5","90, 90","25, 25"
+1166,"Sertraline, Simvastatin",85122,"100, 40","mg, mg","1, 1","90, 90","0, 0"
+1167,pradaxa,32965,150,mg,2,90,150
+1168,"Sertraline, Simvastatin, Levothyroxine",85122,"100, 40, .05","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+1169,"synthroid, bystolic, hydrochlorathiazide, atrovastatin, metformin",33509,"75, 10, 25, 40, 500","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","99, 99, 0, 0, 0"
+1170,Letrozole,80905,2.5,mg,1,90,0
+1171,"Amlodipine Besylate, Lisinopril, Rosuvastatin Calcium",32810,"5, 5, 5","mg, mg, mg","1, 1, 1","90, 90, 90","20.00, 20.00, 20.00"
+1172,Estrace,33435,42.5,gram,0.286,90,50
+1173,Lisinopril,93536,40,mg,1,90,0
+1174,"CLOPIDOGREL, LISINOPRIL, METOPROLOL TART, FINOFIBRATE",62049,"75, 40, 50, 145","mg, mg, mg, mg","1, 2, 2, 1","90, 90, 90, 90","0, 0, 0, 0"
+1175,"omeprazole, anastrozole",92072,"20, 1","mg, mg","1, 1","90, 90","10.00, 10.00"
+1176,"Tramadol HCL, Meloxicam, Amlodipine, Losartan, Omeprazole, Brimonidine, Hydrochlorothiazide",46123,"50, 15, 10, 100, 20, 15, 25","mg, mg, mg, mg, mg, ml, mg","1, 1, 1, 1, 1, 2, 1","90, 90, 90, 90, 90, 90, 90","0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00"
+1177,"Tekturna, Plavix, Amlodipine, Lipitor, Gabapentin, duloxitine",89052,"300, 75, 5, 40, 300, 60","mg, mg, mg, mg, gram, mg","1, 1, 2, 1, 2, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+1178,"DOXYCYCLINE HYCLATE, CELECOXIB, GABAPENTIN, WARFARIN, FLUDROCORT, RABEPRAZOLE, DESIPPPPRAMINE",63366,"100, 200, 300, 4, .1, 20, 25","mg, mg, mg, mg, mg, mg, mg","2, 1, 2, 2, 1, 2, 1","90, 90, 90, 90, 90, 90, 90","183.03, 103.61, 9.35, 21.37, 20.92, 204.04, 55.77"
+1179,mobic,27870,7.5,mg,2,90,1.63
+1180,"Janumet, Invokana, Nexium, Celexa, Cozaar, Lipitor, Zetia, Advair",8094,"1000, 300, 40, 20, 100, 20, 10, 250","mg, mg, mg, mg, mg, mg, mg, inhalation","2, 1, 1, 1, 1, 1, 1, 2","90, 90, 90, 90, 90, 90, 90, 90","15.00, 15.00, 15.00, 15.00, 15.00, 15.00, 15.00, 15.00"
+1181,"glucovance, accu check compact, Naproxen Sodium, hyoscyamine",70072,"500, 000, 550, 0.125","mg, mg, mg, mg","2, 2, 1, 1","90, 90, 90, 90","10.00, 000, 000, 000"
+1182,"Nifedipine XL, Ranitidine, dorzolamide HCL-Timolol maleate, Olopatadine",94571,"30, 150, 20, 1.11","mg, mg, mg, mg","1, 2, 2, 1","90, 90, 90, 90","0, 0, 10, 0"
+1183,"Fenofibrate, Hydrochlorothiazide, Meeeetoprolol Tartrate, Levothyroxin, Losartan, Rosuvastatin, Potassium Chloride, Flueeticasone Propionate, Nitro-Quick",28906,"160, 25, 50, 0.05, 50, 40, 10, 50, 0.4","mg, mg, mg, mg, mg, mg, mg, mcg, mg","1, 1, 2, 1, 2, 1, 2, 2, 1","90, 90, 90, 90, 90, 90, 90, 90, 90","0.00, 0.00, 0.00, 0.00, 0.00, 96.00, 0.00, 0.00, 0.00"
+1184,"Atenolol, Gemfibrozil, Invvokana, MetFORMIN, RAMIPRIL, Linzess, Ranexa",7630,"50, 600, 300, 1000, 2.5, 290, 500","mg, mg, mg, mg, mg, mcg, mg","2, 2, 1, 2, 2, 1, 2","90, 90, 90, 90, 90, 90, 90","2.57, 1.02, 37.00, 5.00, 5.00, 5.00, 5.00"
+1185,"PENNEEDLE_32GXMM_UF_NANO, ATENOLOL, GEMFIBROZIL, INVOKANA, MetFORMIN, RAMIPRIL",7630,"180, 50, 600, 300, 1000, 2.5","unit, mg, mg, mg, mg, mg","3, 2, 2, 1, 2, 1","90, 90, 90, 90, 90, 90","68.00, 2.57, 5.00, 37.00, 5.00, 5.00"
+1187,"Hydrea, Amitryptiline, Atorvastatin, Gabapentin, Duloxetine",43213,"2000, 25, 10, 400, 60","mg, mg, mg, mg, mg","1, 1, 1, 1, 2","90, 90, 90, 90, 90","39.99, 38.45, 0, 39.99, 159.99"
+1188,Omeprazole,76065,20,gram,2,90,0
+1189,Atenenol,43528,50,mg,1,90,0
+1190,"Atavorstatin, Amabelz",11201,"10, 0.5","mg, mg","1, 1","90, 90","0, 20.00"
+1191,Tamsulosin,6801,2,mg,1,90,0
+1192,"Amlodipine, KCL, Allopurinol, Donezepil, Trazadone, monteleukast, eliquis",34113,"5, 10, 300, 5, 50, 10, 2.5","mg, mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1, 2","90, 90, 90, 90, 90, 90, 180","15, 10, 5, 5, 2.5, 3, 35"
+1193,Amlodipine,34113,5,mg,1,90,15
+1194,"warfarin, MetFormin, levothyroxine, levothyroxine, losartan, simvastin, hydroCHLOROthiazide",10605,"7.5, 500, 175, 200, 50, 10, 25","mg, mg, mcg, mcg, mg, mg, mg","1, 2, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0"
+1195,humulog,8055,100,unit,1,90,10
+1196,"Valsartan/HCTZ, Ibuprofen",33813,"160, 800","mg, mg","1, 3","90, 90","25.55, 20.00"
+1197,"Xarelto, Metoprolol, Lisinopril, Atorvastatin",75572,"20, 12.5, 40, 40","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","1, 1, 1, 1"
+1198,Bupropion XL,8053,150,mg,1,90,0
+1199,"Junel FE, Advair",53029,"1.5, 250","unit, mcg","1, 1","90, 60","0, 0"
+1200,celebrex,19348,200,mg,1,90,39
+1201,"Bystolic, Valsartan, Amlodipine, oxybutynin, esomeprazole, meloxicam, synthroid, bupropion",96057,"20, 320, 5, 10, 40, 15, 125, 150","mg, mg, mg, mg, mg, mg, mcg, mg","1, 1, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0"
+1202,"venlafaxine, atorvastatin",12309,"150, 20","mg, mg","1, 1","90, 90","0.00, 0.00"
+1203,"Pentasa, Gabapentin, Methocarbamol, xerelto, oxycodon, mirtazapine, Prednisone",21701,"1000, 600, 500, 20, 10, 15, 10","mg, mg, mg, mg, mg, mg, mg","4, 3, 1, 1, 4, 1, 1","90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0"
+1204,"Spironolactone, buPROPion XL, Citalopram, valACYclovir 500mg, Necon",44107,"100, 150, 20, 500, 0.5","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+1205,allopurinol,53403,300,mg,1,90,0
+1206,"ACTOS, VASOTEC, GLUCOPHAGE",98382,"30, 10, 1000","mg, mg, mg","1, 1, 2","90, 90, 90","0, 0, 0"
+1207,"chlorthalidone, dilitazem, potassium cl er",61614,"25, 300, 20","mg, mg, mg","1, 1, 1","90, 90, 90","36.00, 36.00, 36.00"
+1208,"atorvastain, finasteride, tamsulosin",8757,"20, 5, 0.4","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+1209,Synthroid,8551,75,mcg,1,90,30
+1210,"Potassium CL ER, Diltiazem, Chlorthalidone",61614,"20, 300, 25","mg, mg, mg","1, 1, 1","90, 90, 90","36.00, 36.00, 36.00"
+1211,"Losartan, Ezetimbe, Levothyroxine, fenofibrate",7836,"100, 10, .075, 145","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+1212,"atorvastatin, finasteride, tamsulosin",8757,"20, 5, 0.4","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+1213,spriva,98685,1,inhalation,1,90,135
+1214,"Losartan, Atorvastatin, Levothyroxine, Finasteride, Tamsulosin",89074,"100, 10, 0.112, 5, 0.4","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+1215,"Travatan z, dorzolamide, alphagan p, tamsulosin HCL, finasteride",60617,"0.004, 22.3, 0.1, 0.4, 5","ml, mg, ml, mg, mg","1, 2, 2, 1, 1","90, 90, 90, 90, 90","9, 6, 7, 9, 8"
+1216,"simvistatin, Lisinopril, HCTZ, Propranolol, Pantoprazole",19111,"20, 20, 25, 80, 40","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+1217,"Mirtazapine, Gabapentin, Methocarbamol, Xarelto, Oxycodon, Pentasa",21701,"15, 600, 500, 20, 10, 1000","mg, mg, mg, mg, mg, mg","1, 3, 1, 1, 4, 4","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+1218,"VALSARTAN, GLIMEPIRIDE",80005,"80, 4","mg, mg","1, 2","90, 90",".00, 4.00"
+1219,"atenolol, levothroid, amlodipine, omeprazole, simvastatin",33442,"25, .25, 5, 40, 20","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+1220,"metformin, levothyroxine, atrovastatin, omeprazole, atenolol, hydrochlorot",48455,"500, 0.15, 10, 20, 25, 12.5","mg, mg, mg, mg, mg, mg","3, 1, 1, 1, 2, 1","90, 90, 90, 90, 180, 90","0, 20.00, 10.25, 0, 5.03, 8.99"
+1221,"Ramipril, Hydrochlorothiaz",7094,"5, 25","mg, mg","1, 1","90, 90","0, 0"
+1222,"levothyroxine, topamax",14086,"100, 50","mg, mcg","1, 1","90, 90","25, 25"
+1223,Humalog,78214,12,mg,3,90,75
+1224,furosimide,80918,40,mg,1,90,0
+1225,"carvedilol, triamt/hctz, pravastatin, lisinopril",60401,"12.5, 37.5, 80, 40","mg, mg, mg, mg","2, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+1226,"Atorvastatin, Celecoxib",80138,"40, 200","mg, mg","1, 1","90, 90","0, 30"
+1228,"ursodiol, lyvothyroxine",63304,"3, 1","mg, mg","1, 1","90, 90","131, 0"
+1229,Atorvastatin,77382,20,mg,1,90,0
+1230,"Test Drug 1, Test Drug 2",10544,"50, 100","mg, ml","1, 3","90, 90","25, 90"
+1231,Lisinopril,46034,20,mg,1,90,0
+1232,solodyn,60559,55,mg,1,90,220
+1233,"ramipril, xarelto, metoprolol, atorvastatin, hct",94904,"10, 20, 100, 40, 12.5","mg, mg, mg, mg, mg","1, 1, 2, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+1234,ramipril,94904,10,mg,1,90,0
+1235,"METOPROLOL ER SUCCINATE, LISINOPRIL, ATORVASTATIN, FLUTICASONE PROPIONATE",66002,"100, 5, 20, 50","mg, mg, mg, mcg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+1236,Metformin,12065,1500,mg,1,90,40
+1237,"Pantroprazole, Simvastatin Tab., Donepezil HCL, Fluoxetine HCL, Fluoxetine HCL, Olanzapine Tab.",11952,"40, 40, 5, 40, 10, 15","mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","12.00, 25, 20, 0, 0, 35"
+1238,"Citalopram, amlodipine, simvastatin, Levothyroxine",74006,"20, 5, 20, .075","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+1239,"Atorvastatin, Celecoxib",80138,"40, 200","mg, mg","1, 1","90, 90","0, 30"
+1240,Levathyrozine,9852,88,mg,1,90,3.76
+1241,rosuvastatin tab,23112,10,mg,1,90,0
+1242,"Estradiol, Trazodone, Omeprazole, Sulindac, Fluoxetine, Levothyroxine, Lyrica",54635,"1, 1, 20, 200, 20, 0.75, 25","mg, mg, mg, mg, mg, mg, mg","1, 1, 2, 2, 1, 1, 2","90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0"
+1243,"metoprolol, eliquis",6824,"25, 5","mg, mg","2, 2","90, 90","10, 10"
+1244,alendronate,83702,70,mg,0.143,90,0
+1245,Trinessa,10065,0,unit,1,90,5
+1246,"Zoloft, Ambien",20814,"100, 5","mg, mg","1, 1","90, 90","4, 2"
+1247,"Lisinopril, Atorvastatin, Hydrochlorothiaz",46563,"5, 10, 12.5","mg, mg, mg","1, 1, 1","90, 90, 90","0.00, 0.00, 0.00"
+1248,crestor,47240,20,mg,1,90,0
+1249,Zolof,28792,50,mg,1,90,0
+1250,"Lisinopril, Crestor",22204,"10, 40","mg, mg","1, 1","90, 90","0, 0"
+1251,"astorvastatin, metoprolol, dicyclomine, lisinopril, pantoprazole",60142,"20, 25, 20, 10, 40","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+1252,Metroporol,21093,20,mg,1,90,20
+1253,"Amabelz, Spironolactone, DicloFenac",23111,"0.5, 50, 75","mg, mg, mg","1, 2, 2","90, 90, 90","0, 1, 1"
+1254,"Progesterone, Micronized",85042,100,mg,1,90,43
+1255,"allopurinol, atorvastatin, clopidogrel, metoprolol, tamsulosin",29466,"300, 20, 75, 25, 0.4","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+1256,"amlodipine, Chlorthalidone",60653,"10, 25","mg, mg","1, 1","90, 90","5, 10"
+1257,Lisinopril,48167,20,mg,1,90,2
+1258,Sertraline,32162,50,mg,1,90,0
+1259,"Metformin Hydrochloride, Lumigan, Carteolol Hydrochloride Ophthalmic Sol",7430,"500, 1, 1","mg, ml, ml","1, 1, 2","90, 90, 90","0, 90.00, 0"
+1260,"Sertraline, Topiramate",98502,"25, 100","mg, mg","1, 1","90, 90","2.13, 3.13"
+1261,"gabapentin, GLIMEPIRIDE, lisinopril, metformin, levothyroxine",18018,"300, 4, 10, 1000, 50","mg, mg, mg, mg, mcg","1, 1, 1, 2, 1","90, 90, 90, 90, 90","30, 0, 0, 0, 30"
+1262,"Pravastin, Escitalopram, Pantiprazole, amlodipune",30127,"10, 15, 40, 2.5","mg, mg, mg, mg","1, 1, 2, 1","90, 90, 90, 90","0, 0, 0, 0"
+1263,"diphenoxylate, levothyroxine",19805,"2, 1","mg, mg","1, 1","90, 90","0, 0"
+1264,diphenoxylate,19805,2,mg,1,90,0
+1265,"ramipril, indapamide",76012,"10, 1.25","mg, mg","1, 1","90, 90","0, 0"
+1266,"Plavis, Oxybutynin, Opprazole, Vitamine D, Gabapentin",12533,"75, 10, 10, 5000, 600","mg, mg, mg, unit, mg","1, 1, 1, .143, 2","90, 90, 90, 90, 90","1, 1, 1, 1, 1"
+1267,"lisinopril, HydroCHLOROthiaz",4965,"30, 25","mg, mg","1, 1","90, 90","0, 0"
+1268,"Amlodipine, Rosuvastatin, Hydrochlorathiazide, Metoprolol succ",54902,"5, 20, 25, 100","mg, mg, mg, mcg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+1269,"Potassium CL, Simvastatin, Omeprazole, Atenol/Chlorthal, Doxazosin Mes",48307,"10, 40, 40, 50, 4","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","25., 25.00, 25.00, 25., 25."
+1270,Diazipam,24382,5,mg,2,90,4.54
+1271,divalproex,53070,1000,mg,1,90,0
+1272,Enalapril,7512,20,mg,1,90,22.48
+1273,pradaxa,11218,150,mg,2,90,87.5
+1275,Hydroxychloroquine,8332,200,gram,2,90,0
+1276,Losartan Postassium,93453,50,mg,1,90,20
+1277,"Venlafaxine, Levotheroxine",54403,"225, 100","mg, mcg","1, 1","90, 90","25.00, 22.50"
+1278,"Sertraline, Lisiniprol",61265,"75, 10","mg, mg","1, 1","90, 90","10.00, 10.00"
+1279,Lorstan,11379,100,mg,1,90,0
+1280,amlodipine,8096,10,mg,1,90,20
+1281,"losartan, amiodarone, atorvastatin",64020,"100, 200, 40","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+1282,morco,63040,4,mg,4,90,1
+1283,norco,63040,4,mg,4,90,1
+1284,"Atenolol, Crestol, Levothyroxine, Colestipol",29334,"12.5, 10, .15, 1","mg, mg, mcg, gram","1, 1, 1, 2","90, 90, 90, 90","0, 0, 0, 0"
+1285,Vyvanse,30092,70,mg,1,90,50
+1287,"ezetimibe, rosuvastatin, allopurinol",85266,"20, 20, 100","mg, mg, mg","1, 1, 1","90, 90, 90","18.00, 18.00, 4.00"
+1288,"Synthroid, AmLODIPine, Metoprolol, Timolol, Letrozole, Mometasone Furoate, Azalastine",7675,"150, 2.5, 25, 6.8, 2.5, 50, 175","mg, mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90","5, 5, 5, 5, 0, 5, 5"
+1289,"Verapamil ER, Hydroclorot, Lisinopril, Atorvastatin",4412,"180, 25, 40, 40","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","24.00, 10.00, 11.96, 27.00"
+1290,atorvastatin,7103,10,mg,1,90,6
+1291,"metformin, Losartan, Rosuvastatin, Tradjenta, Pioglidazone",6811,"1000, 50, 20, 5, 30","mg, mg, mg, mg, mg","2, 1, 1, 1, 1","90, 90, 90, 90, 90","1, 1, 1, 1, 1"
+1292,"metformin, Tradjenta, Pioglidazone, Rosuvastatin, Losartan, Sildenafil",6811,"1000, 5, 30, 20, 50, 20","mg, mg, mg, mg, mg, mg","2, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","1, 1, 1, 1, 1, 1"
+1293,Victoza,75249,18,mg,1,90,40
+1294,LISINOPRIL-HCTZ,29431,1,mg,1,90,0
+1295,Propanol,77484,60,mg,1,90,4
+1296,Levathyroxine,30514,100,mcg,1,90,0
+1297,1,91911,1,gram,1,90,1
+1298,venlafaxine,73505,225,mg,1,90,50
+1299,"Levetiracetam, Finastiride",94506,"500, 5","mg, mg","2, 1","90, 90","0, 0"
+1300,"Estradiol, Modafinil, Levothyroxine, Furosemide, Omeprazole, Bontril",62221,".5, 200, 100, 40, 40, 35","mcg, mg, mcg, mg, mg, mg","3, 1, 1, 2, 1, 2","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 19"
+1301,Estradiol,62221,0.5,mcg,3,90,0
+1302,"metoprolol tart, simvastatin",91942,"50, 40","mg, mg","2, 1","90, 90","0, 0"
+1303,Valsartan,8723,320,mg,1,90,5
+1304,"methotrexate, nexium",8019,"2.5, 40","mg, mg",".143, 1","90, 90","0, 8.00"
+1305,"lipitoatorvastatin, levothyroxine, omeprazole",2748,"20, .075, 20","mg, mcg, unit","1, 1, 1","90, 90, 90","0, 0, 0"
+1306,Oxybutin,8882,10,mg,1,90,127.06
+1307,"Symbicort, Spriva, Fenofibrate, Verpermil, Zopidum, carisoprodol, alprazolam",8701,"2, 1, 1, 1, 1, 1, 1","inhalation, inhalation, gram, mg, gram, mg, mg","2, 1, 1, 1, 1, 4, 3","90, 90, 90, 90, 90, 90, 90","345.00, 245.00, 75.00, 80.00, 90.00, 70.00, 85.00"
+1308,Norvasc,10028,5,mg,1,90,21
+1309,"invokana, mettoprololersuccinate, levothyroxine, losartan, metforminer, simvastatin, ibuprofen, losartan, januvia",63010,"1, 100, 0.175, 50, 500, 10, 800, 100, 100","mg, mg, mg, mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 2, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0, 0"
+1310,rosuvastatin,8618,10,mg,1,90,5
+1311,"Citalopram, atorvastatin, Amlodipine, Fenofibrate, Losartan/HCTZ, Januvia, Myerbetriq",49508,"10, 20, 10, 54, 100, 50, 10","mg, mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0"
+1312,"Atorvastatin, sevelamer",94903,"10, 800","mg, mg","1, 3","90, 90","16, 23"
+1313,"Tammoxifen, Sertraline",19010,"20, 25","mg, mg","1, 1","90, 90","01, 01"
+1314,SYNTHROID,10580,75,mg,1,90,0
+1315,"losartan, Atenolol",8054,"100, 25","mg, mg","1, 1","90, 90","5, 5"
+1317,EZETIMIB/SIMVASTAT TB 10-40,8361,1,mg,1,90,2
+1318,microgest,80222,1,ml,1,90,0
+1319,"Venlafaxine, Levothroxine",53705,"75, 0.088","mg, mg","1, 1","90, 90","0, 0"
+1320,AmLODIPine,77077,5,mg,1,90,0
+1321,"Atorvastatin Calcium Tab, Losartan Potassium Tab, Omeprazole",19333,"80, 25, 20","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+1322,"Ezetimibe, Brilinta, Atorvastatin, Metoprolol Succinate",6040,"10, 90, 80, 50","mg, mg, mg, mg","1, 2, 1, 1","90, 90, 90, 90","30.00, 135., 33.00, 35."
+1323,"toprol, lipitor",95928,"50, 10","mg, mg","1, 1","90, 90","40, 40"
+1324,Fenofibrate,28601,54,mg,1,90,22.15
+1325,"lisinopril-hctz, furosemide, fluticasone",78729,"1, 1, 1","mg, mg, mcg","1, 1, 1","90, 90, 90","0, 0, 0"
+1326,Ramipril,7465,10,ml,1,90,5
+1327,"lisinipril, hydrochlorothiazide, pravastatin",8055,"20, 25, 40","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+1328,"hydrochlorothiaz, lisinorol, clopidogrek, atorvastatin, allopurinol, isosorbide, pantoprazole, metoprolol",45238,"25, 20, 75, 20, 300, 30, 40, 26","mg, mg, mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 2, 0, 0, 0"
+1329,"Amlodipine, Tamsulosin, Spironolactone, Montelukast, Brero",27360,"10, .4, 25, 10, 25","mg, mg, mg, mg, mg","1, 2, 2, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 45"
+1330,"Metformin, atenolol, atorvastatin, escitlopram",79744,"1000, 25, 20, 20","mg, mg, mg, mg","2, 1, 1, 2","90, 90, 90, 90","0, 0, 0, 0"
+1331,Kevin Jerelds,34787,160,mg,1,90,0
+1332,"Lisinopril HCTZ, Buspirone HCL, Omepazole DR, Propranolol, Eliiquis",85282,"20, 15, 20, 10, 10","mg, mg, mg, mg, gram","1, 2, 1, 1, 2","90, 90, 90, 90, 90","0, 8, 8, 8, 30"
+1333,"Sertraline, Metoprolol ER",27215,"50, 25","mg, mg","1, 1","90, 90","3.97, 0"
+1334,"escatalipram, ambien10, progesterone",63040,"10, 10, 40","mg, mg, mg","1, 1, 1","90, 90, 90","10.00, 10, 10"
+1335,"Simvastatin, Levothyroxine, Metoprolol",97325,"20, .075, 50","mg, mg, mg","1, 1, 1","90, 90, 90","0.00, 0.00, 0.00"
+1336,BLISOVI 24 Fe,29505,1,mg,1,90,0
+1337,"Cymbalta, Atorvastatin",39503,"30, 20","mg, mg","1, 1","90, 90","1, 1"
+1338,"HyydroCholotiaside, Levolxyl, Losartan, Flueoxetine, celecobrix",98506,"12.5, 0.1, 25, 20, 200","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 5"
+1339,"losartan, omeprazole",99328,"25, 20","mg, mg","1, 1","90, 90","3.88, 19.43"
+1340,Synthroid,8093,100,mg,1,90,30
+1341,"Memantine HCL, Escitalopram, LamoTRIgine",30265,"10, 20, 100","mg, mg, mg","2, 1, 2","90, 90, 90","80.57, 48.43, 32.13"
+1342,Horizant,60142,600,mg,1,90,180
+1343,Fluoxetine,68508,40,mg,1,90,15
+1344,"Janumet 50-1000, Losartan, Atorvastatin, Metoprolol Succ ER, Latanoprost 0.005%, Simbrinza 1%-0.2%",10037,"1, 50, 40, 50, 1, 1","mg, mg, mg, mg, unit, unit","2, 2, 1, 1, 1, 2","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+1345,"Atorvastatin, Tamsulosin, Finasteride",33809,"10, 0.4, 5","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+1346,escitalopram,27215,20,mg,1,90,1
+1347,clopidogril,77571,75,mg,1,90,0
+1348,qsymia,77205,11.25,mg,1,90,0
+1349,Simvistatin,1940,20,mg,1,90,12
+1350,"Metformin, Verapamil SR",98133,"1000, 240","mg, mg","2, 1","90, 90","0, 0"
+1351,"Potassium Cl  ER, Ranitidine, Lisinopril, Fluoxetine, Simvastatin, Hydrochlorothiaz, Amlodipine",98040,"20, 150, 20, 40, 20, 25, 5","unit, mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90","1, 1, 1, 1, 1, 1, 1"
+1352,Levothyroxin,7960,50,mcg,1,90,5
+1353,Yaz,11021,3,mg,1,90,75
+1354,Metformin,34433,500,mg,2,90,0
+1355,"Pantoprazole, Leflunomide",78249,"20, 20","mg, mg","1, 1","90, 90","1, 1"
+1356,lexipro,95065,2,unit,2,90,2
+1357,"Valsartan, Protonix",32064,"160, 40","mg, mg","1, 2","90, 90","0, 1"
+1358,"Amlodipine, Esomeprazole, Levoxyl, Potassium, Carveditol, Citalopram, Meloxicam, Ropinirole, Entresto, Furosemine, HydraAzine",78749,"0.05, 40, .175, 20, 25, 20, 15, .5, 97103, 40, 12.5","mg, mg, mg, mg, mg, mg, mg, mg, unit, mg, mg","1, 1, 1, 1, 2, 1, 1, 1, 2, 3, 3","90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90","1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1"
+1359,"Gabapentin, Lamotrigine",6705,"300, 100","mg, mg","4, 3","90, 90","15, 15"
+1360,"nifedipine, citalopram",95823,"60, 10","mg, mg","1, 1","90, 90","0, 0"
+1361,"Edarbi, levothyroxine, escitalopram, imipramine, atvorastatin, premarin, montelukast, myrbetroq, nitrofurantoin-macro",31533,"80, .137, 20, 25, 10, 0.625, 10, 25, 50","mg, mcg, mg, mg, mg, mg, mg, mg, mg","1, 1, 1, 2, 1, 1, 1, 1, .143","90, 90, 90, 90, 90, 90, 90, 90, 90","08.35, 0, 0, 0, 0, 0, 0, 0, 3.35"
+1362,"metformin, glipizide, pioglitizone, simvastatin, omeprezole, losartan, amlodipine besylate, furosemide",60120,"1000, 5, 45, 20, 20, 100, 5, 20","mg, mg, mg, mg, mg, mg, mg, mg","2, 2, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0"
+1363,Enskyce,33716,0.15,mg,1,90,0
+1364,"Omeprazole, Olmesartan",44260,"20, 40","mg, mg","1, 1","90, 90","20.00, 40.00"
+1365,"Spironolactone, Isosorbide, Bupropion, Olmesartan, Furosemide, Alorvastatin",33843,"25, 60, 150, 40, 20, 20","mg, mg, mg, mg, mg, mg",".5, 1, 2, 1, .5, 1","90, 90, 90, 90, 90, 90","0.00, 0.00, 0.00, 0.00, 0.00, 0.00"
+1366,Oxybuytin 5mg,30114,5,mg,1,90,0
+1367,"Pravastatin, Chlorthaladone",60423,"80, 25","mg, mg","1, 1","90, 90","25, 25"
+1368,"Lorsartan, Atorvastatin, omeprazole",33437,"100, 40, 20","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+1369,"Lo Loestrin FE, Tretinoin Cream 0.025%, Clindamycin Phosphate Gel",10002,"10, 45, 45","mcg, gram, gram","1, 1, 1","90, 90, 90","0, 0, 0"
+1370,Pravastatin,7424,20,mg,1,90,0
+1371,"SYTHYROID, MYRBETRIQ",11704,"100, 25","mg, mg","1, 1","90, 90","36, 303"
+1372,simvastatin,7728,10,mg,1,90,0
+1373,symbicort 160/4.5,8204,4.5,inhalation,2,90,90
+1374,"BisoFum, Rosuvatatin",8618,"10, 20","mg, mg","1, 1","90, 90","5.00, 5.00"
+1375,"carverdilo, fenofibrate, simvastatin",16001,"1, 1, 1","mg, mg, mg","2, 1, 1","90, 90, 90","0, 0, 0"
+1376,Norgestim-Eth Estrad Triphasic,28078,35,mcg,1,90,0
+1377,"elequis, tamsolusin, metoprolol, pantoprazole, simvastatin, Propafenone",32779,"5, 0.4, 25, 40, 40, 225","mg, mg, mg, mg, mg, mg","2, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","1362.00, 100, 100, 100, 100, 100"
+1378,MetFormin,85132,1000,mg,2,90,0
+1379,"fenofibrate, Alendronate, Levothyroxin, Atorvastatin, Spiriva Handinhaler",89120,"048, 070, 100, 10, 0","mg, mg, mcg, mg, inhalation","1, 1, 1, 1, 1","90, 90, 90, 90, 90","96, 0, 0, 0, 0"
+1380,Sulfasazine,11207,2500,mg,1,90,5
+1381,"Eliquis, Lisinopril, Carvedilol, Nifedipine, Vitamin D",75204,"5, 40, 6.25, 30, 50000","mg, mg, mg, mg, unit","2, 1, 2, 1, .143","90, 90, 60, 90, 4","0, 0, 0, 0, 0"
+1382,"Lisinopril, Hydrochlorothiaz",11590,"40, 25","mg, mg","1, 1","90, 90","5.00, 5.00"
+1383,Escitalopram,85704,10,mg,1,90,20
+1384,Evoxac,90640,30,mg,3,90,10
+1386,"Eliquis, Atorvastatin, cyclobenzaprine, dofetilide, furosemide, lisinopril, metoprolol succinate ER, metoprolol succinate ER, triazolam",*****,"5, 20, 10, 500, 40, 10, 100, 25, 0.25","mg, mg, mg, mcg, mg, mg, mg, mg, mg","2, 1, 1, 2, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90","464.64, 9.02, 10.61, 412.57, 5.83, 8.41, 25.50, 18.53, 90.01"
+1387,"amlodipine, triamt/hctz, hctz, benazepril, simvastatin",71854,"10, 37.5, 25, 20, 20","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+1388,"Cozaar, Lyrica, Amaryl, Fluticasone Prop. SPR, Zantac, Eliquis, Desonide .05",37138,"50, 75, 2, 50, 150, 5, 59","mg, mg, mg, mcg, mg, mg, ml","2, 2, 1, 1, 2, 2, 2","90, 90, 90, 90, 90, 90, 90","3, 3, 3, 3, 3, 3, 3"
+1389,"Naproxen, potassium chloride Er, hydrochlorothiazide",34974,"500, 10, 50","mg, mg, mg","2, 1, 1","90, 90, 90","10.00, 10.00, 10.00"
+1390,simistaten,87124,10,mg,1,90,0
+1391,nnnnn,11779,10,mg,1,90,3
+1392,"Metoprolol, Atorvastatin, omeprazole",6840,"50, 40, 20","mg, mg, mg","2, 1, 1","90, 90, 90","0, 0, 0"
+1393,"Sertraline, Finasteride, Simvastatin",53406,"1, 1, 1","mg, unit, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+1394,"Atorvastatin, Metoprolol",76048,"20, 50","mg, mg","1, 1","90, 90","0, 0"
+1395,"Amlodipine, Zolpidem, Tramadol",77521,"10, 5, 50","mg, mg, mg","1, 1, 2","90, 90, 90","6.03, 23.39, 10.28"
+1396,"metformin, Lisinopril, Metoprolol, Atorvastin, Clonidine, Glimeripride",76859,"1000, 40, 100, 20, 0.1, 2","mg, mg, mg, mg, mg, mg","2, 2, 2, 1, 2, 2","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+1397,"atenolol, amlodipine, lovistatin, forosemide, warfarin",53227,"50, 5, 10, 40, 5","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+1398,"metoprolol, ezetimibe, rosuvastatin, clopidogrel, losartan",34233,"50, 10, 40, 75, 25","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","27.00, 27.00, 27.00, 27.00, 27.00"
+1399,"metoprolol, losartan",98168,"50, 50","mg, mg","2, 1","90, 90","0, 0"
+1400,synthroid,53217,1,mg,1,90,0
+1401,"isosorbide mn, metopropolol, simvistatin, finasteride, tamsulosin, allopurinol",33868,"30, 25, 40, 5, 0.4, 100","mg, mg, mg, mg, mg, mg","1, 2, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+1402,"astrovastin, Nifedipine, Atenolol, TTriamterene, Flovent",1220,"20, 90, 25, 37.5, 110","mg, mg, mg, mg, inhalation","1, 1, 1, 1, 1","90, 90, 90, 90, 90","1, 1, 1, 1, 1"
+1403,"Metformin ER, Glipizide XL",27312,"500, 5","mg, mg","4, 1","90, 90","18.00, 18"
+1404,Naproxen,6093,500,mg,2,90,10
+1405,Metformin,32578,1000,mg,1,90,0
+1406,"Finasteride, Isosorbide, Rosuvastatin, Carvedilol, Eliquis, Irbesartan, Propafenone, Amlodipine",35581,"5, 30, 5, 6.25, 5, 300, 150, 5","mg, mg, mg, mg, mg, mg, mg, mg","1, 1, 1, 2, 2, 1, 3, 1","90, 90, 90, 90, 90, 90, 90, 90","15.93, 16.38, 21.76, 3.10, 415.68, 22.40, 74.07, 2.49"
+1407,pravastatin,92128,10,mg,1,90,0
+1408,Metomin,10566,750,mg,1,90,0
+1409,Duloxatine,80134,60,mg,1,90,30
+1410,"Atorvastatin, allopurinol, Eliquis, Flecainide, Metoprolol, Pantoprazole, Potassium Chloride, Telmisartan, Oxybutynin",34120,"40, 100, 5, 50, 50, 40, 20, 80, 10","mg, mg, mg, mg, mg, mg, mg, mg, mg","1, 2, 2, 2, 2, 1, 1, 2, 1","90, 90, 90, 90, 90, 90, 90, 90, 90","12.50, 14.75, 485.00, 57.02, 17.59, 15.00, 1500, 57.00, 13.00"
+1411,"Bupropion HCL SR, Alendronate Sodium, Montelukast, ProAir Hfa, Rizatriptan Hcl Sr, Symbicort (Aerosol)l, Ceterizine, Spiriva HandiHaler",2886,"100, 70, 10, 110, 10, 160, 10, 2.5","mg, mg, mg, mcg, mg, inhalation, mg, inhalation","1, .143, 1, 1, 1, 2, 1, 2","90, 90, 90, 90, 90, 90, 90, 90","6, 6, 6.00, 56.00, 56.00, 56.00, 6.00, 56.00"
+1412,"topiramate, bupropion xl",34471,"200, 150","mg, mg","1, 1","90, 90","147.99, 118.99"
+1413,"Simvastatin, Metformin, Glipizide er",52742,"40, 1000, 5","mg, mg, mg","1, 2, 2","90, 90, 90","0, 0, 0"
+1414,"Flecainide, Terazosin",1262,"50, 5","mg, mg","2, 1","90, 90","0.00, 0"
+1415,"Pantoprazole, Metformin, Atorvastatin, Fluoxetine, Gabapentin, Alendronate",85390,"40, 500, 80, 40, 309, 70","mg, mg, mg, mg, mg, mg","1, 2, 1, 1, 2, .143","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+1416,Atorvastatin,10028,10,mg,1,90,5
+1417,"Advair Diskus, Fluticasone Proprionate, Lamotrigine, Fluoxetine",54301,"10050, 50, 200, 40","mcg, mcg, mg, mg","2, 2, 1, 1","90, 90, 90, 90","125.00, 0, 0, 0"
+1418,"atenolol, levothyroxine, pravastatin",34746,"25, 0.05, 20","mg, mg, mg","1, 1, 1","90, 90, 90","1.00, 1.00, 1.00"
+1419,levothiroxine,44321,150,mg,1,90,30
+1420,"Trazodone, Fluoxetine",63051,"50, 40","mg, mg","1, 1","90, 90","5.71, 13.15"
+1421,"fenofibrate, sertraline hcl, losartan, metoprolol, levothyroxine",34705,"160, 100, 100, 50, 0.075","mg, mg, mg, mg, mg","1, 1, 1, 2, 1","90, 90, 90, 90, 90","6.00, 6.00, 6.00, 6.00, 6.00"
+1422,"Alendronate Sodium, Amlod/Benazprl 5/20, atorvastatin",16505,"1, 1, 1","mg, mg, mg",".143, 1, 1","90, 90, 90","0, 0, 0"
+1423,Eliquis,33161,5,mg,2,90,30
+1424,pravacol,34114,20,mg,1,90,0
+1425,"Vagifem, levothyroxine",22903,"10, 88","mcg, mcg",".286, 1","90, 90","450, 50000"
+1426,"Levothyroxine, Metformin, metoprolol tart Tab, ATORVASTATIN, HydroCHLOROthiaz TAB, RaNITIdine TAB",25064,"0.075, 1000, 50, 80, 25, 150","mg, mg, mg, mg, mg, mg","1, 2, 1, 1, 1, 2","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+1427,"lEVOTHYROXINE, lOVASTATIN",85283,"1, 1","mg, mg","1, 1","90, 90","0, 0"
+1428,"amlodipine, lisinopril",48917,"10, 40","mg, mg","1, 1","90, 90","4.00, 4.00"
+1429,"duloxetine, Metoprolol, crestor, Exemestane, Creon DR, famotidine, Metformin ER",34741,"60, 25, 20, 25, 2000, 20, 500","mg, mg, mg, mg, unit, mg, mg","1, 1, 1, 1, 2, 1, 4","90, 90, 90, 90, 90, 90, 90","1.00, 1.00, 1.00, 1.00, 1.00, 1.00, 1.00"
+1430,"alendronate, lisinopril, lovasyatin",92612,"70, 10, 40","mg, mg, mg",".143, 1, 1","90, 90, 90","0, 0, 0"
+1431,Losartan,73529,50,mg,2,90,0
+1432,"HydroCHLOROthiaz, SIMVASTATIN, FENOFIBRATE, VENLAFAXINE XR, BuPROPion SR TAB",28513,"25, 40, 145, 37.5, 150","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","2.98, 2.98, 2.98, 2.98, 2.98"
+1433,"Simvisatin, Lisinipril, Metropolis success er, Zolpiden, Tramadol, Cyclobenzaprine, Ibuprofen, Lansoprazole",95576,"40, 30, 50, 5, 50, 10, 600, 30","mg, mg, mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1, 3, 1","90, 90, 90, 90, 90, 90, 90, 90","10.00, 10.00, 10.00, 10.00, 10.00, 10.00, 10.00, 10.00"
+1434,Losartan,8096,50,mg,1,90,0
+1435,"Simvastation, Lisinopril",81069,"40, 20","mg, mg","1, 1","90, 90","0.00, 0.00"
+1436,"Amlodipine Besylate, Atorvastatin, Furosemide, Glimepide, Pioglitazone, Allopurinol",90241,"10, 10, 40, 4, 30, 100","mg, mg, mg, mg, mg, mg","1, 1, 2, 1, 1, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+1437,"Amlodipine, Lisinopril, HCZT",78665,"5, 40, 50","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+1438,"Atenolol, Lisinopril, Hydrochlorothiazide, Fluticasone, Acyclovir",93710,"50, 20, 25, 50, 400","mg, mg, mg, mg, mg","1, 1, 1, 2, 3","90, 90, 90, 90, 90","1, 1, 1, 1, 1"
+1439,"Levothyroxine, Mibleas 24 Fe",8037,"50, 1","mcg, mg","1, 1","90, 90","9.00, 0.00"
+1440,Meloxicam,2816,15,mg,1,90,0
+1441,"Atorvastatin, valsartan, rizatriptan",7506,"20, 160, 10","mg, mg, mg","1, 1, 1","90, 90, 90","25.80, 25.20, 76.02"
+1442,"Lisinopril, LevoThyroxine, Tamsulosin, Esomeprazol",18067,"10, .075, 0.4, 40","mg, mg, mg, mg","1, 1, 2, 1","90, 90, 90, 90","1, 1, 1, 1"
+1443,tamsulosin,74133,0.4,mg,1,90,20
+1444,"Cymbalta, Lyrica, Celebrex",7204,"60, 150, 200","mg, mg, mg","2, 2, 1","90, 90, 90","5, 21, 5"
+1445,"LANTUS, NOVOLOG, GLUCOPHAGE ER, OMEPRAZOLE, AMLODIPINE, SIMVASTAT",11756,"45, 18, 1000, 20, 10, 10","unit, unit, mg, mg, mg, mg","1, 3, 2, 1, 1, 1","90, 90, 90, 90, 90, 90","37.50, 37.50, 15, 0, 1, 1"
+1446,amlodopine,46112,10,mg,1,90,0
+1447,"fenofibrate, lisinopril-hctz",,"200, 12.5","mg, mg","1, 1","90, 90","0, 0"
+1448,Lisinopril,,20,mg,1,90,0
+1449,"Allopurinol, Tamoxifen Citrate, Ezetimibe, Omeprazole, Escitalopram, Atorvastatin, Levothyroxine, Zolpidem",,"300, 20, 10, 20, 20, 40, 0.075, 10","mg, mg, mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 2, 1, 1","90, 90, 90, 90, 90, 90, 90, 90","0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00"
+1450,Lisinopril-HCTZ,,12.5,mg,1,90,1
+1451,"Losartan, Levothyroxine, HydroChlorothiaz",,"50, .075, 25","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+1452,lisinoprial,,20,mg,1,90,0
+1453,"Atorvastatin, Levothyroxine, Losartan, HCTZ",,"20, 150, 100, 25","mg, mcg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+1454,ziac,,10,gram,1,90,2
+1455,Glipizide,,5,mg,2,90,0
+1456,"losartain/hctz, Nexium, Alprazolam",,"100, 40, .5","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+1457,"telmisartan, cloptdogrel, montelukast, atorvastatin",,"40, 75, 10, 80","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 30, 0"
+1458,"Metforman, Lantus, Byderon, Metroprolol Succinate ER, Amlodipine, Atorvastin, Losartan Potassum, Wellbutrin, Mirtazapine",,"1000, 20, 2, 1, 10, 40, 25, 100, 30","mg, unit, I.U., mg, mg, mg, mg, mg, mg","2, 1, 1, 1, 1, 1, 1, 2, 1","90, 90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0, 0"
+1459,"Alprazolam, Simvastatin, Sertraline, Mylan-levothyrox, Pantoprazole did ec",,".5, 40, 200, .125, 40","mg, mg, mg, mg, mg","3, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+1460,"atorvastatin tab 20mg, metoprolol succ er tab, furosemide tab, levothroxine tab, glimepiride tab, allopurinol tab",,"20, 25, 20, 0.112, 1, 100","mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","3.20, 3.20, 3.20, 3.20, 3.20, 3.20"
+1461,synthroid,,75,mg,1,90,5
+1462,vesicare,,5,mg,1,90,0
+1463,"allopurinol, potassium cl, indapamide, losartan, Metropopol Succinate, adverstatin",,"300, 10, 2.5, 25, 50, 80","mg, mcg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+1464,"omeprazole, losartan, simvastatin, terazosing",,"20, 50, 10, 5","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+1465,"Entresto, Furosemide, Digoxin, Carvedilol",,"26, 20, .25, 3.125","mg, mg, mg, mg","2, 1, 1, 2","90, 90, 90, 90","0, 0, 0, 0"
+1466,Flovent,,220,mg,2,90,189
+1467,"medformin, simvastin, losartan/HCTZ 100/25, AmLODIPine, labetalol, levothyroxine",,"500, 40, 100, 10, 100, 0.088","mg, mg, mg, mg, mg, mg","2, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 16, 0"
+1468,"Atenolol, Simvastatin, Lisinopril",,"25, 20, 20","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+1469,Simvastatin,,20,mg,1,90,5
+1470,Celecoxib,,200,mg,2,90,10
+1471,"carvedilol, Hydrochlorthiaz, Simvastatin, Omeprazole, Mesalamine, Prednisone",,"25, 25, 40, 40, 800, 5","mg, mg, mg, mg, mg, mg","2, 1, 1, 1, 2, 2","90, 90, 90, 90, 90, 90","10, 10, 10, 10, 100, 10"
+1472,"gabapentin, propranolol",,"300, 20","mg, mg","3, 3","90, 90","0, 0"
+1473,simvastatin,,40,mg,1,90,2.61
+1474,praxada,,150,mg,2,90,87.5
+1475,"aTENOLOL, LISINOPRIL-HCTZ",,"1, 1","mg, unit","1, 1","100, 100","3.51, 3.51"
+1476,wellbutrinxl,,300,mg,1,90,0
+1477,Atorvastatin,,20,mg,1,90,0
+1478,"Metoprolol, Lisinopril, Pravastatin, HydroCHLOROthiaz",,"100, 40, 40, 12.5","mg, mg, mg, mg","2, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+1479,"atorvastin, carvedilol, hydralazine, losarten, terzosin, isosorbide, sertraline",,"40, 50, 100, 50, 20, 60, 50","mg, mg, mg, mg, mg, mg, mg","1, 2, 3, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0"
+1480,Paxil,,20,gram,1,90,5
+1481,"levothyroxine, Atorvastatin, Spironolactone, Warfarin, Carbamazepine, Larartan, Carvedilol, Omeprazole",,"0.175, 80, 25, 7.5, 200, 50, 12.5, 20","mg, mg, mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 2, 1, 2, 1","90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0"
+1482,losartan,,100,mg,1,90,25
+1483,Sertraline HCL,,100,mg,1,90,7
+1484,"Omeprazole, Diclofenec Sodium, Leflunomide, Xeljanz XR",,"20, 50, 20, 11","mg, mg, mg, mg","1, 2, 1, 1","90, 90, 90, 90","20, 20, 20, 0"
+1485,cyclobenziprin,,10,mg,1,90,5
+1486,glimepiride,,1,mg,1,90,5
+1487,"gabapentin, dutasteride, furosemide, atovrastatin, metoprolol succ er, warfarin, klorcon, potassium cl, ferrous sulfate, finasteride",,"300, 5, 20, 10, 50, 5, 10, 10, 325, 5","mg, mg, mg, mg, mg, mg, mg, mg, mg, mg","2, 1, 1, 1, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0, 0, 0"
+1488,"finasteride, tamsulosin, prednisone",,"5, .4, 10","mg, mg, mg","1, 2, 1","90, 90, 90","9.00, 9.00, 9.00"
+1489,"carvedilol, losartan, gabapentin tab, prednisone, hydrochlorothiaz tab, Atorvastation, oxybutnin, CQ10",,"6.25, 25, 600, 5, 12.5, 10, 10, 600","mg, mg, mg, mg, mg, mg, mg, mg","2, 1, 2, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0"
+1490,Xarelto,,20,mg,1,90,15
+1491,levothyroxine,,5,mg,1,90,0
+1492,Adderall,,20,mg,1,90,10
+1493,Narco,,10,mg,3,90,55
+1494,"NIFEDIPINE XL, TELMEISARTAN",,"30, 80","mg, mg","2, 1","90, 90","14, 14"
+1495,Sertraline,,100,mg,1,90,2
+1496,Losartan/HCTZ,,100,mg,1,90,13.5
+1497,Levothyroxine,,0.5,mg,1,90,20
+1498,"Sucralfate, meloxicam, pantoprazole, gabapentin, enalapril, metformin er, atorvastatin, fenofibrate",,"1, 15, 40, 300, 2.5, 500, 20, 160","gram, mg, mg, mg, mg, mg, mg, mg","4, 1, 2, 3, 1, 2, 1, 1","90, 90, 90, 90, 90, 90, 90, 90","0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0"
+1499,Omeporosel,,20,mg,1,90,0
+1500,pacerone,,200,mg,1,90,30
+1501,Tulana,,1,mg,1,90,0
+1502,Metformin,,1000,mg,2,90,15
+1503,Clonazepam,,0.5,mg,1,90,0
+1504,"metoprolol Succ ER Tab, Xarelto, Levothyroxine Tab, AmLODIPine Tab",,"50, 20, 0.05, 10","mg, mg, mg, mg","2, 1, 1, 1.5","90, 90, 90, 90","0, 416, 1, 1"
+1505,"potassium cl, clopidogrel, carvedilol, terazosin, atorvastatin, finasteride, wszopiclone, fenofibrate",,"20, 75, 3.125, 5, 40, 5, 2, 80","mg, mg, mg, mg, mg, mg, mg, mg","1, 1, 2, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90","5.00, 5.00, 5.00, 5.00, 5.00, 5.00, 80.00, 5.00"
+1506,"clopidogrel, donepezil, memantine, metorprolol succinate, quetiapine fumarate, simvastatin, vesicare",,"75, 10, 10, 50, 50, 80, 10","mg, mg, mg, mg, mg, mg, mg","1, 1, 2, 1, 2, 1, 1","90, 90, 90, 90, 90, 90, 90","1.00, 0.01, 91.00, 0.01, 0.01, 0.01, 91.00"
+1507,Simvastain,,20,mg,1,90,0
+1508,lLisinopril,,10,mg,2,90,24
+1509,"crixivan, lamivudine/ziovudine",,"800, 450","mg, mg","3, 2","90, 90","10, 10"
+1510,synthroid,,0.125,mg,1,90,3
+1511,amlodipine,,10,mg,1,90,1
+1512,"Ranitidine, Tamsulosin, Omneprazole",,"150, 0.4, 20","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+1513,"Eliquis, ProAir",,"5, 2","mg, inhalation","2, 4","90, 90","157., 157.00"
+1514,"Levothyroxine, Meloxicam, Lipitor, Irbesartan, sumatriptan, Lorazepam",,"75, 15, 20, 150, 25, 0.5","mcg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","20.00, 20.00, 20.00, 20.00, 20.00, 20.00"
+1515,atorvastain,,40,mg,1,90,0
+1516,Bystolic,,20,mg,1,90,18.55
+1517,"levothyroxine, simvastatin, oxybutynin",,".075, 20, 5","mg, mg, mg","1, 1, 2","90, 90, 90","0, 0, 0"
+1518,"Flecainide, metoprolol, myrbetriq, acyclovir",,"50, 25, 50, 200","mg, mg, mg, mg","2, 1, 1, 1","90, 90, 90, 90","0, 0, 376, 0"
+1519,"Metoprolol, Flecainide, Myrbetriq, Acyclovir",,"25, 50, 50, 200","mg, mg, mg, mg","1, 2, 1, 1","90, 90, 90, 90","0, 0, 357, 0"
+1520,"Citalopram, Fludrocortisone, Fluticasone Propionate, Humalog INJ, Levothyroxine, Montelukast, Omeprazole, Simvastatin",,"40, 0.1, 50, 40, 150, 10, 20, 40","mg, mg, mcg, ml, mcg, mg, mg, mg","2, 1, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0"
+1521,"allopurinol, omeprosol",,"100, 40","mg, mg","1, 1","90, 90","5, 5"
+1522,"metformin, simvastatin, allopurinol, glimepiride",,"500, 80, 100, 2","mg, mg, mg, mg","2, 1, 1, 2","90, 90, 90, 90","0, 0, 0, 0"
+1523,Finofibrate Tab,,158,mg,1,90,0
+1524,"metoprolol, amlodipine, clopidogrel, atrovastatin, metoprolol, citalopram",,"25, 5, 75, 80, 25, 20","mg, mg, mg, mg, mg, mg","2, 1, 1, 1, 2, 1","90, 90, 90, 90, 90, 90","20.63, 1.00, 5.75, 37.98, 20.60, 4.50"
+1525,Fenofibrates,,43,mg,1,90,20
+1526,primidone,,50,mg,2,90,15
+1527,zoloft,,150,mg,1,90,3
+1528,"levothyroine, lovastatin, tamsulosin",,"150, 40, 4","mg, mg, mg","1, 1, 1","90, 90, 90","00, 00, 000"
+1529,amlodipine/olmes medoxom,,1040,mg,1,90,8
+1530,Lisinopril,,20,mg,1,90,2
+1531,"metformin, Atorvastatin, Loratadine, Glimepiride, Pioalitazone, Potassium Citrate, Lisinopril, Lumingan, Accu-Chk Aviva Plus Test Strips",,"1000, 40, 10, 2, 30, 1080, 2.5, 0, 1","mg, mg, mg, mg, mg, mg, mg, unit, unit","2, 1, 1, 2, 1, 2, 1, 1, 3","90, 90, 90, 90, 90, 90, 90, 90, 90","1, 1, 1, 1, 1, 1, 1, 1, 1"
+1532,"Isosorbide MN, Atorvastatin, Lisinopril, Amlodipine, Pantop;razole SOD, Clopidogrel, Toprol, Flornase, Ranitidine, Tylenol, Calcium, Vitamin D3",,"1, 1, 1, 1, 2, 1, 1, 0, 1, 2, 2, 1","mg, mg, mg, mg, mg, mg, mg, mg, mg, mg, mg, mcg","1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 9, 0, 8, 8, 8"
+1533,"donepezil, HydroCHLOROthiaz",,"10, 25","mg, mg","1, 1","90, 90","0, 0"
+1534,"LEVOTHYROXINE TAB, OLMESARTAN/HCTZ TAB 20, ATORVASTATIN TAB",,"0.075, 12.5, 10","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+1535,"estradiol, metoprolol tarttab, fluoxetine cap, metoprolol tart, gabapentin, irbesarttan/hctz tb",,"1, 1, 1, 1, 1, 1","mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+1536,"glburide, atorvastatin, brilinta, metoprolol, lisinopril, jardiance, liraglutide",,"2.5, 40, 60, 25, 10, 25, 1.8","mg, mg, mg, mg, mg, mg, ml","1, 1, 2, 2, 1, 1, 1","90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0"
+1537,"Atorvastatin Tab, Losartan Tab, Montelukast",,"40, 100, 10","mg, mg, mg","1, 1, 1","90, 90, 90","5, 5, 5"
+1538,"xarelto, lisinopril, omeprezol",,"20, 10, 40","mg, mg, mg","1, 1, 1","90, 90, 90","131.00, 0, 30.00"
+1539,gabapentin,,300,mg,4,90,100
+1540,"Propranolol, Donepezil, Lisinopril, Lactulose, Xifaxan",,"10, 10, 30, 30, 550","mg, mg, mg, mg, mg","2, 1, 1, 2, 2","90, 90, 90, 90, 90","15, 15, 15, 15, 0"
+1541,"Indapamide, simvastatin, Losrtan Potassium, Estradiol",,"2.5, 20, 100, .5","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 29"
+1542,"Rosuvastatin, Amlodipine, Ezetimide, Anastrozole, Pantoprazole",,"20, 10, 10, 1, 40","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","6, 6, 24, 24, 39"
+1543,Levetiracetam,,500,mg,2,90,15.18
+1544,lexapro,,20,gram,1,90,0
+1545,lexapro,,20,mg,1,90,25
+1546,"levothyroxine, amlodipine, bumetanide, clopidogrel, metoprolol, allopurinol",,"0.075, 10, 0.5, 75, 50, 100","mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+1547,"Levothyroxine, Benazepril, Amlodipine",,"0.025, 20, 10","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+1548,"Amlodipine, FENOFIBRATE, OXYBUTYNIN TAB, OMEPRAZOLE",,"10, 160, 5, 20","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+1549,"Levothyroxine, Atorvastatin",,"1, 1","mg, mg","1, 1","90, 90","0, 0"
+1550,"provastatin, paroxitine, anastrozole",,"40, 20, 1","mg, mg, mg","1, 1, 1","90, 90, 90","0, 6, 10"
+1551,Letrezole,,2.5,mg,1,90,14
+1552,letrezole,,2.5,mg,1,90,30
+1553,"Atorvastatin, Sertraline, Omeprazole, Synthroid, Triamterene hydrochlorothiazide",,"40, 100, 40, 75, 25","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+1554,Metoprolol,,25,mg,2,90,10
+1555,"Quinapril, Metoprolol",,"40, 50","mg, mg","2, 1","90, 90","0, 0"
+1556,"Xarelto, Spironolactone, Labetalol, escitalopram, lipitor",,"15, 50, 200, 10, 40","mg, mg, mg, mg, mg","1, 1, 2, 1, 1","90, 90, 90, 90, 90","158, 10, 47, 7, 0"
+1558,Lantus,,64,unit,1,90,0
+1559,"atorvastatin, metoprolol, losartan",,"80, 25, 25","mg, mg, mg","1, 2, 1","90, 90, 90","0, 0, 0"
+1560,"levothyroxine, Prednisone",,"0.1, 5","mg, mg","1, 1","90, 90","0, 0"
+1561,Humalog,,6,unit,3,90,100
+1562,"Citalopram, Atorvastatin",,"20, 40","mg, mg","1, 1","90, 90","0, 0"
+1563,"spironolactone, simvastatin, atenolol, lisinopril, hydralazine, levothyroxine",,"25, 20, 25, 40, 10, .075","mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 2, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+1564,Diazapam,,2,mg,1,90,0
+1565,Estradiol,,2,mg,2,90,0
+1566,"glimepiride, lisinopril-hctz, ropinirole",,"2, 20, 1","mg, mg, mg","1, 1, 3","90, 90, 90","0, 0, 0"
+1567,benazepril,,40,mg,1,90,10
+1568,XARELTO,,20,mg,1,90,1100
+1569,"Omepraxole, Eliquis, Hydrochlorot, Fenofibrate, Metformin ER",,"40, 5, 25, 160, 500","mg, mg, mg, mg, mg","1, 2, 1, 1, 1","90, 90, 90, 90, 90","4, 1, 4, 10, 10"
+1570,"Chlorthalidone, Losartan, Nifedipine, Simvastatin, Montelukast SOD",,"25, 100, 90, 20, 10","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","14.00, 14.00, 14.00, 14.00, 20.00"
+1571,"uloric40, simvastatin",,"40, 020","mg, mg","1, 1","90, 90","25, 0"
+1572,"Atorvastatin, Lisinopril",,"1, 1","mg, mg","1, 1","90, 90","14, 1"
+1573,"prednisone, Hydroxychloroquine, mychophenolate, meloxicam",,"5, 200, 500, 15","mg, mg, mg, mg","1, 2, 2, 1","90, 90, 90, 90","5, 5, 5, 5"
+1574,"Losartan, Carvedilol, Spironolactone, Atorvastatin",,"25, 25, 25, 20","mg, mg, mg, mg","1, 2, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+1575,Alendronate,,70,mg,0.143,90,0
+1576,"Diltiazem CD, Astrovastin, Potassium CL SR MC, ELIQUIS, Losartan, Furosemide",,"240, 10, 10, 5, 25, 20","mg, mg, mcg, mg, mg, mg","1, 1, 1, 2, 1, 1","90, 90, 90, 90, 90, 90","40.51, 13.24, 16.72, 433.10, 15.01, 0.01"
+1577,Diltiazem CD,,240,mg,1,90,40.51
+1578,"Hydroxyurea, Amitriptyline, gabapentin, Duloxitine, Atorvastatin",,"2000, 25, 1200, 60, 10","mg, mg, mg, mg, mg","1, 1, 1, 2, 1","90, 90, 90, 90, 90","141.83, 16.92, 24.87, 27.84, 10.00"
+1579,"simvastatin, lisiniopril",,"40, 10","mg, mg","1, 1","90, 90","0, 0"
+1580,"pioglitazonc, simvastain, metformin, fluoretine, clopidogel, lisinopril",,"30, 40, 500, 40, 75, 5","mg, mg, mg, mg, mg, mg","1, 1, 2, 1, 1, 1","90, 90, 90, 90, 90, 90","00, 00, 00, 00, 00, 00"
+1581,Omeprozole,,20,mg,1,90,10
+1582,metformin er,,1,mg,2,90,0
+1583,"Clonidine, Hydralazine, Biso fum/hct, Simvastine tab, metoprolol tartrate",,"1, 25, 6.25, 20, 50","mg, mg, mg, mg, mg","3, 1, 1, 1, 2","90, 90, 90, 90, 90","3.95, 20, 6.85, 3.33, 3.49"
+1584,"Pravastatin, Finasteride, Losartan/HCTZ, Fluoxetine, Fenofibrate, Clopidogrel, Levothyroxine",,"1, 1, 1, 1, 1, 1, 1","mg, mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90","0.00, 0.00, 0.00, 0.00, 87.00, 0.00, 0.00"
+1585,Pioglitazone,,30,mg,1,90,20
+1586,"Atorvastatin Tab, Lisinopril-HCTZ TAB, Nexium CAP",,"20, 12.5, 40","mg, mg, mg","1, 1, 1","90, 90, 90","3.00, 18.00, 75.00"
+1587,xareto,,20,gram,1,90,130
+1588,linsinopril,,20,mg,1,90,0
+1590,Ramipril,,10,mg,1,90,12
+1591,Lisinipril,,25,mg,1,90,0
+1592,Synthroid,,1,mcg,1,90,100
+1593,"xarelto, Nadalol, hydroxychloroquine, benazapril, protonix, keppra, allopurinol, celecoxib, levothyroxine, citalopram",,"20, 40, 200, 20, 40, 500, 300, 200, 50, 10","mg, mg, mg, mg, mg, mg, mg, mg, mcg, mg","1, 1, 1, 1, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90, 90","290, 98.50, 10.18, 10.18, 10.18, 10.18, 10.18, 290, 10.18, 10.18"
+1595,Atorvastatin,,10,mg,1,90,0
+1596,DULOXETINE,,30,mg,1,90,120
+1597,"lotrel-generic, Metformin, januvia, Pravastatin, Potassium Chloride, Furosemide, Thyroizane, Vagifem",,"1, 2, 1, 1, 1, 1, 1, 1","mg, mg, mg, mg, mg, mg, mg, mg","1, 2, 1, 1, 2, 2, 1, .143","90, 90, 90, 90, 90, 90, 90, 90","5, 5, 25, 5, 5, 5, 5, 40"
+1598,Simvastatin,,20,mg,1,90,0
+1599,"Simvastatin Tab, Levothyroxine, Phenobarbital",,"40, 0.025, 64.8","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 18.00"
+1600,"Folic Acid, Losartan/Hctz",,"1, 0","gram, gram","1, 1","90, 90","1.94, 0"
+1601,"Advair Diskus, Azithromycin, Carisoprodol, Diltiazem, Etodolac, Hydrocodone -Acetaminophen, Ipratropium-Albuterol, Nature-Thyroid, Prednisone, ProFit Respiclick 108, Oxygen, Spirits respimat, Nasonex, Famotidine",,"50050, 250, 350, 240, 400, 325, 0.5, 32.5, 5, 90, 3.5, 2.5, 50, 10","mg, mg, mg, mg, mg, mg, ml, mg, mg, mcg, inhalation, mcg, mg, mg","1, 1, 1, 1, 2, 3, 3, 1, 2, 2, 1, 2, 2, 1","90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90","0, 0, 11.00, 34, 81.00, 34.00, 14.00, 0.00, 0.0, 0, 0, 0, 0, 35.00"
+1602,"Gemfibrozil, atorvastatin, glimeperide, jardiance, levothyroxine, lisinopril",,"600, 10, 2, 25, 100, 10","mg, mg, mg, mg, mcg, mg","2, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90","25.00, 14.60, 23.91, 75.00, 25.00, 2.23"
+1603,"lisinhopril, atorvastain, triamterene-hctz",,"20, 10, 75","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+1604,"paroxetine, synthroid",,"10, 50","mg, mcg","1, 1","90, 90","1.70, 11.90"
+1605,"levocetirizine, irbesartan, pravastatin's, donepezil's, prednisone, pantoprazole, spiriva, budesonide, brovana, hydrochlorothiazide, proair",,"5, 75, 80, 23, 5, 40, 2.5, .5, 15, 12.5, 8.5","mg, mg, mg, mg, mg, mg, mcg, mg, mg, mg, mg","1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 6","90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"
+1606,"tacrolimus, tacrolimus, atrovastin, carvedilol, amlodipine, lisinopril",,"1, .5, 20, 3.125, 10, 10","mg, mg, mg, mg, mg, mg","2, 2, 1, 2, 1, 1","90, 90, 90, 90, 90, 90","00.00, 00.00, 00.00, 00.00, 00.00, 00.00"
+1607,Lisinopail,,40,mg,1,90,0
+1608,"Glipizide, Atenolol, Amlodipine, Hydrochlorothiaz, Losartan/hctz, Tamsulosin, Metformin",,"10, 100, 10, 25, 100, 0.4, 1000","mg, mg, mg, mg, mg, mg, mg","2, 1, 1, 1, 1, 1, 2","90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0"
+1609,"Humilog, Januvia, Metformin, furosimide, MetOLazone, PARoxetine, CARVEDIOL, Pot Chlor ER",,"35, 70, 1000, 40, 5, 30, 12.5, 20","unit, unit, mg, mg, mg, mg, gram, mg","3, 1, 2, 1, .428, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90","1200.00, 1200.00, 30.00, 20.00, 50.00, 40.00, 20.00, 20.00"
+1610,"BuPROPion XL TAB, GABAPENTIN CAP, METOPROLOL SUCC TAB ER, FENOFIBRATE TAB, LOSARTAN HCTZ TAB ER, ATORVASTATIN TAB",,"300, 300, 25, 160, 50, 10","mg, mg, mg, mg, mg, mg","1, 1, 2, 1, 2, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+1611,starlix,,104,mg,3,90,0
+1612,"verapamil, atenolol",,"180, 75","mg, mg","1, 1","90, 90","18., 0"
+1613,"janumet xr, RaNITldine, METOPROLOL, ALLOPURINOL, LISINOPRIL, BuPROPion, ATORVASTIN, AmLODIPine, WARFARIN, WARFARIN, TraZODone, FENOFIBRATE",,"50, 300, 25, 300, 40, 150, 80, 5, 1, 5, 50, 54","mg, mg, mg, mg, mg, mg, mg, mg, mg, mg, mg, mg","2, 1, 1, 1, 1, 1, 1, 1.5, .858, 1.143, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"
+1614,"Losartan, Atorvastatin",,"100, 10","mg, mg","1, 1","90, 90","15.00, 15.00"
+1615,alprazolam,,1,mg,3,90,12
+1616,"cyanocobalamin, levothyroxine, citalopram, propranolol, propranolol er, atorvastatin, alendronate",,"1000, .088, 40, 20, 160, 40, 70","mg, mg, mg, mg, mg, mg, mg",".0333, 1, 1, 1, 1, 1, .143","90, 90, 90, 1, 90, 90, 90","30, 0, 0, 0, 0, 0, 0"
+1617,"AmLODIPine, ALPRAZolam",,"5, .5","mg, mg","2, 2","90, 90","100.00, 100.00"
+1618,Levothyroxin,,75,mg,1,90,15.99
+1619,escitalopram,,10,mg,1,90,150
+1620,"Qumipril, Amlodipine Besylate, crestor, Zetia, Metoprolol  Succinate ER, Estradiol",,"40, 5, 40, 10, 50, 0.5","mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 2, .5","90, 90, 90, 90, 90, 90","35.02, 15.62, 36.00, 12.00, 36.00, 12.00"
+1621,"valsartan, Simvastatin, montelukast",,"80, 20, 10","mg, mg, mg","1, 1, 1","90, 90, 90","5.00, 5.00, 5.00"
+1622,"Metformin, Tamsulosin, Acyclovir, warfarin, Glimepiride, Metoprolol, Losartan, Finasteride",,"500, 0.4, 400, 5, 4, 100, 25, 5","mg, mg, mg, mg, mg, mg, mg, mg","2, 1, 2, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0"
+1623,"amlodipine besylate, hydrochlorothiazide, bystolic, losartan, oxybutynin, levothroxine",,"5, 25, 10, 50, 5, .075","mg, mg, mg, mg, mg, mg","1, 1, 1, 2, 2, 1","90, 90, 90, 90, 90, 90","0, 0, 96.00, 0, 0, 0"
+1624,"Benazepril, Sertraline HCL, Metoprolol Succ",,"40, 50, 50","mg, mg, mg","1, 1, 1","90, 90, 90","0.00, 0.00, 0.00"
+1625,"Metoprolol Succ, Sertraline HCL, Benazepril",,"50, 50, 40","mg, mg, mg","1, 1, 1","90, 90, 90","0.00, 0.00, 0.00"
+1626,"finasteride, tamulosin, allopurinol, janumet",,"5, .4, 300, 50","mg, mg, mg, mg","1, 1, 1, 2","90, 90, 90, 90","20.00, 20.00, 20.00, 60.00"
+1627,"Atorvastatin, Allopurinol",,"10, 100","mg, mg","1, 2","90, 90","0, 0"
+1628,"Premarin, Amlodipine, Syynthroid",,"0.625, 2.5, .05","mg, mg, mg",".286, 1, 1","90, 90, 90","0, 0, 0"
+1629,"Ability, Sertraline, Cymbalta, Cymbalta",,"10, 100, 60, 30","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","10.00, 10.00, 10.00, 10.00"
+1630,"Lovastatin, Ramipiril, Amplodipine",,"40, 10, 5","mg, mg, mg","2, 1, 1","90, 90, 90","0, 0, 0"
+1631,"indapaide, klor con(potassium)m20, nifedipine, Lovvastain",,"1.25, 20, 60, 40","mg, mg, mg, mg","1, 2, 1, 1","90, 90, 90, 90","8, 8, 8, 8"
+1632,Norpace,,100,mg,2,90,0
+1633,"Pravaststin, Lisinopril, Metformin 500 HcL",,"40, 40, 500","mg, mg, mg","1, 1, 2","90, 90, 90","69.89, 6.91, 4.29"
+1634,eszopiclone,,1,mg,1,90,34
+1635,"l-thyroxine, l-thyroxine, meloxicam, alendronate sodium",,"125, 112, 15, 70","mcg, mcg, mg, mg",".429, .571, 1, .143","90, 90, 90, 90","0, 0, 0, 0"
+1636,"Chlorthalidone, Carvedidol, Losartan, Isosorbide, Bupropion, Escitalopram, Amlodipine, Atorvastatin, Pramipexole, Finasteride, Tamsulosin",,"25, 12.5, 100, 60, 300, 20, 5, 40, 0.125, 5, 0.4","mg, mg, mg, mg, mg, mg, mg, mg, mg, mg, mg","1, 2, 1, 1, 1, 1, 2, 1, 3, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90","5.00, 5.00, 5.00, 5.00, 5.00, 5.00, 5.00, 5.00, 5.00, 5.00, 5.00"
+1637,lexapro,,20,mg,1,90,10
+1638,"duloxetine hcl, SIMVASTATIN, LEVOTHYROXINE, GABAPENTIN, MONTELUKAST, ZOLPIDEM, CALCITROIL, ATENOLOL",,"60, 40, 0.075, 300, 10, 10, 0.25, 50","mg, mg, mg, mg, mg, mg, mcg, mg","1, 1, 1, 3, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90","59.00, 0, 0, 0, 0, 10.40, 21.30, 9.20"
+1639,"testostorone, Armour Thyroid",,"1, 1","ml, mg",".143, 1","90, 90","41, 10"
+1640,metformin,,500,mg,2,90,1.97
+1641,Metformin,,500,mg,4,90,10
+1642,rosuvastatin,,20,mg,1,90,15
+1643,"losarten, prevostaten",,"12.5, 40","mg, mg","1, 1","90, 90","20, 20"
+1644,"gabapentin, gabapentin, losartan, alendronate, meloxicam, chlorthalidone",,"100, 600, 50, 70, 15, 25","mg, mg, mg, mg, mg, mg","1, 1, 1, .143, 1, 1","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"
+1645,"simvastatin, hydrochlorothiaz",,"40, 25","mg, mg","1, 1","90, 90","0, 0"
+1646,"atorvastatin, hydrochlorothiazide, clopidogrel",,"40, 12.5, 75","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+1647,"losartan, simvastatin, tramdol, metformin, hydrochlorothiazide, januvia, oxybutynin, amitriptyline",,"100, 20, 50, 500, 25, 50, 10, 10","mg, mg, mg, mg, mg, mg, mg, mg","1, 1, 1, 2, 1, 1, 1, 2","90, 90, 90, 90, 90, 90, 90, 90","7.19, 1.04, 10.18, 8.54, 0.31, 390.50, 21.00, 7.00"
+1648,"Finasteridc, Tamsulosin, levothyroxine",,"5, .4, 500","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+1649,"amlodipine, atorvastatin, losartan, fluconazole",,"5, 20, 50, 150","mg, mg, mg, mg","1, 1, 1, .143","90, 90, 90, 90","3.63, 51.58, 3.53, 36.90"
+1650,"simvastatin, terazosin, bupropion, fluocinonide, triamolone, fluticasone propionate",,"10, 10, 150, 0.05, .1, 50","mg, mg, mg, ml, gram, mcg","1, 1, 2, 1, 1, 2","90, 90, 90, 90, 90, 90","0.0, 0.0, 0.0, 0.0, 47.00, 0.0"
+1651,"Lisinopril, Prevastatin Sod, Levothyroxine, Liothyonine Sod, Metaprolol Tartrate, Omeprazole, Ipratropium Bro Nasal Spray",,"20, 80, 100, 5, 25, 40, 1000","mg, mg, mcg, mg, mg, mg, mg","1, 1, 1, 1, 2, 1, 2","90, 90, 90, 90, 90, 90, 90","0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01"
+1652,"{sosorbide, HydroChlorothiaz, Metoprolol Tart, Clonidine, Amlodipine, Estradiol, Lantus, Humalog, Eliquist",,"60, 25, 25, 0.1, 10, 0.6, 30, 10, 5","mg, mg, mg, mg, mg, mg, unit, unit, mg","2, 1, 6, 2, 1, .143, 1, 2, 2","90, 90, 90, 90, 90, 90, 90, 90, 90","45, 5, 45, 45, 45, 25, 106, 199, 157"
+1653,"Gabapentin, amlodipine",,"300, 10","mg, mg","3, 1","90, 90","5.00, 5.00"
+1654,"lisinopril, esomeprazole",,"20, 40","mg, mg","1, 1","90, 90","5.00, 5.00"
+1655,glimepiride,,2,mg,1,90,400
+1656,"pravastatin, methotrexate, bisoprolol/hct",,"20, 22, 25","mg, mg, mg","1, .143, 1","90, 90, 90","0, 0, 26"
+1657,"XARELTO, METOPROLOL, SERTERLINE, PRAVASTATIN, Albuterol, Clonozapam, Lorsartan, Breo, Acyclover",,"20, 115, 50, 40, 90, 50, 50, 100, 400","mg, mg, mg, mg, mcg, mg, mg, mcg, mg","1, 2, 1, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90","451.00, 13.00, 8.00, 45.00, 42.00, 13.00, 8.00, 410.99, 3.35"
+1658,"vesicare, losartin",,"10, 100","mg, mg","1, 1","90, 90","40, 12"
+1659,"WARFARIN, ATORVASTATIN, KATANOPROST OPHTHALMIC SOLUTION",,"5, 10, 0.005","mg, mg, ml","1, 1, 1","90, 90, 90","14.78, 20.00, 0"
+1660,"Levothyroxine, Atorvastatin",,"0.137, 20","mg, mg","1, 1","90, 90","10.00, 0"
+1661,"ALLOPURINOL, ATORVASTATIN, DilTIAZem CD CAP, METOPROLOL TART TAB, RAMIPRIL",,"100, 40, 180, 50, 2.5","mg, mg, mg, mg, mg","3, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+1662,"Furosemide, Lesinopril, Levothyroxine, Metaprolol Taitrate, Omeprazole DR, Lorazepam, Zolpidem, Tramadol",,"20, 10, 25, 100, 40, 1, 10, 50","mg, mg, mcg, mg, mg, mg, mg, mg","1, 1, 1, 2, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0"
+1663,"Gabapentin, Diovan, Lipitor",,"1200, 80, 10","mg, mg, mg","1, 1, 1","90, 90, 90","10.00, 10.00, 10.00"
+1664,"atenolol, citalopram, rosuvastatin, ramipril",,"25, 20, 20, 10","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+1665,Adderall,,20,mg,2,90,36
+1666,"amlodipine/benazepril cap, atorvastatin calcium, pantoprazole sod",,"10, 20, 40","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+1667,Vimpat,,150,mg,2,90,350
+1668,"atorvastatin, finasteride, valsarton, plavix",,"40, 5, 80, 20","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+1669,"Lamotrogine, gabapentin",,"400, 600","mg, mg","1, 1","90, 90","5., 5."
+1670,"Brilinta, Metoprolol, Lisinopril, Ezetimibe, Smvastatin",,"90, 25, 5, 10, 80","mg, mg, mg, mg, mg","2, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+1671,"LISINOPRIL, GABAPENTIN, LEVEMIR, NOVOLOG, AMLODIPRIN, BRIMONIDINE TARTRATE, TIMOLOL MELEATE, DORZOLAMIDE HCL",,"1, 4, 1, 1, 1, 2, 2, 2","mg, mg, unit, unit, mg, ml, ml, ml","1, 4, 1, 3, 1, 2, 2, 2","90, 90, 90, 90, 90, 90, 90, 90","1.53, 14.00, 100.00, 100.00, 14.00, 14.00, 14.00, 14.00"
+1672,Atorvastatin,,10,mg,1,90,10
+1673,Lo Loestrin,,1,unit,1,90,25
+1674,"Omeprazole, Montelukast",,"20, 10","mg, mg","1, 1","90, 90","0, 0"
+1675,"levothyroxine, lovastatin, losartan potassium",,"0.125, 40, 25","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+1676,"prozac, xanax, zocor, carvedilol, potassium chloride, hydrochlorothiazide",,"60, .5, 80, 12.5, 20, 50","mg, mg, mg, mg, mg, mg","1, 1, 1, 2, 1, 1","90, 90, 90, 90, 90, 90","3.00, 3.00, 3.00, 3.00, 3.00, 3.00"
+1677,synvastatin,,20,mg,1,90,0
+1678,omeprazol,,1,mg,1,90,0
+1679,Synthroid,,88,mcg,1,90,52
+1680,"ROSUVASTATIN, VALSARTAN",,"10, 80","mg, mg","1, 1","90, 90","0, 0"
+1681,Adderall,,15,mg,2,90,37.5
+1682,"Levothyroxine, Omeprazole, Metoprolol ER, Metformin Er, Verapamil SR, Pravastatin, Meloxicam, Losartan",,"0.2, 20, 50, 1000, 240, 20, 15, 100","mg, mg, mg, mg, mg, mg, mg, mg","1, 2, 1, 2, 2, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90","999.99, 999.99, 999.99, 999.99, 999.99, 999.99, 999.99, 999.99"
+1683,"levothyroxine, fluoxetine, trazadone, lamotrigine",,"112, 10, 100, 150","mcg, mg, mg, mg","1, 1, 1, 2","90, 90, 90, 90","21.00, 3.22, 10.70, 17.77"
+1684,Simvastatin,,20,mg,1,90,0
+1685,"armour thyroid, Lisinopril",,"180, 12.5","mg, mg","1, 1","90, 90","0.00, 0.00"
+1686,Latuda,,60,mg,1,90,600
+1687,"Bupropion SR, Tamulosin HCL, Losartin Potassium, Acyclovir",,"150, 0.4, 50, 400","mg, mg, mg, mg","2, 2, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+1688,"levothyroxine, atorvastatin, atenolol",,"0.1, 80, 25","mg, mg, mg","1, 1, 1","90, 90, 90","0, 0, 0"
+1689,Atorvastatin,,40,mg,1,90,15
+1690,Bupro,,300,mg,1,90,5
+1691,"atenolol, amlodipine, latanoprost, levothyroxine tab, lisinopril, lovastatin, fenofibrate",,"50, 10, 005, .05, 40, 20, 145","mg, mg, unit, mg, mg, mg, mg","1, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 90",".94, 1.48, 25.00, 25.00, 3.69, 4.22, 25.00"
+1692,"Amlod/valsar tab, Metoprolol succ er tab",,"320, 50","mg, mg","1, 1","90, 90","20.00, 20.00"
+1693,"Levocetirizine, Montelukast, Metoprolol, Atorvastatin, Amlodipine",,"5, 10, 25, 20, 5","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","0.00, 0.00, 0.00, 0.00, 0.00"
+1694,ramipril,,5,mg,2,90,21
+1695,Amlodipine,,5,mg,1,90,0
+1696,"amlodipine, metoprolol, clopidogrel, pravastatin",,"10, 10, 75, 10","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+1697,plavix,,75,mg,1,90,0
+1698,"ATORVASTATIN, LOSARTAN HCTZ TAB 100, MYRBETRIQ, LEVOTHYROXINE",,"10, 12.5, 25, 75","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 90, 0"
+1699,"Plaquenil, Lisinopril, ATORVASTATIN, Viagra/Cialis, Metronidazole Gel 1%",,"200, 5, 20, 100, 60","mg, mg, mg, mg, unit","2, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+1700,hydrachlorothiaz,,50,mg,1,90,0
+1701,Mycophenalate,,500,mg,6,90,10
+1702,"Diltiazem, Omeprazole, Pravastatin, Levocetirizine",,"240, 20, 40, 5","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","5.00, 5.00, 5.00, 5.00"
+1703,Efexor,,37.5,mg,1,90,1
+1704,pravastatin,,1,unit,1,90,0
+1705,"irbesartan tab, metoprolol succ er tab, simvastatin tab, fluoxentine cap",,"150, 25, 40, 20","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0000, 0000, 000, 000"
+1706,"Gabapentin, Fluticasone Proprionate, Amlodipine tab, Atorvastatin tab, Losartan",,"300, 50, 10, 20, 100","mg, mcg, mg, mg, mg","2, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 1, 0, 0"
+1707,"ACYCLOVIR, ATORVASTATIN, METOCLOPRAMIDE, LOSARTIN/HCTZ, AMLOIPINE, PANTOPRAZOL SOD, PREDNISONE, B12",,"200, 40, 10, 100, 5, 40, 10, 1000","mg, mg, mg, mg, mg, mg, mg, ml","1, 1, 2, 1, 1, 1, 2, .0333","90, 90, 90, 90, 90, 90, 90, 90","0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0"
+1708,Lisinopril,,10,mg,1,90,0
+1709,"Pantoprazole, enalapril, allopurinol, terazosin",,"40, 20, 100, 5","mg, mg, mg, mg","1, 1, 2, 1","90, 90, 90, 90","0, 0, 0, 0"
+1710,"amlodipine, lisinopril",,"10, 40","mg, mg","1, 1","90, 90","0, 0"
+1711,amlodipine,,10,mg,1,90,0
+1712,"Trintellix, hydrocloroquin, calcium 600+D, gabapentine",,"20, 200, 400, 2700","mg, mg, unit, mg","1, 1, 2, 1","90, 90, 90, 90","0, 0, 0, 0"
+1713,"lisinopril, allopurinol, atorvastatin, clonazePam, xarelto, metformin",,"20, 300, 40, 0.5, 20, 500","mg, mg, mg, mg, mcg, mg","1, 1, 1, 2, 1, 2","90, 90, 90, 90, 90, 90","0.00, 0.00, 0.00, 0.0, 45.00, 0.00"
+1714,"levothyroxine, metoprolol hctz, Metoformin, Omeprozol",,"0.75, 125, 500, 40","mcg, mg, gram, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+1715,toprol,,25,mg,1,90,30
+1716,"crestor, lisinopril",,"20, 5","mg, mg","1, 1","90, 90","87.00, 15.00"
+1717,"BuPropion XL, Fluoxetine HCL, Crestor",,"150, 20, 25","mg, mg, mg","1, 1, 1","90, 90, 90","30, 20, 30"
+1718,losartan,,100,mg,1,90,0
+1719,januvia,,100,gram,1,90,133
+1720,"finesteride, naproxen",,"20, 500","mg, gram","1, 1","90, 90","00, 0"
+1721,"Dexilant, Simvastitin, Losartan Potassim",,"60, 040, 25","mg, mg, mg",".5, 1, 1","90, 90, 90","0, 0, 0"
+1722,"Advair Diskus, Fluticasone Prop, Levothyroxine, Simvastatin",,"1, 2, 1, 1","inhalation, inhalation, mg, mg","2, 2, 1, 1","90, 90, 90, 90","89, 0, 0, 0"
+1723,"Atorvastatin, Losartan, Eliquis, Hydrochlothiazide, Anastrozole, Metopolol XL",,"20, 25, 5, 12.5, 1, 50","mg, mg, mg, mg, mg, gram","1, 1, 2, .429, 1, 1","90, 90, 90, 90, 90, 90","5.00, 5.00, 300.00, 5.00, 100.00, 5.00"
+1724,Atorvastatin,,20,mg,1,90,0
+1725,pravastatin,,20,mg,1,90,0
+1726,"Progesterone, Liothyronine, Escitalopram",,"200, 5, 10","mg, mg, mg","1, 1, 1","90, 90, 90","1.00, 1.00, 1.00"
+1727,Sumatripin,,50,mg,1,90,35
+1728,"Lyrica, Pantoprazole",,"50, 40","mg, mg","2, 1","90, 90","131.00, 0"
+1729,Synthroid,,75,mcg,1,90,25
+1730,levothyroxine,,0.05,mg,1,90,500
+1731,lisinopril,,2,gram,1,90,1
+1732,bumetanide,,0.5,mg,2,90,0
+1733,"Sertraline, Estradiol, Atorvastatin, Diclofen Pot",,"50, 0.5, 20, 50","mg, mg, mg, mg","2, 1, 1, 2","90, 90, 90, 90","6.00, 35.18, 6.00, 36.00"
+1734,"singulair generic, paroxetine, lipitor generic, lisinopril-HCTZ, xaralto, clonidine-HCl",,"10, 10, 40, 10, 20, 0.15","mg, mg, mg, mg, mg, mg","1, 1, 1, 1, 1, 2","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 425, 0"
+1735,Humalog,,100,ml,1,90,100
+1737,"Pioglitazone, Glimepiride, Furosemide, Metformin, Lisinopril, atorvastatin, Potassium CL",,"15, 1, 20, 1000, 40, 20, 8","mg, mg, mg, mg, mg, mg, mg","2, 1, 1, 2, 1, 1, 1","90, 90, 90, 90, 90, 90, 90","0, 18.81, 5.10, 8.12, 8.37, 28.09, 17.51"
+1738,"Synthroid, Triamterine/HCTZ",,"112, 37.5","mcg, mg","1, 1","90, 90","96.00, 0"
+1739,"Warfarin, lisinopril, Gemfibrozil, Amiodorone, pravastatin",,"7.5, 5, 600, 200, 20","mg, mg, mg, mg, mg","1, 1, 2, 1, 1","90, 90, 90, 90, 90","3.00, 3.00, 9.00, 30.00, 9.00"
+1740,Sertraline,,50,mg,1,90,15.22
+1741,"Eliquis, Lisinopril-HCTZ, Hydralizine, Lipitor, Metformin, Tamsulosin, Procardia",,"5, 12.5, 50, 20, 500, 0.4, 60","mg, mg, mg, mg, mg, mg, mg","2, 2, 3, 1, 2, 2, 2","90, 90, 90, 90, 90, 90, 90","1, 1, 1, 1, 1, 1, 1"
+1742,Zyflo,,1200,mg,2,90,1
+1743,baclofen,,10,mg,1,90,1
+1744,Topmax,,75,mg,2,90,30
+1745,"Memantine HCL, Atorvastatin, Lisinopril",,"10, 10, 5","mg, mg, mg","2, 1, 1","90, 90, 90","1, 1, 1"
+1746,amlodipine,,2.5,mg,1,90,3
+1747,"simvastatin, trintellix, losartan potassium",,"40, 10, 50","mg, mg, mg","1, 1, 1","90, 90, 90","0, 300., 0"
+1748,"Lisinopril, Potatissium, Fenofibrate, Famotidine, Ibuprofen",,"5, 10, 160, 40, 800","mg, mcg, mg, mg, mg","1, 1, 1, 1, 3","90, 90, 90, 90, 90","0.00, 0.00, 0.00, 0.00, 0.00"
+1749,"escitalopram, gabapentin",,"10, 300","gram, mg","1, 3","90, 90","0, 0"
+1750,Lipitor,,20,mg,1,90,0
+1751,"EST ESTRGN METHTEST, THYROID",,"1.25, 60","mg, mg","1, 1","90, 90","5.00, 24.60"
+1752,"Levothyroxin, Forteo",,"50, 20","mcg, mcg","1, 1","90, 90","32.89, 3498.97"
+1753,"Zetia, Liptior, Tradjenta, Metoprolol, hydrochlorothiazide",,"10, 40, 5, 100, 25","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","20, 20, 150, 20, 4"
+1754,"Atorvastatin Tab, Ibuprofen",,"20, 400","mg, mg","1, 4","90, 90","6, 28"
+1755,"letrozole, vesicare, Uloric, hydrochlorothiaz, zetia",,"2.5, 10, 80, 25, 10","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+1756,"omeprazole, tamsulosin, zolpidem, advair, losartan",,"20, .4, 10, 50, 50","mg, mg, mg, mg, mg","1, 1, 1, 2, 1","90, 90, 90, 90, 90","0, 0, 1, 1, 0"
+1757,"Lisinopril, generic zoloft",,"5, 75","mg, mg","1, 1","90, 90","60, 60"
+1758,"Ropinirole, Simvastatin, Levothyroxine, Bupropion SMK, Ibuprofen",,"1, 20, .025, 150, 800","mg, mg, mg, mg, mg","2, 1, 1, 2, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 0"
+1759,Bupernorphine,,8,mg,2,90,10
+1760,Escitalopram,,10,mg,1,90,10
+1761,"Adderall, Phentermine, Alprazolam",,"20, 37.5, 2","mg, mg, mg","2, 1, 2","90, 90, 90","15, 5, 10"
+1762,see your records,,40,mg,2,90,0
+1763,Vyvanse,,20,mg,1,90,30
+1764,"Simvastatin tab, Gabapentin, Vesicare, Synthroid, Losartan  Potassium hCTZ, Diltazem cd, Diclofenac sod ec",,"20, 600, 5, 112, 100, 120, 75","mg, mg, mg, mcg, mg, mg, mg","1, 1, 1, 2, 1, 1, 1","90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0"
+1765,"Synthroid, Reclipsen",,"75, .15","mcg, mg","1, 1","90, 90","70.00, 0.00"
+1766,"Fenofibrate, Amlodipine, Metformin, Dantrolene, Atorvastatin, Zetia, Duloxetine, Oxybutyinin, Omeprazole, Symbicort",,"145, 5, 1000, 25, 80, 10, 60, 5, 60, 2","mg, mg, mg, mg, mg, mg, mg, mg, mg, inhalation","1, 2, 2, 3, 1, 1, 1, 1, 2, 2","90, 90, 90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0, 0, 0"
+1767,atorvastatin,,10,mg,1,90,8.75
+1768,Duloxetine,,60,mg,1,90,3
+1769,"metoprolol, Hydroxychloroquine, Alloputonal, Levothyroxine",,"97, 200, 100, 0.05","mg, mg, mg, mg","1, 2, 2, 1","90, 90, 90, 90","0, 0, 0, 0"
+1770,"levothyroxine, morphine, ibandronate, gabapentin",,"0.1, 30, 150, 600","mg, mg, mg, mg","1, 3, .0333, 1","90, 90, 90, 90","0, 47, 47, 6"
+1771,Dorzol/Timol,,3,mg,2,90,0
+1772,bullshit,,1,gram,1,90,50
+1773,irbesartan,,150,mg,1,90,7.5
+1774,lisinopril,,20,mg,1,90,8
+1775,"atorvastatin, escitalopram, levothyroxine, esomeprazol",,"10, 5, .05, 40","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+1776,AzaTHIOprine,,50,mg,2,90,0
+1777,Levoxyl,,0.01,mg,1,90,0
+1778,"levothyroxine, buspirone",,"25, 15","mcg, mg","1, 2","90, 90","0, 10"
+1779,"Glipizide, Carvedidol, Lisinopril, metformin",,"5, 3.125, 20, 500","mg, mg, mg, mg","3, 2, 2, 2","90, 90, 90, 90","35.62, 13.88, 35.03, 19.38"
+1780,"Levothyroxine, Atenolol, Fluoxetine, Cyclobenzaprine, Olopatadine Ophth",,"0.075, 25, 100, 10, 2","mg, mg, mg, mg, gram","1, 2, 1, 1, 1","90, 90, 90, 90, 90","0, 0, 0, 0, 96.00"
+1782,Reclipsen,,1,unit,1,90,0
+1783,"Gabapentin, Meloxicam, DULOXETINE",,"300, 15, 30","mg, mg, mg","2, 1, 2","90, 90, 90","0, 0, 141"
+1784,"Lisinprol, Escitalopram, Trazodone, lovastatin",,"40, 5, 50, 40","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+1785,"Simvastatin, Benazepril",,"40, 10","mg, mg","1, 1","90, 90","5.00, 5.00"
+1786,"metoprolol, simvastatin, amlodipine, levocetirizine",,"50, 20, 5, 5","mg, mg, mg, mg","1, 1, 1, 1","90, 90, 90, 90","0, 0, 0, 0"
+1787,Norgestimate and ethinyl estradiol tablets,,0.25,mg,1,90,0
+1788,"bystolic, zafirlukast, crestor, valsartan, metformin, januvia",,"10, 20, 10, 320, 500, 50","mg, mg, mg, mg, mg, mg","1, 2, 1, 1, 2, 1","90, 90, 90, 90, 90, 90","75.00, 15.00, 45.00, 15.00, 5.00, 15.00"
+1789,Predizone,,5,mg,1,90,0
+1790,Amlodipine,,10,mg,1,90,10
+1791,TRI-SPRINTEC,,35,mcg,1,90,0
+1792,"Valsartan/HCTZ Tab, Finasteride",,"160, 5","mg, mg","1, 1","90, 90","20.00, 20.00"
+144,"Ezetimibe, Valsartan/HCTZ, AmLODIPine, Metoprolol succ er, Omeprazole",29605,"10, 8012.5, 10, 50, 40","mg, mg, mg, mg, mg","1, 1, 1, 1, 1","90, 200, 90, 90, 90","80.00, 6.00, 6.00, 8.00, 8.00"
+22,"Clopidogrel, Rosovstatin, Carvedilol",11362,"75, 20, 6.25","mg, mg, mg",".714, 1, 1","30, 90, 180","0, 0, 0"
+167,"Spiriva, albuterol",99301,"18, 108","mcg, inhalation","1, 1","90, 1","0, 0"
+280,"Rousuvastatin, Losartan, Amlodipine, Levothyroxine, Tamsulosin, Trelegy Ellipta, ProAirDnFa",34292,"10, 50, 2.5, .75, .4, 100, 90","mg, mg, mg, mg, mg, mcg, mcg","1, 1, 1, 1, 1, 1, 1","90, 90, 90, 90, 90, 1, 1","0, 0, 0, 0, 0, 45, 45"
+214,"phentermine, buproprion xl, zolpidem, alprazolam, spironolactone, kelnor",8830,"30, 300, 10, 1, 75, 1","mg, mg, mg, mg, mg, unit","1, 1, 1, 3, 2, 1","90, 90, 90, 90, 90, 30","45, 20, 15, 15, 40, 0"
+655,"Lisinopril, Paroxetine, Omeprazole, Pravastain, Noreth/Ethin",53081,"40, 20, 40, 40, 1.5","mg, mg, mg, mg, mcg","1, 1.5, 1, 1, .5","90, 90, 90, 90, 30","14.34, 13.85, 13.19, 22.43, 69.48"
+264,Junel Fe,10005,20,mg,1,180,35
+650,"rasagiline, duopa, losartan, xarelto, isosorb mono, furosemide, escitalopram, carb/levo, tramadol",79072,"1, 4.63, 25, 20, 30, 20, 20, 250, 325","mg, mg, mg, mg, mg, mg, mg, mg, unit","1, .67, 1, 1, 1, 1, 1, 6, 1","90, 90, 90, 90, 90, 90, 90, 90, 90","1574.40, 0.00, 0.00, 960.26, 0.00, 45.00, 0.00, 3.35, 3.35"
+1274,"Lynsopril, Finasteraide",41011,"20, 5","mg, mg","1, 1","90, 180","0.00, 40.00"
+368,"SPIRIVA HandiHaler, ADVAIR DISKUS, Nortriptyline, Gabapentin, Sertraline, buPROPion XL, buPROPion XL, OMEPRAZOLE, Sumatriptan, PROAIR HFA AER",28658,"1, 250, 50, 300, 100, 150, 300, 40, 100, 90","inhalation, mcg, mg, mg, mg, mg, mg, mg, mg, mcg","1, 2, 1, 3, 2, 1, 1, 1, 1, 12","90, 90, 90, 90, 90, 90, 90, 90, 90, 1","620, 8, 30, 0, 3, 3, 3, 3, 3, 8"
+437,"metformin, Simvastatin, Lisinopril, metoprolol, Sertraline, Doneplzel, Plavix, Pioglitazone",76020,"500, 40, 2.5, 2.5, 100, 10, 70, 15","mg, mg, mg, mg, mg, mg, mg, mg","2, 1, 1, 2, 1.5, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0"
+1139,"Stelara, Metformin ER, Meloxicam, Glimepiride, Pioglitazone, Jardiance, Simvastatin, Sertraline, Lyrica, Pushbutton ER, Hyoscyamine, Dicyclomine",85225,"1, 750, 15, 2, 15, 10, 20, 10, 150, 5, 0.125, 10","unit, ml, ml, mg, mg, mg, mg, mg, mg, mg, mg, mg","1, 2, 1, 1, 1, 1, 1, 1.5, 3, 1, 1, 1","1, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90","1.00, 1.00, 1.00, 100, 1.00, 1.00, 1.00, 1.00, 1.00, 1.00, 10.00, 10.00"
+461,Xarelto,8053,15,mg,2,30,772.99
+463,Xarelto,8053,15,mg,2,30,772.99
+467,Novolog,7071,150,ml,1,90,31
+906,"Victoza, Humalog, Levemir, Furosemide, Meloxicam, Simvastatin, Lyrica, Refresh, Pro HFA, Triamcinolone Acetonide, Pen/Needle",30349,"1, 3, 2, 40, 7.5, 40, 75, 2, 2, 60, 31","unit, unit, unit, mg, mg, mg, mg, ounce, inhalation, ml, I.U.","1, 3, 2, 1, 1, 1, 2, 1, 4, 3, 6","90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"
+469,"Armour Thyroid, Bi-est, Progesterone",32137,"780, 4, 200","mg, mg, mg","6, 2, 1","90, 60, 60","0.00, 90.00, 120.00"
+833,"Liothyronnie, Liothyronine, Venlafaxine",89178,"25, 10, 75","mcg, mcg, mg","1, 1, 1","60, 60, 60","10.00, 10.00, 10.00"
+838,"Medformin, Tamsulosin, Montelukast, Atenolol, Amlodipine, Pravastatin, Lisinopril, Chlorthlidone, Allopurinol, Androgel, Breo Ellipta",78244,"1000, 0.4, 10, 50, 10, 40, 30, 50, 300, 2.5, 200","mg, mg, mg, mg, mg, mg, mg, mg, mg, gram, mg","2, 1, 1, 2, 1, 1, 2, 2, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 60","30.00, 30.00, 30.00, 30.00, 30.00, 30.00, 30.00, 30.00, 30.00, 30.00, 47.00"
+1557,"metroprolol, omeprazole, amiodarone, alprazolam, furosemide, warfarin, hydrochlorothiazide, klor-con m20, isosorbide mononitrate er, ferrous sulfate, proair hfa",75000,"25, 20, 200, .25, 20, 1, 12.5, 20, 30, 325, 90","mg, mg, mg, mg, mg, mg, mg, unit, mg, mg, mcg","1, 2, 1, 1, 1, 2, 1, 1, 1, 2, 6","90, 90, 45, 90, 90, 90, 90, 90, 90, 60, 1","12, 36, 12, 2.21, 12, 12, 12, 36, 32.11, 2.86, 57"
+1736,Mirtazapine,75000,7.5,mg,1,60,0
+553,"Imuran, Delzicol, Remicade",33467,"50, 400, 100","mg, mg, mg","2, 6, .0179","90, 90, 90","0, 0, 0"
+566,"Furisemide, Metropolol, Synthroid, Omperazole, Metformin, Atrivastin, Glimeparide, Gemfibrozil, Amiodarone, Clopidogrel, Zurampic",36456,"40, 50, 125, 20, 1000, 20, 2, 600, 200, 75, 200","mg, mg, mcg, mg, mg, mg, mg, mg, mg, mg, mg","2, 1, 1, 1, 2, 1, 2, 2, 1, 1, 1","90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 30","0, 0, 110.00, 0, 0, 0, 0, 0, 0, 0, 0"
+684,"Potassium Chloride, Warfarin, Gabapentin, Ranitidine, Novolog, Trazadone, Allopurinol, Metroprolol, Hydralzine, Paroxetine, Amlodipine, Lantus, Rosuvastatis, Baclofen, Bumetanide, Potassium Chloride, Magnesium Oxide",54143,"1, 1, 1, 1, 28, 1, 2, 1, 1, 1, 1, 30, 1, 2, 3, 1, 1","mg, mg, mg, mg, unit, mg, mg, mg, mg, mg, mg, unit, mg, mg, mg, mg, mg","1, 1, 1, 1, 3, 1, 2, 1, 3, 1, 1, 2, 1, 2, 2, 1, 1","90, 60, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90","20.00, 10.00, 1.58, 16.98, 100.00, 7.22, 10.00, 8.15, 10.21, 16.63, 13.90, 100.00, 5.44, 2.91, 25.00, 10, 10.00"
+700,"Tramadol, Amoxicillin, Vitamin D2, Oxycodone, Atorvastatin, Duloxetine, Losartan, Ropinirole, Potassium CL SR MC, Celecoxib, Levothyroxine, Furosemide, Ventolin, Flovent Hfa, Azithromycin, Lidocaine 5% Oin",85635,"50, 2000, 50000, 5, 20, 60, 50, 5, 20, 100, 0.075, 40, 90, 110, 250, 2","mg, mg, I.U., mg, mg, mg, mg, mg, mg, mg, mg, mg, mcg, mcg, mg, ml","4, 2, 2, 4, 1, 1, 1, 1, 2, 2, 1, 2, 1, 1, 1, 6, 1","15, 30, 30, 90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 30, 5, 90","6.36, 4.07, 4.07, 10.00, 9.00, 20.00, 20.00, 16.45, 20.00, 20.00, 8.00, 20.00, 60.00, 20.00, 7.13, 30.00"
+787,"simvastatin, tramadol",77482,"20, 50","mg, mg","1, 2","30, 60","6.15, 2.06"
+836,"PREZISTA, DESCOVY, MELOXICAM, ACYCLOVIR, LEVOTHYROXINE, fenofibrate, FLUOXETINE, ARIPIPRAZOLE, RITONAVIR, ASTELIN, TEMAZEPAM, SYRINGE 3CC/22GX1"" 3ML 22X 1"", TESTOSTERONE",92234,"800, 200, 7.5, 400, 0.5, 160, 40, 5, 100, 137, 30, 1, 200","mg, mg, mg, mg, mg, mg, mg, mg, mg, unit, mg, unit, mg","1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, .143, .143","90, 90, 90, 90, 90, 90, 90, 90, 90, 2, 90, 90, 90","0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"
+888,"olmesartan medoxomil, chlordalidine",12758,"40, 25","mg, mg","1, .5","90, 90","0, 0"
+888,"olmesartan medoxomil, chlordalidine",12758,"40, 25","mg, mg","1, .5","90, 90","0, 0"
+904,"Levothyroxine, Losartan/HCTZ, Metoprolol Succ, Pantoprazole SOD DR TABS, Atorvastatin Tabs, Breo, Clonazepam, Proair HFA INH",63052,"75, 50, 100, 40, 10, 100, .5, 8.5","mcg, mg, mg, mg, mg, mcg, mg, gram","1, 1, 1, 2, 1, 1, 1, 1","90, 90, 90, 90, 90, 1, 90, 90","0, 0, 0, 0, 0, 0, 0, 0"
+1050,"CYLOBENZAPRINE, LISINOPRIL",54539,"1, 1","unit, unit","3, 1","10, 90","4.00, 0"
+1078,"simvastatin, Omeprazole, Hydroxzyzine, Naproxen, Alendronate, Estradiol vaginal cream",96022,"10, 40, 25, 500, 70, .50","mg, mg, mg, mg, mg, gram","1, 1, 1, 2, .143, .143","90, 90, 90, 90, 90, 30","0, 0, 0, 0, 0, 0"
+1781,lasinapril,75000,1,mg,1,30,789
+1186,Rosuvastatin,90210,25,mg,0.5,45,20
+1227,"levothyroxine, lexapro",8831,"0.112, 5","mg, mg","1, 1","103, 90","00, 00"
+1286,"Simvastatin, Bisoprolol/HCTZ, Pantoprazo SOD DR, Tamsulosin",28792,"20, 6, 40, 4","mg, mg, mg, mg","1, 1, 2, 1","90, 90, 60, 90","4, 4, 4, 4"
+1316,"Gabapentin, Buspirone, Cyclobenzaprine, Venlafaxine, Trazadone, Mirtazapine, Promethazine",74857,"800, 15, 10, 300, 300, 15, 25","mg, mg, mg, mg, mg, mg, mg","3, 2, 2, 1, 1, 1, 1","90, 90, 90, 90, 90, 90, 30","0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 14.00"
+1385,"bystolic, praluent, olmesartan medoxom, pantoprazole, amlodipine besylat",11204,"5, 150, 20, 40, 5","mg, mg, mg, mg, mg","1, .0667, 1, 1, 1","90, 30, 90, 90, 90","0, 0, 0, 0, 0"
+1594,"Uloric, Mitigare",75000,"40, 0.6","mg, mg","1, 2","90, 180","187.50, 87.50"
+1589,"Finesterride, Omeprazole, Fluoxetine, Simvastastin, Tamsulosin, Ibuprofen",75000,"5, 20, 20, 80, 0.4, 800","mg, mg, mg, mg, mg, mg","1,1.5, 1, 1, 1, 6","90, 90, 90, 90, 90, 90","0, 0, 0, 0, 0, 0"

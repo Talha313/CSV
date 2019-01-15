@@ -72,17 +72,18 @@ def update(conn,new_values):
 
 def main():
   try:
-    url = ("https://www.sotostore.com/en/6/footwear?orderBy=Published")
-    getCntent(url)
-    conn = pymysql.connect(host='127.0.0.1', user='talha', passwd='a', db='pythondb')
+   # url = ("https://www.sotostore.com/en/6/footwear?orderBy=Published")
+    #getCntent(url)
+    conn =  pymysql.connect(host='127.0.0.1', user='talha', passwd='a', db='pythondb')
+    print(conn)
     #create_table(conn)
   # for item in item_list:
   #   values = (item['product_page'], item['img'], item['brand'], item['title'], item['active_price'], item['original_price'])
 #     insert_into_table(conn, values)
     #select(conn)
-    product1='https://www.sotostore.com/en/product/17299/react-element-55'
-    update(conn, ('GulAhmad','Jacket',product1))
-    select(conn)
+    #product1='https://www.sotostore.com/en/product/17299/react-element-55'
+    #update(conn, ('GulAhmad','Jacket',product1))
+    #select(conn)
   except:
     print("Error in main")
   finally:
